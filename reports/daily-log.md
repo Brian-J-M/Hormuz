@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~3 (approximate) |
+| vs prior day | flat (0, 0%) — all figures approximate |
+| 7-day average | 2.5 vessels/day (based on 2 days) |
+
+Secondary:
+- LNG: 1 vessel (*Al Daayen* — first Qatar LNG export since war began Feb 28; *Rasheeda* attempted but turned back)
+- Fertilizer: 0 vessels (Iran's Mar 27 agreement to allow fertilizer transits has yet to yield confirmed AIS-visible shipments)
+- Agricultural (inbound): 0 vessels (no AIS-visible inbound dry-bulk agricultural movement confirmed)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 again; figures derived from Bloomberg, gCaptain, LNG Prime, House of Saud, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: Ocean Thunder (Suezmax, ~1M bbl Basrah Heavy, chartered by Petronas/Petco) confirmed transit Sunday Apr 5 via IRGC Larak Island corridor — first Iraq-flagged crude tanker since Iraq exemption announced Apr 4. Apr 6 estimate of ~3 crude vessels extrapolated from weekly pace of 53 total transits in the week ending ~Apr 4 (highest since war began) at ~7.6 total ships/day; crude comprises roughly 35–45% of laden transits.
+- **LNG milestone**: *Al Daayen* (149,613 m³ Qatar LNG, bound for China) confirmed transit through the strait on Apr 6 — the first laden Qatari LNG cargo to exit since the conflict began. Passage reportedly brokered by Beijing, paid ~$2M to IRGC intermediaries on Kish Island in Chinese yuan via Kunlun Bank. *Rasheeda* (similar cargo, also loaded at Ras Laffan late Feb) began the approach but slowed and pulled back — transit not completed.
+- **Weekly transit record**: Bloomberg Hormuz Tracker reported Apr 4 that seven-day rolling average reached highest point since war began; 13 ships crossed in ~24–48 hrs around Apr 4–5 (10 outbound, 3 inbound). Shadow fleet vessels account for 88% of all transits, up from 83% the prior week.
+- **IRGC toll corridor**: Formalized fee schedule — ~$2M flat fee for LNG carriers, ~$1/barrel for crude tankers — payable in yuan or stablecoins via Kunlun Bank or IRGC Kish Island intermediaries. OFAC/EU/UK sanctions exposure remains a significant deterrent for Western operators.
+- **Fertilizer/food crisis**: Iran's Mar 27 agreement to allow fertilizer shipments has not yet produced confirmed AIS-visible transits. Gulf region produces ~50% of world urea and ~30% of ammonia; urea prices up ~50% to ~$700/MT since war began. UN diplomacy ongoing.
+- **Seizure/stranding context**: ~20,000 civilian seafarers remain stranded; 21+ commercial vessel attacks confirmed since Feb 28.
+- **Sources**: [Bloomberg Apr 5 — Ocean Thunder Iraqi crude](https://www.bloomberg.com/news/articles/2026-04-05/oil-tanker-carrying-iraqi-cargo-seen-transiting-strait-of-hormuz) · [Bloomberg Apr 6 — Qatar LNG Al Daayen/Rasheeda](https://www.bloomberg.com/news/articles/2026-04-06/ships-with-qatar-lng-attempt-first-hormuz-exit-since-war-started) · [House of Saud — Al Daayen transit detail](https://houseofsaud.com/al-daayen-hormuz-transit-china/) · [Bloomberg Apr 4 — Weekly transits highest since war](https://www.bloomberg.com/news/articles/2026-04-04/hormuz-tracker-weekly-transits-reach-highest-since-war-began) · [LNG Prime — carrier duo attempt](https://lngprime.com/middle-east/lng-carrier-duo-attempt-to-cross-hormuz/182413/) · [gCaptain — Iraqi crude tanker](https://gcaptain.com/tanker-loaded-with-iraqi-crude-passes-through-hormuz/) · [alfassel — fertilizer shortage Apr 5](https://alfasselnews.com/en_GB/articles/gc1/features/2026/04/05/feature-01/Hormuz-blockade-sparks-global-fertilizer-shortages,-higher-food-prices)
+
+---
+
 ## 2026-04-05
 
 | Metric | Value |
