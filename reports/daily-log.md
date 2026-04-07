@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | -1 (-33%) — all figures approximate |
+| 7-day average | 2.7 vessels/day (based on 3 days) |
+
+Secondary:
+- LNG: 0 vessels (*Al Daayen* aborted transit, returned to Ras Laffan; *Rasheeda* standing by for orders — no laden LNG exits confirmed)
+- Fertilizer: 0 vessels (no AIS-visible fertilizer transits despite Iran's Mar 27 agreement)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, StoneX, Al Jazeera, NBC News, Windward AI, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Trump ultimatum expires tonight**: Trump set a hard deadline of 8:00 PM on April 7 for Iran to reopen the Strait of Hormuz or face escalation including strikes on Iranian power plants. Iran formally rejected the ultimatum, stating it would only resume full operations after war damage is compensated. The expiry created a significant chilling effect on transit activity throughout the day as ship operators adopted a wait-and-see posture.
+- **Crude estimate basis**: StoneX/Bloomberg data showed Sunday Apr 6 had 7 total transits including 2 oil tankers and 2 oil products tankers. Estimate of ~2 crude vessels for Apr 7 reflects a pullback from Apr 6 pace due to ultimatum-related uncertainty — operators holding vessels pending resolution of the diplomatic standoff. Traffic remains ~95% below pre-conflict baseline.
+- **LNG regression**: *Al Daayen* (Qatar LNG, 149,613 m³, bound for China) aborted its Apr 6 transit attempt and reversed course toward Ras Laffan; *Rasheeda* (similar cargo) signaled "waiting for orders." Both vessels had initially been understood to have transited on Apr 6 but latest tracking data shows neither completed the passage. The Apr 6 LNG milestone reported yesterday is now uncertain/revised.
+- **Escalation risk**: Iran's rejection of Trump's ultimatum raises the risk of renewed US military strikes and further transit closures. Shadow fleet vessels (88% of all transits) may face additional restrictions if IRGC shifts posture in response.
+- **Windward Apr 5 context**: 11 vessels transited Apr 5 (3 inbound, 8 outbound); Gulf-wide foreign-flag vessel count at 596 with 267 dark-activity events. Iraqi-flag exemption (announced Apr 4) still the primary driver of crude transits.
+- **Fertilizer crisis deepening**: Urea prices reached $826/MT (up 35% in one month from ~$677/MT; up ~70%+ from pre-war $400–490/MT). Peak spring planting season beginning — UN warns of downstream food-supply impact in H2 2026.
+- **Sources**: [Bloomberg Apr 6 — Iran rejects Hormuz ultimatum](https://www.bloomberg.com/news/articles/2026-04-06/iran-rejects-ceasefire-before-trump-ultimatum-expires-on-hormuz) · [Al Jazeera Apr 6 — Trump deadline final](https://www.aljazeera.com/news/2026/4/6/trump-warns-deadline-final-as-iran-pushes-proposal-to-end-war) · [NBC News Apr 7 — Trump threatens Iran energy](https://www.nbcnews.com/world/iran/ahead-latest-strait-hormuz-deadline-trump-threatens-irans-energy-rcna266770) · [Bloomberg Apr 6 — Qatar LNG abort](https://www.bloomberg.com/news/articles/2026-04-06/qatar-lng-vessels-u-turn-after-attempt-to-pass-through-hormuz) · [StoneX — Questionable Improvement in Strait of Hormuz](https://www.stonex.com/en/insights/questionable-improvement-in-strait-of-hormuz/) · [Windward AI Apr 6 daily](https://windward.ai/blog/april-6-maritime-intelligence-daily/) · [YourNews Apr 7 — fertilizer prices](https://yournews.com/2026/04/07/6767095/fertilizer-prices-surge-in-peak-planting-season-as-strait-disruptions/)
+
+---
+
 ## 2026-04-06
 
 | Metric | Value |
