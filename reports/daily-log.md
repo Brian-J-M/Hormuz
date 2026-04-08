@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~5 (approximate) |
+| vs prior day | +3 (+150%) — all figures approximate |
+| 7-day average | 3.0 vessels/day (based on 5 days) |
+
+Secondary:
+- LNG: 0 confirmed (ceasefire clears path; *Al Daayen* & *Rasheeda* standing by Ras Laffan — transit possible by day's end but unconfirmed at time of writing)
+- Fertilizer: 0 vessels (no AIS-visible fertilizer transits; Iran's franchise model persists despite ceasefire)
+- Agricultural (inbound): 0 confirmed (Greek bulk carrier *NJ Earth* transiting outbound; no confirmed inbound dry-bulk grain movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from House of Saud, Seatrade Maritime, Bloomberg, Insurance Journal/gCaptain, Axios, CBS News, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **CEASEFIRE DAY ONE — major inflection point**: A US-Iran two-week ceasefire was agreed ~22:00 GMT on April 7 (barely 1 hour before Trump's 8 PM ET deadline to attack Iranian power plants and "a whole civilization"). Iran's Supreme National Security Council accepted the deal; Trump announced a "COMPLETE, IMMEDIATE, and SAFE OPENING" of Hormuz. Iran's language is more cautious: "safe passage in coordination with Iranian armed forces and within technical limitations." This is the biggest Hormuz de-escalation since the war began Feb 28.
+- **15 total ships on ceasefire day one**: Iran allowed 15 vessels through Hormuz on April 8 — the highest single-day count since the conflict began and a large jump from ~11 on April 6 and ~2-3 on April 7 (the low point). First identified vessels: *Tour 2* (US-sanctioned Suezmax, Iranian-flagged, likely crude) and *NJ Earth* (Greek-owned bulk carrier), both making for the IRGC Larak Island corridor early on April 8. Crude estimate of ~5 vessels derived from ~35% crude composition of the 15 total transits.
+- **Ceasefire has significant strings attached**: Iran retains IRGC franchise corridor control; toll structure remains (Iran framing fees as "war reconstruction revenue"); "technical limitations" language leaves IRGC broad discretion. Patrick De Haan (GasBuddy): "The ceasefire hasn't really clarified anything when it comes to the Strait." Two-week window opens negotiations in Islamabad starting Friday Apr 10.
+- **800+ vessels still trapped**: 426 crude/refined-fuel tankers, 34 LPG carriers, and 19 LNG carriers remain inside the Gulf as of April 8 (Bloomberg/Kpler). VLCCs repositioning from SE Asia face ~4-week voyage to Gulf — earliest new loadings possible in early May. Insurance for war-risk coverage still not reestablished.
+- **LNG status**: Bloomberg confirmed as of early April 8 that no loaded LNG carrier has made it through the strait since war began. *Al Daayen* and *Rasheeda* (Qatar LNG, ~149,600 m³ each, both loaded at Ras Laffan late Feb) remain at anchor near Ras Laffan. Ceasefire could enable transit on Apr 8-9 if QatarEnergy and IRGC coordinate clearances. JKM spot LNG prices hit $19.97/MMBtu during crisis.
+- **Oil price collapse on ceasefire**: WTI -16% to ~$95/bbl; Brent -14% to ~$93.8/bbl — the steepest single-day crude decline since January 17, 1991. Market pricing in full Hormuz reopening despite transit reality still far below pre-war baseline (~138 ships/day).
+- **Fertilizer / food**: Urea prices remain at ~$826/MT (up ~70% from pre-war ~$490/MT). No fertilizer transits yet despite Iran's March 27 agreement. Spring planting season in full swing — UN warning of downstream H2 2026 food impact.
+- **Sources**: [House of Saud — Ceasefire Day One 15 Ships](https://houseofsaud.com/hormuz-ceasefire-transit-15-ships/) · [Seatrade Maritime — Iran allows 15 ships](https://www.seatrade-maritime.com/security/iran-allows-15-ships-through-strait-of-hormuz) · [Bloomberg Apr 8 — Shipowners eye ceasefire](https://www.bloomberg.com/news/articles/2026-04-08/shipowners-eye-hormuz-ceasefire-window-for-800-trapped-vessels) · [Insurance Journal/gCaptain — 800 vessels trapped](https://www.insurancejournal.com/news/international/2026/04/08/864926.htm) · [Axios Apr 8 — Large-scale shipping won't resume quickly](https://www.axios.com/2026/04/08/iran-ceasefire-oil-shipping-impact-prices) · [CBS Live Updates — US-Iran ceasefire](https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/) · [Al Jazeera Apr 8 — Ceasefire terms](https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next) · [CNBC Apr 7 — Ceasefire announced](https://www.cnbc.com/2026/04/07/trump-iran-ceasefire-hormuz-strait.html) · [CNN Business — Oil prices drop](https://edition.cnn.com/2026/04/07/markets/us-stocks-oil-trump-iran-ceasefire)
+
+---
+
 ## 2026-04-07
 
 | Metric | Value |
