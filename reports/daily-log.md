@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-09
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~3 (approximate) |
+| vs prior day | -2 (-40%) — all figures approximate |
+| 7-day average | 3.0 vessels/day (based on 5 days) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed LNG transit; *Al Daayen* & *Rasheeda* status uncertain — still at or near Ras Laffan)
+- Fertilizer: 0 vessels (no AIS-visible fertilizer transits despite Iran's Mar 27 agreement)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Rigzone (09-Apr-2026), Bloomberg, CNBC, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Ceasefire Day 2 — cautious positioning**: Two fully laden Chinese VLCCs — *Cospearl Lake* (Cosco Shipping Corp.) and *He Rong Hai* — advanced toward the strait at near-top speed early on April 9 but came to a virtual halt before crossing, according to ship-tracking data. China testing but not yet committing to transit under ceasefire terms.
+- **Crude estimate basis**: Estimate of ~3 vessels extrapolated from ceasefire Day 1 (Apr 8: ~5 per IRGC corridor/Seatrade data) with a downward adjustment for Day 2 hesitancy. Bloomberg simultaneously reported only 3 total ships leaving the region on Apr 8 (vs 15 per Seatrade) — the discrepancy reflects different data windows; both indicate traffic far below pre-crisis norms. Crude fraction assumed ~35–45% of total transits.
+- **Iran's transit conditions unchanged**: Iran issued radio warnings April 8 that all transits still require explicit IRGC permission. Iranian media designated specific approach routes circumventing Larak Island. The ceasefire has not yet produced an automatic reopening — vessels must still apply individually.
+- **800+ vessels remain trapped**: 426 crude/refined-fuel tankers, 34 LPG carriers, and 19 LNG ships remain inside the Gulf (Bloomberg/Kpler). Earliest new loadings for repositioning VLCCs ~early May. War-risk insurance not yet reestablished.
+- **LNG**: No confirmed LNG tanker transit. *Al Daayen* and *Rasheeda* (Qatar LNG, ~149,600 m³ each) remain at/near Ras Laffan. Whether ceasefire unlocks IRGC clearance for QatarEnergy vessels is unresolved.
+- **Oil market**: Brent crude rebounding from ceasefire-euphoria low of ~$93.8/bbl toward ~$97 as market digests that Hormuz reopening is not imminent.
+- **Fertilizer / food**: Urea ~$826/MT (up ~70% from pre-war ~$490/MT). Spring planting season in full swing. No fertilizer transits detected.
+- **Islamabad talks starting Apr 10**: Two-week ceasefire window opens formal nuclear/war-termination negotiations in Islamabad beginning Friday — key near-term catalyst for transit trajectory.
+- **Sources**: [Rigzone Apr 9 — China VLCCs test Hormuz](https://www.rigzone.com/news/wire/china_oil_tankers_join_line_testing_hormuz_and_iran_truce-09-apr-2026-183410-article/) · [Bloomberg Apr 8 — Hormuz stays blocked](https://www.bloomberg.com/news/articles/2026-04-08/hormuz-stays-blocked-for-now-as-hundreds-of-ships-seek-escape) · [Bloomberg Apr 8 — 800 vessels trapped](https://www.bloomberg.com/news/articles/2026-04-08/shipowners-eye-hormuz-ceasefire-window-for-800-trapped-vessels) · [CNBC Apr 8 — Trump wants Hormuz open](https://www.cnbc.com/2026/04/08/trump-iran-ceasefire-strait-of-hormuz-toll.html) · [Axios Apr 8 — Large-scale shipping won't resume quickly](https://www.axios.com/2026/04/08/iran-ceasefire-oil-shipping-impact-prices)
+
+---
+
 ## 2026-04-08
 
 | Metric | Value |
