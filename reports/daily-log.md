@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-11
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~4 (approximate) |
+| vs prior day | +1 (+33%) vs Apr 9 entry — no Apr 10 log entry; all figures approximate |
+| 7-day average | 3.1 vessels/day (based on 7 data points over 8 days: Apr 4–11, no Apr 10 entry) |
+
+Secondary:
+- LNG: 0 vessels (Kpler confirms total since Feb 28 = 1 laden transit; 19 LNG carriers remain stranded in Gulf)
+- Fertilizer: 0 vessels today (Kpler: 6 total transits since Feb 28; 40 fertilizer-laden vessels on standby in Gulf)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Korea Times (Apr 11), Daily Sabah, StoneX, Windward AI, Kpler, Bloomberg, and CNBC. All vessel counts should be treated as approximate.
+- **Weekend rebound — still deeply suppressed**: 21 ships transited over the Apr 11–12 weekend (10 Saturday, 11 Sunday) — the highest two-day total since early March. Daily Sabah/StoneX describe this as a "rebound," but traffic remains ~90% below the pre-crisis baseline of ~138 vessels/day. ADNOC CEO publicly confirmed the strait "is still not open."
+- **Crude estimate basis**: 10 total ships transited on Saturday Apr 11 (first day of the weekend rebound). Crude fraction estimated at ~35–45% of laden transits, consistent with prior days' patterns, yielding ~4 crude vessels. April 10 data not found in any source reviewed; no Apr 10 log entry exists — gap in record.
+- **IRGC toll corridor still operational**: Iran continues to require explicit IRGC clearance and charges tolls exceeding $1M per vessel (yuan/stablecoins via Kunlun Bank). Western operators face compounding OFAC/EU/UK sanctions exposure. The ceasefire has not produced an automatic reopening.
+- **Islamabad talks under way**: Two-week ceasefire opened formal Iran-US nuclear/war-termination negotiations in Islamabad beginning April 10 — the primary near-term catalyst for transit normalization. No breakthrough yet.
+- **LNG**: Kpler confirms only 1 LNG carrier (the empty Sohar LNG, April 2) has crossed the strait since the war began. 19 LNG vessels remain stranded in the Persian Gulf. No new LNG transit on April 11.
+- **Fertilizer / food**: 6 fertilizer vessels total have crossed since Feb 28 (Kpler). 40 fertilizer-laden vessels remain on standby in the Gulf (Kpler). Fertilizer trade collapse estimated at 98% (Asian Development Bank). Urea ~$826/MT (up ~70% from pre-war ~$490/MT). Spring planting season in full swing.
+- **Stranded vessels**: ~426 crude/refined-fuel tankers, 34 LPG carriers, and 19 LNG carriers remain inside the Gulf. ~3,200 vessels stranded west of Hormuz. ~20,000 civilian seafarers still affected.
+- **Prognosis**: CNBC (Apr 9) cites experts estimating "weeks, if not months" to normalize; maximum throughput ~10–15 passages/day if ceasefire holds and tolls are resolved — still far below the ~138/day baseline.
+- **Brent crude**: ~$97/bbl (rebounding from ceasefire-euphoria low of ~$93.8/bbl as market digests that Hormuz reopening is not imminent).
+- **Sources**: [Korea Times Apr 11 — Facts about Hormuz since ceasefire](https://www.koreatimes.co.kr/world/20260411/facts-about-strait-of-hormuz-since-ceasefire) · [Daily Sabah — Ship traffic rebounds](https://www.dailysabah.com/business/transportation/ship-traffic-through-strait-of-hormuz-rebounds-amid-iran-war-tensions/amp) · [CNBC Apr 9 — Tankers return but disruption to last weeks](https://www.cnbc.com/2026/04/09/tankers-return-to-hormuz-ceasefire-disruption-to-last-weeks.html) · [Windward AI — Hormuz after ceasefire: a controlled system, not a recovery](https://windward.ai/blog/hormuz-after-the-ceasefire/) · [Bloomberg Apr 8 — 800 vessels trapped](https://www.bloomberg.com/news/articles/2026-04-08/shipowners-eye-hormuz-ceasefire-window-for-800-trapped-vessels) · [FinancialContent Apr 7 — Fertilizer trade collapses 98%](https://markets.financialcontent.com/stocks/article/marketminute-2026-4-7-the-hormuz-chokepoint-global-fertilizer-trade-collapses-by-98-as-conflict-paralyzes-the-gulf)
+
+---
+
 ## 2026-04-09
 
 | Metric | Value |
