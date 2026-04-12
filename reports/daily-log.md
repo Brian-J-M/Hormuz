@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-12
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~3 (approximate) |
+| vs prior day | -1 (-25%) vs Apr 11 (~4) — all figures approximate |
+| 7-day average | 3.1 vessels/day (based on 7 entries: Apr 4–11) |
+
+Secondary:
+- LNG: 0 vessels (no new LNG transit since *Sohar LNG* Apr 2–3; 19 carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (Clarksons confirms near-total export collapse continues; ~6 total transits since Feb 28)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, Fortune, ZeroHedge, Al Jazeera, CBS News, and open-source maritime tracking. All vessel counts should be treated as approximate.
+- **Three oil supertankers — biggest crude exit since war began**: *Cospearl Lake* (Chinese VLCC, Iraqi crude), *He Rong Hai* (Chinese VLCC, Saudi crude), and *Serifos* (Greek, Saudi crude) transited the Strait over the Apr 11–12 weekend — ~6 million barrels combined, the largest single-event crude exit since the conflict began Feb 28. All three followed the IRGC's mandatory northerly route via Qeshm/Larak Island corridor. Bloomberg published on April 11 (Saturday); ZeroHedge/ChinaPulse reported April 12 (Sunday), suggesting the crossings spanned the weekend with some confirmed Sunday. Sunday (today) crude estimate of ~3 vessels reflects these vessels as the primary component of the 11 total ships transiting on April 12.
+- **Weekend rebound: 21 total ships over Apr 11–12** (10 Saturday + 11 Sunday) — highest 2-day total since early March, yet still ~90% below the pre-war baseline of ~138 vessels/day.
+- **Islamabad talks stall — no deal**: JD Vance reported no agreement after ~21 hours of US-Iran-Pakistan trilateral talks, saying "The bad news is that we have not reached an agreement." Talks described as "intense and constructive" but unresolved. This is the key near-term catalyst for any transit normalization; failure extends deep-suppression conditions.
+- **US Navy mine-clearing staging**: USS Frank E. Peterson and USS Michael Murphy transited the Strait of Hormuz on Saturday April 11, laying groundwork for mine-clearing operations in the Arabian Gulf. Operational mine-clearing would be a necessary precondition for full commercial reopening.
+- **Clarksons Research (week ending ~Apr 11)**: 10 crude tankers transited, carrying ~17 million barrels (~$2B value). Down from 13 the prior week. Normal week: ~135 crude tankers, ~105 million barrels.
+- **600+ vessels still stranded**: 230+ loaded oil tankers inside the Gulf; 600+ total vessels in the region awaiting safe passage (Lloyd's List). War-risk insurance not yet reestablished for Western operators. ~20,000 seafarers affected.
+- **CNN analysis (Apr 12)**: "Why reopening the Strait of Hormuz won't be enough to solve shipping woes and high oil prices" — structural barriers outlined: insurance gap, VLCC repositioning lag (~4 weeks for SE Asia fleet), IRGC toll/franchise system, port congestion.
+- **LNG**: No new LNG transit. 19 LNG carriers remain stranded inside the Gulf (Kpler). Only 1 laden LNG transit since Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Clarksons confirms near-zero exports continue. ~6 fertilizer vessels crossed since Feb 28. Urea ~$826/MT (up ~70% from pre-war ~$490). Spring planting season in full swing; UN warning on H2 2026 food supply impact.
+- **Brent crude**: ~$96.50/bbl (futures, Apr 11 close). Goldman Sachs warns Brent remains above $100 throughout 2026 if disruptions persist.
+- **Sources**: [Bloomberg Apr 11 — Three oil supertankers](https://www.bloomberg.com/news/articles/2026-04-11/three-oil-supertankers-appear-to-make-move-through-hormuz-strait) · [Fortune Apr 11 — Supertankers cross Hormuz](https://fortune.com/2026/04/11/oil-supertankers-strait-of-hormuz-crossing-ceasefire-talks-pakistan/) · [Al Jazeera Apr 12 — Oil tankers exit amid fragile ceasefire](https://www.aljazeera.com/economy/2026/4/12/oil-tankers-exit-strait-of-hormuz-amid-fragile-us-iran-ceasefire) · [CBS News — Vance: no deal after 21 hours](https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/) · [Fortune Apr 11 — US Navy destroyers transit Hormuz](https://fortune.com/2026/04/11/us-navy-ships-strait-of-hormuz-crossing-ceasefire-talks-pakistan/) · [IBTimes — 9 ships April 10](https://www.ibtimes.com.au/strait-hormuz-traffic-near-standstill-despite-us-iran-ceasefire-only-9-ships-transit-april-10-1866033) · [Ship & Bunker — 10 tankers past week](https://shipandbunker.com/news/world/545313-10-tankers-transited-hormuz-strait-over-the-past-week) · [CNN Apr 12 — Reopening won't be enough](https://www.cnn.com/2026/04/12/business/strait-hormuz-oil-exports)
+
+---
+
 ## 2026-04-11
 
 | Metric | Value |
