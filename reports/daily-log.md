@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-13
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | -2 (-67%) vs Apr 12 (~3) — all figures approximate |
+| 7-day average | 3.3 vessels/day (based on 7 days: Apr 5–12, excl. Apr 10 gap) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new LNG transit)
+- Fertilizer: 0 vessels (near-total export collapse continues)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, Seatrade Maritime, Fortune, CNBC, CBC, The National News, and open-source maritime tracking. All vessel counts should be treated as approximate.
+- **MAJOR ESCALATION — US Naval Blockade effective today**: Trump announced a US Navy blockade of all maritime traffic entering and exiting Iranian ports, effective Monday April 13 at 10:00 AM ET, after Islamabad peace talks collapsed without a deal. Iran refused to provide an "affirmative commitment" that it will not seek nuclear weapons. JD Vance: "we have not reached an agreement." This is a dual-blockade scenario: IRGC controls outbound transit, US Navy blockades Iranian port access.
+- **Crude estimate basis**: Four tankers attempted transit on April 13 morning (pre-blockade window): *New Future* (no clear Iran links, medium-range tanker) and *Aurora* (US-sanctioned) moved northeast via IRGC Larak Island corridor; Pakistan-flagged Aframax *Shalamar* and 74,000 DWT *Khairpur* attempted then aborted, circling near the strait entrance. Outcome of New Future and Aurora transits unconfirmed at time of writing. Estimate of ~1 crude vessel reflects extreme chilling effect post-10 AM ET blockade announcement — most operators halt further attempts.
+- **US blockade scope**: US CENTCOM stated the blockade targets ships entering/exiting Iranian ports (not all strait traffic per se), but combined with the IRGC's mandatory IRGC-clearance requirement for eastbound transits, the practical effect is near-total shutdown. First dual-blockade scenario of the crisis.
+- **Kpler (cumulative Apr 8–12)**: Only 2 oil or gas tankers confirmed transiting the strait since the ceasefire was announced on April 8 — a strikingly low figure that implies some of the Apr 11–12 weekend "rebound" (11 ships on Apr 12) may not have been fully confirmed crude transits, or that Kpler's methodology differs from the AIS/ship-tracking estimates in prior log entries.
+- **Oil prices surge past $100**: Brent crude +7–8% to ~$102–103/bbl Monday morning — first close above $100 since the ceasefire euphoria low of $93.8 on April 8. WTI +8.7% to ~$104.97/bbl. Goldman Sachs warning of sustained >$100 oil now materializing.
+- **LNG**: No new LNG transit. 19 LNG carriers remain stranded in the Persian Gulf (Kpler). JKM spot LNG prices remain elevated. European LNG exposure: Qatar provides 12–14% of Europe's LNG supply.
+- **Fertilizer**: Fertilizer exports near zero continue. Urea prices remain ~$826/MT (+70% vs pre-war ~$490/MT). Spring planting season in full swing; UN warns of H2 2026 food supply impact.
+- **Stranded vessels**: 400+ tankers, 34 LPG carriers, 19 LNG carriers inside the Gulf; 600+ total vessels in the region. ~20,000 seafarers affected.
+- **Sources**: [Bloomberg Apr 13 — Three Tankers Attempt Hormuz](https://www.bloomberg.com/news/articles/2026-04-13/two-oil-tankers-attempt-hormuz-exit-after-us-announces-blockade) · [Seatrade Maritime — Three Gulf-bound tankers abort](https://www.seatrade-maritime.com/tankers/three-gulf-bound-tankers-abort-strait-of-hormuz-transits) · [Fortune Apr 12 — Tankers U-turn](https://fortune.com/2026/04/12/oil-tankers-u-turn-strait-of-hormuz-us-iran-talks-ceasefire/) · [CNBC Apr 12 — Oil prices surge, blockade](https://www.cnbc.com/2026/04/12/oil-prices-iran-war-strait-hormuz-blockade.html) · [Axios Apr 12 — Trump blockade announcement](https://www.axios.com/2026/04/12/trump-naval-blockade-iran-strait-hormuz-peace-talks) · [CBC — US CENTCOM blockade Monday 10 AM](https://www.cbc.ca/news/world/livestory/trump-vows-to-blockade-strait-of-hormuz-9.7160908) · [The National News Apr 13 — Oil surges as talks fail](https://www.thenationalnews.com/business/energy/2026/04/13/oil-surges-as-us-iran-talks-fail-and-trump-announces-strait-of-hormuz-blockade/) · [CNN Apr 13 live blog — Iran-US war, Hormuz](https://www.cnn.com/2026/04/13/world/live-news/iran-us-war-trump-hormuz) · [Military Times — US Navy blockade](https://www.militarytimes.com/news/pentagon-congress/2026/04/12/us-navy-to-blockade-strait-of-hormuz-effective-immediately-trump-says/)
+
+---
+
 ## 2026-04-12
 
 | Metric | Value |
