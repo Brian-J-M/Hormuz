@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | +1 (+100%) vs Apr 13 (~1) — all figures approximate |
+| 7-day average | 3.0 vessels/day (based on 7 days: Apr 6–13, excl. Apr 10 gap) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new LNG transit confirmed)
+- Fertilizer: 0 vessels (near-total export collapse continues)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, NBC News, The National News, Yahoo News, ANI, Cyprus Mail, and open-source maritime tracking (AIS). All vessel counts should be treated as approximate.
+- **US blockade Day 2 — CENTCOM scope clarification eases chilling effect**: US naval blockade of Iranian ports/coastal areas (effective Apr 13, 10 AM ET) entered its first full operating day. CENTCOM clarified that vessels transiting to and from **non-Iranian ports** are not subject to interdiction and may transit Hormuz freely — a narrower scope than initially feared. Combined with IRGC's continued mandatory-clearance regime for outbound traffic, the practical result is still near-total suppression, but slightly less severe than the dual-blockade worst case.
+- **Crude estimate basis**: Three named sanctioned tankers confirmed active in the strait on Apr 14 — *Rich Starry* (Malawi-flag, Chinese-owned, 250,000 bbl **methanol** from UAE Hamriyah; not crude), *Murlikishan* (handysize, **inbound empty** to load fuel oil at Iraq Apr 16; not crude), and *Elpis* (Malaysian-owned, US-sanctioned under Treasury's 2018 Iran package; cargo unspecified). Additional unnamed shadow-fleet crude tankers are inferred from context: multiple sources describe "a number of Iran-linked ships" passing the strait; IRGC corridor is still operational for shadow-fleet operators willing to pay tolls. Estimate of ~2 crude vessels reflects a modest uptick from Apr 13's ~1 due to partial easing of chilling effect, but remains extremely depressed (~99% below pre-war baseline of ~138 vessels/day).
+- **China condemns blockade**: Beijing issued a formal statement blasting Trump's blockade as illegal under international law. Chinese-owned or -linked shadow fleet vessels (Rich Starry, Murlikishan) continue transiting on the grounds that they are not calling at Iranian ports.
+- **LNG**: No new LNG transit. 19 LNG carriers remain stranded in the Persian Gulf. The only laden LNG transit since Feb 28 remains *Sohar LNG* (Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits for another day. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT). Spring planting season in full swing; UN continues to warn of H2 2026 food supply impact.
+- **Stranded vessels**: ~400 loaded oil tankers inside the Gulf, 19 LNG carriers, 34 LPG carriers; 800+ total vessels in the region (Bloomberg). ~20,000 seafarers affected.
+- **Oil prices**: Brent crude holding near $100–103/bbl, elevated from blockade-risk premium.
+- **AIS caveat**: Shadow-fleet vessels routinely disable AIS; actual transit counts may exceed confirmed AIS-visible figures.
+- **Sources**: [Bloomberg Apr 14 — US-Sanctioned Tanker Tests Blockade](https://www.bloomberg.com/news/articles/2026-04-14/us-sanctioned-tanker-tests-trump-blockade-with-hormuz-transit) · [NBC News live blog — China blasts blockade, Iran-linked ships transit](https://www.nbcnews.com/world/iran/live-blog/live-updates-china-blasts-trump-blockade-iran-linked-ships-transit-rcna331668) · [The National News Apr 14 — US-sanctioned Chinese tanker transits](https://www.thenationalnews.com/news/mena/2026/04/14/live-us-iran-hormuz-blockade/) · [ANI Apr 14 — Sanctioned tankers continue passage](https://aninews.in/news/world/us/us-sanctioned-tankers-continue-passage-through-hormuz-strait-despite-us-blockade20260414122946/) · [Bloomberg Apr 13 — Shipping collapses as blockade starts](https://www.bloomberg.com/news/articles/2026-04-13/hormuz-tracker-ship-transit-slowed-sharply-ahead-of-us-blockade) · [Seatrade Maritime — US blockade Iranian ports from Apr 13](https://www.seatrade-maritime.com/ports-logistics/us-to-blockade-iranian-ports-from-13-april) · [Yahoo/Bloomberg Apr 14 — Sanctioned Chinese tanker passes](https://www.yahoo.com/news/articles/sanctioned-chinese-tanker-passes-hormuz-060000351.html)
+
+---
+
 ## 2026-04-13
 
 | Metric | Value |
