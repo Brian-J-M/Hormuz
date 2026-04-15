@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-15
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 14 (~2) — all figures approximate |
+| 7-day average | 2.9 vessels/day (based on 7 days: Apr 7–14, excl. Apr 10 gap) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new transit)
+- Fertilizer: 0 vessels (near-total export collapse continues)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, Kpler, The Jakarta Post, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: *Agios Fanourios I* (Malta-flagged VLCC) confirmed inbound transit on April 15 — the first crude carrier to successfully enter the Gulf since the US blockade took effect April 13. The vessel had previously aborted an April 13 attempt; it is heading to Iraq to load Basra crude for Vietnam's Nghi Son refinery (Kpler). One additional sanctioned/shadow-fleet outbound vessel inferred from Jakarta Post reporting that "a sanctioned tanker turns back to the Strait of Hormuz" (i.e., a vessel that exited April 14 re-entered April 15). Estimate of ~2 crude vessels reflects this pair of transits; traffic remains ~99% below pre-war baseline of ~138 vessels/day.
+- **US blockade Day 3**: CENTCOM maintains narrowed scope — targeting vessels to/from Iranian ports and coastal areas only; non-Iranian port traffic may transit the strait. Combined with the IRGC's mandatory clearance and toll regime, the practical result is still near-total suppression for most commercial operators.
+- **Sanctioned tanker cycling**: Shadow-fleet operators continue testing the corridor. Jakarta Post confirmed at least one US-sanctioned vessel re-engaged the strait on April 15 after exiting a day prior, consistent with the pattern of repeated-probe behavior seen throughout the blockade period.
+- **LNG**: Zero LNG transits. 19 LNG carriers remain stranded inside the Persian Gulf (Kpler). Only 1 laden LNG transit since the war began Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT). Spring planting season in full swing; UN continues to warn of H2 2026 food supply impact.
+- **AIS caveat**: Shadow-fleet vessels routinely disable AIS; actual transit counts may exceed confirmed AIS-visible figures.
+- **Sources**: [Bloomberg Apr 15 — Iraq-bound tanker crosses into Gulf](https://www.bloomberg.com/news/articles/2026-04-15/iraq-bound-tanker-attempts-hormuz-crossing-into-persian-gulf) · [The Jakarta Post Apr 15 — Sanctioned tanker turns back to Hormuz](https://www.thejakartapost.com/business/2026/04/15/sanctioned-tanker-turns-back-to-strait-of-hormuz-day-after-gulf-exit.html) · [Al Jazeera Apr 14 — Sanctioned tankers transit amid blockade](https://www.aljazeera.com/news/2026/4/14/sanctioned-tankers-transit-strait-of-hormuz-despite-blockade) · [Windward AI Apr 14 — Maritime Intelligence Daily](https://windward.ai/blog/april-14-maritime-intelligence-daily/) · [Kpler via search — Agios Fanourios I transit confirmed Apr 15]
+
+---
+
 ## 2026-04-14
 
 | Metric | Value |
