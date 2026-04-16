@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-16
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 15 (~2) — all figures approximate |
+| 7-day average | 2.9 vessels/day (based on 7 days: Apr 8–15, excl. Apr 10 gap) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new transit)
+- Fertilizer: 0 vessels (UN corridor proposal awaiting political green light; no confirmed transits)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Reuters (via Investing.com, The Star, Free Malaysia Today), LSEG, Kpler, NBC News, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: Empty VLCC *RHN* (US-sanctioned) confirmed inbound transit via the Strait of Hormuz on Wednesday April 16 per LSEG and Kpler data — the second US-sanctioned supertanker to enter the Gulf in two days (US-sanctioned VLCC *Alicia* transited April 15). Neither vessel is heading to an Iranian port, placing them outside the formal CENTCOM blockade scope. One additional shadow-fleet outbound crude vessel inferred from prior-days' pattern; estimate of ~2 crude vessels reflects this pairing. Traffic remains ~99% below the pre-war baseline of ~138 vessels/day.
+- **US blockade Day 4**: US CENTCOM reported via X that 10 vessels have been turned around and "no ships broke through" the blockade since its start April 13 — a statement consistent with its narrow definition (targeting Iranian port-bound traffic only). The sanctioned supertanker transits (RHN, Alicia, and prior days' vessels) are not counted as "breaking" the blockade since they call at non-Iranian ports.
+- **Potential recovery signal — Trump says war "very close to over"**: Trump stated publicly that the US-Iran conflict was "very close to over," signalling openness to resumed negotiations. In-person talks could potentially resume as early as this week per NBC News. This is the most optimistic diplomatic language from the US side since the Islamabad talks collapsed April 12.
+- **UK-led 40-nation coalition**: A senior NATO military official told CBS News that the UK is leading planning efforts of a coalition of 40+ nations to reopen the Strait of Hormuz and protect freedom of navigation — the most concrete multilateral framework yet assembled for a post-blockade reopening.
+- **Iran counter-threat**: Iran's armed forces threatened to block shipping from the Persian Gulf, the Sea of Oman, and the Red Sea if the US "creates insecurity for Iranian commercial ships and oil tankers" — an escalation signal that could further suppress voluntary transits.
+- **LNG**: Zero LNG transits. 19 LNG carriers remain stranded inside the Persian Gulf (Kpler). Only 1 laden LNG transit since the war began Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. The UN announced it is ready to establish a humanitarian corridor to allow fertilizer through Hormuz for the spring planting season but requires a political agreement from both the US and Iran before it can proceed (Bloomberg Apr 15). Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable AIS; actual transit counts may exceed confirmed AIS-visible figures. CENTCOM's own count of "10 turned around" implies some additional vessels attempted transit that are not all captured in public AIS feeds.
+- **Sources**: [Reuters via Investing.com Apr 16 — Sanctioned supertankers enter Gulf](https://www.investing.com/news/commodities-news/ussanctioned-supertankers-enter-gulf-despite-blockade-4617026) · [The Star Apr 16 — Sanctioned supertankers despite blockade](https://www.thestar.com.my/news/world/2026/04/16/us-sanctioned-supertankers-enter-gulf-despite-blockade) · [NBC News live blog Apr 16 — Iran threatens Red Sea, Trump says "very close to over"](https://www.nbcnews.com/world/iran/live-blog/live-updates-us-blockade-iran-hormuz-trump-peace-talks-rcna331890) · [Bloomberg Apr 15 — UN awaits go-ahead on fertilizer corridor](https://www.bloomberg.com/news/articles/2026-04-15/un-awaits-go-ahead-to-move-fertilizer-through-strait-of-hormuz) · [Bloomberg Apr 15 — Double blockade keeps Hormuz at fraction of peacetime level](https://www.bloomberg.com/news/articles/2026-04-15/double-blockade-keeps-hormuz-shipping-at-fraction-of-peace-level) · [YourNews Apr 15 — Tanker standoff, sanctioned vessel forced to turn back](https://yournews.com/2026/04/15/6797997/tanker-standoff-in-the-strait-of-hormuz-sanctioned-vessel-forced/) · [USNI News Apr 14 — Blockade appears to deter some ships](https://news.usni.org/2026/04/14/strait-of-hormuz-traffic-down-as-u-s-blockade-appears-to-deter-some-ships) · [CNBC Apr 15 — A few tankers going through Hormuz](https://www.cnbc.com/2026/04/15/a-few-tankers-and-ships-are-going-through-the-strait-of-hormuz-heres-the-latest-traffic.html)
+
+---
+
 ## 2026-04-15
 
 | Metric | Value |
