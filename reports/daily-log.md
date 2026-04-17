@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-17
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 16 (~2) — all figures approximate |
+| 7-day average | 2.4 vessels/day (based on 7 days: Apr 9–16, excl. Apr 10 gap) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new transit)
+- Fertilizer: 0 vessels (UN corridor proposal still awaiting US/Iran political agreement)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Neos Kosmos (Apr 17), The National News (Apr 17), NBC News live blog (Apr 17), ABC News/WSLS (Apr 17), Times of Israel, Euronews, CNBC, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: *Agios Fanourios I* (US-sanctioned petrochemical tanker, Liberia-flagged, managed by Greek interests) confirmed westbound transit through the Strait of Hormuz on April 17, heading to Iraq via the IRGC Larak Island toll corridor — consistent with its April 15 inbound transit confirmed by Bloomberg. One additional shadow-fleet/sanctioned outbound crude vessel inferred from continuing pattern. Estimate of ~2 crude vessels. Traffic remains ~99% below pre-war baseline of ~138 vessels/day.
+- **MAJOR DIPLOMATIC EVENT — Macron-Starmer Hormuz coalition summit**: France and the UK co-hosted an international virtual summit on April 17 gathering 40+ nations (excluding the US) to plan the "Strait of Hormuz Maritime Freedom of Navigation Initiative." The mission is described as "strictly defensive," limited to non-belligerent countries, and intended to deploy "when security conditions allow." Mine-clearing and a maritime warning system are the most likely operational roles; warship escorts are not the primary plan. UK explicitly stated "we're not supporting the blockade." Most concrete multilateral framework to date for a post-blockade reopening, though operational deployment remains contingent on security conditions.
+- **Israel-Lebanon ceasefire effective April 17**: A 10-day truce between Israel and Hezbollah took effect Thursday afternoon (April 17), pausing fighting that had threatened to collapse the broader Iran-US ceasefire. This removes one major obstacle to a US-Iran deal before the main ceasefire expiry on April 21.
+- **Second round of US-Iran talks imminent**: White House says it "feels good about prospects of a deal"; Trump hinted talks could happen "over the next two days" (from April 14 statement). Pakistan likely venue for second round. Ceasefire expires April 21 (4 days from now) — the most urgent catalyst for near-term transit normalization.
+- **AIS spoofing and double blockade**: The National News ran an April 17 analysis — "Spoofing and double blockade: What is happening at Strait of Hormuz?" — confirming that GNSS spoofing by shadow-fleet and sanctioned vessels continues; Greek bulk carrier *Christianna* went dark ~15 hours; *Elpis* (US-sanctioned) went dark after clearing into Gulf of Oman. Actual transit counts may exceed AIS-visible figures.
+- **UN legal challenge**: UN Secretary-General's special representative for maritime affairs stated publicly (Euronews, Apr 16): "No country can legally restrict navigation in Strait of Hormuz," challenging both IRGC toll corridor and US blockade under UNCLOS.
+- **LNG**: Zero LNG transits. 19 LNG carriers remain stranded inside the Persian Gulf (Kpler). Only 1 laden LNG transit since the war began Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor proposal still requires political green light from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may exceed confirmed AIS-visible figures.
+- **Sources**: [Neos Kosmos Apr 17 — Hormuz shipping muted, Greek vessels pass](https://neoskosmos.com/en/2026/04/17/news/hormuz-shipping-muted-as-us-blockade-takes-hold-greek-vessels-pass/) · [The National News Apr 17 — Spoofing and double blockade](https://www.thenationalnews.com/business/2026/04/17/spoofing-and-double-blockade-what-is-happening-at-strait-of-hormuz/) · [ABC News Apr 17 — Macron and Starmer hold Hormuz summit](https://abcnews.com/Business/wireStory/macron-starmer-hold-international-summit-reopening-strait-hormuz-132126876) · [WSLS/AP Apr 17 — Macron and Starmer hold international summit](https://www.wsls.com/news/world/2026/04/17/macron-and-starmer-hold-international-summit-on-reopening-the-strait-of-hormuz/) · [NBC News live blog Apr 17 — Israel-Lebanon ceasefire holding; US allies hold Hormuz summit](https://www.nbcnews.com/world/iran/live-blog/live-updates-israel-lebanon-ceasefire-trump-iran-talks-hormuz-summit-rcna332294) · [Times of Israel — Starmer, Macron discuss multinational mission](https://www.timesofisrael.com/starmer-macron-say-uk-and-france-to-discuss-multinational-mission-to-safeguard-hormuz/) · [Euronews Apr 16 — UN: No country can legally restrict Hormuz navigation](https://www.euronews.com/my-europe/2026/04/16/no-country-can-legally-restrict-navigation-in-strait-of-hormuz-un-maritime-chief-says) · [CNBC Apr 14 — More US-Iran peace deal talks in discussion](https://www.cnbc.com/2026/04/14/trump-iran-war-strait-of-hormuz-negotiations.html) · [NBC News — US-Iran new peace talks as soon as this week](https://www.nbcnews.com/world/iran/us-iran-new-peace-talks-trump-vance-hormuz-nuclear-enrichment-rcna331669)
+
+---
+
 ## 2026-04-16
 
 | Metric | Value |
