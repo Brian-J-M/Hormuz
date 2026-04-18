@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 17 (~2) — all figures approximate |
+| 7-day average | 2.3 vessels/day (based on 7 days: Apr 11–17) |
+
+Secondary:
+- LNG: 0 vessels (empty Abu Dhabi LNG tankers approached strait but blocked; 19 laden carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (no confirmed transits; UN corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, CNBC, ABC News, Al Jazeera, Kpler, Windward AI, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **MAJOR DIPLOMATIC WHIPSAW — Iran declares "completely open," then reverses**: Iran's Foreign Minister Abbas Araghchi declared the Strait "completely open" to all commercial vessels in conjunction with the Israel-Hezbollah 10-day ceasefire that took effect at midnight Friday/Saturday. Hours later, parliament speaker Mohammad Ghalibaf contradicted the FM: "With the continuation of the [US] blockade, the Strait of Hormuz will not remain open." On Saturday, Iranian state TV quoted Iran's Armed Forces spokesperson confirming the Strait "has returned to its previous state" under "strict management and control" — explicitly accusing the US of "piracy and maritime robbery."
+- **~Two dozen ships approached, most turned back**: About two dozen bulk carriers and VLCCs sailed toward the strait Friday morning amid the "completely open" announcement. Kpler's Matt Smith (director of commodity research): "They've clearly not been given approval to pass through." Most vessels reversed course back into the Persian Gulf. Oil prices plunged: Brent -9% to ~$90.38/bbl, WTI -11.45% to ~$83.85/bbl — the market pricing in full reopening before AIS data confirmed nothing had actually changed.
+- **Crude estimate basis**: No confirmed AIS-visible crude tankers transiting on April 18. Windward data for April 17 showed outbound traffic consisted of container vessel *MM Madrid* (St. Kitts & Nevis) and two Iranian military landing craft (*Shahin Salakh*, *Ghazaldarya*) — zero confirmed crude outbound. April 18 estimate of ~2 crude vessels reflects continuation of shadow-fleet/IRGC-corridor activity (dark transits not visible to AIS); legitimate commercial tanker attempts were blocked. Traffic remains ~99% below pre-war baseline of ~138 vessels/day.
+- **US blockade stance unchanged**: Trump stated the US blockade "will remain in full force" until a peace deal is concluded and the US's "transaction" with Iran is complete. Secretary of State Marco Rubio urged European nations to rapidly decide on reimposing sanctions against Iran, warning Iran is nearing nuclear-weapon capability and violating existing agreements.
+- **Ceasefire expires April 21 (3 days away)**: The US-Iran two-week ceasefire is set to expire Monday April 21 — the highest-stakes near-term catalyst. The Lebanon ceasefire (10 days) runs through approximately April 27. No second round of US-Iran nuclear talks confirmed; Rubio's sanctions push signals a harder US negotiating posture going into expiry.
+- **LNG**: Zero LNG transits. Empty Abu Dhabi LNG tankers (ADNOC-linked) were reported approaching the strait on April 17 seeking Gulf access, but no confirmation they transited; Iran's Saturday reversal makes a successful inbound LNG transit highly unlikely. 19 laden LNG carriers remain stranded inside the Persian Gulf (Kpler). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor proposal requires political agreement from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; the ~2 crude estimate is inferred from continuing IRGC corridor operations that are not fully AIS-visible. Actual transit counts may exceed confirmed figures.
+- **Sources**: [Bloomberg Apr 17 — Iran says Hormuz "fully open"; shipowners wary](https://www.bloomberg.com/news/articles/2026-04-17/shipowners-and-oil-traders-wary-as-iran-says-hormuz-fully-open) · [Bloomberg Apr 17 — Few tankers observed exiting before reopening](https://www.bloomberg.com/news/articles/2026-04-17/hormuz-tracker-few-tankers-observed-exiting-before-reopening) · [Bloomberg Apr 17 — Abu Dhabi LNG vessels seek Gulf access](https://www.bloomberg.com/news/articles/2026-04-17/empty-lng-tankers-attempt-hormuz-crossing-into-persian-gulf) · [CNBC Apr 17 — Iran declares open, Trump says blockade active](https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html) · [CNBC Apr 17 — Oil prices plunge 10%+ on Hormuz open claim](https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html) · [ABC7/ABC News — Hormuz "returns to previous state," Iranian state TV](https://abc7chicago.com/live-updates/iran-war-straight-hormuz-blockade-oil-prices-us-stock-market-ceasefire/18880313/) · [10TV/AP — Iran reimposed restrictions, accuses US of violating deal](https://www.10tv.com/article/news/nation-world/attack-on-iran/iran-strait-of-hormuz-closed-blockade-united-states-war/507-7b3ebdab-9acc-49e7-83fb-2c35bdb1daa9) · [Al Jazeera Apr 18 live — Hormuz "shut down again over US piracy"](https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks) · [NBC News live blog — Iran "completely open"; Trump blockade in full force](https://www.nbcnews.com/world/iran/live-blog/live-updates-israel-lebanon-ceasefire-trump-iran-talks-hormuz-summit-rcna332294) · [Kyiv Post — Iran parliament speaker accuses Trump of falsehoods](https://www.kyivpost.com/post/74195) · [RedState — Iranian official says Hormuz closed again; Trump violated deal](https://redstate.com/streiff/2026/04/17/iranian-official-says-strait-of-hormuz-is-closed-again-because-trump-violated-the-deal-n2201411) · [Windward AI Apr 16 daily (Apr 17 vessel detail)](https://windward.ai/blog/april-16-maritime-intelligence-daily/)
+
+---
+
 ## 2026-04-17
 
 | Metric | Value |
