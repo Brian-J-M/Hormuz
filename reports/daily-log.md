@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | -1 (-50%) vs Apr 18 (~2) — all figures approximate |
+| 7-day average | 2.0 vessels/day (based on 7 days: Apr 12–18) |
+
+Secondary:
+- LNG: 0 vessels (active IRGC gunboat enforcement; 19 laden carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (UN corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from The Week, Daily News Egypt, Tribune India, Iran International, NBC News live blog, CNN, CNBC, NPR, Al Jazeera, Military.com, Euronews, and Newsweek. All vessel counts should be treated as approximate.
+- **MAJOR ESCALATION — IRGC gunboats fire on two Indian tankers after granting clearance**: IRGC gunboats opened fire on two Indian-flagged vessels — *Sanmar Herald* (VLCC, ~2M barrels Iraqi crude) and *Jag Arnav* — while both were transiting south of Larak Island in Iranian waters, despite having received IRGC clearance to proceed. Audio released captures the Sanmar Herald's captain: "You gave me clearance to go, you are firing now." Both vessels were forced to retreat westward back into the Persian Gulf. India summoned the Iranian envoy in Delhi in protest. This is the most severe active-enforcement incident against commercial shipping since the blockade began.
+- **8-vessel convoy turned back**: The two Indian tankers were part of a convoy of approximately 8 vessels (including a VLCC, product/chemical tankers, and LPG carriers) crossing Iranian waters south of Larak Island; the convoy is presumed to have retreated following the gunfire.
+- **Crude estimate basis**: With active IRGC gunboat attacks repelling commercial convoys including an Iraq-crude-laden VLCC, AIS-visible commercial crude transit appears to be zero on April 19. Estimate of ~1 crude vessel reflects possible shadow-fleet/sanctioned IRGC-corridor dark-transit activity not visible to public AIS. Traffic remains ~99% below the pre-war baseline of ~138 vessels/day.
+- **Iran's posture: "strict management and control" continues**: Following Saturday's armed reversal of the "completely open" announcement, Iran's armed forces spokesperson confirmed the strait has "returned to its previous state." IRGC warned that "approaching the Strait of Hormuz will be considered cooperation with the enemy, and any offending vessel will be targeted."
+- **Ceasefire expires Monday April 21 (2 days)**: Pakistan's military chief Gen. Asim Munir acting as intermediary; Iran stated it is reviewing new US proposals. Trump said he "may not extend" the ceasefire if a deal isn't reached by Wednesday, warning that otherwise "you have a blockade, and unfortunately we have to start dropping bombs again." Iran's FM Araghchi said the two sides were "inches away" from an agreement before the US engaged in "maximalism and shifting goalposts."
+- **LNG**: Zero LNG transits. Active gunboat enforcement makes commercial LNG transit effectively impossible today. 19 laden LNG carriers remain stranded inside the Persian Gulf (Kpler). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor proposal requires political agreement from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may exceed AIS-visible figures, though active gunboat enforcement today likely suppresses even shadow-fleet activity.
+- **Sources**: [The Week Apr 19 — Audio from Sanmar Herald: "You gave me clearance, you are firing now"](https://www.theweek.in/news/middle-east/2026/04/19/you-gave-me-clearance-to-go-you-are-firing-now-audio-from-sanmar-herald-indian-ship-shot-by-iran-in-strait-of-hormuz.html) · [Daily News Egypt Apr 18 — Two Indian tankers fired upon](https://www.dailynewsegypt.com/2026/04/18/two-indian-flagged-tankers-fired-upon-in-strait-of-hormuz-as-iran-asserts-control-over-waterway/) · [Tribune India — Indian vessels shot at, India summons Tehran envoy](https://www.tribuneindia.com/news/india/indian-vessels-shot-at-forced-out-of-strait-of-hormuz-by-iranian-navy/) · [Iran International Apr 18 — IRGC fires at Indian vessel](https://www.iranintl.com/en/202604183266) · [NBC News live blog — Two Indian ships under fire](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-says-strait-hormuz-reverted-strict-control-blames-us-rcna340767) · [CNN Apr 18 — Day 50, Iran closes Hormuz again](https://www.cnn.com/2026/04/18/world/live-news/iran-war-trump-israel) · [Military.com Apr 18 — Gunboats fire on tanker](https://www.military.com/daily-news/2026/04/18/iranian-gunboats-fire-tanker-strait-of-hormuz-iran-reimposes-restrictions.html) · [Euronews Apr 18 — UK military: gunboats fire on tanker](https://www.euronews.com/2026/04/18/iran-says-strait-of-hormuz-will-not-remain-open-if-us-blockade-continues) · [Al Jazeera Apr 18 — Iran closes Hormuz again](https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports) · [NPR Apr 18 — Iran says Hormuz closed again as ceasefire nears end](https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates) · [CNBC Apr 18 — Hormuz closed again; Trump says good news on talks](https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html) · [Newsweek — IRGC fires on tanker, what to know](https://www.newsweek.com/iranian-gunboats-fire-tanker-strait-hormuz-11849043)
+
+---
+
 ## 2026-04-18
 
 | Metric | Value |
