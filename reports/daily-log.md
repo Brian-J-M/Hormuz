@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-20
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 19 (~1) — all figures approximate |
+| 7-day average | 1.7 vessels/day (based on 7 days: Apr 13–19) |
+
+Secondary:
+- LNG: 0 vessels (2 LNG carriers reversed course Apr 18; 19 laden carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (no confirmed transits; UN corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from MarineTraffic, Windward AI, NBC News, CNBC, Bloomberg, NPR, Al Jazeera, CBS News, The Jerusalem Post, and The Week India. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: *Nova Crest* (Turkish operator, laden with Iraqi crude, departed Iraqi port earlier this month) exited the Gulf through the Strait of Hormuz early Monday April 20 local time per MarineTraffic — the only AIS-confirmed laden transit of the day. Three vessels entered the Gulf inbound (two shown as empty/ballast). Traffic remains ~99%+ below the pre-war baseline of ~138 vessels/day.
+- **MAJOR ESCALATION — US seizes Iranian container ship *Touska***: On April 19, USS *Spruance* (DDG) intercepted the *Touska* (54,851 GT Panamax container vessel, Iranian-flagged, heading from China to Iran) in the Gulf of Oman after the vessel violated the US blockade and refused repeated warnings during a six-hour standoff. Spruance disabled Touska's propulsion by firing into its engine room. US Marines from USS *Tripoli* then rappelled from helicopters to board the vessel. Trump announced the seizure on social media, calling it a violation of the blockade. Iran's military called the action "armed piracy" and "a violation of the ceasefire," vowing "swift retaliation."
+- **Strait near-zero for third consecutive day**: No laden commercial tankers transited on Sunday April 19 (Bloomberg/MarineTraffic — "one of the quietest days since the conflict began"). Windward AI tracked 35 outbound vessels reversing course in the 36 hours ending April 19 due to gunfire and renewed closure. On April 18 alone, 33 vessels with no direct Iran touchpoint reversed — including 2 LNG carriers and 9 crude tankers (5 VLCCs, 3 Suezmaxes, 1 Aframax).
+- **Ceasefire at breaking point — expires Wednesday April 22**: Both the US and Iran have accused each other of violations (IRGC firing on Indian tankers *Sanmar Herald* and *Jag Arnav* on April 18; US seizing *Touska* on April 19). Trump said US officials are heading to Islamabad for talks; Iran's FM spokesperson Esmaeil Baqaei said "there is no plan for a second round of negotiations with the US for now." The ceasefire expires in two days.
+- **Iranian crude operations at Chabahar**: Windward Multi-Source Intelligence detected 7 VLCCs plus a ship-to-ship (STS) transfer involving two ~100-meter tankers off the Port of Chabahar on April 19 — Iranian dark-fleet oil export operations, not commercial Hormuz transits.
+- **LNG**: Zero commercial LNG transits. Two LNG carriers reversed course on April 18. 19 laden LNG carriers remain stranded inside the Persian Gulf (Kpler). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor still requires political agreement from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may exceed AIS-visible figures, though active gunboat enforcement and the imminent ceasefire expiry likely suppress even shadow-fleet activity. *Nova Crest* is the only AIS-confirmed laden transit on April 20.
+- **Sources**: [NBC News — US seized Iranian ship, Iran distances from deal, Hormuz closure](https://www.nbcnews.com/world/iran/iran-distance-peace-deal-hormuz-closure-halts-shipping-rcna340846) · [CNBC Apr 19 — Trump: Navy seized Touska](https://www.cnbc.com/2026/04/19/trump-navy-iran-ship-gulf-of-oman.html) · [CNBC Apr 20 — Seized ship, attacks push ceasefire toward brink](https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html) · [Al Jazeera Apr 19 — Trump says US seized Iran-flagged ship](https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade) · [NPR Apr 19 — US seizes Iranian cargo ship in Strait of Hormuz](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible) · [The Jerusalem Post — US Marines rappel onto Touska after six-hour standoff](https://www.jpost.com/middle-east/iran-news/article-893549) · [The Week India Apr 20 — Iran vows retaliation after Touska seizure](https://www.theweek.in/news/middle-east/2026/04/20/strait-of-hormuz-iran-vows-swift-retaliation-after-us-navy-blows-a-hole-in-the-engine-room-of-cargo-ship-touska.html) · [CBS Live Updates — Trump says US officials heading to Pakistan, Iran says no plan for talks](https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz/) · [Windward AI Apr 19 Maritime Intelligence Daily](https://windward.ai/blog/april-19-2026-iran-war-maritime-intelligence-daily/) · [Bloomberg Apr 19 — Gunfire, U-turns, threats: chaotic Hormuz weekend](https://www.bloomberg.com/news/articles/2026-04-19/gunfire-u-turns-and-threats-mark-a-chaotic-weekend-in-hormuz) · [Bloomberg Apr 19 — Hormuz shipping traffic grinds to a halt](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-shipping-traffic-grinds-to-a-halt-as-tensions-deepen)
+
+---
+
 ## 2026-04-19
 
 | Metric | Value |
