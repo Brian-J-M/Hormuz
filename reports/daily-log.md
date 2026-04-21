@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-21
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 20 (~1) — all figures approximate |
+| 7-day average | 1.7 vessels/day (based on 7 days: Apr 14–20) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new transit)
+- Fertilizer: 0 vessels (UN corridor proposal still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Windward AI, Kpler/LSEG, Al-Monitor, Bloomberg, CNBC, NPR, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: CNBC reported ~7 total ships crossing on Monday April 21, a slight uptick after Sunday's near-total standstill. With only one AIS-confirmed laden crude transit on April 20 (*Nova Crest*), crude fraction estimated at ~15–20% of 7 total ships yields ~1 crude vessel. Traffic remains ~99% below the pre-war baseline of ~138 vessels/day.
+- **CEASEFIRE EXPIRES TODAY (April 21) — no deal in place**: The two-week US-Iran ceasefire agreed April 8 expires today. Trump called an extension "highly unlikely"; Iran's Foreign Ministry stated "there is no plan for a second round of negotiations with the US for now." This is the single most significant near-term catalyst for escalation or de-escalation; its expiry without a deal materially raises the risk of renewed hostilities and further transit suppression.
+- **US enforcement expansion beyond Hormuz**: US naval interdiction confirmed to have expanded into the Gulf of Oman (Windward AI Apr 20; *Touska* seizure Apr 19 in Gulf of Oman). Operational scope now extends beyond the Strait itself.
+- **7 VLCCs near Chabahar — Iranian eastern route development**: Windward AI (Apr 20) detected 7 VLCCs plus an STS transfer off Chabahar — Iranian dark-fleet oil export operations east of Hormuz, outside the primary enforcement zone.
+- **LNG**: Zero commercial LNG transits. 19 laden LNG carriers remain stranded inside the Persian Gulf. Only 1 laden LNG transit since the conflict began Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still requires political green light from both the US and Iran. Urea prices remain ~$826/MT (~70% above pre-war ~$490/MT). Spring planting season at peak.
+- **AIS/dark-activity caveat**: Windward AI reported 140 dark-activity events across the Gulf region on April 20 despite reduced official traffic, indicating persistent shadow-fleet deceptive shipping. Actual crude flows may exceed AIS-visible figures.
+- **Sources**: [CNBC — traffic briefly rose then slowed (Apr 20)](https://www.cnbc.com/2026/04/20/strait-hormuz-ship-tanker-oil-iran-war.html) · [Bloomberg — Hormuz Traffic at Standstill (Apr 20)](https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk) · [Windward AI Apr 20 daily](https://windward.ai/blog/april-20-maritime-intelligence-daily/) · [CNN — ceasefire extension highly unlikely (Apr 20)](https://edition.cnn.com/2026/04/20/world/live-news/iran-war-us-trump-israel) · [European Business Magazine — ceasefire expires Apr 21](https://europeanbusinessmagazine.com/business/finance-iran-us-ceasefire-expires-april-21-hormuz-talks-2026/) · [CNBC — ceasefire toward brink (Apr 20)](https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html)
+
+---
+
 ## 2026-04-20
 
 | Metric | Value |
