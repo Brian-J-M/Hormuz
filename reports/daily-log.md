@@ -4,6 +4,167 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-23
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (0, 0%) vs Apr 22 (~1) — all figures approximate |
+| 7-day average | 1.4 vessels/day (based on 7 days: Apr 16–22) |
+
+Secondary:
+- LNG: 0 vessels (carriers remain stranded in Gulf; no confirmed strait transits)
+- Fertilizer: 0 vessels (no active export corridor; near-total export collapse continues)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from CNBC (LSEG tracking data), Rappler, NBC News live blog, CBS News live updates, Washington Post, NPR, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **April 22–23 context**: Trump announced an indefinite ceasefire extension on April 22, but Iran did not acknowledge the extension. Within hours, Iran's IRGC seized two foreign cargo vessels in the strait and attacked a third. Iran's lead negotiator (Qalibaf) stated a full ceasefire is contingent on lifting the US naval blockade; negotiations remain deadlocked.
+- **Iran tightens control**: On April 23, Iran is reported to be tightening control of the strait following the US decision to call off renewed strikes. US CENTCOM confirmed 31 ships have been turned around under blockade operations (predominantly oil tankers), up from prior reporting.
+- **Crude estimate basis**: LSEG data cited by CNBC shows "at least 8 ships including 3 oil tankers" transited on Wednesday April 22; crude-only subset estimated at ~1 given shadow-fleet/AIS-dark conditions and continued disruption. April 23 figure extrapolated from April 22 trend; Iran's seizures on the evening of April 22 likely suppressed further transits on April 23. Traffic remains ~99% below pre-war baseline (~138 vessels/day).
+
+---
+
+## 2026-04-22
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (0, 0%) vs Apr 21 (~1) — all figures approximate |
+| 7-day average | 1.6 vessels/day (based on 7 days: Apr 15–21) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers stranded in Gulf; 2 LNG carriers that approached strait Apr 17 reversed course Apr 18)
+- Fertilizer: 0 vessels (UN corridor proposal unapproved; near-total export collapse continues)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from CNBC, Al Jazeera, ABC News, CNN, Windward AI, NPR, NBC News, gCaptain, Time, Axios, Daily Sabah, Energy Connects, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No confirmed crude tanker transits on April 22 per available reporting. Confirmed transits on April 22 appear to be cargo/container ships (two of which were attacked or seized by IRGC). ~1 crude vessel estimated from possible shadow-fleet/sanctioned operator activity under AIS-off conditions; could be 0. Traffic remains ~99% below pre-war baseline of ~138 vessels/day.
+- **IRGC attacks — April 22**: UKMTO reported two separate incidents: (1) a container vessel 15 nm NE of Oman fired upon by an IRGC gunboat causing "heavy damage to the bridge" (all crew safe, no fire); (2) an outbound cargo ship 8 nm west of Iran was fired upon and "stopped in the water" (crew safe, no damage reported). IRGC navy confirmed it seized two "violating vessels" and transferred them to the Iranian coast (Tasnim news agency). April 22 is the IRGC's founding anniversary; IRGC declared it was "at the peak of readiness" and would deliver "crushing and unimaginable blows to remaining assets of the enemy."
+- **Iran closure reimposed — Apr 18**: Iran FM Araghchi briefly announced the strait was open on Friday April 17 (tied to the Israel-Lebanon ceasefire). By Saturday April 18, Iran reversed: IRGC declared "no vessel should make any movement… approaching the Strait of Hormuz will be considered cooperation with the enemy." IRGC gunboats fired on at least one transiting tanker. 33 vessels with no Iran touchpoint reversed course, including 2 LNG carriers and 9 crude tankers (5 VLCCs, 3 Suezmaxes, 1 Aframax). Root cause: Trump refused to lift US port blockade of Iran, which Iran called "an act of war and a violation of the ceasefire."
+- **US seizes M/V Touska — Apr 19**: USS Spruance (guided-missile destroyer) intercepted and disabled the Iran-flagged tanker *Touska* in the Arabian Sea, "blowing a hole in the engine room" after crew refused warnings. Iran condemned "armed piracy." This was the sharpest direct US-Iran naval confrontation since the blockade began.
+- **IRGC attacks Apr 19 — Indian vessels**: SANMAR HERALD (India-flagged VLCC, ~1.848 Mb crude) fired upon by two IRGC gunboats at ~09:20 UTC. JAG ARNAV (India-flagged bulk carrier) reported a projectile splash 3 nm off Oman and aborted transit. Cruise vessel MEIN SCHIFF 4 received a direct VHF threat ("we will fire and destroy you") plus a close-proximity ordnance splash. These attacks collapsed weekend transit attempts.
+- **Ceasefire extended — Apr 21**: Trump extended the US-Iran ceasefire at Pakistan's request on April 21, stating it will hold until Iran's leadership delivers a "unified proposal" to end the conflict. He noted Tehran's leadership was "seriously fractured." No new deadline announced; active ceasefire continues as of April 22.
+- **Transit standstill**: Daily Sabah reported "only 3 crossings recorded in 12 hours" on April 22. Bloomberg earlier reported zero crossings on April 19 (as of early London afternoon); Windward confirmed 3 transits for April 19 (1 inbound HK cargo; G SUMMER outbound Angola-flagged tanker; 1 outbound Sri Lanka cargo) — the discrepancy likely reflects different measurement windows.
+- **Chabahar alternate export route**: Windward AI imagery detected 7 VLCCs plus a ship-to-ship transfer pair off Chabahar (April 19 data) — capacity ~14 million barrels — the first visible evidence of Iran routing crude exports via an eastern alternate corridor outside AIS coverage.
+- **LNG**: 0 transits. Empty LNG tankers had approached the strait after Iran's April 17 brief opening announcement (Bloomberg); all reversed after Iran reimposed closure April 18. 19 LNG carriers remain stranded in the Persian Gulf.
+- **Fertilizer**: 0 transits. UN corridor proposal still awaiting political agreement from both US and Iran.
+- **Brent crude**: ~$93–95/bbl (WTI ~$89/bbl). Volatile — fell from ~$100 blockade-fear level toward $91 when Iran briefly opened the strait April 17, then rebounded on April 18 closure.
+- **Stranded vessels**: ~862 vessels in Mideast Gulf (Windward Apr 19), including ~187 laden tankers (~172 Mb crude), 19 LNG carriers, 34 LPG carriers. IMO reports ~2,000 ships and ~20,000 mariners stranded as of April 21.
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; Chabahar STS activity not AIS-visible. Actual transit counts may exceed confirmed figures.
+- **Sources**: [CNN Apr 22 — Ships attacked as Trump extends ceasefire](https://edition.cnn.com/2026/04/22/world/live-news/iran-war-us-trump-blockade-ceasefire) · [ABC News Apr 22 — Iran live updates: ships attacked](https://abcnews.com/International/live-updates/iran-live-updates-marines-uss-tripoli-seized-iranian/?id=132196152) · [Al Jazeera Apr 22 — IRGC seizes two vessels, ceasefire extended](https://www.aljazeera.com/news/liveblog/2026/4/22/iran-war-live-trump-says-ceasefire-extended-as-talks-with-tehran-in-limbo) · [NPR Apr 21 — Trump extends ceasefire at Pakistan's request](https://www.npr.org/2026/04/21/nx-s1-5793638/iran-middle-east-updates) · [NBC News — Two Indian ships under fire after Iran reasserts control](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-says-strait-hormuz-reverted-strict-control-blames-us-rcna340767) · [NBC News — Trump says ceasefire extended](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-peace-talks-vance-ceasefire-ship-hormuz-rcna341149) · [CNBC Apr 20 — Resumed hostilities push ceasefire toward brink](https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html) · [gCaptain Apr 20 — Hormuz crisis dangerous new phase](https://gcaptain.com/hormuz-crisis-enters-dangerous-new-phase-as-u-s-seizes-vessel-and-attacks-resume/) · [Al Jazeera Apr 20 — US captures Touska](https://www.aljazeera.com/news/2026/4/20/us-captures-iranian-ship-touska-amid-mediation-efforts-all-we-know) · [NPR Apr 19 — US seizes Iranian cargo ship](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible) · [Windward AI Apr 19 — maritime intelligence daily](https://windward.ai/blog/april-19-2026-iran-war-maritime-intelligence-daily/) · [Windward AI Apr 20 — maritime intelligence daily](https://windward.ai/blog/april-20-maritime-intelligence-daily/) · [Al Jazeera Apr 18 — Iran closes strait again](https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports) · [Axios Apr 18 — Iran closes strait, fires on tankers](https://www.axios.com/2026/04/18/iran-closes-strait-of-hormuz-once-again-fires-on-tankers) · [Time Apr 18 — Iran reimposes control](https://time.com/article/2026/04/18/iran-strait-of-hormuz-trump-attacks-blockade-lebanon-ceasefire/) · [CNBC Apr 17 — Ships turning away from Hormuz](https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html) · [Bloomberg Apr 17 — Empty LNG tankers attempt Hormuz crossing](https://www.bloomberg.com/news/articles/2026-04-17/empty-lng-tankers-attempt-hormuz-crossing-into-persian-gulf) · [Daily Sabah — Traffic at virtual standstill](https://www.dailysabah.com/business/transportation/shipping-data-shows-strait-of-hormuz-traffic-at-virtual-standstill) · [Energy Connects — Hormuz traffic grinds to halt](https://www.energyconnects.com/news/gas-lng/2026/april/hormuz-shipping-traffic-grinds-to-a-halt-as-tensions-deepen/) · [OPB Apr 21 — Ceasefire deadline, main issues](https://www.opb.org/article/2026/04/21/ceasefire-iran-us-israel-hormuz-strait/)
+
+---
+
+## 2026-04-21
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 20 (~1) — all figures approximate |
+| 7-day average | 1.7 vessels/day (based on 7 days: Apr 14–20) |
+
+Secondary:
+- LNG: 0 vessels (19 LNG carriers still stranded inside Gulf; no new transit)
+- Fertilizer: 0 vessels (UN corridor proposal still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Windward AI, Kpler/LSEG, Al-Monitor, Bloomberg, CNBC, NPR, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: CNBC reported ~7 total ships crossing on Monday April 21, a slight uptick after Sunday's near-total standstill. With only one AIS-confirmed laden crude transit on April 20 (*Nova Crest*), crude fraction estimated at ~15–20% of 7 total ships yields ~1 crude vessel. Traffic remains ~99% below the pre-war baseline of ~138 vessels/day.
+- **CEASEFIRE EXPIRES TODAY (April 21) — no deal in place**: The two-week US-Iran ceasefire agreed April 8 expires today. Trump called an extension "highly unlikely"; Iran's Foreign Ministry stated "there is no plan for a second round of negotiations with the US for now." This is the single most significant near-term catalyst for escalation or de-escalation; its expiry without a deal materially raises the risk of renewed hostilities and further transit suppression.
+- **US enforcement expansion beyond Hormuz**: US naval interdiction confirmed to have expanded into the Gulf of Oman (Windward AI Apr 20; *Touska* seizure Apr 19 in Gulf of Oman). Operational scope now extends beyond the Strait itself.
+- **7 VLCCs near Chabahar — Iranian eastern route development**: Windward AI (Apr 20) detected 7 VLCCs plus an STS transfer off Chabahar — Iranian dark-fleet oil export operations east of Hormuz, outside the primary enforcement zone.
+- **LNG**: Zero commercial LNG transits. 19 laden LNG carriers remain stranded inside the Persian Gulf. Only 1 laden LNG transit since the conflict began Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still requires political green light from both the US and Iran. Urea prices remain ~$826/MT (~70% above pre-war ~$490/MT). Spring planting season at peak.
+- **AIS/dark-activity caveat**: Windward AI reported 140 dark-activity events across the Gulf region on April 20 despite reduced official traffic, indicating persistent shadow-fleet deceptive shipping. Actual crude flows may exceed AIS-visible figures.
+- **Sources**: [CNBC — traffic briefly rose then slowed (Apr 20)](https://www.cnbc.com/2026/04/20/strait-hormuz-ship-tanker-oil-iran-war.html) · [Bloomberg — Hormuz Traffic at Standstill (Apr 20)](https://www.bloomberg.com/news/articles/2026-04-20/hormuz-traffic-at-standstill-as-us-vessel-seizure-widens-risk) · [Windward AI Apr 20 daily](https://windward.ai/blog/april-20-maritime-intelligence-daily/) · [CNN — ceasefire extension highly unlikely (Apr 20)](https://edition.cnn.com/2026/04/20/world/live-news/iran-war-us-trump-israel) · [European Business Magazine — ceasefire expires Apr 21](https://europeanbusinessmagazine.com/business/finance-iran-us-ceasefire-expires-april-21-hormuz-talks-2026/) · [CNBC — ceasefire toward brink (Apr 20)](https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html)
+
+---
+
+## 2026-04-20
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 19 (~1) — all figures approximate |
+| 7-day average | 1.7 vessels/day (based on 7 days: Apr 13–19) |
+
+Secondary:
+- LNG: 0 vessels (2 LNG carriers reversed course Apr 18; 19 laden carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (no confirmed transits; UN corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from MarineTraffic, Windward AI, NBC News, CNBC, Bloomberg, NPR, Al Jazeera, CBS News, The Jerusalem Post, and The Week India. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: *Nova Crest* (Turkish operator, laden with Iraqi crude, departed Iraqi port earlier this month) exited the Gulf through the Strait of Hormuz early Monday April 20 local time per MarineTraffic — the only AIS-confirmed laden transit of the day. Three vessels entered the Gulf inbound (two shown as empty/ballast). Traffic remains ~99%+ below the pre-war baseline of ~138 vessels/day.
+- **MAJOR ESCALATION — US seizes Iranian container ship *Touska***: On April 19, USS *Spruance* (DDG) intercepted the *Touska* (54,851 GT Panamax container vessel, Iranian-flagged, heading from China to Iran) in the Gulf of Oman after the vessel violated the US blockade and refused repeated warnings during a six-hour standoff. Spruance disabled Touska's propulsion by firing into its engine room. US Marines from USS *Tripoli* then rappelled from helicopters to board the vessel. Trump announced the seizure on social media, calling it a violation of the blockade. Iran's military called the action "armed piracy" and "a violation of the ceasefire," vowing "swift retaliation."
+- **Strait near-zero for third consecutive day**: No laden commercial tankers transited on Sunday April 19 (Bloomberg/MarineTraffic — "one of the quietest days since the conflict began"). Windward AI tracked 35 outbound vessels reversing course in the 36 hours ending April 19 due to gunfire and renewed closure. On April 18 alone, 33 vessels with no direct Iran touchpoint reversed — including 2 LNG carriers and 9 crude tankers (5 VLCCs, 3 Suezmaxes, 1 Aframax).
+- **Ceasefire at breaking point — expires Wednesday April 22**: Both the US and Iran have accused each other of violations (IRGC firing on Indian tankers *Sanmar Herald* and *Jag Arnav* on April 18; US seizing *Touska* on April 19). Trump said US officials are heading to Islamabad for talks; Iran's FM spokesperson Esmaeil Baqaei said "there is no plan for a second round of negotiations with the US for now." The ceasefire expires in two days.
+- **Iranian crude operations at Chabahar**: Windward Multi-Source Intelligence detected 7 VLCCs plus a ship-to-ship (STS) transfer involving two ~100-meter tankers off the Port of Chabahar on April 19 — Iranian dark-fleet oil export operations, not commercial Hormuz transits.
+- **LNG**: Zero commercial LNG transits. Two LNG carriers reversed course on April 18. 19 laden LNG carriers remain stranded inside the Persian Gulf (Kpler). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor still requires political agreement from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may exceed AIS-visible figures, though active gunboat enforcement and the imminent ceasefire expiry likely suppress even shadow-fleet activity. *Nova Crest* is the only AIS-confirmed laden transit on April 20.
+- **Sources**: [NBC News — US seized Iranian ship, Iran distances from deal, Hormuz closure](https://www.nbcnews.com/world/iran/iran-distance-peace-deal-hormuz-closure-halts-shipping-rcna340846) · [CNBC Apr 19 — Trump: Navy seized Touska](https://www.cnbc.com/2026/04/19/trump-navy-iran-ship-gulf-of-oman.html) · [CNBC Apr 20 — Seized ship, attacks push ceasefire toward brink](https://www.cnbc.com/2026/04/20/us-iran-war-middle-east-conflict-peace-deal-strait-hormuz-shipping-ceasefire-tensions.html) · [Al Jazeera Apr 19 — Trump says US seized Iran-flagged ship](https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade) · [NPR Apr 19 — US seizes Iranian cargo ship in Strait of Hormuz](https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible) · [The Jerusalem Post — US Marines rappel onto Touska after six-hour standoff](https://www.jpost.com/middle-east/iran-news/article-893549) · [The Week India Apr 20 — Iran vows retaliation after Touska seizure](https://www.theweek.in/news/middle-east/2026/04/20/strait-of-hormuz-iran-vows-swift-retaliation-after-us-navy-blows-a-hole-in-the-engine-room-of-cargo-ship-touska.html) · [CBS Live Updates — Trump says US officials heading to Pakistan, Iran says no plan for talks](https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz/) · [Windward AI Apr 19 Maritime Intelligence Daily](https://windward.ai/blog/april-19-2026-iran-war-maritime-intelligence-daily/) · [Bloomberg Apr 19 — Gunfire, U-turns, threats: chaotic Hormuz weekend](https://www.bloomberg.com/news/articles/2026-04-19/gunfire-u-turns-and-threats-mark-a-chaotic-weekend-in-hormuz) · [Bloomberg Apr 19 — Hormuz shipping traffic grinds to a halt](https://www.bloomberg.com/news/articles/2026-04-19/hormuz-shipping-traffic-grinds-to-a-halt-as-tensions-deepen)
+
+---
+
+## 2026-04-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | -1 (-50%) vs Apr 18 (~2) — all figures approximate |
+| 7-day average | 2.0 vessels/day (based on 7 days: Apr 12–18) |
+
+Secondary:
+- LNG: 0 vessels (active IRGC gunboat enforcement; 19 laden carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (UN corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from The Week, Daily News Egypt, Tribune India, Iran International, NBC News live blog, CNN, CNBC, NPR, Al Jazeera, Military.com, Euronews, and Newsweek. All vessel counts should be treated as approximate.
+- **MAJOR ESCALATION — IRGC gunboats fire on two Indian tankers after granting clearance**: IRGC gunboats opened fire on two Indian-flagged vessels — *Sanmar Herald* (VLCC, ~2M barrels Iraqi crude) and *Jag Arnav* — while both were transiting south of Larak Island in Iranian waters, despite having received IRGC clearance to proceed. Audio released captures the Sanmar Herald's captain: "You gave me clearance to go, you are firing now." Both vessels were forced to retreat westward back into the Persian Gulf. India summoned the Iranian envoy in Delhi in protest. This is the most severe active-enforcement incident against commercial shipping since the blockade began.
+- **8-vessel convoy turned back**: The two Indian tankers were part of a convoy of approximately 8 vessels (including a VLCC, product/chemical tankers, and LPG carriers) crossing Iranian waters south of Larak Island; the convoy is presumed to have retreated following the gunfire.
+- **Crude estimate basis**: With active IRGC gunboat attacks repelling commercial convoys including an Iraq-crude-laden VLCC, AIS-visible commercial crude transit appears to be zero on April 19. Estimate of ~1 crude vessel reflects possible shadow-fleet/sanctioned IRGC-corridor dark-transit activity not visible to public AIS. Traffic remains ~99% below the pre-war baseline of ~138 vessels/day.
+- **Iran's posture: "strict management and control" continues**: Following Saturday's armed reversal of the "completely open" announcement, Iran's armed forces spokesperson confirmed the strait has "returned to its previous state." IRGC warned that "approaching the Strait of Hormuz will be considered cooperation with the enemy, and any offending vessel will be targeted."
+- **Ceasefire expires Monday April 21 (2 days)**: Pakistan's military chief Gen. Asim Munir acting as intermediary; Iran stated it is reviewing new US proposals. Trump said he "may not extend" the ceasefire if a deal isn't reached by Wednesday, warning that otherwise "you have a blockade, and unfortunately we have to start dropping bombs again." Iran's FM Araghchi said the two sides were "inches away" from an agreement before the US engaged in "maximalism and shifting goalposts."
+- **LNG**: Zero LNG transits. Active gunboat enforcement makes commercial LNG transit effectively impossible today. 19 laden LNG carriers remain stranded inside the Persian Gulf (Kpler). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor proposal requires political agreement from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may exceed AIS-visible figures, though active gunboat enforcement today likely suppresses even shadow-fleet activity.
+- **Sources**: [The Week Apr 19 — Audio from Sanmar Herald: "You gave me clearance, you are firing now"](https://www.theweek.in/news/middle-east/2026/04/19/you-gave-me-clearance-to-go-you-are-firing-now-audio-from-sanmar-herald-indian-ship-shot-by-iran-in-strait-of-hormuz.html) · [Daily News Egypt Apr 18 — Two Indian tankers fired upon](https://www.dailynewsegypt.com/2026/04/18/two-indian-flagged-tankers-fired-upon-in-strait-of-hormuz-as-iran-asserts-control-over-waterway/) · [Tribune India — Indian vessels shot at, India summons Tehran envoy](https://www.tribuneindia.com/news/india/indian-vessels-shot-at-forced-out-of-strait-of-hormuz-by-iranian-navy/) · [Iran International Apr 18 — IRGC fires at Indian vessel](https://www.iranintl.com/en/202604183266) · [NBC News live blog — Two Indian ships under fire](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-says-strait-hormuz-reverted-strict-control-blames-us-rcna340767) · [CNN Apr 18 — Day 50, Iran closes Hormuz again](https://www.cnn.com/2026/04/18/world/live-news/iran-war-trump-israel) · [Military.com Apr 18 — Gunboats fire on tanker](https://www.military.com/daily-news/2026/04/18/iranian-gunboats-fire-tanker-strait-of-hormuz-iran-reimposes-restrictions.html) · [Euronews Apr 18 — UK military: gunboats fire on tanker](https://www.euronews.com/2026/04/18/iran-says-strait-of-hormuz-will-not-remain-open-if-us-blockade-continues) · [Al Jazeera Apr 18 — Iran closes Hormuz again](https://www.aljazeera.com/news/2026/4/18/iran-closes-strait-of-hormuz-again-over-us-blockade-of-its-ports) · [NPR Apr 18 — Iran says Hormuz closed again as ceasefire nears end](https://www.npr.org/2026/04/18/nx-s1-5789780/iran-middle-east-updates) · [CNBC Apr 18 — Hormuz closed again; Trump says good news on talks](https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html) · [Newsweek — IRGC fires on tanker, what to know](https://www.newsweek.com/iranian-gunboats-fire-tanker-strait-hormuz-11849043)
+
+---
+
+## 2026-04-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Apr 17 (~2) — all figures approximate |
+| 7-day average | 2.3 vessels/day (based on 7 days: Apr 11–17) |
+
+Secondary:
+- LNG: 0 vessels (empty Abu Dhabi LNG tankers approached strait but blocked; 19 laden carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (no confirmed transits; UN corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, CNBC, ABC News, Al Jazeera, Kpler, Windward AI, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **MAJOR DIPLOMATIC WHIPSAW — Iran declares "completely open," then reverses**: Iran's Foreign Minister Abbas Araghchi declared the Strait "completely open" to all commercial vessels in conjunction with the Israel-Hezbollah 10-day ceasefire that took effect at midnight Friday/Saturday. Hours later, parliament speaker Mohammad Ghalibaf contradicted the FM: "With the continuation of the [US] blockade, the Strait of Hormuz will not remain open." On Saturday, Iranian state TV quoted Iran's Armed Forces spokesperson confirming the Strait "has returned to its previous state" under "strict management and control" — explicitly accusing the US of "piracy and maritime robbery."
+- **~Two dozen ships approached, most turned back**: About two dozen bulk carriers and VLCCs sailed toward the strait Friday morning amid the "completely open" announcement. Kpler's Matt Smith (director of commodity research): "They've clearly not been given approval to pass through." Most vessels reversed course back into the Persian Gulf. Oil prices plunged: Brent -9% to ~$90.38/bbl, WTI -11.45% to ~$83.85/bbl — the market pricing in full reopening before AIS data confirmed nothing had actually changed.
+- **Crude estimate basis**: No confirmed AIS-visible crude tankers transiting on April 18. Windward data for April 17 showed outbound traffic consisted of container vessel *MM Madrid* (St. Kitts & Nevis) and two Iranian military landing craft (*Shahin Salakh*, *Ghazaldarya*) — zero confirmed crude outbound. April 18 estimate of ~2 crude vessels reflects continuation of shadow-fleet/IRGC-corridor activity (dark transits not visible to AIS); legitimate commercial tanker attempts were blocked. Traffic remains ~99% below pre-war baseline of ~138 vessels/day.
+- **US blockade stance unchanged**: Trump stated the US blockade "will remain in full force" until a peace deal is concluded and the US's "transaction" with Iran is complete. Secretary of State Marco Rubio urged European nations to rapidly decide on reimposing sanctions against Iran, warning Iran is nearing nuclear-weapon capability and violating existing agreements.
+- **Ceasefire expires April 21 (3 days away)**: The US-Iran two-week ceasefire is set to expire Monday April 21 — the highest-stakes near-term catalyst. The Lebanon ceasefire (10 days) runs through approximately April 27. No second round of US-Iran nuclear talks confirmed; Rubio's sanctions push signals a harder US negotiating posture going into expiry.
+- **LNG**: Zero LNG transits. Empty Abu Dhabi LNG tankers (ADNOC-linked) were reported approaching the strait on April 17 seeking Gulf access, but no confirmation they transited; Iran's Saturday reversal makes a successful inbound LNG transit highly unlikely. 19 laden LNG carriers remain stranded inside the Persian Gulf (Kpler). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor proposal requires political agreement from both US and Iran. Urea prices remain ~$826/MT (up ~70% vs pre-war ~$490/MT).
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; the ~2 crude estimate is inferred from continuing IRGC corridor operations that are not fully AIS-visible. Actual transit counts may exceed confirmed figures.
+- **Sources**: [Bloomberg Apr 17 — Iran says Hormuz "fully open"; shipowners wary](https://www.bloomberg.com/news/articles/2026-04-17/shipowners-and-oil-traders-wary-as-iran-says-hormuz-fully-open) · [Bloomberg Apr 17 — Few tankers observed exiting before reopening](https://www.bloomberg.com/news/articles/2026-04-17/hormuz-tracker-few-tankers-observed-exiting-before-reopening) · [Bloomberg Apr 17 — Abu Dhabi LNG vessels seek Gulf access](https://www.bloomberg.com/news/articles/2026-04-17/empty-lng-tankers-attempt-hormuz-crossing-into-persian-gulf) · [CNBC Apr 17 — Iran declares open, Trump says blockade active](https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html) · [CNBC Apr 17 — Oil prices plunge 10%+ on Hormuz open claim](https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html) · [ABC7/ABC News — Hormuz "returns to previous state," Iranian state TV](https://abc7chicago.com/live-updates/iran-war-straight-hormuz-blockade-oil-prices-us-stock-market-ceasefire/18880313/) · [10TV/AP — Iran reimposed restrictions, accuses US of violating deal](https://www.10tv.com/article/news/nation-world/attack-on-iran/iran-strait-of-hormuz-closed-blockade-united-states-war/507-7b3ebdab-9acc-49e7-83fb-2c35bdb1daa9) · [Al Jazeera Apr 18 live — Hormuz "shut down again over US piracy"](https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks) · [NBC News live blog — Iran "completely open"; Trump blockade in full force](https://www.nbcnews.com/world/iran/live-blog/live-updates-israel-lebanon-ceasefire-trump-iran-talks-hormuz-summit-rcna332294) · [Kyiv Post — Iran parliament speaker accuses Trump of falsehoods](https://www.kyivpost.com/post/74195) · [RedState — Iranian official says Hormuz closed again; Trump violated deal](https://redstate.com/streiff/2026/04/17/iranian-official-says-strait-of-hormuz-is-closed-again-because-trump-violated-the-deal-n2201411) · [Windward AI Apr 16 daily (Apr 17 vessel detail)](https://windward.ai/blog/april-16-maritime-intelligence-daily/)
+
+
+---
+
 ## 2026-04-17
 
 | Metric | Value |
