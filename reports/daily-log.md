@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-24
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (0, 0%) vs Apr 23 (~1) — all figures approximate |
+| 7-day average | 1.3 vessels/day (based on 7 days: Apr 17–23) |
+
+Secondary:
+- LNG: 0 vessels (still locked inside Gulf; no transit since *Sohar LNG* Apr 2–3)
+- Fertilizer: 0 vessels (UN corridor still requires political agreement; none reached)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from CNBC (LSEG data), Bloomberg, Al Jazeera, NPR, NBC News, Euronews, Rigzone, and UANI shipping updates. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: LSEG data cited by CNBC (April 23 article) showed "at least 8 ships including 3 oil tankers" on Wednesday April 22; April 23 LSEG reported "two cargo vessels, but no tankers" crossing so far that day — consistent with ~0–1 crude for April 23. "At least nine tankers have transited since Monday [April 21]" per LSEG. April 24 estimate of ~1 (possibly 0) reflects continued near-total suppression: Rigzone Apr 24 ("Hormuz Tensions Heat Up") and Brent rising above $106/bbl both signal no recovery. Traffic remains ~99% below pre-war baseline of ~138 vessels/day.
+- **7-day average basis (Apr 17–23)**: Apr 17 (~2) + Apr 18 (~2) + Apr 19 (~1) + Apr 20 (~1) + Apr 21 (~1) + Apr 22 (~1) + Apr 23 (~1) = 9 / 7 ≈ 1.3 vessels/day. Full per-day reconstruction in prior log entries.
+- **ESCALATION — Mutual ship seizures continue**: US Navy seized Iran-linked tanker *Tifani* (Apr 21); Iran seized two cargo ships in the strait (Apr 22); Iran fired on and captured three additional vessels (Apr 22); US seized tanker *Majestic X* in the Indian Ocean (Apr 23, bound for China). US also blocked M/V *Hero II*, *Hedy*, and *Dorena*. Iran called all US seizures "piracy."
+- **Trump's mine shoot-order (Apr 23)**: Trump ordered US Navy to "destroy any Iranian boats laying mines" in the Strait. Pentagon confirmed clearing existing sea mines could take up to six months — a structural barrier to reopening even after any diplomatic resolution.
+- **Iran parliament: reopening "impossible"**: Speaker Mohammad Bagher Ghalibaf stated reopening the strait is "impossible" while the US blockade remains, calling it "a blatant violation of the ceasefire."
+- **Ceasefire extended indefinitely**: Trump extended the ceasefire (originally set to expire Apr 21) "indefinitely" to give Iran time to deliver a "unified proposal," but explicitly kept the US naval blockade in place. Iran's ship seizures followed within hours.
+- **Oil at crisis high**: Brent above $106/bbl on April 24 — a fifth consecutive day of gains, up ~75% year-to-date; highest of the crisis. Goldman Sachs and Citi warning of sustained >$100 oil.
+- **LNG**: Zero LNG transits. All carriers remain stranded in the Persian Gulf. Only 1 laden LNG transit since Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor requires political green light; no agreement. Urea ~$826/MT (up ~70% vs pre-war ~$490/MT). Spring planting season near peak.
+- **Mine/AIS caveat**: Iranian sea mines confirmed present in the strait area; IRGC AIS spoofing continues. Actual transits may exceed AIS-visible counts, but mine risk is suppressing voluntary transit attempts.
+- **Sources**: [CNBC Apr 23 — US-Iran naval standoff, both seize ships](https://www.cnbc.com/2026/04/23/iran-war-strait-hormuz-tanker-traffic-oil.html) · [CNBC Apr 22 — Hormuz remains basically closed](https://www.cnbc.com/2026/04/22/iran-war-strait-hormuz-tanker-ship-trump-blockade.html) · [Al Jazeera Apr 23 — How Iran raised stakes by capturing ships](https://www.aljazeera.com/news/2026/4/23/how-iran-raised-hormuz-stakes-by-capturing-ships) · [NPR Apr 22 — Iran says it seized ships amid ceasefire](https://www.npr.org/2026/04/22/nx-s1-5795405/iran-middle-east-updates) · [NBC News — Iran seizes ships after Trump extends ceasefire](https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-trump-ceasefire-hormuz-attack-peace-talks-israel-rcna341361) · [Euronews Apr 23 — US and Iran continue seizing ships](https://www.euronews.com/2026/04/23/us-and-iran-continue-seizing-ships-in-tense-hormuz-standoff) · [Rigzone Apr 24 — Hormuz Tensions Heat Up](https://www.rigzone.com/news/wire/hormuz_tensions_heat_up-24-apr-2026-183530-article/) · [Al Jazeera Apr 21 — US forces detain tanker Tifani](https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge) · [Al Jazeera Apr 22 — Iran calls US seizure 'piracy'](https://www.aljazeera.com/news/2026/4/22/iran-calls-us-ship-seizure-piracy-is-it) · [Inquirer/AP Apr 23 — Trump orders Navy to shoot Iranian boats laying mines](https://www.inquirer.com/wires/ap/us-seizes-oil-tanker-iran-20260423.html) · [Bloomberg Apr 21 — Three ships attempt Hormuz transits](https://www.bloomberg.com/news/articles/2026-04-21/three-ships-including-an-iranian-vessel-attempt-hormuz-transits)
+
+---
+
 ## 2026-04-23
 
 | Metric | Value |
