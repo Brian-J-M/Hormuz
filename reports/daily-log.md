@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-25
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate; possibly 1) |
+| vs prior day | flat (0, 0%) vs Apr 24 (~1) — all figures approximate |
+| 7-day average | 1.1 vessels/day (based on 7 days: Apr 18–24) |
+
+Secondary:
+- LNG: 0 vessels (all carriers stranded inside Gulf; no transit since *Sohar LNG* Apr 2–3)
+- Fertilizer: 0 vessels (UN corridor still requires political agreement; none reached)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Windward AI (Apr 23 breakdown), Voice of Emirates (Apr 24), Al Arabiya/Reuters/Shafaq (HELGA arrival), NBC News live blog (Apr 25), CNN Day 56 live blog (Apr 24), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: Windward AI data for April 23 confirmed **zero crude oil tankers** in 5 total transits (1 inbound Comoros-flagged aggregate carrier *ARAD 10*; 4 outbound: asphalt/bitumen tanker *MARINE FLUX* [Barbados], bulk carrier *LB ENERGY* [Panama], container *SERRANO* [Togo], unidentified Iranian cargo hull). All five transits were dark — zero AIS-visible crossings in either direction. April 24 Voice of Emirates/Reuters also confirmed 5 total ships in 24 hours. April 25 estimated at ~0 confirmed crude outbound, consistent with this pattern; shadow-fleet dark activity may contribute ~1 unconfirmed crude transit.
+- **RECOVERY SIGNAL — Tanker HELGA arrives at Basra (Apr 25)**: Comoros-flagged tanker *HELGA* arrived at Iraq's Basra offshore terminal on April 25 to load 2 million barrels of crude — the **2nd inbound tanker to reach Iraq's terminals since Hormuz closure** (1st arrived ~April 17). Baghdad brokered "understandings" with both the US and Iran to allow this transit. Not an outbound laden crude transit, but signals a slowly widening Iraq-specific exemption corridor that may precede broader reopening.
+- **International mine-clearing coalition forming**: Italy announced deployment of 4 warships including 2 advanced minesweepers to join UK, France, Belgium, and Netherlands. Pentagon previously stated mine-clearing could take up to 6 months — a structural barrier to reopening even after any diplomatic resolution.
+- **Iranian fast boats escalating risks**: IRGC fast boats are actively escalating navigation risks in the strait; dozens of ships changed course on April 24 to avoid IRGC engagement.
+- **Mutual seizures ongoing**: US has seized/turned around 33+ Iran-linked vessels; Iran holds multiple foreign commercial vessels seized April 22. No resolution.
+- **Iran FM in Pakistan (Apr 25)**: Foreign Minister Araghchi met Pakistani officials in Islamabad for mediated consultations. No US-Iran direct meeting confirmed; Pakistan continues mediation. Ceasefire remains extended indefinitely by Trump.
+- **Brent above $107/bbl**: Oil rose above $107/bbl on April 24, up from $106 on April 23 — 6th consecutive daily gain and highest of the crisis. Goldman Sachs, Citi warning of sustained >$100 oil.
+- **LNG**: Zero LNG transits. All laden LNG carriers remain stranded inside the Persian Gulf. Only 1 laden LNG transit since Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN corridor requires political green light; no agreement. Urea ~$826/MT (~70% above pre-war ~$490/MT). Spring planting season at peak.
+- **AIS caveat**: All April 23 transits were fully dark (zero AIS-visible crossings per Windward AI). Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may marginally exceed confirmed figures.
+- **Sources**: [Voice of Emirates Apr 24 — Only 5 ships in 24 hours](https://www.voiceofemirates.com/en/news/2026/04/24/near-total-paralysis-in-the-strait-of-hormuz-only-5-ships-passed-through-in-24-hours/) · [Voice of Emirates Apr 24 — Oil above $107 amid tanker war](https://www.voiceofemirates.com/en/business/2026/04/24/oil-prices-soar-above-107-amid-the-tanker-war-in-the-strait-of-hormuz/) · [Voice of Emirates Apr 24 — Italy minesweepers](https://www.voiceofemirates.com/en/news/2026/04/24/italy-announces-readiness-to-deploy-minesweepers-in-the-strait-of-hormuz-to-secure-navigation/) · [Voice of Emirates Apr 24 — Iranian fast boats escalate risks](https://www.voiceofemirates.com/en/news/2026/04/24/iranian-fast-boats-escalate-navigation-risks-in-the-strait-of-hormuz/) · [Al Arabiya Apr 24 — HELGA at Basra](https://english.alarabiya.net/business/energy/2026/04/24/tanker-helga-arrives-at-iraq-s-basra-terminal-to-load-crude-second-since-hormuz-closure) · [Shafaq News — Second tanker reaches Basra since Hormuz closure](https://shafaq.com/en/Economy/Second-tanker-reaches-Basra-since-Hormuz-closure) · [MarineLink/Reuters — HELGA loads 2M barrels at Basra](https://www.marinelink.com/blogs/blog/sources-confirm-that-the-tanker-helga-has-arrived-at-basras-104641) · [NBC News live blog Apr 25 — Iran war: Israel, Lebanon extend ceasefire](https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-blockade-ceasefire-talks-lebanon-israel-rcna341831) · [CNN Day 56 Apr 24 — Uncertainty in US-Iran peace talks](https://www.cnn.com/2026/04/24/world/live-news/iran-war-trump-israel-lebanon) · [Al Jazeera Apr 24 — Oil above $106, US-Iran deadlocked](https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz) · [Invezz Apr 24 — Iran has 2.5 months of oil supply at sea](https://invezz.com/news/2026/04/24/hormuz-traffic-slows-but-iran-already-has-2-5-months-of-oil-supply-at-sea/)
+
+---
+
 ## 2026-04-24
 
 | Metric | Value |
