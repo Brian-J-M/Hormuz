@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-26
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (~0, 0%) vs Apr 25 (~0) — both figures approximate; marginal change within measurement uncertainty |
+| 7-day average | 0.9 vessels/day (based on 7 days: Apr 19–25) |
+
+Secondary:
+- LNG: 0 vessels (all carriers remain stranded inside Gulf; no transit since *Sohar LNG* Apr 2–3)
+- Fertilizer: 0 vessels (UN corridor still requires political agreement; none reached)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg (Apr 26 double-blockade analysis), CNBC (LSEG tracking data), USNews, Windward AI, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: Near-zero for a seventh consecutive day. Bloomberg's April 26 analysis confirms the double blockade "halts ship traffic." April 25 log showed ~0 crude confirmed; April 24 ~1 (possibly 0). Pattern of 0–1 crude transits/day has held since April 20. Traffic remains ~99%+ below the pre-war baseline of ~138 vessels/day (~17–21 crude/day).
+- **Bloomberg Apr 26 — "Hormuz Double Blockade Halts Ship Traffic, Dims Hope for Economy"**: Bloomberg's comprehensive analysis published today confirms the double-blockade dynamic: (1) US Navy has turned around 33+ Iran-linked vessels at Iranian ports; (2) Iran's IRGC "mosquito fleet" of gunboats enforcing waterway closure against unauthorized commercial shipping. Bloomberg's traffic data: 11 commercial ships observed on Tuesday (April 21); ~16/day over the prior weekend — both figures far below the ~135/day pre-war normal. Shipowners quoted as saying "a return to normal shipments is months away, at best."
+- **IMF Middle East & Central Asia Regional Economic Outlook (April 2026)**: IMF characterised the Hormuz disruption as the largest supply shock in modern oil market history, with Gulf oil exports collapsing by >60% from normal volumes. WEO projects significant downward revisions to Gulf state growth forecasts; GCC fiscal buffers under pressure at sustained $100+ oil with suppressed export volumes.
+- **Double blockade persists**: US has now turned around 33+ Iran-linked ships (up from 31 cited April 24). Iran continues to hold *MSC Francesca*, *Epaminondas*, and other vessels seized April 22+. Iran parliament speaker Ghalibaf reiterated reopening is "impossible" while the US port blockade remains. No direct US-Iran negotiations currently active.
+- **Ceasefire status**: Ceasefire extended indefinitely by Trump (April 21) but US naval blockade remains in place; Iran has not accepted renewed talks framework. Pakistan (FM Araghchi Islamabad visit April 25) continues mediation. No timeline for resolution.
+- **LNG**: Zero LNG transits. All laden carriers remain stranded inside the Persian Gulf. Only 1 laden LNG transit since Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT). Spring planting season at peak; UN warning of downstream H2 2026 food-supply impact.
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS; actual transit counts may marginally exceed confirmed figures. Active IRGC fast-boat patrols continue to suppress voluntary transit attempts.
+- **Sources**: [Bloomberg Apr 26 — Hormuz double blockade halts ship traffic](https://www.bloomberg.com/news/articles/2026-04-26/iran-war-hormuz-double-blockade-halts-ship-traffic-dims-hope-for-the-economy) · [CNBC Apr 23 — US-Iran naval standoff, both seize ships](https://www.cnbc.com/2026/04/23/iran-war-strait-hormuz-tanker-traffic-oil.html) · [USNews Apr 24 — Only five ships pass in 24 hours](https://www.usnews.com/news/world/articles/2026-04-24/only-five-ships-pass-through-strait-of-hormuz-in-24-hours) · [Bloomberg Apr 23 — Hormuz near-total freeze as US blockade holds](https://www.bloomberg.com/news/articles/2026-04-23/hormuz-tracker-shipping-near-total-freeze-as-us-blockade-holds) · [IMF April 2026 Middle East & Central Asia REO](https://www.imf.org/-/media/files/publications/reo/mcd-cca/2026/english/text.pdf) · [Al Jazeera Apr 24 — How long can Iran survive US blockade?](https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade) · [Misbar Apr 24 — IRGC seizes two container ships after truce extension](https://www.misbar.com/en/editorial/2026/04/24/iran-escalates-strait-hormuz-irgc-seizes-two-container-ships-after-truce-extension)
+
+---
+
 ## 2026-04-25
 
 | Metric | Value |
