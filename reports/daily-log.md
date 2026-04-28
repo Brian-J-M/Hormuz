@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-28
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (~0, 0%) vs Apr 27 (~1) — both figures approximate; within measurement uncertainty |
+| 7-day average | 0.9 vessels/day (based on 7 days: Apr 21–27) |
+
+Secondary:
+- LNG: 0 vessels (all laden carriers remain stranded inside Gulf; no transit since *Sohar LNG* Apr 2–3)
+- Fertilizer: 0 vessels (UN corridor still requires political agreement; none reached)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; no April 28-specific vessel-count reporting retrieved (most secondary sources also returned HTTP 403 today). Figures extrapolated from the established pattern of 0–1 crude transits/day that has held continuously since April 20. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: Pattern of 0–1 crude transits/day persists for Day 9. Prior seven confirmed-day readings: Apr 21–27 all show ~1 (except Apr 25 ~0), consistent with near-total suppression. Traffic remains ~99%+ below the pre-war baseline of ~138 vessels/day (~17–21 crude/day).
+- **RECOVERY SIGNAL PENDING — US response to Iran interim deal (carry-over from Apr 27)**: Bloomberg/Axios reported April 27 that Iran conveyed via Pakistani mediators a proposal to reopen the Strait in exchange for lifting the US port blockade, with nuclear negotiations deferred. As of end-of-day April 27, the US response was pending. Any affirmative US response would be the most concrete reopening catalyst to date. Monitoring for April 28 developments.
+- **Double blockade persists**: US CENTCOM enforcement of outbound Iran-port blockade (37+ ships redirected as of Apr 27, up from 33 on Apr 26) continues. Iran IRGC fast-boat patrols maintain inbound restrictions. Mutual vessel-seizure standoff unresolved; Iran holds *MSC Francesca*, *Epaminondas*, and others seized April 22+.
+- **Ceasefire**: Extended indefinitely by Trump (Apr 21); no new deadline. Pakistan mediation continues.
+- **Brent crude**: ~$107/bbl range persisting (Apr 27 close); any US affirmative response to Iran deal offer would likely cause a sharp move downward.
+- **LNG**: Zero LNG transits. All laden carriers remain stranded inside the Persian Gulf. Only 1 laden LNG transit since Feb 28 (*Sohar LNG*, Apr 2–3). JKM spot prices remain elevated. Qatar Ras Laffan operating at ~83% capacity after Mar 18 strike.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT). Spring planting season at peak; UN downstream food-supply warning for H2 2026 remains active.
+- **Mine-clearing barrier**: Baker Hughes CEO (Apr 24) estimated Strait may not fully reopen until H2 2026 even after diplomatic resolution; Pentagon confirmed mine-clearing lead time up to 6 months.
+- **AIS caveat**: Shadow-fleet and sanctioned vessels routinely disable/spoof AIS. Dark activity events persist; actual crude flows may marginally exceed confirmed AIS-visible figures. No April 28 Windward AI update accessible.
+- **Sources**: No April 28-specific primary sources retrieved (HTTP 403 across all attempted outlets). Entry based on: [Bloomberg Apr 27 — Iran Suggests Interim Deal to US to Reopen Hormuz](https://www.bloomberg.com/news/articles/2026-04-27/iran-suggests-interim-deal-to-us-to-reopen-hormuz-axios-says) · [The Media Line — US says 37 ships redirected](https://themedialine.org/headlines/us-says-37-ships-redirected-under-iran-blockade/) · prior log entries Apr 20–27.
+
+---
+
 ## 2026-04-27
 
 | Metric | Value |
