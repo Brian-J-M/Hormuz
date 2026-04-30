@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-04-30
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (+0, 0%) vs Apr 29 (~1) — all figures approximate |
+| 7-day average | 0.9 vessels/day (based on 7 days: Apr 24–30) |
+
+Secondary:
+- LNG: 0 vessels (Japanese-owned LNG carrier transited Apr 29 — no confirmed repeat today)
+- Fertilizer: 0 vessels (UN corridor still awaiting political agreement)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from IBTimes (Apr 30 direct report), Windward AI (Apr 29 daily), Kpler/Hormuz Strait Monitor, Lloyd's List, Bloomberg, Al Jazeera, NBC News, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: Total strait crossings on April 30 reported at ~7 vessels (IBTimes/Kpler, April 30) — down from 13 on April 28 and the milestone-driven transit volumes of April 28–29. No specific crude vessel count for April 30 is publicly confirmed; estimate of ~1 (possibly 0) reflects the established 0–1 crude transits/day pattern persisting since April 20, with total transits declining from the recent high. Windward AI (April 29 report) noted no VLCCs laden with Iranian crude have transited the Strait of Malacca eastbound since April 24 — the longest such streak since the conflict began; Iranian crude shipments to Asia have more than halved over the prior 10 days. Traffic remains ~95%+ below pre-war baseline (~60 commercial vessels/day).
+- **Traffic decline from Apr 28–29 high**: Total transits fell from 13 on April 28 to ~7 on April 30 — a sharp reversal after the milestone movements of the Idemitsu Maru (Japanese crude VLCC, Apr 28–29), Mubaraz (ADNOC LNG, Apr 27–28), and a Japanese-owned LNG carrier (Apr 29). These appear to be isolated diplomatic breakthroughs rather than the start of a sustained resumption.
+- **148 dark AIS events (surge) — Apr 29 Windward report**: Windward AI's April 29 report flagged 148 dark AIS events in the Gulf — a sharp single-day surge. A cluster of 5 dark tankers near Chabahar holding an estimated 7–8 million barrels of capacity was identified, suggesting shadow-fleet staging outside enforcement zones via Iran's non-Hormuz port.
+- **US-Iran talks stalled**: Strait described as "heavily restricted" and peace talks as "stalled" (IBTimes, April 30). Iran's April 27 interim proposal (reopen Hormuz in exchange for lifting US naval blockade, nuclear talks deferred) received a cool US response. Al Jazeera (April 28) confirmed US and Iranian proposals remain far apart. No new negotiations in Islamabad.
+- **Trump "Iran in collapse" signal**: Trump's April 28 statement that Iran was "in a state of collapse" and wanted the US to open Hormuz is the most positive diplomatic signal from either side since the ceasefire extension on April 21 — but has not translated into resumed talks or transit recovery as of April 30.
+- **Double blockade persists**: US CENTCOM naval blockade of Iranian ports (37+ ships redirected) continues; Iran IRGC restricting Hormuz inbound traffic. Mutual vessel seizures unresolved (US holds *Tifani*, *Majestic X*; Iran holds *MSC Francesca*, *Epaminondas*, and others). IRGC toll corridor nominally active but functioning at degraded capacity following April 13–22 breakdown.
+- **LNG**: 0 new LNG transits confirmed for April 30. A Japanese-owned, Panama-flagged LNG carrier transited on April 29 (Windward AI) — not captured in the April 29 log entry. All other laden LNG carriers remain stranded inside the Gulf (~17–18 vessels). JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor task force confirmed readiness but still awaiting political agreement from US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT). FAO warns of global agrifood catastrophe risk from continued disruption.
+- **Mine-clearing structural barrier**: Pentagon briefed Congress (April 21) that clearing Iranian sea mines could take up to 6 months after any diplomatic resolution — a structural barrier to full reopening regardless of ceasefire progress.
+- **Polymarket resolution**: Prediction market "Strait of Hormuz traffic returns to normal by April 30" resolved NO — consistent with current ~5–8% of pre-war normal traffic levels (Kpler/IBTimes).
+- **~2,000 vessels stranded**: ~2,000 ships and ~20,000 seafarers remain stranded inside the Persian Gulf, awaiting safe passage (Euronews, April 27).
+- **Sources**: [IBTimes Apr 30 — Strait of Hormuz Remains Heavily Restricted Amid Stalled US-Iran Talks](https://www.ibtimes.com.au/strait-hormuz-remains-heavily-restricted-april-30-amid-stalled-us-iran-talks-1867849) · [Windward AI Apr 29 — Maritime Intelligence Daily](https://windward.ai/blog/april-29-maritime-intelligence-daily/) · [Windward AI Apr 28 — Maritime Intelligence Daily](https://windward.ai/blog/april-28-maritime-intelligence-daily/) · [Al Jazeera Apr 28 — When will Strait of Hormuz be safe for commercial shipping?](https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again) · [Bloomberg Apr 22 — Trump extends ceasefire, Hormuz blockade as peace talks stumble](https://www.bloomberg.com/news/articles/2026-04-22/trump-extends-iran-ceasefire-blockade-as-peace-talks-stumble) · [NBC News — US appears cool on Iran proposal to end war and reopen Hormuz](https://www.nbcnews.com/world/iran/trumpl-iran-proposal-end-war-reopen-hormuz-nuclear-deal-oil-storage-rcna342441) · [Lloyd's List — Tehran's toll booth system is now controlling Hormuz traffic](https://www.lloydslist.com/LL1156720/Tehrans-toll-booth-system-is-now-controlling-Hormuz-traffic) · [Lloyd's List — At least 26 Iranian shadow fleet vessels bypass US blockade](https://www.lloydslist.com/LL1156966/At-least-26-Iranian-shadow-fleet-vessels-bypass-US-blockade) · [Axios Apr 27 — Iran offers US deal to reopen Hormuz strait, postpone nuclear talks](https://www.axios.com/2026/04/27/iran-us-hormuz-strait-nuclear-talks-proposal-pakistan) · [Polymarket — Strait of Hormuz traffic returns to normal by April 30](https://polymarket.com/event/strait-of-hormuz-traffic-returns-to-normal-by-april-30) · [CNN Apr 29 — Visualizing shipping through the Strait of Hormuz since war began](https://www.cnn.com/2026/04/29/world/iran-war-gulf-hormuz-shipping-maps-intl-vis) · [FAO — Hormuz disruption could drive global food inflation](https://www.globalsecurity.org/military/library/news/2026/04/mil-260413-fao01.htm)
+
+---
+
 ## 2026-04-29
 
 | Metric | Value |
