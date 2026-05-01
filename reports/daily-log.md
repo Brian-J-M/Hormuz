@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-01
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (+0, 0%) vs Apr 30 (~1) — all figures approximate |
+| 7-day average | 0.9 vessels/day (based on 7 days: Apr 24–30) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed new transit; Japanese-owned LNG carrier exited Apr 29 — isolated event)
+- Fertilizer: 0 vessels (UN corridor still awaiting political agreement)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from CNN (May 1 War Powers deadline coverage), CNBC (Apr 30 ceasefire loophole report), CBS News, Truthout, Al Jazeera, Wikipedia (2026 Strait of Hormuz crisis), Windward AI Apr 29 daily (20 crossings), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No specific May 1 crude transit confirmed in any accessible source. The 0–1 crude/day pattern has held since April 20 without interruption (excepting the isolated Idemitsu Maru transit Apr 28–29). Windward AI data for April 29 showed 20 total Hormuz crossings (6 inbound, 14 outbound) — the highest single-day total in weeks — but the crude fraction of those outbound movements was predominantly Iranian/Curaçao-flagged high-risk tonnage, not commercial crude VLCCs. Total traffic running ~5–10 vessels/day per Kpler/Bloomberg, approximately 5% of pre-war normal (~140 commercial vessels/day). May 1 estimate of ~1 (possibly 0) reflects continuation of pattern.
+- **WAR POWERS ACT 60-DAY DEADLINE — May 1**: Today marks the 60-day deadline under the War Powers Resolution from Trump's March 2 Congressional notification of hostilities. Trump administration argues the ongoing ceasefire "pauses or stops" the clock (Defense Secretary Hegseth, Senate testimony). Congressional divisions (Democrat/Republican) make a formal authorization vote uncertain. Democrats are exploring litigation. This is the highest-stakes political/legal development of the conflict to date and could force a congressional debate on the war — a potential catalyst for either escalation or de-escalation of the blockade.
+- **Double blockade unchanged**: US CENTCOM naval blockade of Iranian ports continues; Iran IRGC restricting Hormuz inbound traffic. Mutual vessel seizures unresolved (US holds *Tifani*, *Majestic X*; Iran holds *MSC Francesca*, *Epaminondas*, and others). Deadlock persists.
+- **Negotiations deadlocked**: US position requires Iran to address nuclear programme and ballistic missiles as part of any deal; Iran's Apr 27 proposal (reopen Hormuz for blockade lift, nuclear talks deferred) remains rejected in its current form. No new negotiations scheduled.
+- **LNG**: 0 new LNG transits confirmed for May 1. The Japanese-owned, Panama-flagged LNG carrier that transited Apr 29 (Windward AI) and the Mubaraz (Apr 27–28) remain isolated events. All other laden LNG carriers (~16–17 vessels) remain stranded inside the Gulf. JKM spot prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor task force confirmed readiness but still awaiting political agreement from US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **~2,000 vessels stranded**: ~2,000 ships and ~20,000 seafarers remain stranded inside the Persian Gulf (UN/Euronews). Mine-clearing structural barrier: Pentagon estimated up to 6 months after any diplomatic resolution.
+- **Sources**: [CNN May 1 — Iran war 60-day deadline: Congress can't agree when it is](https://www.cnn.com/2026/05/01/politics/iran-war-60-day-deadline-congress) · [CNBC Apr 30 — Trump admin faces 60-day Iran war deadline, floats ceasefire loophole](https://www.cnbc.com/2026/04/30/trump-iran-war-centcom-hormuz-congress.html) · [CBS News — Iran war nears key 60-day deadline](https://www.cbsnews.com/news/iran-war-powers-resolution-60-day-deadline-congress-trump/) · [Al Jazeera Apr 24 — Trump's May 1 deadline: Can he continue war on Iran?](https://www.aljazeera.com/news/2026/4/24/trumps-may-1-deadline-can-he-continue-war-on-iran-after-that) · [Truthout — May 1 marks a crucial War Powers deadline](https://truthout.org/articles/may-1-marks-a-crucial-war-powers-deadline-for-trumps-war-in-iran/) · [Windward AI Apr 29 — Maritime Intelligence Daily](https://windward.ai/blog/april-29-maritime-intelligence-daily/) · [IBTimes — Trump Panics as Iran-US War May 1 deadline nears](https://www.ibtimes.co.uk/trump-war-powers-resolution-iran-deadline-1793727) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-04-30
 
 | Metric | Value |
