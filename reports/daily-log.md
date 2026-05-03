@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-03
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; possibly 0) |
+| vs prior day | flat (+0, 0%) vs May 2 (~1) — all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days: Apr 26–May 2) |
+
+Secondary:
+- LNG: 0 vessels (no new transit since Apr 29 Japanese-owned carrier; ~15–17 laden LNG carriers remain stranded inside Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor confirmed ready but still awaiting political agreement from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all prior sessions); figures derived from CNBC (May 2 — Trump reviews Iran proposal), Claims Journal/Rigzone (May 1 — Iran delivers proposal), Windward AI (Apr 30 — 14 total crossings, 7 in/7 out, all AIS-active, zero dark transits), Al Jazeera (May 1 — shipping battleground), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No May 3-specific vessel-count report found in any accessible source. The 0–1 crude/day pattern has held continuously since April 20 (now Day 13). May 2 log entry confirmed ~1 (possibly 0). Pattern extrapolated forward; latest granular data point remains Windward AI Apr 30 (14 total crossings; crude fraction of outbound movements not separately broken out but consistent with 0–1/day). Traffic running ~5% of pre-war baseline (~140 commercial vessels/day).
+- **KEY DIPLOMATIC — Trump "reviewing" Iran's three-phase proposal (May 2)**: CNBC reported May 2 that Trump stated he is reviewing Iran's structured proposal delivered via Pakistan on May 1. The three-phase framework sequences: (1) full ceasefire, (2) Hormuz "management and security," (3) nuclear file — explicitly decoupling the strait reopening from the nuclear impasse. Iran's most structured proposal to date. No US decision announced as of opening May 3.
+- **HARDLINE COUNTER-SIGNAL — New Supreme Leader Mojtaba Khamenei (May 1)**: Iran's new supreme leader gave a public statement vowing not to relinquish nuclear or missile technologies and signaling Tehran intends to retain control of the Hormuz strait as strategic leverage. Significantly tempers deal optimism.
+- **US blockade: 44–45 vessels redirected** (CENTCOM as of May 1): US enforcement of the outbound Iranian-port blockade continues to widen. Up from 37 cited Apr 27, 33 cited Apr 26, 31 cited Apr 23.
+- **Double blockade persists unchanged**: US CENTCOM naval blockade of Iranian ports; Iran IRGC restricting inbound Hormuz commercial traffic. Mutual vessel-seizure standoff unresolved (US holds *Tifani*, *Majestic X*; Iran holds *MSC Francesca*, *Epaminondas*, and others). Iran parliament speaker Ghalibaf reiterated reopening "impossible" while US blockade remains.
+- **War Powers Act deadline passed (May 1)**: The 60-day War Powers Resolution deadline elapsed without congressional action. Trump administration argues the ceasefire "pauses" the clock. Democrats exploring litigation. No authorization vote scheduled — political/legal uncertainty adds to structural unpredictability of any resolution timeline.
+- **~2,000 vessels / ~20,000 seafarers stranded**: Dual blockade continues to trap ~2,000 ships and ~20,000 seafarers inside the Persian Gulf (UN/Euronews). Mine-clearing structural barrier: Pentagon estimates up to 6 months to clear Iranian sea mines after any diplomatic resolution.
+- **LNG**: Zero new LNG transits for May 3. The Apr 27–29 milestone events (Mubaraz ADNOC LNG; Japanese-owned LNG carrier) have not triggered a sustained resumption; ~15–17 laden LNG carriers remain stranded inside the Gulf. JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor task force confirmed operational readiness but awaiting political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS caveat**: WTO dashboard and Windward AI May 3 daily report both inaccessible (HTTP 403). Latest clean AIS snapshot is Windward Apr 30 (14 crossings, zero dark). Shadow-fleet and IRGC-controlled vessels routinely disable/spoof AIS; actual crude flows may marginally exceed AIS-confirmed counts.
+- **Sources**: [CNBC May 2 — Trump says he is reviewing a new Iranian proposal to end the war](https://www.cnbc.com/2026/05/02/trump-iran-strait-of-hormuz.html) · [Rigzone May 1 — Iran Delivers New Talks Proposal to USA as Hormuz Stays Shut](https://www.rigzone.com/news/wire/iran_delivers_new_talks_proposal_to_usa_as_hormuz_stays_shut-01-may-2026-183590-article/) · [Claims Journal May 1 — Iran Delivers New Proposal to US as Hormuz Remains Shut](https://www.claimsjournal.com/news/national/2026/05/01/337311.htm) · [Al Jazeera May 1 — 'Turbulent and dangerous': How shipping is the new global battleground](https://www.aljazeera.com/news/2026/5/1/turbulent-and-dangerous-how-shipping-is-the-new-global-battleground) · [Windward AI Apr 30 — Maritime Intelligence Daily (14 crossings, 7 in/7 out)](https://windward.ai/blog/april-30-maritime-intelligence-daily/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-02
 
 | Metric | Value |
