@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate; possibly 1) |
+| vs prior day | flat (0, 0%) vs May 5 (~0) — all figures approximate |
+| 7-day average | 0.9 vessels/day (based on 7 days: Apr 30–May 5) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed transit; NaturalGasIntel May 5 LNG approach unconfirmed for May 6)
+- Fertilizer: 0 vessels (UN humanitarian corridor awaiting political agreement)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from NBC News, CNN, CNBC, CBS News, ABC News, Bloomberg, Al Jazeera, Time, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **MAJOR DEVELOPMENT — Project Freedom PAUSED (May 6)**: Trump announced the pause of Operation Project Freedom on May 6, citing "Great Progress" toward a "Complete and Final Agreement with Representatives of Iran." The US blockade of Iranian ports remains in full force. Project Freedom achieved only 2 vessel transits in total (Alliance Fairfax vehicle carrier + 1 US-flagged merchant, May 4–5) before being shelved. Shipowners are now seeking alternative solutions (Bloomberg: "Shipowners Grapple for Fixes in Hormuz After Trump Drops Plan").
+- **Crude estimate basis**: No crude VLCCs confirmed transiting on May 6. Project Freedom (escorting non-crude US-flagged vessels) is paused. Blockade remains in force. Ships retreating from Hormuz since May 5 (Bloomberg). The 0–1 crude/day pattern has held since April 20 — now Day 17. Dark/shadow fleet vessels may attempt opportunistic transits; 1 dark-transit possible but unconfirmed. No AIS-confirmed crude movement.
+- **Oil market response**: Brent crude -8% to ~$101/barrel; WTI -9.2% to ~$92.8/barrel following pause announcement, reflecting market optimism that a deal could be imminent and the Hormuz crisis may de-escalate.
+- **~1,500 vessels / ~22,500 crew stranded** inside Persian Gulf (Al Jazeera/CENTCOM reporting; earlier estimates of ~2,000 ships may reflect total Gulf-wide shipping including vessels not in immediate transit hazard zones).
+- **Double blockade unchanged**: US CENTCOM naval blockade of Iranian ports continues; Iran IRGC restricting Hormuz inbound commercial traffic. Mutual vessel-seizure standoff unresolved (US holds *Tifani*, *Majestic X*; Iran holds *MSC Francesca*, *Epaminondas*, and others).
+- **LNG**: 0 confirmed new transits. NaturalGasIntel's May 5 report of an LNG vessel approaching the waterway remains unconfirmed; no transit recorded May 6. ~15–17 laden LNG carriers stranded inside Gulf.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor confirmed ready but awaiting political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS caveat**: WTO dashboard inaccessible (403). Latest confirmed AIS baseline is Windward AI May 4 (11 crossings total, 5 in/6 out; 10 of 11 AIS-active, 1 Southern Corridor dark transit). Shadow-fleet and IRGC-controlled vessels routinely disable/spoof AIS; actual crude flows may marginally exceed confirmed counts.
+- **Sources**: [NBC News May 6 — Trump pauses 'Project Freedom' in Strait of Hormuz, citing progress on an Iran deal](https://www.nbcnews.com/world/iran/us-iran-war-trump-open-hormuz-attacks-ships-ceasefire-rcna343604) · [CNBC May 6 — Trump pauses U.S. bid to guide ships out of Strait of Hormuz](https://www.cnbc.com/2026/05/05/trump-iran-deal-project-freedom-hormuz-strait.html) · [CNN May 6 — Live updates: Trump to pause US effort to guide ships through Strait of Hormuz](https://www.cnn.com/2026/05/06/world/live-news/iran-war-trump-strait-of-hormuz) · [CBS News May 6 — Trump pauses U.S. mission to guide ships through Strait of Hormuz](https://www.cbsnews.com/news/trump-pauses-u-s-mission-to-guide-ships-through-strait-of-hormuz-project-freedom/) · [ABC News May 6 — Iran live update: Trump says 'Project Freedom' paused](https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582) · [Bloomberg May 6 — Shipowners Seek Solutions in Hormuz After US Shelves Project Freedom Plan](https://www.bloomberg.com/news/articles/2026-05-06/shipowners-grapple-for-fixes-in-hormuz-after-trump-drops-plan) · [Time May 6 — Trump Pauses 'Project Freedom' in Hope of Deal With Iran](https://time.com/article/2026/05/06/trump-pauses-project-freedom-in-hope-of-deal-with-iran/) · [Al Jazeera May 5 — CENTCOM says Project Freedom has just 2 transits](https://www.aljazeera.com/news/2026/5/5/centcom-says-project-freedom-has-just-2) · [Bloomberg May 5 — Strait of Hormuz: Is Iran Blocking Shipping? What Is Trump's 'Project Freedom'?](https://www.bloomberg.com/news/articles/2026-05-05/strait-of-hormuz-is-iran-blocking-shipping-what-is-trump-s-project-freedom) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-05
 
 | Metric | Value |
