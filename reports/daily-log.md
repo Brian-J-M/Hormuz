@@ -4,6 +4,38 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate; possibly 1) |
+| vs prior day | flat (0, 0%) vs May 6 (~0) — all figures approximate |
+| 7-day average | 0.7 vessels/day (based on 7 days: Apr 30–May 6) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed transit; ~15–17 laden LNG carriers remain stranded inside Gulf; Persian Gulf Strait Authority process not yet yielding commercial LNG movement)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CNN live updates (May 7), Business Standard (May 7), NPR (May 6–7), Axios (May 6), ABC News, CNBC, Jerusalem Post, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **CRITICAL DIPLOMATIC — Iran's response to US MoU expected today (May 7)**: CNN live updates confirm "US awaits Iran's response to latest proposal to end war." Iran was expected to hand its reply to mediators on Thursday (May 7), per a regional source. The one-page, 14-point memorandum of understanding being negotiated between Trump's envoys (Steve Witkoff, Jared Kushner) and Iranian officials would: (1) declare an end to the war; (2) begin a 30-day detailed negotiation period covering Hormuz reopening, Iran's nuclear programme, and US sanctions relief; (3) require Iran to ease its grip on the Strait; (4) require the US to gradually lift its naval blockade. Key unresolved issue: Iran's toll/transit-fee demands via the new Persian Gulf Strait Authority.
+- **Nuclear enrichment moratorium gap**: Iran proposed a 5-year enrichment moratorium; US demanded 20 years; three sources indicate likely landing spot ~12–15 years. Gap remains the principal sticking point.
+- **Trump's ultimatum**: Trump warned (May 6) that if no deal is reached, "the bombing starts, and it will be, sadly, at a much higher level and intensity than it was before." Jerusalem Post: Iran has "one week" to respond.
+- **Crude estimate basis**: No May 7-specific crude VLCC transit confirmed in any accessible source. The 0–1 crude/day pattern holds — now Day 18 without a commercial crude VLCC. Project Freedom remains paused (total: 2 transits — Alliance Fairfax vehicle carrier + 1 US-flagged merchant). Double blockade unchanged. Dark/shadow fleet may attempt opportunistic transits; 1 possible but unconfirmed.
+- **Project Freedom paused (carry-forward)**: Operation shelved as of May 6. US naval presence (guided-missile destroyers, aircraft, drones, 15,000 personnel) remains in theatre but is not actively escorting commercial vessels while deal talks progress.
+- **Double blockade unchanged**: US CENTCOM naval blockade of Iranian ports continues; IRGC/Persian Gulf Strait Authority restricting Hormuz inbound commercial traffic. Mutual vessel-seizure standoff unresolved (US holds *Tifani*, *Majestic X*; Iran holds *MSC Francesca*, *Epaminondas*, and others). ~51 vessels redirected by CENTCOM since blockade began (updated from 44–45).
+- **~1,600 ships stranded** (updated): Washington Times/CNN put the figure at ~1,600 ships still stuck in the Strait area — slightly below the prior ~1,500–2,000 range from Al Jazeera/CENTCOM; figure likely reflects vessels that have already exited toward Dubai or the outer Gulf.
+- **Oil market signal**: Brent crude at ~$99.8/barrel on May 7 (-1.5% intraday), continuing the slide from ~$101 on May 6 — market pricing in improving deal probability. WTI at ~$91.5/barrel (est.).
+- **Persian Gulf Strait Authority (PGSA)**: Iran's new Hormuz toll/transit authority, launched May 5, began electronically contacting vessels with form requests covering destination, origin, flag history, cargo value, and crew nationalities. Insurance Journal (May 7): "Iran Sets Out Process for Hormuz Transit But Shipowners Are Wary." No commercial vessel has completed PGSA-authorised transit as of May 7. The PGSA's toll demand remains an unresolved element of MoU negotiations.
+- **French container ship struck (May 6)**: One new vessel attack reported on May 6 (Al Jazeera) — CMA CGM San Antonio or related French container ship. Pushes total confirmed maritime incidents toward 42+ since conflict began February 28.
+- **LNG**: 0 confirmed new transits. ~15–17 laden LNG carriers remain stranded inside the Gulf. PGSA process has not yielded any LNG transit authorisation. JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor confirmed operationally ready but still requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS caveat**: WTO dashboard inaccessible (403). No fresh Windward AI or Kpler daily update accessible for May 7. Latest granular AIS baseline remains Windward AI May 4 (11 crossings, 10 AIS-active, 1 Southern Corridor dark transit). Shadow-fleet and IRGC vessels routinely disable/spoof AIS; actual crude flows may marginally exceed confirmed counts.
+- **Sources**: [CNN May 7 — Live updates: US awaits Iran's response to latest proposal to end war](https://edition.cnn.com/2026/05/07/world/live-news/trump-iran-war-news) · [Business Standard May 7 — Iran reviewing US proposals as Trump pressures Tehran for deal](https://www.business-standard.com/world-news/iran-reviewing-us-proposals-as-trump-pressures-tehran-for-deal-to-end-war-126050700709_1.html) · [NPR May 6 — Iran reviews proposal to end war as Trump warns of more bombs](https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates) · [Axios May 6 — US, Iran closing in on one-page memo to end war](https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo) · [CNN May 6 — US and Iran closing in on agreement aimed at ending war](https://www.cnn.com/2026/05/06/politics/trump-iran-war-talks-plan) · [Foreign Policy May 6 — U.S. Might Be Close to a Deal Ending War With Iran](https://foreignpolicy.com/2026/05/06/us-iran-war-peace-deal-memorandum-nuclear-enrichment-moratorium-strait-hormuz/) · [CNBC May 6 — Trump threatens Iran strikes if no peace deal](https://www.cnbc.com/2026/05/06/us-iran-peace-deal-nuclear-moratorium.html) · [Jerusalem Post May 6 — Trump says Iran has one week to respond to US deal](https://www.jpost.com/middle-east/iran-news/article-895294) · [Al Jazeera May 6 — Iran says Strait of Hormuz passage to be ensured after US pauses operation](https://www.aljazeera.com/news/2026/5/6/french-container-ship-struck-in-latest-escalation-at-strait-of-hormuz) · [Insurance Journal May 7 — Iran Sets Out Process for Hormuz Transit But Shipowners Are Wary](https://www.insurancejournal.com/news/international/2026/05/07/868868.htm) · [The Week (India) May 6 — Iran doubles down on control over Hormuz with new transit pass system](https://www.theweek.in/news/middle-east/2026/05/06/strait-of-hormuz-iran-maritime-ship-pass.html) · [Washington Times May 6 — Shipping firms whipsawed by changing stances and risks as they wait for Hormuz to reopen](https://www.washingtontimes.com/news/2026/may/6/wait-hormuz-reopen-shipping-firms-whipsawed-changing-stances-risks/) · [ABC News — Iran live updates: US waiting for Iran response to possible MoU](https://abcnews.com/International/live-updates/iran-live-updates-ukmto-reports-attacks-2-ships/?id=132626582) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-06
 
 | Metric | Value |
