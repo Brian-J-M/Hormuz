@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate; possibly 1) |
+| vs prior day | flat (0, 0%) vs May 7 (~0) — all figures approximate |
+| 7-day average | 0.6 vessels/day (based on 7 days: May 1–May 7) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed transit; ~15–17 laden LNG carriers remain stranded inside Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from NewsX (May 8), CNBC (May 7), Caixin Global (May 7), Business Standard (May 8), Iran International (May 7), The Hill (May 7–8), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **CRITICAL DIPLOMATIC — Iran reviewing US MOU; hardliner faction publicly rejects proposal (May 8)**: Iran is still formally "reviewing" the US one-page, 14-point MOU via Pakistani mediators as of May 8. However, senior Iranian hardliner Mohsen Rezaee stated publicly that Tehran would not let the US reopen the Strait of Hormuz with "an unrealistic plan" and insisted any outcome must include "tangible benefits" for Iran rather than "flamboyant gestures." Iranian FM spokesperson Esmaeil Baqaei confirmed Iran had not yet delivered its reply to Pakistan. Sources indicate Witkoff-Kushner team is closest to a deal since the war began, but Iranian internal divisions remain the principal obstacle.
+- **Oil prices rebound on May 8**: Brent crude rose to ~$101.20/barrel (+1.10%) and WTI to ~$96.66/barrel (+1.85%) — reversing the prior three-day decline from ~$101 (May 6) to ~$99.8 (May 7). The rebound reflects market repricing of the deal timeline on Rezaee's public rejection language and reports of renewed Iran-US confrontations.
+- **Crude estimate basis**: No May 8-specific crude VLCC transit confirmed in any accessible source. Day 19 of the 0–1 crude/day pattern (since April 20). Double blockade unchanged: US CENTCOM naval blockade of Iranian ports; IRGC/PGSA restricting inbound commercial Hormuz traffic. Project Freedom remains paused. Shadow/dark fleet may attempt opportunistic transits; 1 possible but unconfirmed.
+- **NEW ESCALATION — First Chinese oil tanker attack (reported May 7)**: Caixin Global reported May 7 that the Marshall Islands-flagged, Chinese-owned product/chemical tanker *JV Innovation* was attacked off the UAE's Al Jeer Port on May 4, igniting a deck fire. This is the first Chinese-owned vessel struck since the conflict began February 28 — a significant escalation given Beijing's implicit neutrality. Crew status: not publicly confirmed injured. Attack brings total confirmed maritime incidents to ~43–44+.
+- **Windward AI — May 6 vessel data (latest available)**: 7 vessels transited Hormuz on May 6 (5 inbound, 2 outbound); 1 dark transit (Togo-flagged *KASHANI MARINE* inbound). No crude VLCCs in the manifest. 762 AIS-active vessels in Gulf region; 271 dark activity events (Dark÷50 rate: 5.42 — second consecutive elevated day). May 8 Windward data not yet accessible.
+- **Persian Gulf Strait Authority (PGSA) — carry-forward**: PGSA continues electronically contacting vessels with transit-fee forms. No commercial vessel has completed PGSA-authorised transit as of May 8. Toll-fee demand remains an unresolved element of MOU negotiations.
+- **Double blockade unchanged**: US CENTCOM naval blockade of Iranian ports; ~51+ vessels redirected to date. Mutual vessel-seizure standoff unresolved (US holds *Tifani*, *Majestic X*; Iran holds *MSC Francesca*, *Epaminondas*, and others). ~1,550+ vessels / ~22,500 crew stranded.
+- **LNG**: 0 confirmed new transits. ~15–17 laden LNG carriers remain stranded inside the Gulf. PGSA process has not yielded any LNG transit authorisation. JKM spot LNG prices remain elevated.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor confirmed operationally ready but still requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS caveat**: WTO dashboard inaccessible (403). Windward AI daily for May 8 not yet accessible. Latest granular AIS baseline: Windward AI May 6 (7 crossings, 1 dark). Shadow-fleet and IRGC vessels routinely disable/spoof AIS; actual crude flows may marginally exceed confirmed counts. Dark activity events remain elevated (271+ per May 8 Gulf-wide report).
+- **Sources**: [NewsX May 8 — Oil Prices Today (May 8, 2026): Brent Crude Climbs Above $101](https://www.newsx.com/business/oil-prices-today-may-8-2026-brent-crude-climbs-above-101-as-iran-us-tensions-fuel-hormuz-supply-fears-215289/) · [CNBC May 7 — Iran still reviewing US peace proposal as Trump predicts war will 'be over quickly'](https://www.cnbc.com/2026/05/07/trump-iran-war-peace-hormuz-strait.html) · [Caixin Global May 7 — First Chinese Oil Tanker Attacked in Strait of Hormuz](https://www.caixinglobal.com/2026-05-07/first-chinese-oil-tanker-attacked-in-strait-of-hormuz-as-iran-us-conflict-escalates-102441479.html) · [Business Standard May 8 — First Chinese product tanker attacked near Strait of Hormuz](https://www.business-standard.com/world-news/first-chinese-product-tanker-attacked-near-strait-of-hormuz-amid-iran-war-126050800223_1.html) · [Iran International May 7 — Chinese-owned tanker attacked near Hormuz earlier this week](https://www.iranintl.com/en/202605072701) · [The Hill May 8 — US, Iran nearing deal to end Middle East conflict](https://thehill.com/policy/international/5865439-us-iran-nearing-deal-end-middle-east-conflict/) · [The Hill May 8 — What's in the US's 1-page proposal for Iran peace deal?](https://thehill.com/policy/international/5866955-us-iran-peace-deal-strait-of-hormuz/) · [Axios May 6 — US, Iran closing in on one-page memo to end war](https://www.axios.com/2026/05/06/iran-us-deal-one-page-memo) · [Lloyd's List — Hormuz crisis slashes VLCC volumes by 36%](https://www.lloydslist.com/LL1157100/Hormuz-crisis-slashes-VLCC-volumes-by-36-but-voyages-are-longer) · [NBC News — Why the Strait of Hormuz will take a long time to reboot](https://www.nbcnews.com/world/iran/strait-hormuz-will-take-long-time-reboot-rcna343817) · [Windward AI May 6 — Maritime Intelligence Daily (7 crossings)](https://insights.windward.ai/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-07
 
 | Metric | Value |
