@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-10
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | flat (0, 0%) vs May 8 (~0) — May 9 entry absent (session gap) |
+| 7-day average | 0.6 vessels/day (based on 7 days: May 2–May 8) |
+
+Secondary:
+- LNG: 1 vessel (Al Kharaitiyat — Qatar's first confirmed LNG export since Feb 28 war start; successfully exited Strait via Iran-approved northern route, now in Gulf of Oman, bound for Port Qasim, Pakistan)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 9–10), US News/Reuters (May 9), The National (May 10), Al Jazeera (May 6), ZeroHedge (May 10), Boston Globe (May 10), Irish Times (May 9), and search-aggregated reporting. All crude vessel counts should be treated as approximate.
+- **HISTORIC LNG TRANSIT — Al Kharaitiyat (May 10)**: The Qatari Q-Flex LNG tanker *Al Kharaitiyat*, loaded at Ras Laffan and bound for Port Qasim, Pakistan, successfully transited the Strait of Hormuz — Qatar's first LNG export through Hormuz since the Iran war began February 28, 2026. The vessel used the Iran-approved northern route hugging the Iranian coast and is confirmed in the Gulf of Oman per Bloomberg/LSEG ship-tracking data. Two earlier Qatari LNG tankers aborted an April 6 crossing after failing to obtain Iranian clearance. This transit was approved under a government-to-government deal between Qatar and Pakistan, facilitated by Pakistan's energy crisis and its mediation role in Iran-US negotiations.
+- **Iran warns Hormuz could close "forever" (May 9)**: Iranian foreign minister warned that the Strait of Hormuz could be closed permanently to countries that back a US-sponsored UN Security Council resolution, per the Irish Times. This represents an escalation in Iran's rhetorical posture even as it selectively permits government-to-government transits.
+- **PGSA transit fee system now operational**: Iran's Persian Gulf Strait Authority (est. May 5) is now charging vessels up to $2 million per transit. The 40+ question Vessel Information Declaration form is required before crossing. No Western commercial shipping company has completed a PGSA-authorised transit — doing so risks US sanctions exposure, per analysts. The Al Kharaitiyat transit operated via a separate government-to-government channel, not the public PGSA window.
+- **Trump paused Project Freedom convoy operations**: US effort to guide stranded vessels out of the Gulf via escort is on hold while Washington awaits Iran's response to the peace deal MOU. Iranian FM spokesperson confirmed Iran has not yet delivered its formal reply to Pakistan.
+- **Crude estimate basis**: No crude VLCC transit confirmed in any accessible source for May 9–10. PGSA system not yet used for crude transits. Day 21 of the near-zero crude pattern (since April 20). Double blockade unchanged: US CENTCOM naval blockade of Iranian ports; IRGC/PGSA restricting inbound commercial Hormuz traffic. Shadow/dark fleet may attempt opportunistic transits; none confirmed today.
+- **May 9 session gap**: No log entry exists for May 9. "Prior day" comparison uses last logged entry (May 8 = ~0 crude). 7-day average uses May 2–8 logged entries (n=7).
+- **Brent crude / market context**: Market impact of the LNG transit is likely muted for oil prices given it is LNG-only and approved via bespoke government deal, not broad reopening. Iran's "forever closure" warning may offset optimism.
+
+---
+
 ## 2026-05-08
 
 | Metric | Value |
