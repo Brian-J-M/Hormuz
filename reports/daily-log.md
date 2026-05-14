@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (confirmed; possibly 2–3 including additional dark transits) |
+| vs prior day | flat (+0, 0%) vs May 12 (~1) — May 13 entry absent (session gap) |
+| 7-day average | 0.3 vessels/day (based on 7 logged days: May 4–12) |
+
+Secondary:
+- LNG: 0 new transits today (no transit confirmed; last confirmed were Qatar–Pakistan G2G transits May 10–11)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 14), Japan Times (May 14), Arab News (May 14), Daily Maverick (May 14), Marine Link (May 14), Business Standard (May 14), Windward AI (May 12 data), Gulf News (May 13), and CNN (May 13). All vessel counts should be treated as approximate.
+- **CONFIRMED CRUDE TRANSIT — *Eneos Endeavor* VLCC (May 14)**: A Panama-flagged VLCC managed by Japanese refiner Eneos completed a dark transit of the Strait of Hormuz, emerging north of Muscat (Oman) late Wednesday May 14. The vessel went AIS-dark north of Abu Dhabi on Monday May 12, with the transmission gap indicating it sailed through the Strait without broadcasting. Cargo: ~1.2 million barrels Kuwait crude + ~700,000 barrels Emirati Das Blend (loaded late February); estimated arrival June 3. This is the **second confirmed Japan-linked crude transit** since the war began (after the *Idemitsu Maru* in late April). Japan PM Sanae Takaichi personally contacted Iranian President Masoud Pezeshkian to facilitate the passage. Japan FM Toshimitsu Motegi confirmed **no toll was paid** to Iran's PGSA — underscoring that diplomatic government-to-government channels continue to bypass the formal PGSA fee mechanism.
+- **POSSIBLE ADDITIONAL DARK CRUDE TRANSITS**: Multiple sources indicate 2 additional oil vessels crossed with AIS transponders off in the same window. Windward AI May 12 data confirms 4 dark crossings (2 inbound: 180m Panamax-class + 235m Aframax-class via northern corridor; 2 outbound: 235m Aframax-class + AMEER 1301606); specific cargo types of dark vessels not confirmed as crude. Total estimated crude transits for the May 12–14 window: 1–3.
+- **CEASEFIRE STALLING — Day 75 (May 13)**: CNN Day 75 live update: "Ceasefire talks stalled as Trump pushes for a deal with Tehran." Gulf News (May 13): "Frustrated Trump weighs restarting combat operations as US-Iran War ceasefire falters." Talks remain deadlocked following Trump's May 10–11 rejection of Iran's proposal as "garbage." No new Iranian counter-proposal delivered as of May 13.
+- **US BLOCKADE UPDATE**: US CENTCOM has now redirected 67 commercial ships (up from ~51 confirmed May 7). Hapag-Lloyd reports extra costs of $50–60M/week due to Cape of Good Hope rerouting. Double blockade persists: US naval blockade of Iranian ports; IRGC/PGSA restricting inbound Hormuz commercial traffic.
+- **LNG carry-forward**: No new LNG transits confirmed May 13–14. The Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window; no new approvals reported this window. ~15–17 laden LNG carriers remain stranded inside the Gulf.
+- **PGSA carry-forward**: No Western commercial vessel has completed a PGSA-authorised transit. Japan's explicit no-toll statement confirms that bilateral diplomatic channels continue to circumvent PGSA's fee mechanism; PGSA system operationally active but commercially bypassed.
+- **AIS / dark fleet**: Windward AI May 12 data: 12 total crossings (6 inbound, 6 outbound); 4 dark (33%). Dark-to-total ratio (33%) elevated. Kharg Island export throughput constrained; no confirmed departures after May 7. Large dark tanker staging near Larak, Qeshm, southeastern Hormuz, and Chabahar.
+- **Sources**: [Bloomberg May 14 — Japanese Crude Tanker Emerges Outside Hormuz in Rare Transit](https://www.bloomberg.com/news/articles/2026-05-14/japanese-crude-tanker-emerges-outside-hormuz-in-rare-transit) · [Japan Times May 14 — Japanese crude tanker emerges outside Hormuz in rare transit](https://www.japantimes.co.jp/business/2026/05/14/companies/japan-eneos-supertanker-hormuz-passage/) · [Arab News May 14 — Second Japan-linked crude oil tanker passes through Strait of Hormuz](https://www.arabnews.com/node/2643523/middle-east) · [Daily Maverick May 14 — Second Japan-linked oil tanker sails via Strait of Hormuz as PM asks Iran to help out](https://www.dailymaverick.co.za/article/2026-05-14-second-japan-linked-oil-tanker-sails-via-strait-of-hormuz-as-pm-asks-iran-to-help-out/) · [Marine Link May 14 — Japan Secures Second Oil Tanker Passage Through Strait of Hormuz](https://www.marinelink.com/news/japan-secures-second-oil-tanker-passage-539197) · [Business Standard May 14 — Japanese crude tanker emerges after going dark near Strait of Hormuz](https://www.business-standard.com/world-news/japanese-crude-tanker-emerges-after-going-dark-near-strait-of-hormuz-126051400122_1.html) · [Gulf News May 13 — Frustrated Trump weighs restarting combat operations as ceasefire falters](https://gulfnews.com/world/mena/frustrated-trump-weighs-restarting-combat-operations-as-us-iran-war-ceasefire-falters-1.500537292) · [CNN May 13 — Day 75: Iran ceasefire talks stalled as Trump pushes for a deal](https://www.cnn.com/2026/05/13/world/live-news/trump-iran-war-news) · [Windward AI May 12 — Maritime Intelligence Daily (12 crossings, 4 dark)](https://insights.windward.ai/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-12
 
 | Metric | Value |
