@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-16
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; consistent with ~1/day VLCC pace since May 10 per Bloomberg) |
+| vs prior day | flat (+0, 0%) vs May 15 (~1) |
+| 7-day average | 0.4 vessels/day (based on 7 logged days: May 6–15) |
+
+Secondary:
+- LNG: 0 new transits today (Qatar–Pakistan G2G channel remains the only bilateral LNG window; ~15–17 laden LNG carriers still stranded inside Gulf; LPG uptick continues: 2 India-bound LPG tankers exited May 14)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 14–15), CNBC (May 15), CBS News (May 15), gCaptain (May 14–15), Windward AI (May 13 data), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No vessel-specific transit data found for May 16 in accessible sources. Estimate of ~1 crude vessel continues the ~1/day VLCC pace documented by Bloomberg (May 14): "4 VLCCs since May 10" hauling ~2 million barrels each. Most recent confirmed transit details: *COBA* (Curacao-flagged, 333m crude tanker) confirmed outbound May 13 per Windward AI; *Eneos Endeavor* (Japan-linked VLCC, Kuwait crude + Das Blend) emerged outside Hormuz on May 14. Dark-fleet transit ratio ~36% of all crossings as of May 13 (Windward AI; 4 of 11 total). Traffic remains ~95%+ below the pre-war baseline of ~20 crude tankers/day.
+- **TRUMP–XI SUMMIT AFTERMATH (May 16)**: Summit concluded without an Iran breakthrough. Both leaders agreed Hormuz "must remain open" and Iran "can never have a nuclear weapon," but produced no concrete mechanism to pressure Tehran. Foreign Policy (May 14): "From Iran to Trade, China Summit Produces Few Wins for Trump." Al Jazeera (May 15): "How Xi-Trump summit failed to yield Iran war breakthrough." CNBC (May 15): "Will China help Trump bring the Iran war to an end?" — outcome uncertain. China continues buying Iranian oil while opposing PGSA toll demands. Absence of a post-summit concrete diplomatic signal to Iran dampens near-term reopening prospects.
+- **MARITIME INCIDENTS (May 14–15)**: (1) *Hui Chuan* (Honduras-flagged floating armory, Chinese-operated, Vanguard risk firm) seized by Iranian forces ~38nm NE of Fujairah and towed toward Iranian territorial waters; UKMTO confirmed; Iran characterised it as a "spy ship" (Ynet News). (2) Indian cargo vessel *Haji Ali* struck by drone/missile off Oman coast and sunk; all 14 Indian crew rescued by Oman coast guard (India's shipping ministry confirmed). Total confirmed maritime incidents since Feb 28: ~46–48+. Both incidents reinforce the chilling effect on transit confidence entering May 16.
+- **US NAVY REVERSAL OF *Agios Fanourios I***: This Greek-owned VLCC (Iraqi crude, ~2M barrels) completed a dark transit of Hormuz during the week ending May 11 but was intercepted by the US Navy post-transit and forced to return; now idling in the Gulf of Oman (Bloomberg May 11/15). This is the first confirmed post-transit reversal by US enforcement — signals stricter interdiction of dark-fleet operators carrying Iraqi/non-Iranian cargo.
+- **CEASEFIRE STATUS — Day 78 (May 16)**: No new Iranian counter-proposal delivered as of latest reporting. Ceasefire remains on "massive life support" (Trump, May 10–11). No deal framework announced from the Beijing summit. Double blockade (US naval blockade of Iranian ports + PGSA restriction of inbound Hormuz commercial traffic) persists unchanged. US CENTCOM has redirected 67+ commercial ships to date.
+- **LNG carry-forward**: No confirmed new LNG transits for May 16. Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window; no new approvals reported in the May 15–16 window. ~15–17 laden LNG carriers still stranded inside the Persian Gulf. LPG uptick continuing: 2 India-bound LPG tankers exited May 14 (gCaptain).
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor confirmed operationally ready but still requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **Brent crude market signal**: Fell ~4.07% to ~$109.26 on May 15 reflecting diplomacy optimism around Trump–Xi summit — not any actual physical reopening of Hormuz. No May 16–specific price data available at time of writing.
+- **AIS / dark fleet carry-forward**: 38 total crossings in the 7-day window to ~May 14 per Bloomberg (~5.4/day, all vessel types). Dark-to-total ratio ~36% as of May 13 (Windward AI). PGSA operationally active but commercially circumvented via bilateral government channels (Japan, Qatar–Pakistan, China/COSCO). No Western commercial vessel has completed a PGSA-authorised transit.
+- **Sources**: [Bloomberg May 14 — Oil Flows Through Hormuz Creep Higher as More Supertankers Exit](https://www.bloomberg.com/news/articles/2026-05-14/oil-flows-through-hormuz-creep-higher-as-more-supertankers-exit) · [CNBC May 15 — Will China help Trump bring the Iran war to an end?](https://www.cnbc.com/2026/05/15/trump-xi-us-china-iran-war-deal.html) · [CBS News May 15 — Live Updates: Seized ship taken toward Iran as Trump and Xi agree Hormuz 'must remain open'](https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/) · [NPR May 15 — Tensions flare near Strait of Hormuz as a ship is seized and another is sunk](https://www.npr.org/2026/05/15/g-s1-122203/tensions-flare-near-strait-of-hormuz) · [Al Jazeera May 15 — How Xi-Trump summit failed to yield Iran war breakthrough](https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough) · [gCaptain May 14 — Two India-Bound LPG Tankers Add to Uptick in Hormuz Transits](https://gcaptain.com/two-india-bound-lpg-tankers-add-to-uptick-in-hormuz-transits/) · [Windward AI May 13 — 11 crossings, 4 dark (36%)](https://insights.windward.ai/) · [Bloomberg May 11 — Oil Tanker U-Turns Into Gulf of Oman After Exiting Hormuz](https://www.bloomberg.com/news/articles/2026-05-11/oil-tanker-that-exited-hormuz-comes-to-a-halt-in-gulf-of-oman) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-15
 
 | Metric | Value |
