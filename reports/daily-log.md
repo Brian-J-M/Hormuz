@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-17
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no May 17–specific transit confirmed; continuing ~1/day VLCC pace) |
+| vs prior day | flat (+0, 0%) vs May 16 (~1) |
+| 7-day average | 0.6 vessels/day (based on 7 logged days: May 7–16) |
+
+Secondary:
+- LNG: 0 new transits confirmed (Qatar–Pakistan G2G channel last active May 10–11; ~15–17 laden LNG carriers still stranded inside Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor operationally ready; still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 14–16), gCaptain (May 14–16), Wikipedia/crisis tracker (May 17), PBS News (May 17 context), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No vessel-specific transit data confirmed for May 17 in any accessible source. Bloomberg May 16 tracker (*"Hormuz Tracker: Suezmax Tanker With Iraqi Crude Reaches India"*) confirms that a Suezmax carrying ~2M barrels of Iraqi crude loaded at Basra (May 10–11) has now arrived in India — validating the Bloomberg-cited 4-VLCC-since-May-10 tally. The ~1/day pace extends into today. Dark-fleet transit ratio ~36% of all crossings as of May 13 (Windward AI). Traffic remains ~95% below the pre-war baseline of ~20 crude tankers/day.
+- **IRAN REDEFINES HORMUZ AS "VAST OPERATIONAL AREA"**: The IRGC Navy announced in May that the Strait of Hormuz has been redefined operationally as a "vast operational area" — a significant rhetorical and legal escalation that expands Iran's claimed zone of enforcement and may increase interdiction risk for transiting vessels.
+- **TRUMP ORDERS NAVY TO SHOOT MINE-LAYERS**: Trump publicly ordered the US Navy to "shoot and kill" any vessel placing mines in the Strait of Hormuz and ordered mine-sweeping operations to be "tripled up." This dual escalation — Iran expanding operational claims, US escalating enforcement posture — adds to the transit risk environment.
+- **IRAN DIPLOMATIC STATEMENT (May 17)**: Iran's diplomatic spokesperson issued a statement rejecting "new accusations against Iran" (full content unavailable in accessible sources). No new Iranian peace proposal counter-offer reported.
+- **CEASEFIRE STATUS — Day 79 (May 17)**: No deal framework announced. Trump–Xi Beijing summit (May 14–15) failed to produce a breakthrough — both leaders agreed Hormuz "must remain open" but issued no concrete mechanism to pressure Tehran. Ceasefire remains on "massive life support" per Trump's May 10–11 characterisation. Dual blockade (US naval blockade of Iranian ports + PGSA/IRGC restriction of inbound Hormuz commercial traffic) persists unchanged. US CENTCOM has redirected 67+ commercial ships to date.
+- **LNG carry-forward**: No new LNG transit confirmed for May 17. The Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf. No new PGSA-authorised LNG transit.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor confirmed operationally ready but requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Dark-transit ratio ~36% as of May 13 (Windward AI). IRGC redefinition of the strait as a "vast operational area" may further suppress AIS broadcasting. Actual crude flows may marginally exceed AIS-confirmed counts.
+- **Maritime incidents**: Total confirmed incidents: ~46–48+ since Feb 28. Most recent: *Hui Chuan* seized May 14–15 (Iranian forces, NE Fujairah); *Haji Ali* sunk May 14–15 (drone/missile, off Oman coast). No May 17–specific incidents confirmed at time of writing.
+- **Brent crude**: ~$109/bbl range (fell ~4% on May 15 on post-Trump–Xi diplomacy optimism; no May 17 close price confirmed at time of writing).
+- **Sources**: [Bloomberg May 16 — Hormuz Tracker: Suezmax Tanker With Iraqi Crude Reaches India](https://www.bloomberg.com/news/articles/2026-05-16/hormuz-tracker-suezmax-tanker-with-iraqi-crude-reaches-india) · [Bloomberg May 14 — Oil Flows Through Hormuz Creep Higher as More Supertankers Exit](https://www.bloomberg.com/news/articles/2026-05-14/oil-flows-through-hormuz-creep-higher-as-more-supertankers-exit) · [gCaptain May 14 — Suezmax Tanker With Iraqi Crude Reaches India After Hormuz Transit](https://gcaptain.com/suezmax-tanker-with-iraqi-crude-reaches-india-after-hormuz-transit/) · [PBS NewsHour — Iran targets ships in Strait of Hormuz as US talks remain uncertain](https://www.pbs.org/newshour/show/iran-targets-ships-in-strait-of-hormuz-as-u-s-talks-remain-uncertain) · [Al Jazeera May 15 — How Xi-Trump summit failed to yield Iran war breakthrough](https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-16
 
 | Metric | Value |
