@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; continuing ~1/day VLCC pace; Bloomberg May 17 tracker confirms gridlock persists) |
+| vs prior day | flat (+0, 0%) vs May 17 (~1) |
+| 7-day average | 0.7 vessels/day (based on 7 logged days: May 8–17) |
+
+Secondary:
+- LNG: 0 new transits confirmed (~15–17 laden LNG carriers still stranded inside Gulf; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (Iran launched "Hormuz Safe" crypto-insurance platform May 17; UN humanitarian corridor still awaiting political green light)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 17), CNBC (May 17), PBS News (May 17), Insurance Business (May 17), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No vessel-specific transit data confirmed for May 18 in any accessible source. Bloomberg May 17 tracker headline (*"Strait of Hormuz Shipping Stalls as US-Blocked Tanker Resumes Voyage"*) explicitly signals broad gridlock persisting. Continuing ~1/day crude pace established since May 10. Traffic remains ~95% below the pre-war baseline of ~20 crude tankers/day.
+- **DRONE STRIKES UAE BARAKAH NUCLEAR POWER PLANT (May 17)**: A drone struck an electrical generator outside the inner perimeter of the Barakah Nuclear Power Plant in Abu Dhabi. UAE authorities confirmed fire at site; radiological safety and operations unaffected; no injuries reported. CNBC and Bloomberg reported simultaneously that UAE and Saudi Arabia reported multiple drone incidents as the Iran war deadlock drags on. This represents a significant escalation targeting UAE critical infrastructure and is likely to further chill transit confidence around the Gulf.
+- **US-BLOCKED TANKER AGIOS FANOURIOS I RESUMES VOYAGE (Bloomberg May 17)**: The Greek-owned VLCC *Agios Fanourios I* — which completed a dark Hormuz transit in the week ending May 11 but was intercepted and forced to U-turn by the US Navy, then idled in the Gulf of Oman — has reportedly resumed its voyage per the Bloomberg May 17 tracker. It is unclear whether the US Navy released it, whether it is rerouting via the Cape of Good Hope, or whether it has reached a separate clearance. If proceeding to its original destination, this would be a significant reversal of the first-ever post-transit US Navy enforcement action.
+- **IRAN LAUNCHES "HORMUZ SAFE" DIGITAL INSURANCE PLATFORM (May 17)**: Iran's PGSA introduced "Hormuz Safe," a digital insurance platform accepting cryptocurrency payments for vessels wishing to transit the Strait of Hormuz. This is Iran's attempt to create a commercial insurance layer over the PGSA toll system and could lower friction for non-Western operators willing to pay. No confirmed vessel has used the platform as of this entry.
+- **US-IRAN FAR FROM DEAL — Day 80 (May 18)**: Bloomberg (May 17): "US, Iran Far From Hormuz Deal as Trump Says Clock Ticking." Trump posted on social media that Iran had better "get moving, FAST, or there won't be anything left of them." Nuclear enrichment moratorium gap (Iran ~5 years, US demands ~20 years; landing zone ~12–15 years) and war damage compensation remain the principal sticking points. Russian President Putin held a phone call with UAE Emir Sheikh bin Zayed and met with Iranian FM Aragchi; Aragchi called the enriched uranium issue the core deadlock. No new Iranian counter-proposal delivered as of latest reporting.
+- **IRGC REDEFINES HORMUZ — operational posture unchanged**: IRGC "vast operational area" designation remains in force. Trump's order to "shoot and kill" mine-layers and triple mine-sweeping operations also unchanged. Dual escalatory posture continues.
+- **LNG carry-forward**: No new LNG transit confirmed for May 18. Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window; no new approvals reported. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. "Hormuz Safe" crypto-insurance platform launch does not directly address the UN humanitarian fertilizer corridor, which still requires political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Bloomberg May 17 tracker confirms broad shipping stall; dark-fleet transit ratio carried forward at ~36% (Windward AI May 13). AIS undercount risk persists. The Barakah drone strike may further suppress AIS broadcasting as operators assess escalation risk.
+- **Maritime incidents carry-forward**: Total confirmed incidents: ~46–48+ since Feb 28. No May 18–specific incidents confirmed at time of writing.
+- **Brent crude**: No May 18 price confirmed at time of writing. Brent had been in ~$109/bbl range as of mid-May; UAE drone strike on nuclear infrastructure may push prices higher if markets assess Gulf escalation risk rising.
+- **Sources**: [Bloomberg May 17 — US, Iran Far From Hormuz Deal as Trump Says Clock Ticking](https://www.bloomberg.com/news/articles/2026-05-17/us-and-iran-far-from-hormuz-deal-as-drone-hits-uae-power-plant) · [Bloomberg May 17 — Strait of Hormuz Shipping Stalls as US-Blocked Tanker Resumes Voyage](https://www.bloomberg.com/news/articles/2026-05-17/hormuz-tracker-gridlock-persists-while-blocked-tanker-sails-on) · [CNBC May 17 — UAE and Saudi Arabia report drone incidents as Iran war deadlock drags on](https://www.cnbc.com/2026/05/17/abu-dhabi-says-drone-strike-caused-fire-at-nuclear-power-plant.html) · [PBS News May 17 — Drone attack starts fire at UAE nuclear power plant](https://www.pbs.org/newshour/world/drone-attack-starts-fire-at-uae-nuclear-power-plant) · [Insurance Business May 17 — Iran conflict heats up as drone hits UAE nuclear site, Iran launches Hormuz insurance](https://www.insurancebusinessmag.com/us/news/breaking-news/iran-conflict-heats-up-as-drone-hits-uae-nuclear-site-iran-launches-hormuz-insurance-575531.aspx) · [Detroit News May 17 — Drone hits nuclear power plant in United Arab Emirates](https://www.detroitnews.com/story/news/world/2026/05/17/nuclear-power-plant-drone-uae-arab-emirates/90130595007/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-17
 
 | Metric | Value |
