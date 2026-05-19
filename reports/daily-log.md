@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; continuing ~1/day pace; Bloomberg May 18 confirms 19 non-Iranian oil/LPG tankers have now exited Hormuz since March 1) |
+| vs prior day | flat (+0, 0%) vs May 18 (~1) |
+| 7-day average | 0.9 vessels/day (based on 7 logged days: May 10–18) |
+
+Secondary:
+- LNG: 0 new transits confirmed (~15–17 laden LNG carriers still stranded inside Gulf; Qatar–Pakistan G2G channel last active May 11; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 18), TT News (May 18), UK Defence Journal (May 13), Royal Navy (May 11), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Crude estimate basis**: No vessel-specific transit data confirmed for May 19 in any accessible source. Bloomberg May 18 (*"Tankers Entering Hormuz During Iran War Are Making Their Way Out"*) reports that at least 19 non-Iranian oil- and LPG-carrying ships have both entered and exited Hormuz since March 1 — cargoes mostly from UAE and Iraq, with 3 from Saudi Arabia or mixed Saudi/Arab Gulf origin. About 100 tankers that entered before the conflict remain trapped for fear of attack. The ~1/day crude pace established since May 10 continues. Traffic remains ~95% below the pre-war baseline of ~20 crude tankers/day.
+- **IRAN BITCOIN-BACKED SHIPPING INSURANCE (Bloomberg May 18)**: Iran's Ministry of Economy and Financial Affairs has formally launched a Bitcoin-backed insurance service for Iranian shipping companies transiting the Strait. Confirmed via semi-official Fars news agency. This is a ministry-level follow-on to the PGSA "Hormuz Safe" crypto-insurance platform announced May 17. No non-Iranian commercial vessel has used the platform yet.
+- **UK DEPLOYS HMS DRAGON + FORCE PACKAGE**: The UK has committed HMS Dragon (Type-45 destroyer, already en route from the Mediterranean), Typhoon fast jets, mine-hunting drones (Beehive/Kraken autonomous drone boats), and specialist mine-clearance personnel to a multinational defensive mission aimed at securing commercial shipping through Hormuz once a sustainable ceasefire is in place. £115M in new funding announced. Mission contingent on ceasefire; HMS Dragon already positioned in Eastern Mediterranean.
+- **CEASEFIRE STATUS — Day 81 (May 19)**: No new diplomatic breakthrough reported. Bloomberg May 17 (*"US, Iran Far From Hormuz Deal as Trump Says Clock Ticking"*) remains the latest diplomatic signal. Nuclear enrichment moratorium gap (Iran ~5 years, US demands ~20 years) is the core sticking point. No new Iranian counter-proposal delivered as of latest reporting. MOU negotiations continue via Pakistani mediators.
+- **Agios Fanourios I carry-forward**: The Greek-owned VLCC that resumed voyage May 17 (after US Navy reversal in Gulf of Oman) remains in transit; destination and route (Cape of Good Hope vs. original) unconfirmed.
+- **LNG carry-forward**: No new LNG transit confirmed for May 19. Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window; no new approvals reported. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. Bitcoin-backed insurance platform does not address UN humanitarian fertilizer corridor. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Bloomberg May 18 "19 non-Iranian tankers exited since March 1" implies a cumulative non-Iranian exit rate of roughly 2.4 vessels/week since March 1 — gradual seepage but not a reopening. Dark-fleet transit ratio carried forward at ~36% (Windward AI May 13). AIS undercount risk persists.
+- **Maritime incidents carry-forward**: Total confirmed incidents: ~46–48+ since Feb 28. No May 19–specific incidents confirmed at time of writing.
+- **Brent crude**: No May 19 price confirmed at time of writing. Brent had been in ~$109/bbl range as of mid-May; UAE Barakah drone strike (May 17) may sustain elevated risk premium.
+- **Sources**: [Bloomberg May 18 — Tankers Entering Hormuz During Iran War Are Making Their Way Out](https://www.bloomberg.com/news/articles/2026-05-18/tankers-entering-hormuz-during-iran-war-are-making-their-way-out) · [Bloomberg May 18 — Iran Starts Bitcoin-Backed Ship Insurance for Hormuz Strait](https://www.bloomberg.com/news/articles/2026-05-18/iran-starts-bitcoin-backed-shipping-insurance-for-hormuz-strait) · [TT News May 18 — Tankers Entering Hormuz During War Are Making Their Way Out](https://www.ttnews.com/articles/tankers-hormuz-war-way-out) · [UK Defence Journal May 13 — UK commits jets, warship and drones to Hormuz mission](https://ukdefencejournal.org.uk/uk-commits-jets-warship-and-drones-to-hormuz-mission/) · [Royal Navy May 11 — HMS Dragon heads for potential Strait of Hormuz mission](https://www.royalnavy.mod.uk/news/2026/may/11/20260511-dragon-heads-for-strait-of-hormuz-mission/) · [Bloomberg May 17 — US, Iran Far From Hormuz Deal as Trump Says Clock Ticking](https://www.bloomberg.com/news/articles/2026-05-17/us-and-iran-far-from-hormuz-deal-as-drone-hits-uae-power-plant) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-18
 
 | Metric | Value |
