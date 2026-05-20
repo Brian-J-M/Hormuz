@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-20
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~3 (approximate; 2 Chinese VLCCs confirmed exit + 1 Korean VLCC mid-transit) |
+| vs prior day | +2 (+200%) vs May 19 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 logged days: May 12–19) |
+
+Secondary:
+- LNG: 0 new transits confirmed (~15–17 laden LNG carriers still stranded inside Gulf; Qatar–Pakistan G2G channel last active May 11; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light; UK FM Cooper warned May 19 of imminent global food crisis)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 20), Times Live (May 20), Seatrade-Maritime (May 20), Korea Times (May 20), OilPrice.com (May 20), MarineLink (May 20), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **SIGNIFICANT CRUDE UPTICK — THREE VLCCs ON MAY 20**: Most active crude transit day since the crisis began. Two Chinese VLCCs confirmed exiting: (1) *Yuan Gui Yang* (Chinese-flagged, ~2M barrels Iraqi Basrah crude loaded Feb 27, bound for Shuidong/Maoming, Guangdong, ETA June 4); (2) *Ocean Lily* (Hong Kong-flagged, ~2M barrels Qatari al-Shaheen + Iraqi Basrah crude, loaded late Feb/early March, bound for China). Both vessels had been stranded inside the Gulf since shortly after the war began Feb 28. Total Chinese exit: ~4 million barrels.
+- **FIRST KOREAN VLCC TRANSIT ATTEMPT — *Universal Winner* (HMM, May 20)**: The 299,981 dwt South Korean-flagged VLCC *Universal Winner*, operated by HMM, began transmitting from inside the Strait of Hormuz on May 20, following Iran granting diplomatic clearance to the Korean Embassy in Tehran on Monday evening (May 18). Cargo: Kuwait crude; destination: Ulsan, South Korea. Route: Iran-approved northern corridor near Larak Island. Status: mid-transit as of the time of reporting; completion not confirmed at time of writing. If successful, this is the first Korean crude VLCC to transit since the war began.
+- **COMBINED CRUDE TOTAL**: Approximately 6 million barrels of crude oil transiting on May 20 (per Times Live) assuming Universal Winner completes passage — roughly 3× the ~2M barrels/day pace of recent weeks and the highest single-day crude volume since the crisis began.
+- **May 19 data discrepancy**: One aggregated search result stated zero vessel transits on May 19 for a "second consecutive zero day," conflicting with our May 19 log estimate of ~1/day based on trend extrapolation. If May 19 was actually zero, the true day-over-day change is +3 from a zero baseline, making May 20 an even sharper inflection point. The logged May 19 figure of ~1 is retained per prior session estimate; this entry uses that figure as the baseline.
+- **CEASEFIRE STATUS — Day 82 (May 20)**: No new deal framework. US-Iran MOU talks via Pakistani mediators continue. Nuclear enrichment moratorium gap (Iran ~5 years, US demands ~20 years; estimated landing zone ~12–15 years) remains the core sticking point. No new Iranian counter-proposal delivered as of latest reporting. Dual blockade (US naval blockade of Iranian ports + PGSA/IRGC restriction of inbound Hormuz commercial traffic) persists unchanged.
+- **UK GLOBAL FOOD CRISIS WARNING (May 19)**: UK Foreign Secretary Yvette Cooper warned the world is on the brink of a "global food crisis" and called for Hormuz reopening within weeks to prevent further damage to agricultural markets. FAO separately warned of lower crop yields and tightening food supplies across H2 2026 and into 2027 due to fertilizer scarcity.
+- **LNG carry-forward**: No new LNG transit confirmed for May 20. Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window; no new approvals reported. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still awaiting political green light from both US and Iran. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Yuan Gui Yang and Ocean Lily were loaded in late February and stranded since war onset — their exit confirms gradual seepage of long-held tonnage accelerating. Dark transit ratio carried forward at ~36% (Windward AI May 13). AIS undercount risk persists.
+- **Maritime incidents**: No May 20–specific incidents confirmed at time of writing. Cumulative total: ~46–48+ since Feb 28.
+- **Brent crude**: No May 20 closing price confirmed at time of writing. The multi-VLCC transit uptick may apply modest downward pressure on the geopolitical risk premium.
+- **Sources**: [Bloomberg May 20 — South Korean, Chinese Supertankers Attempt Strait of Hormuz Exit](https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit) · [Times Live May 20 — Tankers exit Strait of Hormuz with 6-million barrels of crude oil](https://www.timeslive.co.za/news/2026-05-20-tankers-exit-strait-of-hormuz-with-6-million-barrels-of-crude-oil/) · [Seatrade-Maritime May 20 — Two Chinese VLCCs cross the Strait of Hormuz](https://www.seatrade-maritime.com/tankers/two-chinese-vlccs-cross-the-strait-of-hormuz) · [Korea Times May 20 — Korean tanker attempts Hormuz transit after Seoul-Tehran coordination](https://www.koreatimes.co.kr/foreignaffairs/20260520/korean-tanker-attempts-hormuz-transit-after-seoul-tehran-coordination) · [The Asia Business Daily May 20 — Bloomberg: "HMM Tanker Attempts Hormuz Transit"...First 300,000-Ton VLCC](https://www.asiae.co.kr/en/article/2026052014431077980) · [OilPrice.com May 20 — Two Supertankers Exit Hormuz With Crude Bound for China](https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Exit-Hormuz-With-Crude-Bound-for-China.html) · [MarineLink May 20 — Two Chinese VLCCs Exit Strait of Hormuz](https://www.marinelink.com/news/two-chinese-vlccs-exit-strait-hormuz-539396) · [Time May 19 — U.K. Lawmaker Warns of 'Global Food Crisis,' Urges Immediate Reopening for Strait of Hormuz](https://time.com/article/2026/05/19/global-food-crisis-concerns-strait-of-hormuz-iran-trade-choke-hold/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-19
 
 | Metric | Value |
