@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-21
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no May 21-specific transit confirmed in any accessible source; regressing to ~1/day mean after exceptional May 20 event) |
+| vs prior day | -2 (-67%) vs May 20 (~3) |
+| 7-day average | 1.3 vessels/day (based on 7 logged days: May 14–20) |
+
+Secondary:
+- LNG: 0 new transits confirmed (~15–17 laden LNG carriers still stranded inside Gulf; last confirmed LNG transits were *Al Kharaitiyat* May 10 and *Mihzem* May 11 via Qatar–Pakistan G2G channel; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran; Urea ~$826/MT, ~70% above pre-war levels)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 20), CNBC (May 20), Yahoo Finance (May 20), Korea Herald (May 20), Seoul Economic Daily (May 20), OilPrice.com, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **NO MAY 21-SPECIFIC TRANSIT DATA**: All search results return May 20 reporting as the most recent. May 21 crude vessel count (~1) is an estimate based on post-spike reversion to the ~1/day mean observed May 14–19. No named vessel transit for May 21 has been confirmed in any accessible source at time of writing. AIS undercount risk persists.
+- **MAJOR RECOVERY SIGNAL — TRUMP "FINAL STAGES" IRAN DEAL (May 20)**: President Trump told reporters on Wednesday May 20 that the administration is in the "final stages" of negotiations with Iran. This is the strongest diplomatic signal since the ceasefire extension on April 21. Oil markets responded sharply: WTI futures fell more than 5% to close below $100/barrel ($98.26 per Bloomberg/CNBC); Brent fell ~5% to ~$105/barrel. Wood Mackenzie estimates Brent would ease to ~$80/barrel by end-2026 if Hormuz reopens by June. Deal framework (MOU under discussion) reportedly includes a 30-day negotiation window covering nuclear enrichment moratorium, US sanctions relief, release of frozen Iranian assets, and bilateral lifting of Hormuz transit restrictions.
+- **UNIVERSAL WINNER (HMM) CONFIRMED CLEARED (May 20 → May 21 carry-forward)**: The 299,981 dwt South Korean VLCC *Universal Winner*, operated by HMM, confirmed clear of the Strait of Hormuz per Korea Herald and Seoul Economic Daily (May 20). It is the first Korean crude VLCC to transit since the war began. Cargo: 2 million barrels of Kuwaiti crude. Destination: Ulsan (ETA June 8–9). Iran granted diplomatic clearance via the Korean Embassy in Tehran following four rounds of discussions; no transit fee confirmed paid. South Korean Foreign Ministry confirmed passage at a parliamentary hearing. **25+ more Korean vessels reportedly queued awaiting passage** following Universal Winner's successful precedent — potential catalyst for additional Korean-flag transits in coming days.
+- **MAY 20 RETROSPECTIVE — THREE CONFIRMED VLCCs**: (1) *Yuan Gui Yang* (Chinese-flagged, 2M bbls Iraqi Basrah, ETA Shuidong June 4); (2) *Ocean Lily* (Hong Kong-flagged, ~2M bbls Qatari al-Shaheen + Iraqi Basrah); (3) *Universal Winner* (South Korean/HMM, 2M bbls Kuwaiti crude, ETA Ulsan June 8–9). Total: ~6M barrels — highest single-day crude volume since crisis began. This confirms May 20 as the highest-throughput crude day since Feb 28.
+- **IRAN IRGC CLAIMS 26-VESSEL COORDINATED TRANSIT**: The IRGC Navy claimed that 26 vessels transited Hormuz "in coordination" with Iranian authorities in the previous 24 hours. This figure almost certainly includes PGSA-escorted Iranian-affiliated or permitted vessels and should not be taken as representing 26 independent commercial transits; it may reflect Iran's effort to assert transit control authority ahead of deal negotiations.
+- **CEASEFIRE STATUS — Day 83 (May 21)**: Trump's "final stages" statement is the most significant diplomatic development in weeks. No formal MOU signed as of latest reporting. The nuclear enrichment moratorium gap (Iran ~5 years, US demands ~20 years; estimated landing zone ~12–15 years) remains the core sticking point. Ceasefire is technically in place (extended April 21) but dual blockade (US naval blockade of Iranian ports + PGSA/IRGC restriction of inbound Hormuz commercial traffic) persists.
+- **LNG**: No new LNG transit confirmed for May 21. Qatar–Pakistan G2G channel remains the only confirmed bilateral LNG window. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still awaiting political green light. Fertilizer factory shutdowns in Bangladesh (ammonia/potash constraint). UK FM Cooper's global food crisis warning (May 19) remains the most recent senior government-level alert.
+- **OIL PRICE MOVE**: WTI closed below $100 (-5%+) on May 20; Brent ~$105 (-5%+). Largest single-session oil price drop in more than a month. Significant market pricing of deal probability. If deal falls through, prices expected to rebound sharply.
+- **Maritime incidents**: No May 21-specific incidents confirmed at time of writing. Cumulative total: ~46–48+ since Feb 28.
+- **Sources**: [CNBC May 20 — U.S. crude oil falls below $100 per barrel after Trump says Iran talks in final stages](https://www.cnbc.com/2026/05/20/oil-price-today-iran-war-strait-hormuz-trump.html) · [Korea Herald May 20 — Seoul says Korean tanker exits Hormuz under coordination with Iran](https://www.koreaherald.com/article/10742061) · [Seoul Economic Daily May 20 — Korean Tanker Becomes First to Clear Strait of Hormuz Since War](https://en.sedaily.com/finance/2026/05/20/korean-tanker-becomes-first-to-clear-strait-of-hormuz-since) · [Al Jazeera May 20 — Chinese supertankers exit Hormuz as Trump and Vance talk up Iran deal](https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal) · [OilPrice.com — Three Supertankers Carrying 6 Million Barrels Exit Strait of Hormuz](https://oilprice.com/Latest-Energy-News/World-News/Three-Supertankers-Carrying-6-Million-Barrels-Exit-Strait-of-Hormuz.html) · [Maritime Executive — Chinese and Korean VLCCs Clear Hormuz as Iran Claims to Increase Traffic](https://maritime-executive.com/article/chinese-and-korean-vlccs-clear-hormuz-as-iran-claims-to-increase-traffic) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [Wikipedia — 2026 Iran war ceasefire](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire)
+
+---
+
 ## 2026-05-20
 
 | Metric | Value |
