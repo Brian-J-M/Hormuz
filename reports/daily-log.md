@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-22
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; tracker confirms ~2 total transits all types; *Grand Lady* confirmed inbound dark — loading mission, not outbound crude; no named outbound VLCC confirmed; post-May-20-spike reversion to ~1/day pace) |
+| vs prior day | flat (+0, 0%) vs May 21 (~1) |
+| 7-day average | 1.3 vessels/day (based on 7 logged days: May 15–21) |
+
+Secondary:
+- LNG: 0 new transits confirmed (~15–17 laden LNG carriers still stranded inside Gulf; Qatar–Pakistan G2G channel still the only bilateral LNG window; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from multiple live tracker aggregators, LSEG ship-tracking data, Fox News (May 21), and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **GRAND LADY (CYPRIOT VLCC) INBOUND DARK (May 22)**: Eastmed's *Grand Lady* (Cyprus-flagged VLCC, 300,000 dwt, managed by Eastern Mediterranean Maritime) entered the Strait of Hormuz with AIS transponder off and was tracked sailing past Iran's Larak Island via LSEG satellite data. The vessel is inbound empty — heading into the Gulf to load crude. This is the first confirmed European-managed VLCC to attempt an inbound loading mission since the crisis began February 28. If it successfully loads and exits, it would represent a significant broadening of the transit coalition beyond China, Japan, South Korea, and Qatar-linked operators. Eastern Mediterranean Maritime has not publicly commented.
+- **IRAN: NO DEAL YET (May 21–22)**: Iran said on Thursday (May 21) that no agreement had been reached with the US despite "narrowing gaps" in negotiations over Trump's latest peace proposal. Iran's diplomatic spokesperson confirmed talks continue via Pakistani mediation. VP JD Vance issued a warning that the US remains "locked and loaded" for further military action should Iran reject the deal. The "final stages" declaration from Trump on May 20 has not translated into a signed framework; nuclear enrichment moratorium gap (Iran ~5 years, US demands ~20 years; estimated landing zone ~12–15 years) persists as core sticking point. This is **Ceasefire Day 84** (May 22).
+- **BRENT REBOUND TO ~$116/BBL**: Brent crude rebounded to approximately $116.73/bbl (+2.43% in 24 hours) and WTI to approximately $112.25/bbl on May 22, reversing most of the ~5% drop on May 20 driven by Trump's "final stages" comment. The rebound is consistent with market pricing lower deal probability after Iran's "no deal yet" statement — geopolitical risk premium reasserted. If a deal materialises, Wood Mackenzie forecasts Brent could ease to ~$80/bbl by end-2026.
+- **IRGC CLAIMS 31-VESSEL COORDINATED TRANSIT**: The IRGC Navy claimed 31 commercial vessels transited Hormuz "in coordination" with Iranian authorities in the previous 24 hours. This figure significantly exceeds independently tracked vessel counts (tracker confirms ~2 total transits) and almost certainly includes IRGC-affiliated, Iranian, and PGSA-escorted vessels not representing independent commercial operators. IRGC figure should be treated with caution and not taken as market-clearing commercial throughput.
+- **25+ KOREAN VESSELS STILL QUEUED**: Following *Universal Winner*'s successful May 20 transit (first Korean VLCC since war began), South Korea's Foreign Ministry confirmed 25+ Korean-flagged vessels remain in queue awaiting passage. No additional Korean transits confirmed for May 22. Potential catalyst for further Korean-flag transit acceleration if bilateral Iran-Korea diplomatic channel holds.
+- **KPLER CUMULATIVE DATA**: Kpler data (as of ~May 20) shows only 6 VLCCs transited Hormuz in all of May, carrying ~17 million barrels. That equates to ~0.85 million barrels/day — approximately 5–10% of the pre-war ~17–21 million barrels/day baseline. May 20's 3-VLCC spike (6 million barrels) remains the highest single-day crude volume since the crisis began.
+- **LNG**: No new LNG transit confirmed for May 22. Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window; no new approvals reported. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still awaiting political green light. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Grand Lady's inbound dark transit confirms continued AIS-off operations. Actual crude and product flows may marginally exceed AIS-confirmed counts. Windward AI dark-transit ratio last reported at ~36% (May 13); no fresh May 22-specific data accessible.
+- **Maritime incidents**: No May 22-specific incidents confirmed at time of writing. Cumulative total: ~46–48+ since Feb 28.
+- **Sources**: Live tracker aggregators (hormuzstraitmonitor.com, hormuztracker.com) · [Fox News May 21 — Iran says no deal reached yet with US as Trump keeps military option on hold](https://www.foxnews.com/live-news/trump-iran-war-israel-may-21) · LSEG ship-tracking data (Grand Lady, Larak Island position) · [Bloomberg May 20 — South Korean, Chinese Supertankers Attempt Strait of Hormuz Exit](https://www.bloomberg.com/news/articles/2026-05-20/south-korean-chinese-supertankers-attempt-strait-of-hormuz-exit) · [Maritime Executive — Chinese and Korean VLCCs Clear Hormuz as Iran Claims to Increase Traffic](https://maritime-executive.com/article/chinese-and-korean-vlccs-clear-hormuz-as-iran-claims-to-increase-traffic) · [Korea Pro — South Korean tanker exits Hormuz under Iranian-approved transit corridor](https://koreapro.org/2026/05/south-korean-tanker-exits-hormuz-under-iranian-approved-transit-corridor/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-21
 
 | Metric | Value |
