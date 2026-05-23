@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-23
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no named VLCC exit confirmed for May 23; *Grand Lady* still anchored inside Gulf loading — not yet exiting; continuing ~1/day reversion pace post-May-20 spike) |
+| vs prior day | flat (+0, 0%) vs May 22 (~1) |
+| 7-day average | 1.3 vessels/day (based on 7 days: May 16–22) |
+
+Secondary:
+- LNG: 0 new transits confirmed (~15–17 laden LNG carriers still stranded inside Gulf; Qatar–Pakistan G2G channel remains the only bilateral LNG window; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from live tracker aggregators, Times of Israel, Bloomberg (May 22), WorldCargoNews, Insurance Journal, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **5TH ROUND US-IRAN TALKS — ROME, NO BREAKTHROUGH (May 23)**: The fifth round of indirect US–Iran nuclear/Hormuz negotiations held in Rome on May 23 concluded without a formal breakthrough; both sides agreed to continue discussions. This is **Ceasefire Day 85**. Trump told reporters the US will secure Iran's highly enriched uranium (HEU) stockpiles and explicitly ruled out accepting Iran's Hormuz toll plan as part of any deal framework. Contradictory signals persist: Times of Israel reported US and Iran "closing in on a framework for a permanent deal" even as Trump renewed bomb threats against Tehran. Pakistan's army chief Gen. Asim Munir met Iranian FM Abbas Araghchi in Tehran on May 23 as Islamabad deepens its mediation role. Nuclear enrichment moratorium gap (Iran ~5 years, US demands ~20 years; estimated landing zone ~12–15 years) and HEU disposal remain core sticking points.
+- **GRAND LADY (VLCC) STILL INSIDE GULF — LOADING MISSION IN PROGRESS**: Eastern Mediterranean Maritime's *Grand Lady* (Cyprus-flagged, 300,000 dwt), which entered dark via Larak Island on May 22, is confirmed anchored off Dubai awaiting/undertaking a crude loading operation. The vessel has not exited the Strait as of May 23 reporting. If it loads and exits, it would be a significant signal that European-managed VLCCs are re-entering the transit coalition; watching closely.
+- **IRGC CLAIMS 25-VESSEL COORDINATED TRANSIT**: The IRGC Navy again claimed 25 commercial vessels transited Hormuz "in coordination" with Iranian authorities in the past 24 hours. As with prior IRGC claims (26 on May 21, 31 on May 22), this figure almost certainly includes IRGC-affiliated, Iranian, and PGSA-escorted vessels and should not be taken as independent commercial throughput. Independently confirmed crude transit: ~1 (estimate).
+- **KOREA QUEUE — 25+ VESSELS STILL AWAITING**: No additional South Korean-flagged VLCC transit confirmed for May 23. Following *Universal Winner*'s May 20 breakthrough, South Korea's Foreign Ministry confirmed 25+ Korean-flagged vessels remain queued. No further bilateral Iran–Korea clearances reported as of this entry; bilateral diplomatic channel remains open.
+- **BRENT CRUDE ~$116/BBL**: Brent closed at approximately $116.73/bbl on May 22 after the market reasserted geopolitical risk premium following Iran's "no deal yet" statement. No May 23 close confirmed at time of writing; if Rome talks fail to generate momentum, prices may sustain elevated levels.
+- **LNG**: No new LNG transit confirmed for May 23. Qatar–Pakistan G2G channel (*Al Kharaitiyat* May 10, *Mihzem* May 11) remains the only confirmed bilateral LNG window. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still awaiting political green light. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Grand Lady's continued dark-transit pattern and anchorage off Dubai confirm AIS-off operations ongoing inside the Gulf. Dark-fleet transit ratio carried forward at ~36% (Windward AI May 13). Actual crude flows may marginally exceed AIS-confirmed counts.
+- **Maritime incidents**: No May 23-specific incidents confirmed at time of writing. Note: CMA CGM San Antonio was attacked in the Strait on May 5 (crew injured; missile/projectile strike); cumulative total ~46–48+ since Feb 28.
+- **Sources**: [Times of Israel — US, Iran said closing in on framework for permanent deal as Trump renews bomb threats](https://www.timesofisrael.com/us-iran-said-closing-in-on-framework-for-permanent-deal-as-trump-renews-bomb-threats/) · [Bloomberg May 22 — Iran-US Peace Deal: Why Hormuz and Nuclear Enrichment Are Key Sticking Points](https://www.bloomberg.com/news/articles/2026-05-22/iran-us-peace-deal-why-hormuz-and-nuclear-enrichment-are-key-sticking-points) · [WorldCargoNews — Crew injured as CMA CGM ship comes under attack in Hormuz transit](https://www.worldcargonews.com/news/2026/05/crew-injured-as-cma-cgm-ship-comes-under-attack-in-hormuz-transit/) · [gCaptain — CMA CGM Containership Confirmed Attacked in Hormuz, Crew Injured](https://gcaptain.com/cma-cgm-containership-confirmed-attacked-in-hormuz-crew-injured/) · [Hormuz Strait Monitor — Live Tracker](https://hormuzstraitmonitor.com/) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-22
 
 | Metric | Value |
