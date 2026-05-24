@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-24
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no named VLCC crude exit confirmed for May 24; *Grand Lady* was still loading near Dubai as of May 23 — potential exit pending; ~1/day carry-forward) |
+| vs prior day | flat (+0, 0%) vs May 23 (~1) |
+| 7-day average | 1.3 vessels/day (based on 7 days: May 17–23) |
+
+Secondary:
+- LNG: 1 vessel (*Al Hamra*, ADNOC Logistics & Services — **first India-bound LNG transit since war began**; dark transit from Das Island, Abu Dhabi to western India; loaded inside Gulf while AIS-off from ~April 19, reappeared loaded at Hormuz exit per Bloomberg/Kpler)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg (May 24), Deccan Chronicle (May 24), Egypt Oil & Gas (May 24), CNBC (May 23–24), CBS News (May 23–24), Boston Globe (May 24), and search-aggregated reporting. All crude vessel counts should be treated as approximate.
+- **TRUMP DECLARES DEAL "LARGELY NEGOTIATED" — STRONGEST DIPLOMATIC SIGNAL YET (Ceasefire Day 86)**: Trump posted on social media: *"An Agreement has been largely negotiated, subject to finalization between the United States of America, the Islamic Republic of Iran, and the various other Countries."* This is a step change above "final stages" (May 20) and the inconclusive Rome talks (May 23, Round 5). Phase 1 would be an MOU; broader talks to follow within 30–60 days. SecState Rubio reiterated US conditions: no Iranian nuclear weapon, Hormuz reopening without tolls, HEU turnover to a third country.
+- **IRAN DISPUTES TRUMP'S ANNOUNCEMENT**: Iran's semi-official Fars news agency called Trump's claim "incomplete and inconsistent with reality," insisting Hormuz would remain under Iranian management. Nuclear enrichment gap (Iran ~5 years, US demands ~20 years), HEU disposal, and sovereignty over Hormuz remain sticking points. No signed deal as of this entry.
+- **AL-ARABIYA LEAKED DEAL DRAFT**: Saudi network Al-Arabiya published a reported "final draft" including: immediate comprehensive unconditional ceasefire, guaranteed freedom of navigation in Hormuz and the Arabian Gulf, and gradual lifting of US sanctions. Network reported announcement could come "within hours" — Iran's subsequent rebuttal suggests the timeline is premature, but active shuttle diplomacy is confirmed.
+- **BRENT DROPS SHARPLY TO ~$103.54/bbl**: Brent crude futures settled at approximately $103.54/bbl and WTI at ~$96.60/bbl on deal-optimism pricing — down from ~$116.73 on May 22, a ~12% decline in two sessions. This is the second major deal-optimism oil price move of the crisis (first: ~5% drop on May 20 "final stages" comment). Wood Mackenzie's forecast of ~$80/bbl by end-2026 if Hormuz reopens by June is back in market focus.
+- **ADNOC *AL HAMRA* LNG TRANSIT — NEW UAE → INDIA BILATERAL WINDOW**: ADNOC Logistics & Services's LNG carrier *Al Hamra* exited the Strait of Hormuz bound for western India — the first confirmed LNG transit destined for India since the Iran war began February 28. Loaded at ADNOC's Das Island export plant inside the Gulf; went AIS-dark ~April 19, reappeared loaded near the Strait exit per Bloomberg/Kpler. This is a distinct new bilateral channel (UAE → India) beyond the existing Qatar–Pakistan G2G window (*Al Kharaitiyat* May 10, *Mihzem* May 11). No toll payment confirmed.
+- **GRAND LADY (VLCC) — LOADING COMPLETE, EXIT PENDING**: The Cyprus-flagged VLCC *Grand Lady* (300,000 dwt, Eastern Mediterranean Maritime) was confirmed anchored near Dubai loading crude as of May 23. Exit on May 24 not yet confirmed in accessible sources; if exited, it would be the first confirmed European-managed VLCC crude transit since the crisis began. Monitoring closely.
+- **LNG**: ~15–17 laden LNG carriers still stranded inside the Persian Gulf. Qatar–Pakistan G2G channel remains the other confirmed bilateral LNG window. *Al Hamra* adds UAE → India as a second corridor. No general commercial LNG reopening.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still awaiting political green light. Urea ~$826/MT (~70% above pre-war ~$490/MT). Leaked deal draft references "guaranteed freedom of navigation" broadly but no confirmed humanitarian fertilizer carve-out.
+- **AIS / dark fleet**: *Al Hamra* dark transit confirms AIS-off operations continuing inside the Gulf. Dark-fleet transit ratio carried forward at ~36% (Windward AI May 13). Actual crude and LNG flows may marginally exceed AIS-confirmed counts.
+- **Maritime incidents**: No May 24-specific incidents confirmed at time of writing. Cumulative total: ~46–48+ since Feb 28.
+- **Sources**: [Bloomberg May 24 — LNG Tanker Exits Hormuz for India for First Time Since War Began](https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began) · [Boston Globe May 24 — LNG tanker exits Hormuz for India for first time since war began](https://www.bostonglobe.com/2026/05/24/world/lng-tanker-exits-hormuz-for-india-first-time-since-war-began/) · [Deccan Chronicle May 24 — LNG Tanker Exits Hormuz for India for First Time Since War Began](https://www.deccanchronicle.com/nation/world/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began-1958785) · [Egypt Oil & Gas — ADNOC LNG Tanker Makes First Hormuz Crossing Since Conflict](https://egyptoil-gas.com/news/adnoc-lng-tanker-makes-first-hormuz-crossing-since-conflict/) · [CNBC May 23 — Trump says Iran deal reopening Strait of Hormuz 'largely negotiated,' will be announced soon](https://www.cnbc.com/2026/05/23/us-iran-war-talks.html) · [CBS News — Live Updates: Peace deal with Iran has been 'largely negotiated'](https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/) · [The Week India May 22 — Final draft of US-Iran deal leaked?](https://www.theweek.in/news/middle-east/2026/05/22/us-iran-deal-leak-war-peace-agreement-sanctions-ceasefire-negotiations.html) · [CNBC May 22 — Oil prices post weekly loss as U.S. and Iran signal progress toward a deal](https://www.cnbc.com/2026/05/22/oil-prices-today-trump-iran-strait-of-hormuz-uranium-.html) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-23
 
 | Metric | Value |
