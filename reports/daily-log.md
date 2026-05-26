@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-26
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no named VLCC crude exit confirmed for May 26; US self-defense strikes on Iranian mine-laying boats near Hormuz on May 25–26 likely suppressed transit confidence; carrying forward ~1/day baseline) |
+| vs prior day | flat (+0, 0%) vs May 25 (~1) |
+| 7-day average | 1.3 vessels/day (based on 7 days: May 20–26) |
+
+Secondary:
+- LNG: 0 new transits confirmed (no May 26-specific LNG transit found in accessible sources; *Al Rayyan* and *Fuwairit* Qatar LNG from May 24–25 continuing their outbound voyages; no new PGSA-authorised LNG window)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CNBC (May 26), CBS News (May 25–26), PBS News (May 26), Fox News (May 25–26), InvestingNews (May 26), Bloomberg (May 25), and search-aggregated reporting. All crude vessel counts should be treated as approximate.
+- **US SELF-DEFENSE STRIKES NEAR HORMUZ (Ceasefire Day 88)**: US CENTCOM conducted "self-defense strikes" targeting Iranian missile launch sites and boats attempting to place mines in the Strait of Hormuz on May 25–26. CENTCOM insists the ceasefire remains in place; Iranian state media and IRGC-linked outlets frame the strikes as ceasefire violations. Strikes occurred hours after Iranian negotiators met with Qatari mediators in Doha. The dual dynamic — active military strikes alongside active diplomacy — creates heightened uncertainty for commercial transit operators on May 26.
+- **DEAL STATUS — "95% THERE" (Ceasefire Day 88)**: Trump characterised talks as "proceeding nicely." SecState Rubio called it "a pretty solid thing on the table" but "still a work in progress" that "could take a few days." Fox News, citing senior US officials, reported the deal is "95% there." No MOU or framework document has been signed as of May 26. Disputed terms: (1) nuclear enrichment moratorium duration (Iran ~5 years, US demands ~20 years); (2) HEU disposal (US wants third-country transfer, Iran resists); (3) sovereignty language over Hormuz (Iran insists it retains management rights, US insists on unfettered freedom of navigation).
+- **BRENT CRUDE DROPS BELOW $100**: Brent crude futures fell ~7% to approximately $96/bbl; WTI fell ~6% to ~$90/bbl — the lowest oil prices since the crisis began, driven by deal-optimism pricing. Market is pricing a significant probability of near-term reopening. Wood Mackenzie's $80/bbl end-2026 forecast comes back into focus if a deal is signed within days. If the deal collapses, analysts expect a sharp rebound to $110–120+.
+- **GRAND LADY STATUS**: No confirmed exit as of May 26. The Cyprus-flagged VLCC *Grand Lady* (Eastern Mediterranean Maritime) was last confirmed anchored near Dubai (May 23–25), loading crude inside the Gulf. If it exits Hormuz, it would be the first confirmed European-managed VLCC crude transit since the crisis began.
+- **TRANSIT IMPACT OF US STRIKES**: US strikes on Iranian mine-laying boats near Hormuz — timed during active diplomatic negotiations — add operational uncertainty for commercial vessels on May 26. IRGC may respond by tightening transit authorisations or escalating maritime harassment operations. VLCC transit volume likely to remain suppressed pending deal resolution.
+- **AIS / dark fleet**: Dark-transit ratio carried forward at ~36% (Windward AI May 13). Actual crude flows may marginally exceed AIS-confirmed counts.
+- **Maritime incidents**: US "self-defense strikes" on May 25–26 (missile sites + mine-laying boats) constitute significant new military incidents. Cumulative total: ~49–51+ since Feb 28.
+- **Sources**: [CNBC May 26 — U.S. conducts "self-defense strikes" in Iran as Trump seeks peace deal](https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html) · [CBS News live updates — US conducts "self-defense" strikes, ceasefire still in place](https://www.cbsnews.com/live-updates/iran-us-war-trump-deal-obstacles-remain/) · [PBS News — U.S. says it carried out "self-defense" strikes in Iran, including missile sites and boats placing mines](https://www.pbs.org/newshour/world/u-s-says-it-carried-out-self-defense-strikes-in-iran-including-missile-sites-and-boats-placing-mines) · [Fox News live updates — deal "95% there"](https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-peace-deal-may-25) · [Bloomberg May 25 — US Strikes Targets in Iran as Trump Hails Progress on Peace Deal](https://www.bloomberg.com/news/articles/2026-05-25/trump-touts-iran-progress-while-hormuz-strike-reports-show-risk) · [InvestingNews — Oil Slides as Tankers Trickle Out of Hormuz Amid US-Iran Peace Talks](https://investingnews.com/oil-falls-tankers-leave-hormuz/) · [Washington Times May 25 — Oil prices dip as markets anticipate potential US-Iran peace deal](https://www.washingtontimes.com/news/2026/may/25/oil-prices-dip-markets-anticipate-potential-us-iran-peace-deal/) · [Axios May 24 — Oil prices fall after Trump indicates US-Iran deal possible](https://www.axios.com/2026/05/24/oil-prices-iran-war-hormuz-strait-trump-tehran-peace-talks) · [Fortune May 24 — Oil drops as US says deal with Iran and Hormuz reopening is near](https://fortune.com/2026/05/24/oil-prices-us-ceasefire-deal-iran-hormuz-strait-reopening/) · [CNN May 25 — Live updates: Iran war news; US targets Iranian missile launch sites and boats](https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal) · [Inquirer May 25 — Even after a Strait of Hormuz deal, moving 1,500 ships won't be easy](https://www.inquirer.com/news/nation-world/strait-hormuz-war-iran-deal-reopen-restart-shipping-trump-20260525.html) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-25
 
 | Metric | Value |
