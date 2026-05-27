@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-27
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no named VLCC crude exit confirmed for May 27; IRGC retaliation threat following US May 25–26 self-defense strikes maintains chilling effect; IRGC claimed 25 total vessels in previous 24-hour window (May 26), implying some crude movement but independently confirmed figure remains ~1/day; carrying forward ~1/day baseline) |
+| vs prior day | flat (+0, 0%) vs May 26 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 days: May 21–27; May 20 spike of ~3 has rolled off the window) |
+
+Secondary:
+- LNG: 0 new transits confirmed (*Al Rayyan* and *Fuwairit* Qatar LNG from May 24–25 continuing outbound voyages; no new PGSA-authorised LNG window confirmed for May 27)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from The Aviationist (May 26), India TV News (May 26), CNN live blog (May 25), Al Jazeera (May 26), Bloomberg (May 25), CNBC (May 23), Axios (May 24), and search-aggregated reporting. All crude vessel counts should be treated as approximate.
+- **IRGC RETALIATION THREAT — CEASEFIRE DAY 89**: The IRGC warned it would retaliate against "ceasefire violations" following US "self-defense strikes" on May 25–26 targeting Iranian missile launch sites and two IRGC mine-laying boats near the Strait of Hormuz, and a SAM site in Bandar Abbas. Iran's MQ-9 Reaper shootdown claim (one drone downed, a second and an F-35 fired upon) adds to the hostile-engagement tally. Strikes were conducted simultaneously with active diplomatic shuttle diplomacy (Iranian negotiators had met Qatari mediators in Doha hours earlier). The dual military-diplomatic dynamic — US strikes while talks are live — is the defining risk signal for May 27 transit activity.
+- **DEAL STATUS — "95% THERE" BUT STALLED ON LANGUAGE**: Fox News (senior US officials) reported the deal is "95% there." SecState Rubio described disagreements as "a word, a sentence." Core gaps remain: (1) nuclear enrichment moratorium duration — Iran ~5 years, US demands ~20 years; (2) HEU disposal (US: third-country transfer; Iran: resists); (3) sovereignty language over Hormuz — Iran insists it retains management rights, US demands unfettered freedom of navigation with no tolls. No MOU or framework document has been signed. Brent crude fell ~7% to ~$93–96/bbl on deal-optimism pricing (lowest since crisis began); a deal collapse would likely push prices sharply back toward $110–120+.
+- **IRGC 25-VESSEL CLAIM (MAY 26 WINDOW)**: IRGC Navy claimed 25 vessels (oil tankers and container ships) transited Hormuz in the previous 24 hours under IRGC coordination — the Tuesday (May 26) claim consistent with similar claims of 25–33 vessels/day across May 21–25. These figures include IRGC-affiliated, Iranian state, and PGSA-escorted vessels; independently confirmed commercial crude throughput remains far lower. Crude fraction (~35%) of 25 vessels would imply ~8–9 crude transits, but no independent source has confirmed this order of magnitude for May 26–27.
+- **GRAND LADY (CYPRIOT VLCC) — NO CONFIRMED EXIT**: The Cyprus-flagged VLCC *Grand Lady* (Eastern Mediterranean Maritime, 300,000 dwt) was last confirmed anchored near Dubai loading crude as of May 23–25. No exit from the Strait has been confirmed as of available May 27 reporting. If exited, it would be the first confirmed European-managed (non-AET) VLCC crude transit since the crisis began.
+- **7-DAY AVERAGE DROPS**: The 7-day rolling average falls from 1.3 to 1.0 vessels/day as May 20's exceptional 3-VLCC spike (Yuan Gui Yang, Ocean Lily, Universal Winner — ~6 million barrels) rolls out of the calculation window. Underlying pace is ~1/day.
+- **BRENT CRUDE ~$93–96/BBL**: Lowest oil prices since the crisis began, driven by deal-optimism pricing from Trump's "largely negotiated" (May 23) and "95% there" (May 26) signals. Wood Mackenzie $80/bbl end-2026 forecast back in focus if a deal is signed within days. IRGC retaliation threat and stalled language negotiations introduce upside risk.
+- **LNG**: *Al Rayyan* and *Fuwairit* Qatar LNG tankers (transited May 24–25) are continuing outbound voyages. No new laden LNG transit confirmed for May 27. ~15–17 laden LNG carriers remain stranded inside the Persian Gulf. Qatar–Pakistan and Qatar–China G2G bilateral windows remain the only confirmed LNG corridors.
+- **Fertilizer**: Zero fertilizer transits for another day. UN humanitarian fertilizer corridor still awaiting political green light from both sides. Urea ~$826/MT (~70% above pre-war ~$490/MT). UN warns of downstream H2 2026 food supply impact.
+- **AIS / dark fleet**: Dark-transit ratio carried forward at ~36% (Windward AI May 13). Actual crude flows may marginally exceed AIS-confirmed counts. IRGC's 25-vessel claims suggest significant shadow-fleet and permitted-flag activity invisible to open AIS tracking.
+- **Maritime incidents**: US self-defense strikes on mine-laying boats and SAM site (May 25–26) represent the most recent military engagement. IRGC claims MQ-9 shot down. Cumulative total: ~51–53+ since Feb 28.
+- **Sources**: [The Aviationist May 26 — U.S. Launches "Defensive Strikes" in Iran Targeting Mine-Laying Boats and SAM Sites](https://theaviationist.com/2026/05/26/u-s-launches-defensive-strikes-in-iran/) · [India TV News May 26 — US conducts "self-defence" strikes, targets mine-laying boats, missile launch sites amid peace talks](https://www.indiatvnews.com/news/world/us-conducts-self-defence-strikes-in-iran-targets-boats-missile-launch-sites-amid-peace-talks-latest-updates-2026-05-26-1042444) · [CNN live blog May 25 — Iran war news; IRGC threatens to retaliate after US strikes](https://www.cnn.com/2026/05/25/world/live-news/iran-war-us-peace-deal) · [Bloomberg May 25 — US and Iran Inch Closer to a Deal to Reopen Hormuz](https://www.bloomberg.com/news/newsletters/2026-05-25/us-and-iran-inch-closer-to-a-deal-to-reopen-hormuz) · [CNBC May 23 — Trump says Iran deal reopening Strait of Hormuz "largely negotiated," will be announced soon](https://www.cnbc.com/2026/05/23/us-iran-war-talks.html) · [Axios May 24 — Exclusive: What's inside the Iran deal Trump is close to signing](https://www.axios.com/2026/05/24/iran-deal-strait-hormuz-sanctions-nuclear) · [Al Jazeera Apr 23 — US to "shoot and kill" Iranian boats laying mines in Hormuz](https://www.aljazeera.com/news/2026/4/23/us-to-shoot-and-kill-iranian-boats-laying-mines-in-hormuz-trump-says) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-26
 
 | Metric | Value |
