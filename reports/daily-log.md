@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-05-30
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no named VLCC crude exit confirmed for May 30 in accessible sources; Trump Situation Room meeting on ceasefire extension MOU ended without decision on May 29 — deal unsigned; IRGC warning shots at 4 vessels on May 28 maintain chilling effect; IRGC Kuwait ballistic missile attack (May 28) signals heightened escalation; carrying forward ~1/day baseline) |
+| vs prior day | flat (+0, 0%) vs May 29 (~1) |
+| 7-day average | 1.3 vessels/day (based on 7 days: May 23–29; May 27 = ~2 retroactively corrected, May 28 = ~2, all other days = ~1) |
+
+Secondary:
+- LNG: 0 vessels (*Umm Al Ashtan* ADNOC/Das Island → India, which exited ~May 27, continues its voyage; no new LNG transit confirmed for May 30; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor still awaiting political green light from US and Iran)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from RFE/RL (May 28), CBS News (May 28–29), CNBC (May 28), search-aggregated reporting, and contextual carry-forward from May 29 log entry. All crude vessel counts should be treated as approximate.
+- **TRUMP SITUATION ROOM MEETING ENDS WITHOUT DECISION (Ceasefire Day 92)**: Trump convened top aides in the White House Situation Room on May 29 for a "final determination" on the proposed 60-day ceasefire extension MOU — but the meeting concluded without a clear decision or announcement. A White House official confirmed the meeting ended, declining to say whether Trump approved the framework. An adviser to Iranian Supreme Leader Mojtaba Khamenei stated Trump's posture at the negotiating table shows "he is not inclined toward negotiation and is pursuing other objectives." The proposed MOU terms — Hormuz reopening with no tolls, Iran mine-clearing, US lifting naval blockade, US sanctions waivers — remain unsigned as of May 30.
+- **IRGC WARNING SHOTS (MAY 28) CHILLING EFFECT PERSISTS**: IRGC fired warning shots at 4 vessels attempting to transit without prior coordination on May 28, forcing all 4 to turn back. One vessel was identified as US-linked. The incident signals the IRGC's renewed willingness to enforce transit restrictions through active fire — a significant behavioral reversal from the tentative May 24–27 "seepage" window. Effect likely suppresses voluntary transit attempts through May 30 while deal uncertainty persists.
+- **IRGC KUWAIT BALLISTIC MISSILE ATTACK AND DRONES (MAY 28)**: IRGC fired ballistic missiles targeting Kuwait (intercepted) and launched 5 one-way attack drones near Hormuz. CENTCOM called the Kuwait strike "an egregious ceasefire violation" and the most serious attack on a sovereign Gulf state since the crisis began. The dual military escalation — warning shots at commercial vessels and missiles at Kuwait — on the same day as the tentative MOU announcement underscores the "fighting while talking" pattern that has defined this crisis. Brent crude rebounded from below $96/bbl (deal-optimism) to ~$97/bbl as markets repriced escalation risk.
+- **DEAL STATUS**: The proposed 60-day MOU (agreed by US and Iranian negotiators on May 28, per CNN/RFE/RL) includes: immediate Hormuz reopening with no tolls; Iran to clear mines; US to lift naval blockade; US to issue oil sanctions waivers; nuclear talks to follow within 60 days. However, Trump has not signed or publicly endorsed the framework. Core sticking points unchanged: nuclear enrichment moratorium (Iran ~5 years, US demands ~20 years), HEU third-country disposal, and Hormuz sovereignty language.
+- **7-DAY AVERAGE BASIS (May 23–29)**: May 23 (~1) + May 24 (~1) + May 25 (~1) + May 26 (~1) + May 27 (~2, retroactively corrected per May 28 entry: Eagle Veracruz + Nissos Keros both confirmed exiting May 27) + May 28 (~2) + May 29 (~1) = 9 / 7 ≈ 1.3 vessels/day.
+- **LNG**: No new laden LNG transit confirmed for May 30. *Umm Al Ashtan* (ADNOC, Das Island → India, exited ~May 27) continues en route. *Al Rayyan* and *Fuwairit* (Qatar LNG, May 24–25) continuing outbound voyages. ~15+ laden LNG carriers remain stranded inside the Persian Gulf. No new PGSA-authorised general LNG window.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor still awaiting political green light from both sides. Urea ~$826/MT (~70% above pre-war ~$490/MT). UN warning of downstream H2 2026 food-supply impact.
+- **AIS / dark fleet**: IRGC warning shots on May 28 suggest even dark/IRGC-coordinated transits face active enforcement risk without explicit clearance. Dark-transit ratio carried forward at ~36% (Windward AI May 13). Actual crude flows may be at or near 0 depending on whether any IRGC-authorised convoy was organised for May 30.
+- **Maritime incidents**: IRGC warning shots at 4 vessels + Kuwait ballistic missile attack + 5 attack drones (May 28) — most serious ceasefire strain yet. Cumulative total: ~55–58+ since Feb 28.
+- **Sources**: [RFE/RL May 28 — US, Iran Negotiators Reach Tentative Deal To Extend Cease-Fire, Await Trump's Approval](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html) · [CBS News — Trump Situation Room meeting on Iran ceasefire framework ends without decision](https://www.cbsnews.com/live-updates/iran-war-trump-us-peace-talks-strait-of-hormuz-control/) · [CNBC May 28 — Oil prices turn lower as US-Iran ceasefire extension awaits Trump approval](https://www.cnbc.com/2026/05/28/oil-prices-us-strikes-in-iran-revive-strait-of-hormuz-turmoil-fears.html) · [CryptoBriefing May 28 — IRGC Navy halts US oil tanker in Strait of Hormuz after firing warning shots](https://cryptobriefing.com/irgc-navy-halts-us-oil-tanker-hormuz/) · [PBS News May 28 — US military accuses Iran of ceasefire violation after Kuwait comes under missile attack](https://www.pbs.org/newshour/world/us-military-accuses-iran-of-ceasefire-violation-after-kuwait-comes-under-missile-attack) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-05-29
 
 | Metric | Value |
