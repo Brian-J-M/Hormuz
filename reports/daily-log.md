@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-02
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; no named VLCC crude exit confirmed for June 2; Iran suspended peace talks with the US on June 1 in protest of Israeli attacks on Lebanon, with Iranian state media reporting Iran was "preparing to fully close the Strait of Hormuz" — the most significant diplomatic breakdown since the April 8 ceasefire; mandatory routing decree (May 31) and OFAC PGSA sanctions remain in force; ~1/day baseline carried forward) |
+| vs prior day | flat (+0, 0%) vs June 1 (~1) |
+| 7-day average | 1.3 vessels/day (based on 7 days: May 27–June 2; May 27 = ~2, May 28 = ~2, all other days = ~1) |
+
+Secondary:
+- LNG: 0 vessels (Iran's talk suspension and Hormuz re-closure threat eliminate near-term LNG transit prospects; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor on indefinite hold; Iran's re-closure threat reinforces stalemate)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CNN (June 1–2), Washington Post (June 1), Fortune (June 1), MSNBC/Maddow Blog (June 1), Slate (June 2), and search-aggregated reporting. All crude vessel counts should be treated as approximate.
+- **IRAN SUSPENDS PEACE TALKS — HORMUZ RE-CLOSURE THREAT (Ceasefire Day 95)**: Iran suspended communications with the US on June 1, 2026, in protest of Israel's escalating military attacks on Lebanon. Iranian state media reported Iran was "preparing to fully close the Strait of Hormuz." Iranian officials have consistently framed the Lebanon war and the Iran war as "essentially the same conflict," demanding a Lebanon ceasefire as a precondition for continued Hormuz/nuclear talks. Trump publicly insisted talks were "moving ahead" while sources told CNN he had a heated exchange with Netanyahu over Israel's Lebanon offensive. This is the most significant diplomatic breakdown since the April 8 ceasefire and removes the deal-optimism floor that had anchored Brent crude near $88–91/bbl for the past week.
+- **OIL PRICES SURGE ON HORMUZ RE-CLOSURE FEARS**: Brent crude initially surged more than 8% on June 1 after Iran's suspension announcement; WTI rose 5.43% to $92.10/bbl; Brent reached $96.42/bbl as of June 1 morning. The deal-optimism pricing that drove Brent from ~$110 down to ~$88–91 (May 23–29 window) is fully reversed. CNN Business (June 2) reports oil prices "shot up Monday [June 1] following renewed fighting in the region and reports Iran had broken off peace negotiations." If Iran follows through on a full re-closure, analysts expect prices to retrace toward $110–120+.
+- **CNN "94 DAYS OF PARALYSIS" (JUNE 2)**: CNN Business's June 2 analysis reports only 7 ships passed through the Strait on Friday May 29 (5 entering, 2 exiting), with 4 additional ships transiting over the weekend (May 30–31). Current throughput remains ~4% of the pre-war 95-vessels/day norm. Shipping executives interviewed refused to commit cargo until a "definitive peace agreement that includes the safe reopening of the strait" is signed.
+- **IRAN MANDATORY ROUTING DECREE (MAY 31) REMAINS IN FORCE**: Iran's Khatam al-Anbiya Central HQ mandatory routing and pre-authorization requirements for all commercial vessels transiting Hormuz (issued May 31) continue to apply. Vessels transiting without IRGC permit face "grave jeopardy."
+- **OFAC PGSA SANCTIONS REMAIN IN FORCE**: US Treasury's SDN designation of Iran's Persian Gulf Strait Authority (May 27–28) prohibiting US persons from paying Iranian transit fees has not been rescinded. Combined with the talk suspension, the legal corridor for Western-linked operators has effectively collapsed.
+- **DEAL STATUS — BROKEN DOWN AS OF JUNE 1**: The 60-day MOU framework — Hormuz open with no tolls, Iran de-mines, US lifts blockade, sanctions waivers, nuclear talks within 60 days — remains unsigned. Iran's June 1 suspension adds Lebanon ceasefire as a new precondition, widening the sticking-point list beyond nuclear enrichment moratorium duration, HEU disposal, and Hormuz sovereignty language.
+- **LNG**: No new laden LNG transit confirmed for June 2. Iran's re-closure threat and talk suspension eliminate near-term prospects for the ADNOC UAE→India and Qatar bilateral LNG corridors that had begun to open (Al Hamra May 24, Al Rayyan/Fuwairit May 25). ~15+ laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. Iran's re-closure threat reinforces the indefinite hold on the UN humanitarian fertilizer corridor. Urea ~$826/MT (~70% above pre-war ~$490/MT).
+- **AIS / dark fleet**: Dark-transit ratio carried forward at ~36% (Windward AI May 13). Iran's active re-closure threat and Khatam al-Anbiya mandatory routing decree signal heightened enforcement risk for any unauthorised dark transit attempt. Actual crude flows may be at or near 0 for June 2.
+- **Maritime incidents**: No June 2–specific kinetic incidents confirmed at time of writing. Cumulative total: ~55–58+ since Feb 28.
+- **Sources**: [CNN June 1 — Trump insists talks continue after Iran suspended negotiations](https://www.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news) · [Washington Post June 1 — Iran breaks off U.S. ceasefire talks over Israeli attacks on Lebanon](https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/) · [CNN Business June 2 — 94 days of paralysis: The Strait of Hormuz remains choked off](https://www.cnn.com/2026/06/02/business/strait-of-hormuz-ship-traffic) · [Fortune June 1 — Current price of oil as of June 1, 2026](https://fortune.com/article/price-of-oil-06-01-2026/) · [MSNBC/Maddow Blog — As Iran walks away from the negotiating table, Trump contradicts himself (again)](https://www.ms.now/rachel-maddow-show/maddowblog/as-iran-walks-away-from-the-negotiating-table-trump-contradicts-himself-again) · [Slate — Trump Iran war news: Peace talks are off. Now what?](https://slate.com/news-and-politics/2026/06/trump-iran-war-news-peace-talks-off-what-next.html) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-06-01
 
 | Metric | Value |
