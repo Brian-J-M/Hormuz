@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-03
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate; Iran suspended peace talks with the US on June 1 in protest of Israeli attacks on Lebanon and vowed to "completely" block Hormuz — the most significant diplomatic breakdown since the April 8 ceasefire; Trump says a deal is reachable "within a week" but Iran has not been in contact with Washington for several days; Iran's Khatam al-Anbiya mandatory routing decree (May 31) and OFAC PGSA SDN sanctions (May 27–28) remain in force; IRGC claimed 15 ships under coordination on June 1–2, including 4 oil tankers, but independently confirmed AIS-visible throughput remains ~4 total ships/day per Kpler/CNN; ~35% crude fraction of ~4 AIS-visible ships ≈ ~1 crude vessel; ~1/day baseline carried forward) |
+| vs prior day | flat (+0, 0%) vs June 2 (~1) |
+| 7-day average | 1.1 vessels/day (based on 7 days: May 28–June 3; May 28 = ~2, all other days = ~1) |
+
+Secondary:
+- LNG: 0 vessels (Iran's talk suspension and Hormuz re-closure threat eliminate near-term LNG transit prospects; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor on indefinite hold; Iran re-closure threat reinforces stalemate; urea ~$826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CNBC (June 1), CNN Business (June 2), Al Jazeera (June 1), GlobalSecurity.org/PressTV (June 1–2), Kpler/Straits.live data via CNN, TradingEconomics (June 3 price), and search-aggregated reporting. All crude vessel counts should be treated as approximate.
+- **IRAN SUSPENDS TALKS — DAY 2 OF DIPLOMATIC BREAKDOWN (Ceasefire Day 96)**: Iran has not been in contact with Washington for several days since suspending negotiations on June 1. Iranian state media maintains the "complete" Hormuz blockade threat. Trump told ABC News he believes a deal is reachable "over the next week." Iran is reviewing a US proposal but the channel remains silent. The Lebanon ceasefire demand — Iran's new precondition added June 1 — has not been addressed by the US, which argues Lebanon is a separate conflict.
+- **US STRIKES ON QESHM ISLAND**: US forces conducted strikes on Qeshm Island in retaliation for Iranian attacks. Iran launched ballistic missiles toward neighbouring countries (intercepted). The dual military–diplomatic dynamic — active strikes during live review of a US peace proposal — continues to characterise the crisis. CENTCOM has not characterised the Qeshm strikes as a ceasefire violation.
+- **BRENT CRUDE $96.89/BBL (+0.93%)**: Brent rose to $96.89/bbl on June 3, up 0.93% from the prior day (~$95.99), continuing the rebound from the ceasefire-optimism trough (~$91–92 in late May). The price is still ~17% below the April 8 ceasefire-announcement spike and ~49% above year-ago levels. Oil market pricing reflects balanced uncertainty: deal-optimism downside vs Iran re-closure upside risk. If Iran follows through on full re-closure, analysts expect a rebound toward $110–120+.
+- **CNN "94 DAYS OF PARALYSIS" (JUNE 2) DATA — CONTEXT FOR JUNE 3**: The most recent hard Kpler data (as of CNN's June 2 analysis) shows only 7 ships on Friday May 29 (5 entering, 2 exiting) and 4 additional ships over the May 30–31 weekend. ~4 AIS-visible ships per day = ~4% of the pre-war ~95-vessel/day norm. June 3 is unlikely to exceed this given Iran's active re-closure threat.
+- **IRGC 15-SHIP CLAIM (JUNE 1–2 WINDOW)**: IRGC Navy approved transit of 15 ships in the 24-hour window around June 1–2, including 4 oil tankers, per GlobalSecurity.org/PressTV. If accurate, 4 oil tankers ÷ 1–2 days ≈ 2–4 crude/refined vessels — higher than AIS-confirmed counts, consistent with AIS-dark operations. However, IRGC claims regularly include affiliated/state vessels; independently verified crude exits remain lower. This entry conservatively logs ~1 crude vessel.
+- **CARGO VESSEL STRUCK**: A cargo vessel was reportedly struck by an unidentified projectile around June 1–2. No casualties or further details confirmed at time of writing. Cumulative incidents: ~56–60+ since Feb 28. The incident reinforces shipowner reluctance to commit cargo without a definitive signed peace agreement.
+- **230 LOADED OIL TANKERS STILL STRANDED**: Search-aggregated sources report 230 loaded oil tankers are waiting inside the Persian Gulf. War-risk insurance is priced at 8× pre-crisis levels. All major container carriers (Maersk, CMA CGM, MSC, Hapag-Lloyd) have suspended transits. CNBC's structural assessment (May 30) — that Hormuz traffic may not return to pre-war levels even after a deal is signed — remains the baseline structural risk.
+- **DEAL STATUS — STALLED**: The 60-day MOU framework (Hormuz open with no tolls, Iran clears mines, US lifts blockade, sanctions waivers, nuclear talks within 60 days) remains unsigned. Iran's June 1 talk suspension adds a Lebanon ceasefire precondition. Core sticking points unchanged: nuclear enrichment moratorium duration, HEU third-country disposal, and Hormuz sovereignty language.
+- **LNG**: No new laden LNG transit confirmed for June 3. Most recent confirmed transits: *Al Hamra* (ADNOC → India, exited ~May 24) and *Al Rayyan*/*Fuwairit* (QatarEnergy → China/Pakistan, May 24–25). ~15+ laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. Urea ~$826/MT (~70% above pre-war ~$490/MT). UN warns of downstream H2 2026 food-supply impact.
+- **AIS / dark fleet**: Dark-transit ratio carried forward at ~36% (Windward AI May 13). Iran's Khatam al-Anbiya mandatory routing decree signals active enforcement risk for non-authorised dark transits. Actual crude flows may marginally exceed AIS-confirmed counts but likely remain ~1/day.
+- **Sources**: [CNBC June 1 — Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz](https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html) · [Al Jazeera June 1 — US, Iran trade new attacks amid talks](https://www.aljazeera.com/news/2026/6/1/us-iran-trade-new-attacks-amid-talks-heres-what-we-know) · [CNN Business June 2 — 94 days of paralysis: The Strait of Hormuz remains choked off](https://www.cnn.com/2026/06/02/business/strait-of-hormuz-ship-traffic) · [GlobalSecurity.org/PressTV June 1-2 — IRGC Navy approves transit of 15 ships](https://www.globalsecurity.org/wmd/library/news/iran/2026/06/iran-260601-presstv08.htm) · [TradingEconomics — Brent crude $96.89 on June 3](https://tradingeconomics.com/commodity/brent-crude-oil) · [NBC News data tracker — Strait of Hormuz port traffic](https://www.nbcnews.com/data-graphics/strait-of-hormuz-ports-traffic-trump-us-iran-war-rcna331507) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis)
+
+---
+
 ## 2026-06-02
 
 | Metric | Value |
