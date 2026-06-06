@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (+0, 0%) vs June 5 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 days: May 31–June 6; all days ~1) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor on indefinite hold; urea ~$826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). hormuztracking.com and straits.live also returned 403. Figures derived from web search-aggregated reporting (Wikipedia, Al Jazeera, WANA, MarineInsight, CNN Business, CNBC) and the established baseline. All crude vessel counts should be treated as approximate.
+- **IRAN-US TALKS BROKEN — DAY 6 (Ceasefire Day 99)**: Iran has not been in contact with Washington for 6 days since suspending negotiations on June 1, 2026, in protest of Israel's escalating attacks on Lebanon. Iran's Lebanon ceasefire precondition remains unaddressed. No new diplomatic contact between Washington and Tehran reported as of June 6.
+- **~10 TOTAL TRANSITS REPORTED (JUNE 6)**: Search-aggregated sources indicate approximately 10 ships transited the Strait on June 6 (vs ~95/day pre-war norm, ~10% of baseline). Live AIS tracker (hormuztracking.com title) showed ~4 vessels. IRGC-claimed figures remain far above independently verified AIS counts (35 vessels in the most recent IRGC 24-hour announcement per MarineInsight; 24 vessels per WANA). Crude fraction estimated at ~25% × ~4 AIS-visible ships ≈ ~1 crude vessel. Caveat: some sources indicate no independently confirmed commercial outbound crude tanker transit since June 1 — actual crude count may be 0.
+- **IRANIAN MILITARY ESCALATION (JUNE 3–4, ONGOING CHILLING EFFECT)**: Iranian forces fired ballistic missiles at Kuwait and attack drones toward the Strait during June 3–4 — the most recent operational escalation before today. No confirmed vessel casualties, but chilling effect on transit confidence persists into June 6.
+- **BRENT CRUDE ~$98.29/BBL**: Brent crude trading at ~$98.29/bbl on June 6, reflecting the ongoing geopolitical risk premium from Iran's talk suspension and Kuwait strikes. Rystad Energy (CNN June 4) flagged a structural $10–20/bbl risk premium that analysts expect to persist regardless of any eventual deal.
+- **405 VESSELS STRANDED**: ~405 vessels remain anchored or stopped in the Persian Gulf region. War-risk insurance at 8× pre-crisis levels; 6 P&I clubs have withdrawn cover. All major container carriers (Maersk, CMA CGM, MSC, Hapag-Lloyd) maintain suspension of transits.
+- **MANDATORY ROUTING / SANCTIONS IN FORCE**: Iran's Khatam al-Anbiya mandatory routing decree (May 31) and OFAC PGSA SDN designation (May 27–28) remain in force. Unauthorized transits face "grave jeopardy" per Iranian decree.
+- **LNG**: No new laden LNG transit confirmed. Most recent confirmed transits: *Al Hamra* (ADNOC→India, ~May 24) and *Al Rayyan*/*Fuwairit* (QatarEnergy→China/Pakistan, May 24–25). ~15+ laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: Zero fertilizer transits. UN humanitarian corridor on indefinite hold pending diplomatic resolution. Urea ~$826/MT (~70% above pre-war ~$490/MT). UN warns of downstream H2 2026 food-supply impact.
+- **AIS / dark fleet**: Dark-transit ratio carried forward at ~36% (Windward AI May 13 baseline). Iran's Khatam al-Anbiya mandatory routing decree signals active enforcement risk for non-authorised dark transits. Actual crude flows may marginally exceed AIS-confirmed counts but likely remain ~0–1/day.
+- **Sources**: [2026 Strait of Hormuz crisis — Wikipedia](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [WANA — 24 Vessels Transit Strait of Hormuz Under IRGC Coordination](https://wanaen.com/24-vessels-transit-strait-of-hormuz-under-irgc-coordination/) · [MarineInsight — Iran's IRGC Navy Says 35 Commercial Ships Transited Through Strait of Hormuz](https://www.marineinsight.com/irans-irgc-navy-says-35-commercial-ships-transited-through-strait-of-hormuz-with-its-permission/) · [CNN Business June 4 — 'Their new nuclear option': Why Iran's influence over the Strait of Hormuz is here to stay](https://edition.cnn.com/2026/06/04/business/strait-of-hormuz-iran-influence-intl) · [CNBC June 1 — Iran stops negotiations with U.S., vows to 'completely' block Strait of Hormuz](https://www.cnbc.com/2026/06/01/iran-us-negotiations-strait-of-hormuz.html) · [Al Jazeera — Iran claims it coordinated passage of 26 vessels out of Hormuz](https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz)
+
+---
+
 ## 2026-06-05
 
 | Metric | Value |
