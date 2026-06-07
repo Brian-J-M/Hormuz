@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (+0, 0%) vs June 6 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 days: June 1–June 7; all days ~1) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor remains on indefinite hold; urea prices still elevated near $826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 again (consistent across all sessions since tracking began; tried both default and browser-spoofed user agents). Figures derived from web search-aggregated reporting (CNN, CNBC, ABC News, Fox News, RFE/RL, Gulf News, Wikipedia) and IMF PortWatch's most recently published figures. All crude vessel counts should be treated as approximate.
+- **Overnight military escalation (June 6, Ceasefire Day ~99–100)**: Iran launched one-way attack drones toward the Strait of Hormuz; CENTCOM shot down four of them and then struck Iranian coastal surveillance radar sites at Goruk and on Qeshm Island. Iran retaliated by firing seven ballistic missiles at US Gulf allies Kuwait and Bahrain — CENTCOM said six were intercepted and the seventh failed to reach its target. Iran called the US strikes a "clear violation" of the April 8 ceasefire.
+- **Oil market reaction — contained**: Prices initially spiked on the overnight exchange but fell sharply once markets assessed the incident as limited rather than a major escalation: WTI crude dropped over 2.6% to ~$90.54/bbl and Brent fell ~2.0% to ~$93.09/bbl on June 6–7, reflecting reduced perceived immediate risk to oil flows through the strait.
+- **IMF PortWatch baseline (most recent published, May 31)**: commercial transit at 11% of pre-crisis volume — 10 vessels vs. a typical ~95/day. March 1–May 24 average was ~6 ships/day total, down from ~100/day pre-war. Crude oil flows remain down ~95%, LNG down ~99%, and fertilizer-related cargo down ~87% versus pre-crisis baselines.
+- **Stranded fleet**: More than 150 vessels remain stranded or holding position outside the strait; war-risk insurance premiums remain near 8.0× pre-crisis levels with 6 P&I clubs having withdrawn cover.
+- **Diplomatic backdrop unchanged**: Iran has had no contact with Washington since suspending talks on June 1 over Israel's escalating Lebanon offensive; a senior Iranian official told CNN any deal now hinges on the US releasing $24B in frozen Iranian assets. Iran's Khatam al-Anbiya mandatory routing decree (May 31) and OFAC's PGSA sanctions designation (May 27–28) remain in force, continuing to deter Western shipping from using the IRGC-brokered corridor.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed in accessible sources for June 7. Estimate of ~1 carries forward the stable ~1/day baseline observed continuously since June 1 (7 consecutive days), consistent with the ~25–35% crude fraction applied to the ~4 AIS-visible ships/day Kpler/IMF have reported through early June.
+- **Sources**: [CNBC Jun 6 — US strikes Iranian sites after drone launch](https://www.cnbc.com/amp/2026/06/06/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up.html) · [RFE/RL — US forces hit Iranian coastal sites](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html) · [ABC News live updates — drones toward strait](https://abc7ny.com/live-updates/iran-war-peace-talks-oil-prices-lebanon-strait-of-hormuz/19212967/) · [Fox News live — Kuwait/Bahrain missiles](https://www.foxnews.com/live-news/iran-war-news-trump-latest-oil-prices-kuwait-bahrain-hormuz-june-6) · [Gulf News — oil prices fall on contained skirmish](https://gulfnews.com/amp/story/business/energy/oil-prices-fall-sharply-as-markets-digest-latest-us-iran-skirmishes-1.500565167) · [CNN Jun 5 — Lebanon ceasefire frays, Iran warns of wider war](https://www.cnn.com/2026/06/05/world/live-news/iran-trump-lebanon-israel-war-news) · [CNN Jun 1 — Trump insists talks continue](https://www.cnn.com/2026/06/01/world/live-news/iran-trump-lebanon-war-news) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [straits.live — Day 97 tracker / IMF PortWatch May 31 data](https://straits.live/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-06
 
 | Metric | Value |
