@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (+0, 0%) vs June 7 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 days: June 2–June 8; all days ~1) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor remains on indefinite hold; urea prices still elevated near $826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 again (consistent across all sessions since tracking began). hormuztracking.com, straits.live, and hormuzstraitmonitor.com also returned HTTP 403. Figures derived from web search-aggregated reporting (CNBC, Al Jazeera, CNN Business, Fox News, Bloomberg, Insurance Journal, IndexBox) and the established multi-week ~1/day crude baseline. All vessel counts should be treated as approximate.
+- **Ceasefire under renewed strain (Day ~101)**: Following the June 6 overnight escalation — Iran's one-way attack drones toward the Strait (4 shot down by CENTCOM), US strikes on Iranian coastal radar at Goruk and Qeshm Island, and Iran's seven-missile retaliation against Kuwait/Bahrain (six intercepted, one missed) — the ceasefire that has nominally held since April 8 remains fragile. Iran continues to call US strikes a "clear violation" of the truce.
+- **Oil prices easing on demand concerns, not supply optimism**: Brent crude slid ~2% to ~$93/bbl and WTI fell ~3% to ~$90.3/bbl on June 7, driven less by Hormuz risk reassessment than by signs of weaker global demand — Chinese crude imports fell to a 10-year low, reflecting reduced refinery activity.
+- **~412 vessels still trapped in the Gulf (Kpler, early June)**: Kpler's trade-risk team reports roughly 412 ships still stranded or waiting in the Arabian Gulf; only ~7 ships transited on a recent Friday (5 inbound, 2 outbound) plus 4 more over the following weekend, against a ~100 vessel/day pre-war norm (Lloyd's List).
+- **Recovery signal — first Iranian-flagged tankers since mid-April (June 2)**: Kpler detected four Iranian-flagged oil tankers (*Hilda I*, *Amber*, *Silvia 1*, *Happiness I*) carrying ~7 million barrels transiting Hormuz on June 2 — the first Iranian-flagged crude movement through the strait since April 15. This is the most concrete recovery signal logged in recent weeks, though it predates the current 7-day window and has not been repeated since.
+- **"Quiet" Project Freedom continues**: Rather than the publicized escort operation paused in early May, US forces are now coordinating informally with select commercial vessels — providing routing, intelligence, and security assistance for ships hugging the Omani coast with AIS transponders off to avoid Iranian mines. A Greek supertanker carrying ~2 million barrels was recently guided out of the Gulf after being stranded since March; CENTCOM says roughly a dozen more vessels are expected to receive similar assistance in the coming days. Analysts (Kpler's Ana Subasic) say this low-key approach reduces political/military stakes versus an open force-the-strait posture.
+- **MOU on Hormuz reopening still unsigned**: VP Vance said the US and Iran are "very close, but not there yet" on a memorandum of understanding to extend the ceasefire two more months and reopen Hormuz; Trump says a deal is "largely negotiated" but is pushing for tougher language on Iran's nuclear commitments and strait-reopening terms before finalizing.
+- **Stranded fleet / fertilizer crisis persist**: 150+ vessels remain stranded or holding position outside the strait (per June 7 figures); war-risk insurance remains near 8.0× pre-crisis levels with 6 P&I clubs having withdrawn cover. Urea prices remain near $826/MT (~70% above the pre-war ~$490/MT baseline), with the UN's humanitarian fertilizer corridor still on indefinite hold.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed for June 8 in accessible sources. Estimate of ~1 carries forward the stable baseline observed continuously since June 1 (8 consecutive days at ~1/day), consistent with Kpler's reported ~4 AIS-visible ships/day × ~25% crude fraction.
+- **Sources**: [CNBC Jun 7 — Oil slides on demand concerns](https://www.cnbc.com/2026/06/07/oil-prices-china-imports-hormuz.html) · [Fox News live — US strikes Iranian sites, Kuwait/Bahrain missiles](https://www.foxnews.com/live-news/iran-war-news-trump-latest-oil-prices-kuwait-bahrain-hormuz-june-6) · [Al Jazeera Jun 3 — Iran, Kuwait, Bahrain hit, is the war escalating again?](https://www.aljazeera.com/news/2026/6/3/iran-kuwait-bahrain-hit-is-the-war-in-the-gulf-escalating-again) · [Times of Israel — Four Iranian tankers transit Hormuz, first since April](https://www.timesofisrael.com/liveblog_entry/four-iranian-tankers-seen-taking-oil-through-hormuz-for-first-time-since-april/) · [Insurance Journal Jun 3 — Quiet version of Project Freedom](https://www.insurancejournal.com/news/international/2026/06/03/872237.htm) · [Bloomberg Jun 3 — US looks to unblock Hormuz quietly](https://www.bloomberg.com/news/articles/2026-06-03/us-looks-to-unblock-hormuz-with-quiet-version-of-project-freedom) · [IndexBox — Strait of Hormuz crossings with US assistance, June 2026](https://www.indexbox.io/blog/strait-of-hormuz-us-guided-ship-crossings-remain-hazardous-experts-warn/) · [CNN Business Jun 2 — 94 days of paralysis](https://www.cnn.com/2026/06/02/business/strait-of-hormuz-ship-traffic) · [CNBC May 23 — Trump says Hormuz reopening deal largely negotiated](https://www.cnbc.com/2026/05/23/us-iran-war-talks.html) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-07
 
 | Metric | Value |
