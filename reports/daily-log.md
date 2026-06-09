@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-09
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (+0, 0%) vs June 8 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 days: June 3–June 9; all days ~1) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian corridor remains on indefinite hold; urea prices still near $826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 again (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Al Jazeera, NPR, CNN, NewsNation, Arab News, IndexBox, CNBC) and the established multi-week ~1/day crude baseline. All vessel counts should be treated as approximate.
+- **MAJOR ESCALATION — Iran-Israel direct missile exchange (June 7–8, Day ~101–102)**: Iran fired roughly 24 ballistic missiles at Israel on June 7 — its first direct strike on Israel since the April 8 ceasefire — after Israel struck southern Beirut, which Iran called a crossing of "all red lines." Israel retaliated early June 8 with airstrikes on central and western Iran targeting truck-based surface-to-air missile launchers. NewsNation described it as "the most serious crossfire since the April 8 ceasefire." This represents a fresh chilling effect on Hormuz transit confidence beyond the prior CENTCOM-IRGC skirmish (June 6).
+- **De-escalation signals (June 8)**: Iran announced it had ended its military operations against Israel within hours of the exchange. Trump immediately called for attacks to "immediately stop," saying Israel and Iran are "looking to do an immediate ceasefire." Both sides pledged to halt attacks. The rapid mutual stand-down limited additional damage to the fragile MOU negotiations.
+- **Oil market reaction**: Brent crude surged 4.9% to ~$97.67/bbl on June 8 after the missile exchange, then retreated to ~$94/bbl once Iran ended operations and Trump signalled progress on a new ceasefire. IndexBox (June 9) noted oil prices subsequently fell further as the Israel-Iran truce held and weak Chinese crude imports (~9 Mb/d vs 11.7 Mb/d in February) cushioned global supply concerns.
+- **MOU negotiations still stalled**: Iran's Lebanon ceasefire precondition (imposed June 1) remains unresolved, and the June 7–8 missile exchange adds a fresh complicating factor. Trump says a deal is "largely negotiated" but Iran reiterated any deal depends on Lebanon ceasefire terms also holding. No MOU signing reported as of June 9.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed for June 9 in accessible sources. The June 7–8 missile exchange likely suppressed transit on those dates; June 9's de-escalation signals may allow the ~1/day baseline to persist. Estimate of ~1 carried forward consistent with the prior 9-day consecutive baseline (June 1–8). Actual count may be 0 given escalation chilling effect; treat with higher uncertainty than prior days.
+- **Stranded fleet / humanitarian context**: ~412 vessels (Kpler, early June) still anchored in the Arabian Gulf; war-risk insurance remains ~8× pre-crisis levels; 6 P&I clubs have withdrawn cover; ~15+ laden LNG carriers stranded inside the Persian Gulf; urea ~$826/MT (~70% above pre-war ~$490/MT baseline). "Quiet" Project Freedom continues for select vessels hugging the Omani coast.
+- **Sources**: [Al Jazeera Jun 7 — Iran fires missiles at Israel after Beirut attack](https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines) · [NPR Jun 7 — Israel says Iran launched missile, first during ceasefire](https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire) · [NPR Jun 8 — Israel and Iran pull back after trading missile fire](https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates) · [NewsNation Jun 8 — Israel and Iran trade fire in most serious confrontation since April truce](https://www.newsnationnow.com/world/ap-the-latest-israel-launches-airstrikes-on-central-and-western-iran-after-iranian-missiles-fired/amp/) · [Arab News — Trump says Israel and Iran looking to do immediate ceasefire](https://www.arabnews.com/node/2646308/middle-east) · [CNN Jun 7–8 live — ceasefire falters as Israel and Iran trade worst strikes in months](https://www.cnn.com/2026/06/07/world/live-news/iran-war-trump-israel-lebanon) · [IndexBox Jun 9 — Oil prices fall on Israel-Iran truce and weak Chinese imports](https://www.indexbox.io/blog/oil-prices-drop-as-israel-and-iran-agree-to-halt-attacks-chinese-imports-slump/) · [CNBC Jun 8 — China cushioning global oil prices below $100](https://www.cnbc.com/2026/06/08/china-oil-iran-war-us-israel-energy-prices-strait-hormuz.html) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-08
 
 | Metric | Value |
