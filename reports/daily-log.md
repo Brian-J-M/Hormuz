@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-10
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (+0, 0%) vs June 9 (~1) |
+| 7-day average | 1.0 vessels/day (based on 7 days: June 3–June 9; all days ~1) |
+
+Secondary:
+- LNG: 0 vessels (no AIS-confirmed laden LNG transit dated specifically to June 10; see recovery-signal note below on the June 8 exits)
+- Fertilizer: 0 vessels (UN humanitarian fertilizer corridor remains on indefinite hold; urea still ~$826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: Both datalab.wto.org and globaltradedata.wto.org returned HTTP 403 again (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (NBC News, NPR, Al Jazeera, CBS News, PBS, CNBC, Gulf News, Rigzone, MarineLink) and the established multi-week ~1/day crude baseline. All vessel counts should be treated as approximate.
+- **MAJOR ESCALATION — US Apache helicopter downed near the Strait (Day ~102, evening June 9 into June 10)**: A U.S. Army Apache helicopter was shot down by an Iranian one-way attack (Shahed) drone just off the coast of Oman near the Strait of Hormuz on June 9; both pilots were rescued at sea by a drone boat — reportedly the first such sea-drone rescue of the conflict. CENTCOM launched "self-defense" retaliatory strikes against Iranian air-defense and radar sites around the strait beginning ~5pm ET June 9, calling it a "proportional response." Iran's foreign minister vowed its "Powerful Armed Forces will leave no attack or threat unanswered" and Iran retaliated with strikes on US-linked sites in Bahrain and Kuwait. This is the most direct US-Iran kinetic exchange (US aircraft loss plus reciprocal strikes) since the Feb 28 outbreak, breaking out just hours after the June 7–8 Iran-Israel exchange had appeared to de-escalate. Net effect on June 10 transit activity is highly uncertain.
+- **RECOVERY SIGNAL (newly surfaced reporting, dated June 6–8, not previously logged)**: Multiple outlets (Gulf News/Reuters, Rigzone, MarineLink, OilPrice) report what they describe as the "clearest sign yet" of limited reopening: (1) a supertanker carrying Iraqi crude for China exited the strait "over the weekend" (~June 6–7) after being stranded since the Feb 28 outbreak; (2) two LNG tankers — including the QatarEnergy-controlled *Al Daayen* (loaded at Ras Laffan on June 1, the fifth Qatari-controlled LNG carrier to transit) — crossed out of the Gulf on Monday June 8 bound for Pakistan and China, bringing the cumulative total of loaded LNG carriers to exit Hormuz since the war began to nine. These are multi-day-old developments that were not reflected in the June 6–8 log entries (which recorded LNG at 0); noted here as context but not counted toward June 10's same-day total absent a June-10-dated transit. ADNOC's CEO separately cautioned that full oil flows through Hormuz "may not recover before 2027" even if the conflict ended immediately, tempering the reopening narrative.
+- **Oil prices fell sharply on June 9 (pre-helicopter)**: Brent dropped ~3.4% to ~$91.11/bbl as the Iran-Israel ceasefire from the June 7–8 exchange appeared to hold, boosting hopes for renewed peace talks — this was *before* the helicopter-downing escalation broke later June 9. Price reaction to the helicopter incident and US/Iran strikes was not yet reflected in available data.
+- **Iran hardens stance on Hormuz control**: Iran's chief negotiator Mohammad Bagher Ghalibaf said Iran will "defeat" the US naval blockade of its ports and pledged to maintain control over the strait, consistent with the ~95% reduction in crude flows, ~99% in LNG, and ~87% in fertilizer cargo versus pre-crisis baselines (IMF PortWatch/WTO figures cited in recent entries).
+- **Stranded fleet / fertilizer crisis persist**: ~400+ vessels remain anchored or stopped in the Persian Gulf region (carried forward from the ~412 figure reported June 7–8, Kpler); war-risk insurance remains ~8x pre-crisis levels with 6 P&I clubs having withdrawn cover. Urea ~$826/MT (~70% above the pre-war ~$490/MT baseline); UN fertilizer task force corridor remains unresolved, with FAO and WEF warning of H2 2026/2027 food-supply impacts.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed specifically for June 10 in accessible sources. Estimate of ~1 carries forward the stable baseline observed continuously since June 1 (10 consecutive days), pending confirmation of whether the June 9 helicopter/strikes escalation or the June 6–8 reopening signals dominate June 10 activity.
+- **Sources**: [NBC News — US launches new attacks on Iran after helicopter downing](https://www.nbcnews.com/news/us-news/pilots-fine-us-military-helicopter-goes-down-strait-hormuz-rcna349137) · [NPR — US and Iran exchange strikes after Apache helicopter downing](https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond) · [Al Jazeera — US attacks Iran after Apache helicopter downed](https://www.aljazeera.com/news/2026/6/9/trump-says-iran-shot-down-us-helicopters-over-hormuz-vows-to-respond) · [CBS News — Apache crew rescued by sea drone](https://www.cbsnews.com/news/us-apache-helicopter-crash-strait-of-hormuz-first-sea-drone-rescue/) · [CNBC — Iran targets Bahrain, Kuwait, Jordan after US strikes](https://www.cnbc.com/2026/06/09/trump-iran-helicopter-hormuz-strait.html) · [Gulf News — Strait of Hormuz Reopening? Limited oil and LNG tanker traffic resumes](https://gulfnews.com/business/energy/is-strait-of-hormuz-now-open-more-oil-lng-tankers-cross-gulf-chokepoint-1.500552390) · [MarineLink — Fifth Qatari-controlled LNG tanker exits Hormuz strait](https://www.marinelink.com/news/fifth-qataricontrolled-lng-tanker-exits-540065) · [Rigzone — Qatar quietly sends LNG tanker through Hormuz](https://www.rigzone.com/news/wire/qatar_quietly_sends_lng_tanker_through_hormuz-09-jun-2026-183884-article/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-09
 
 | Metric | Value |
