@@ -4,6 +4,31 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | -1 (-100%) vs June 13 (~1) |
+| 7-day average | 0.9 vessels/day (based on 7 days: June 7–June 13; six days at ~1, June 11 at ~0) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed for June 14; cumulative loaded LNG carriers to exit since the war began remains at 9 — most recently *Al Daayen*/*Lebrethah* around June 1; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian fertilizer corridor remains on indefinite hold; urea still ~$826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: Both datalab.wto.org and globaltradedata.wto.org returned "Host not in allowlist" / HTTP 403 in this session (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Al Jazeera, CNBC, Fox News, Gulf News, Iran International, NewsX, NBC News, athens-times.com). All vessel counts should be treated as approximate.
+- **EXPECTED REOPENING SLIPS — Iran says Islamabad memorandum will NOT be signed today (Day ~108)**: Trump claimed on June 13 ("The Deal is scheduled to get signed tomorrow, and immediately after it is signed, the Hormuz Strait is OPEN TO ALL") that today, June 14, would see the US-Iran "Islamabad Declaration" / MOU signed via a Pakistan-hosted video conference (some reports said Geneva), with the strait reopening to all traffic, no tolls, immediately afterward. However, Iranian Foreign Ministry spokesman Esmaeil Baghaei said the MOU will **not** be signed today, though he did not rule out signing in the "coming days." This directly undercuts the reopening expectation that had been the dominant story as of yesterday's entry, and is the key reason today's crude estimate reverts toward ~0 rather than the anticipated rebound.
+- **CENTCOM vs. IRGC contradiction persists**: Iran's Khatam al-Anbiya central command continues to assert the Strait is "closed to all vessels...any vessel attempting to transit will be targeted" (declaration carried forward from June 11), while CENTCOM maintains the corridor is open and that "commercial ships are continuing to transit in and out of the Strait" via US-established safe corridors. The two sides' public claims about the basic open/closed status of the Strait remain irreconcilable.
+- **Live AIS tracker shows a 5th-to-6th consecutive zero day**: hormuztracking.com reported, as of 13:40 on June 13, "no commercial vessels actively transiting outbound through the Strait," a complete halt across all categories (Crude Tankers, Bulk Carriers, Gas, Container, Other) for a 5th consecutive day — likely extending into a 6th day today absent a confirmed deal signing. This more granular, AIS-direct reading is in tension with the CENTCOM "corridor remains open" framing used to support June 12–13's ~1 estimate; today's ~0 gives weight to the AIS-direct signal pending any named-vessel transit confirmation.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed for June 14. Given (a) the non-signing of the expected MOU, (b) the unresolved CENTCOM/IRGC status contradiction, and (c) hormuztracking's "zero outbound across all categories" reading extending through June 13, this entry estimates ~0 crude vessels today — a reversion from June 12–13's ~1, pending confirmation either way. If the MOU is signed in the coming days as Iran's spokesman suggested remains possible, a sharp rebound (per Frontline's CEO and others expecting traffic to "quickly increase") could follow within days.
+- **Stranded fleet / humanitarian context (carried forward)**: ~400+ vessels remain anchored or stopped in the Persian Gulf region; war-risk insurance remains ~8× pre-crisis levels with 6 P&I clubs having withdrawn cover; ~20,000 seafarers remain stranded. Three Indian sailors were killed in the June 9 US strike on the tanker *MT Settebello* — the first fatalities reported since the US blockade began April 13. Urea ~$826/MT (~70% above the pre-war ~$490/MT baseline); UN fertilizer task force corridor remains unresolved.
+- **AIS gaps**: Significant undercount risk persists; dark transits (AIS off) are not captured by aggregated reporting, particularly along the southern Oman route.
+- **Sources**: [Al Jazeera — Will the US-Iran deal be signed on Sunday? What we know so far](https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far) · [CNBC — Trump says Iran deal to be signed Sunday, Hormuz strait to open after](https://www.cnbc.com/2026/06/13/trump-iran-deal-strait-of-hormuz.html) · [Fox News — Trump says US-Iran deal will be signed on Sunday, with Strait of Hormuz to reopen](https://www.foxnews.com/live-news/iran-war-news-us-trump-strait-hormuz-oil-price-peace-deal-june-13) · [athens-times.com — Iran says US-Iran deal won't be signed tomorrow](https://athens-times.com/iranian-foreign-ministry-spokesperson-us-iran-islamabad-memorandum-not-to-be-signed-tomorrow/) · [Iran International — Pakistan says Iran-US memorandum to be signed digitally on Sunday](https://www.iranintl.com/en/liveblog/202606139149) · [Gulf News — US renews Iran attacks, Tehran says it closed Strait of Hormuz](https://gulfnews.com/world/americas/us-renews-iran-attacks-tehran-says-it-closed-strait-of-hormuz-2-1.500570413) · [NewsX — US-Iran Peace Deal Signing: Date, Time, Venue](https://www.newsx.com/uncategorized/us-iran-peace-deal-signing-latest-news-trump-iran-geneva-islamabad-mou-date-time-venue-who-will-attend-historic-ceremony-234060/) · [CNBC — Oil tanker CEO sees Hormuz traffic quickly increasing if deal reached](https://www.cnbc.com/2026/06/11/iran-strait-hormuz-oil-tanker-traffic-frontline.html) · hormuztracking.com (live AIS tracker, cited via search aggregation) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-13
 
 | Metric | Value |
