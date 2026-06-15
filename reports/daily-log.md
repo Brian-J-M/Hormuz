@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-15
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | flat (0, 0%) vs June 14 (~0) |
+| 7-day average | 0.7 vessels/day (based on 7 days: June 8–June 14; five days at ~1, June 11 and June 14 at ~0) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed for June 15; cumulative loaded LNG carriers to exit since the war began remains at 9; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian fertilizer corridor remains unresolved; urea still in the ~$780–826/MT range)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: Both datalab.wto.org and globaltradedata.wto.org returned HTTP 403 again (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (CBS News, CNBC, Al Jazeera, Business Standard, Bloomberg, gCaptain, Insurance Journal). All vessel counts should be treated as approximate.
+- **MAJOR DEVELOPMENT — Trump declares US-Iran deal "now complete," orders Navy blockade removed and "toll-free" reopening of Hormuz (Day ~109)**: On June 14, President Trump posted that the deal with Iran "is now complete" and that he "hereby fully authorize[d] the toll free opening of the Strait of Hormuz, and, simultaneously herewith, authorize[d] the immediate removal of the United States Naval blockade." Pakistani PM Shehbaz Sharif said the agreement — covering "immediate and permanent termination of military operations on all fronts," including Lebanon — will be formally signed at a ceremony in Switzerland on **Friday, June 19**. This is the most concrete reopening commitment of the entire conflict, but it is a future-dated signing, not an immediate fact on the water.
+- **No resumption yet on the water**: Despite the announcement, AIS-based reporting indicates the Strait remained "effectively closed" through June 14–15, with live trackers (hormuztracking.com) showing only a handful of vessels (~4) at near-zero (0.0 kt) average speed — i.e., stationary/anchored rather than transiting. Today's ~0 crude estimate carries forward June 14's reading pending confirmed named-vessel transits.
+- **~600 vessels poised at both ends of the chokepoint**: Per Bloomberg/gCaptain/Insurance Journal (June 15), roughly 300 laden vessels are waiting inside the Persian Gulf "to cross at a moment's notice," with a roughly equal number of empty vessels staged in the Gulf of Oman ready to head back in for loading — the largest queue described yet.
+- **Shipowners cautious despite oil-price reaction**: Brent crude fell roughly 5% in early Monday trading on the deal news, but shipowners (particularly Japanese, Korean, and Chinese operators) say they need more details before resuming transits, citing a string of past agreements that failed to hold (followed by attacks/seizures) and unresolved concerns about possible naval mines affecting insurance coverage. Greek operators are reported to have a higher risk appetite than Asian peers.
+- **Stranded fleet / humanitarian context (carried forward)**: ~20,000 seafarers remain stranded; war-risk insurance remains ~8x pre-crisis levels with 6 P&I clubs having withdrawn cover. Three Indian sailors were killed in the June 9 US strike on *MT Settebello* — still the only fatalities reported since the blockade began April 13.
+- **Outlook**: If the June 19 Switzerland signing proceeds as described and the naval blockade stand-down is implemented, a sharp rebound in transits is plausible within days given the size of the waiting queue — but given the pattern of prior false starts (April 8 ceasefire, May 29 blockade-end announcement), this entry keeps crude flat at ~0 pending AIS-confirmed transits.
+- **AIS gaps**: Significant undercount risk persists; dark transits (AIS off) are not captured by aggregated reporting, particularly along the southern Oman route.
+- **Sources**: [CBS News — Trump says deal with Iran "is now complete," authorizes removal of Navy blockade](https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/) · [CNBC — US and Iran reach deal to end the Mideast war, agreement set to be signed Friday](https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html) · [Al Jazeera — US-Iran 'peace deal' announced; Trump says Strait of Hormuz reopening](https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening) · [Business Standard — US, Iran reach deal to end war; signing set for June 19 in Switzerland](https://www.business-standard.com/amp/world-news/us-iran-reach-deal-to-end-war-signing-set-for-june-19-in-switzerland-126061500032_1.html) · [Bloomberg — Shipowners seek clarity on Hormuz deal as 600 vessels eye exit](https://www.bloomberg.com/news/articles/2026-06-15/shipowners-seek-clarity-on-hormuz-deal-as-600-vessels-eye-exit) · [gCaptain — Shipowners Seek Clarity on Hormuz Deal as Waiting Flotillas Grow](https://gcaptain.com/shipowners-seek-clarity-on-hormuz-deal-as-waiting-flotillas-grow/) · [Insurance Journal — Update: Shipowners Seek Clarity on Hormuz Deal as Waiting Flotillas Grow](https://www.insurancejournal.com/news/international/2026/06/15/873689.htm) · hormuztracking.com (live AIS tracker, cited via search aggregation) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-14
 
 | Metric | Value |
