@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-16
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | flat (0, 0%) vs June 15 (~0) |
+| 7-day average | 0.6 vessels/day (based on 7 days: June 9–June 15; June 9, 10, 12, 13 at ~1; June 11, 14, 15 at ~0) |
+
+Secondary:
+- LNG: ~1 vessel tentative (*MT Disha* — Indian LNG tanker reportedly transited near Larak Island corridor; if confirmed, brings cumulative to 10 since war began; treat as approximate/unconfirmed)
+- Fertilizer: 0 vessels (UN humanitarian fertilizer corridor remains unresolved; urea still ~$780–826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 again (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Argus Media, CBS News, Bloomberg, gCaptain, Insurance Journal). All vessel counts should be treated as approximate.
+- **"Traffic unchanged" after US-Iran deal announcement (Day ~109)**: Argus Media reported as of June 16 that Hormuz tanker traffic remains unchanged following Trump's June 14 announcement that the deal with Iran "is now complete" and the US naval blockade is removed. Physical transits remain at or near zero pending the formal signing ceremony set for **June 19 in Switzerland**. This continues the June 15 pattern — ~600 vessels (roughly 300 laden inside the Gulf, 300 empty in the Gulf of Oman) remain poised and stationary, awaiting deal confirmation.
+- **Indian LNG tanker *MT Disha* tentatively transited**: Per aggregated web reporting, the Indian LNG carrier *Disha* passed through near Iran's Larak Island corridor without incident on June 16. If confirmed, this would be the 10th loaded LNG carrier to exit since the war began (Feb 28). The transit appears pre-arranged (likely via IRGC clearance) rather than reflecting spontaneous reopening following the deal announcement.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed for June 16 in accessible sources. Carrying forward the June 15 ~0 estimate consistent with Argus Media's "traffic unchanged" headline and the absence of any named-vessel crude transit confirmation. Prior day and today both flat at ~0.
+- **Shipowners awaiting June 19 signing before resuming**: Japanese, Korean, and Chinese operators (Bloomberg, June 15–16) say they need more clarity before attempting transits, citing a string of prior agreements that failed to hold (April 8 ceasefire, May 29 blockade-end announcement), unresolved naval-mine risk, and war-risk insurance still ~8× pre-crisis levels with 6 P&I clubs having withdrawn cover. Greek operators reportedly have higher risk tolerance.
+- **Stranded fleet / humanitarian context**: ~600 vessels (Bloomberg) poised at both ends of the strait — the largest staging queue of the entire crisis. ~20,000 seafarers remain stranded; 3 Indian sailors killed in June 9 US strike on *MT Settebello* remain the only fatalities reported since the blockade began April 13. Brent crude fell ~5% early June 16 on deal-driven optimism before trimming gains on "traffic unchanged" data.
+- **Outlook**: The June 19 Switzerland signing — if it proceeds as described — is the clearest near-term trigger for a rapid transit rebound given the size of the waiting queue. However, given the pattern of prior false starts, this entry retains ~0 crude pending AIS-confirmed transits.
+- **AIS gaps**: Significant undercount risk persists; dark transits (AIS off) not captured, particularly along the southern Oman route.
+- **Sources**: [Argus Media — Hormuz tanker traffic unchanged after US-Iran deal](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2839545-hormuz-tanker-traffic-unchanged-after-us-iran-deal) · [CBS News — Trump says deal with Iran "is now complete," authorizes removal of Navy blockade](https://www.cbsnews.com/news/us-iran-deal-reached-trump-strait-of-hormuz/) · [CNBC — US and Iran reach deal to end the Mideast war, agreement set to be signed Friday](https://www.cnbc.com/2026/06/14/us-iran-war-peace-deal.html) · [Bloomberg — Shipowners seek clarity on Hormuz deal as 600 vessels eye exit](https://www.bloomberg.com/news/articles/2026-06-15/shipowners-seek-clarity-on-hormuz-deal-as-600-vessels-eye-exit) · [gCaptain — Shipowners Seek Clarity on Hormuz Deal as Waiting Flotillas Grow](https://gcaptain.com/shipowners-seek-clarity-on-hormuz-deal-as-waiting-flotillas-grow/) · [Insurance Journal — Shipowners Seek Clarity on Hormuz Deal as Waiting Flotillas Grow](https://www.insurancejournal.com/news/international/2026/06/15/873689.htm) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-15
 
 | Metric | Value |
