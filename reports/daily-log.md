@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-17
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | flat (0, 0%) vs June 16 (~0) |
+| 7-day average | 0.4 vessels/day (based on 7 days: June 10–June 16; June 10, 12, 13 at ~1; June 11, 14, 15, 16 at ~0) |
+
+Secondary:
+- LNG: 0 vessels (no new laden LNG transit confirmed today; *MT Disha* transit credited to June 16 if confirmed; ~15+ laden LNG carriers remain stranded inside the Persian Gulf)
+- Fertilizer: 0 vessels (UN humanitarian fertilizer corridor remains unresolved; urea still ~$780–826/MT)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Argus Media, Bloomberg, Globe and Mail, J-Post, S&P Global). All vessel counts should be treated as approximate.
+- **Traffic unchanged on Day 110 — shipowners await June 19 Switzerland signing**: Argus Media confirmed as of June 16–17 that "Hormuz tanker traffic [is] unchanged after US-Iran deal." Physical transits remain ~0. Japanese, Korean, and Chinese operators explicitly stated they need more clarity before committing vessels, citing a string of prior agreements that failed to hold (April 8 ceasefire, May 29 blockade-end announcement). Greek operators are reported to have higher risk appetite and may be earliest movers.
+- **Live tracker: 4 vessels visible, 0.0 knots average**: hormuztracking.com live feed shows 4 vessels in the strait area at an average speed of 0.0 knots — stationary/anchored, not transiting. Likely Iranian-domestic flag vessels or vessels awaiting clearance.
+- **Crude estimate basis**: No VLCC/Suezmax crude transit confirmed for June 17 in accessible AIS-based sources. Carrying forward June 16's ~0 estimate, consistent with "traffic unchanged" reporting and the ~600-vessel queue still waiting at both ends of the strait.
+- **~600 vessels (300 laden inside Gulf, 300 empty in Gulf of Oman)**: The largest staging queue of the entire crisis. Kpler data as of June 15 counted 155 tankers (oil + chemicals) in the Mideast Gulf, down from 201 at end of May — some empty vessels departed via alternate routes.
+- **Mine clearance outstanding**: Sea mines remain in the strait; the Pentagon estimated clearance could take up to 6 months — a structural barrier to mass resumption even after formal signing. Insurance war-risk premiums remain ~8× pre-crisis levels; 6 P&I clubs have withdrawn cover.
+- **LNG status**: No new LNG transit today. *MT Disha* (India/Petronet, ~132,000 m³ Qatar LNG) transit credited to June 16 if confirmed, bringing cumulative loaded LNG exits to ~10 since war began (Feb 28). ~15+ laden LNG carriers remain stranded inside the Persian Gulf. JKM spot prices remain elevated.
+- **Fertilizer / food**: Urea prices still ~$780–826/MT (vs ~$490 pre-war). UN fertilizer humanitarian corridor remains a political agreement only; no confirmed physical transits.
+- **AIS gaps**: Significant undercount risk; dark transits (AIS off) not captured. GEF audit for June 12–15 showed ~18 vessels, Iranian-domestic only, with foreign-flag flow absent.
+- **Outlook**: June 19 Switzerland signing is 2 days away and represents the clearest near-term inflection point of the entire crisis. If the signing proceeds and the naval blockade stand-down is implemented, the ~600 waiting vessels could produce a sharp traffic rebound within days. Prior false starts warrant caution, but the deal mechanics (Trump unilateral blockade removal, formal bilateral ceremony) appear more durable than prior announcements.
+- **Sources**: [Argus Media — Hormuz tanker traffic unchanged after US-Iran deal](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2839545-hormuz-tanker-traffic-unchanged-after-us-iran-deal) · [Globe and Mail — Shippers remain cautious on Strait of Hormuz, despite tentative US-Iran peace deal](https://www.theglobeandmail.com/business/article-ships-oil-strait-hormuz-us-iran-peace-deal/) · [J-Post — Shippers remain cautious on Strait of Hormuz transit after US, Iran agree on deal](https://www.jpost.com/middle-east/iran-news/article-899451) · [Bloomberg — Shipowners seek clarity on Hormuz deal as 600 vessels eye exit](https://www.bloomberg.com/news/articles/2026-06-15/shipowners-seek-clarity-on-hormuz-deal-as-600-vessels-eye-exit) · hormuztracking.com (live AIS, 4 vessels / 0.0 kt avg) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-16
 
 | Metric | Value |
