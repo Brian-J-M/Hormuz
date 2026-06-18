@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | +2 vs June 17 (~0) — percentage change not meaningful from near-zero base |
+| 7-day average | 0.3 vessels/day (based on 7 days: June 11–17) |
+
+Secondary:
+- LNG: 0 vessels (Qatar repositioning 4+ empty tankers toward Ras Laffan; ~15 laden LNG carriers remain stranded inside Persian Gulf; cumulative loaded exits since Feb 28 ~10)
+- Fertilizer: 0 vessels (40+ laden fertilizer vessels stranded; weekly exports ~60K tons/week, down ~90% from pre-conflict ~600K)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Al Jazeera, CNBC, Bloomberg, House of Saud, Windward AI, IndexBox). All vessel counts should be treated as approximate.
+- **Pakistan confirms MOU — formal signing set June 19 in Switzerland (Day 110)**: Primary mediator Pakistan announced June 18 that the US-Iran memorandum of understanding implies Tehran will promptly reopen the Hormuz Strait and the American blockade of Iranian ports will cease immediately. Formal signing remains scheduled for Friday, June 19, in Switzerland. This is the most concrete structural reopening signal of the entire 110-day crisis.
+- **Iranian NITC tankers transiting ahead of formal signing**: Three NITC (National Iranian Tanker Company) tankers exited the US blockade zone June 16–17 (Al Jazeera); tanker *Dalia* crossed from Chabahar into the strait on June 16 — described as "Iran's first crude exports in two months." Iran's NITC moved approximately 4.8 million barrels through the strait June 15–16, implying ~2–3 Iranian-flag VLCCs active in advance of the signing. Today's ~2 crude estimate reflects this NITC pre-signing activity. Non-Iranian commercial traffic (Western, Asian, Gulf Arab operators) remains negligible, with shipowners still awaiting the formal ceremony before committing vessels.
+- **Saudi/Gulf crude still physically blocked by mines**: Sea mines in the central transit corridor remain uncleared (estimated 40–180 days). Iran's NITC vessels appear to use the IRGC-cleared northern corridor or Omani coastal route. Saudi Arabia's ~5.5 Mb/d and other Gulf Arab crude remain landlocked — "The Strait Opened for One Country" (House of Saud).
+- **JMIC threat level downgraded to "substantial"**: Following the June 14–15 deal announcement, the Joint Maritime Information Center downgraded the Hormuz threat from "severe" to "substantial" — the first downgrade since the "critical" designation in early June. UKMTO continues to advise caution and warns of elevated attack risk.
+- **~550 vessels staged at both ends of the chokepoint**: ~34 crude tankers and ~15 LNG carriers anchored west of Hormuz (Gulf of Oman); ~300+ laden vessels inside the Persian Gulf; 23+ VLCCs converging on Khor Fakkan/Fujairah anchorage. The largest pre-positioning queue of the entire crisis — poised for a rapid surge the moment formal reopening is confirmed.
+- **LNG**: Qatar moving 4+ empty LNG tankers back toward Ras Laffan; 4 LNG carriers idling in Gulf of Oman ready to enter. QatarEnergy told customers it can restore 50% capacity within 1 month and 80% within 2 months of safe navigation. ~15 laden LNG carriers still stranded inside the Persian Gulf.
+- **Fertilizer**: 40+ laden fertilizer vessels remain stranded. Weekly exports ~60K tons/week (down ~90% from ~600K pre-conflict). Backlog estimated at 10–15 days to clear once reopening begins, but oil and LNG tankers expected to receive priority. Urea ~$780–826/MT (vs ~$490 pre-war).
+- **AIS gaps**: Significant undercount risk; dark transits (AIS off) not captured, particularly via IRGC Larak Island corridor and southern Omani route.
+- **Outlook**: June 19 Switzerland signing — 1 day away — is the clearest near-term catalyst of the entire crisis. Remaining structural barriers: (1) mine clearance (40–180 days for full corridor); (2) war-risk insurance normalization (6 P&I clubs still withdrawn; premiums ~8× pre-crisis); (3) VLCC repositioning lag (~4 weeks for SE Asia fleet). If signing proceeds and US blockade stands down, a traffic surge within 24–72 hours is plausible given the pre-positioned queue.
+- **Sources**: [Al Jazeera — Iranian tankers exit US blockade zone](https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks) · [CNBC — Strait of Hormuz reopening may take weeks to ease shipping backlog](https://www.cnbc.com/2026/06/18/strait-hormuz-reopening-shipping-oil.html) · [Bloomberg — Dark oil tankers sustain Hormuz flows ahead of peace deal](https://www.bloomberg.com/news/articles/2026-06-17/dark-oil-tanker-transits-keep-oil-flowing-through-hormuz-ahead-of-peace-deal) · [House of Saud — The Strait Opened for One Country](https://houseofsaud.com/iran-nitc-tanker-hormuz-saudi-asymmetry/) · [CNBC — Hormuz threat level downgraded after Iran deal](https://www.cnbc.com/amp/2026/06/17/iran-deal-strait-hormuz-threat-jmic-ukmto.html) · [IndexBox — Hormuz traffic increases June 16–17, below pre-war levels](https://www.indexbox.io/blog/strait-of-hormuz-traffic-shows-signs-of-increase-in-mid-june-2026/) · [Bloomberg — Qatar moves LNG ships back to Mideast ahead of reopening](https://www.bloomberg.com/news/articles/2026-06-17/qatar-moves-lng-ships-back-to-mideast-ahead-of-hormuz-reopening) · [Bloomberg — Fertilizer ships face long backlog even if Hormuz reopens](https://www.bloomberg.com/news/articles/2026-06-15/fertilizer-ships-face-long-backlog-even-if-hormuz-reopens) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-17
 
 | Metric | Value |
