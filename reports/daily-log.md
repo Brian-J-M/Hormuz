@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate) |
+| vs prior day | +4 (+200%) vs June 18 (~2) |
+| 7-day average | 0.6 vessels/day (based on 7 days: June 12–18) |
+
+Secondary:
+- LNG: ~2 vessels (France-flagged LNG carrier + India LNG tanker; first multi-carrier LNG transit day of the crisis)
+- Fertilizer: 0 vessels (40+ laden fertilizer tankers still trapped; weekly exports ~60K tons/week, -90% from pre-war ~600K; 10–15 day backlog to clear once oil/LNG get priority)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; estimated 30–60 day lag behind crude recovery)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Kpler, Windward AI, CNBC, S&P Global, Gulf News, Bloomberg, ZeroHedge). All vessel counts should be treated as approximate.
+- **MOU FORMALLY SIGNED — Geneva ceremony June 19 (Day 111)**: The US-Iran Memorandum of Understanding was signed in Geneva, Switzerland today. Trump and Pezeshkian signed electronically June 17; the June 19 in-person ceremony is the binding bilateral milestone. The MOU calls for full Hormuz reopening without tolls for at least 60 days; the US is required to fully lift its naval blockade of Iranian ports by July 19. This represents the definitive structural resolution of the 111-day blockade.
+- **THREE SAUDI VLCCs TRANSIT — largest symbolic milestone of the crisis**: Per Kpler data, three Saudi VLCCs reactivated their AIS transponders in the Gulf of Oman on June 19 — the first Saudi-owned crude tankers to transit since the conflict began February 28. Combined cargo ~6 million barrels (~6% of global daily oil consumption). Saudi Arabia's Aramco-linked fleet had been entirely landlocked since Day 1.
+- **Crude ~6 estimate basis**: 3 confirmed Saudi VLCCs (Kpler/S&P Global) + est. 3 Iranian NITC/shadow fleet crude tankers active since June 16–18 (Al Jazeera). Total ~6. Potential undercount — "dark" AIS-off transits not captured; some VLCC fleet reactivating AIS (itself a recovery signal) may add to confirmed count through the day.
+- **First commercial movers wave (June 18 post-MOU)**: 7 documented first-movers transited within hours of MOU confirmation on June 18 at 05:59 UTC: 5 Chinese-affiliated (COSCO HK MR tanker, multiple bulk carriers), a France-flagged LNG carrier, and one other. June 17 posted the highest single-day all-types count since March 1 (26 vessels: 13 inbound, 13 outbound per AIS tracking).
+- **LNG**: France-flagged LNG carrier transited outbound (June 18/19) — diplomatically notable given Macron was present at the MOU signing ceremony. An India-linked LNG tanker also transited. Qatar repositioning 4+ empty LNG tankers back to Ras Laffan; QatarEnergy projects 50% capacity restoration within 1 month, 80% within 2 months of safe navigation. ~15 laden LNG carriers remain stranded inside the Persian Gulf. Cumulative loaded LNG exits since Feb 28 now approximately 12.
+- **Recovery trajectory**: Kpler projects ~40 transits/day (~50% of pre-war ~100+/day) achievable within 30 days if no setbacks. The ~600 pre-positioned vessels (300 laden inside Gulf, 300 empty in Gulf of Oman) create substantial pent-up transit demand. Key remaining constraints: (1) mine clearance — estimated 40–180 days for full central corridor; BIMCO warns mine risk remains "substantial"; (2) war-risk insurance — 6 P&I clubs still withdrawn, premiums ~8× pre-crisis; (3) VLCC repositioning — SE Asia fleet ~4-week voyage from Gulf loading points.
+- **Fertilizer backlog**: 40+ laden fertilizer vessels remain trapped; weekly exports ~60K tons/week (-90% vs pre-war ~600K). Priority access expected to go to crude and LNG first — fertilizer clearance estimated 10–15 days after those queues move. Urea still ~$780–826/MT (vs ~$490/MT pre-war).
+- **AIS gaps**: Significant undercount risk remains; dark/AIS-off transits not captured by aggregated reporting. Saudi VLCC AIS reactivation is itself a positive data-quality signal for the recovery phase.
+- **Sources**: [CNBC — Three Saudi tankers carry 6M barrels through Hormuz](https://www.cnbc.com/2026/06/18/iran-deal-strait-hormuz-oil-tanker-saudi-arabia-traffic.html) · [S&P Global — Saudi crude exports via Hormuz near 2-year high](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/shipping/061825-saudi-crude-oil-exports-via-strait-of-hormuz-near-2-year-high-as-israel-iran-conflict-unfolds) · [Windward AI — Hormuz Reopens After MoU Signing: Chinese-Led First Movers](https://windward.ai/blog/hormuz-reopens-first-movers-and-sanctioned-iran-tonnage/) · [CNBC — Strait of Hormuz reopening may take weeks to ease shipping backlog](https://www.cnbc.com/2026/06/18/strait-hormuz-reopening-shipping-oil.html) · [ZeroHedge — First LNG tanker crosses Hormuz after deal announcement](https://www.zerohedge.com/markets/first-lng-tanker-crosses-hormuz-after-deal-announcement-most-ship-managers-remain-cautious) · [Discovery Alert — Saudi oil tankers cross Strait of Hormuz in June 2026](https://discoveryalert.com.au/saudi-oil-tankers-strait-hormuz-shipping-resumption-2026/) · [Bloomberg — Fertilizer ships face long backlog even if Hormuz reopens](https://www.bloomberg.com/news/articles/2026-06-15/fertilizer-ships-face-long-backlog-even-if-hormuz-reopens) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-18
 
 | Metric | Value |
