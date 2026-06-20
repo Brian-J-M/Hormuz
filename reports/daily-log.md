@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-20
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | -6 (-100%) vs June 19 (~6) |
+| 7-day average | 1.3 vessels/day (based on 7 days: June 13–19) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed outbound LNG transits; ballast tankers pre-positioning toward Gulf)
+- Fertilizer: 0 vessels (40+ laden fertilizer vessels still trapped; weekly exports ~60K tons/week, -90% from pre-war ~600K; clearing after oil/LNG backlogs estimated 10–15 days more)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; estimated 80–85% below April levels)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from hormuztracking.com live AIS, HSToday, Windward AI, S&P Global, CNBC, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **DAY 1 POST-MOU SIGNING CEREMONY (Day 112)**: The formal US-Iran Memorandum of Understanding was signed in Geneva on June 19 (Day 111). Today is the first full calendar day post-ceremony. Live AIS tracker (hormuztracking.com) as of ~06:25 UTC shows 4 vessels in the strait area at 0.0 knots average — stationary/anchored, not transiting. No confirmed outbound commercial crude transit for June 20 as of available data.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed for June 20 in accessible AIS-based sources. Live tracker shows 4 stationary vessels at 0.0 knots. Consistent with a "day-after-signing pause" — operators awaiting formal publication of MOU interim arrangements (mine clearance protocol, IRGC corridor rules, insurance liability framework), expected June 21. Upside revision possible if confirmed transits emerge as day progresses.
+- **Vessels pre-positioning, not yet transiting**: Both oil and LNG tankers in ballast are repositioning toward the Gulf in expectation of imminent resumption. The MOU text describing interim arrangements is expected to be published June 21 — the most likely near-term catalyst for the next wave of committed commercial transits. ~600 vessels (300 laden inside Gulf, 300 empty in Gulf of Oman) remain staged for rapid surge.
+- **LNG**: No new confirmed outbound LNG transit for June 20. France-flagged LNG carrier and India-linked LNG tanker (transited June 18–19) are the most recent precedents. QatarEnergy projects 50% capacity restoration within 1 month of safe navigation, 80% within 2 months. ~15 laden LNG carriers remain stranded inside the Persian Gulf.
+- **Fertilizer**: 40+ laden fertilizer vessels remain trapped; weekly exports ~60K tons/week (down ~90% from pre-war ~600K). Priority sequence: crude → LNG → fertilizer. Urea ~$780–826/MT (vs ~$490 pre-war). Clearing of fertilizer backlog estimated 10–15 days after crude/LNG queues begin moving.
+- **Agricultural (inbound)**: No confirmed inbound dry-bulk agricultural movement. Inbound agricultural traffic estimated 80–85% below April levels; the pre-closure buffer largely depleted. Recovery lag estimated 30–60 days behind crude.
+- **Mine clearance outstanding**: Sea mines remain the primary physical barrier; Pentagon estimates full central corridor clearance could take up to 6 months. BIMCO warns mine risk "substantial" — the structural brake on mass resumption even with the MOU in force.
+- **Sources**: [hormuztracking.com — Live Strait of Hormuz Traffic: 4 Vessels | 0.0 knots](https://hormuztracking.com/) · [HSToday — Iran Conflict Maritime Update: Hormuz Reopens After MoU Signing](https://www.hstoday.us/subject-matter-areas/maritime-security/iran-tightens-grip-on-strait-of-hormuz-as-shipping-forced-into-controlled-routes/) · [Windward AI — Hormuz Reopens After MoU Signing: Chinese-Led First Movers](https://windward.ai/blog/hormuz-reopens-first-movers-and-sanctioned-iran-tonnage/) · [CNBC — Strait of Hormuz reopening may take weeks to ease shipping backlog](https://www.cnbc.com/amp/2026/06/18/strait-hormuz-reopening-shipping-oil.html) · [S&P Global — Hormuz tanker transits dip again but contraction limited](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/crude-oil/062425-hormuz-tanker-transits-dip-again-but-contraction-still-limited-as-freight-rates-soar) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-19
 
 | Metric | Value |
