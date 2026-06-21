@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-21
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 (approximate) |
+| vs prior day | flat (0, 0%) vs June 20 (~0) |
+| 7-day average | 1.1 vessels/day (based on 7 days: June 14–20) |
+
+Secondary:
+- LNG: 0 vessels (Iran reblockade declaration in force; ~15 laden LNG carriers still stranded inside the Persian Gulf; mine risk in central channel structural barrier)
+- Fertilizer: 0 vessels (40+ laden fertilizer vessels stranded; weekly exports ~60K tons/week, -90% from pre-war ~600K; urea ~$780–826/MT; priority queue behind crude and LNG)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Newsweek, tftc.io, The Hill, NPR, IranSitrep, BusinessToday). All vessel counts should be treated as approximate.
+- **DAY 113 — IRAN ARMY REBLOCKADE DECLARATION, DAY 2**: Iran's Khatam al-Anbiya Central Headquarters declared the Strait of Hormuz "closed" on June 20 (Day 112), citing "America's blatant breach" of the Islamabad Memorandum of Understanding — specifically, continuing Israeli strikes in Lebanon post-signing. Today (June 21) is Day 2 of this reblockade declaration, issued less than 48 hours after the MOU was formally signed.
+- **US DISPUTES CLOSURE**: VP Vance stated "the straits really are open" in a live Fox News interview; CENTCOM announced "commercial ship traffic in the Strait of Hormuz increased June 20 as U.S. forces continued operating in the general area to support freedom of navigation." The Iran Army closure declaration and US freedom-of-navigation assertion are irreconcilable at the statement level — identical dynamic to the June 11–12 pattern.
+- **Iran FM contradicts Iran Army**: Iran's foreign ministry told Tasnim that shipping through the strait was "operating normally" and denied any closure — a significant intra-Iranian contradiction suggesting the military's closure declaration may not be uniformly enforced or may reflect a negotiating posture rather than an operational order.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed for June 21 in accessible sources. June 20 recorded ~0 crude. Despite CENTCOM's "traffic increased June 20" claim, no specific June 21 named-vessel confirmation supports revising above ~0. Carried forward flat from June 20 pending AIS-confirmed data. Upside revision possible if Iranian NITC/shadow fleet transits are later confirmed.
+- **MOU full implementation text not yet finalized**: Detailed MOU annexes and implementation arrangements (mine clearance protocol, IRGC corridor rules, insurance liability framework) were not fixed as of June 21. The June 17/19 framework MOU is in place but operational clarity pending — exacerbated by the reblockade dispute.
+- **Mine clearance: structural barrier**: ~80 mines in the central deep-water channel; estimated 40–50 days for clearance (Pentagon previously said up to 6 months for full corridor). BIMCO warns mine risk remains "substantial" — primary physical constraint on full transit resumption regardless of diplomatic status.
+- **~600 vessels staged**: ~300 laden inside the Persian Gulf, ~300 empty in the Gulf of Oman. Iran Army reblockade declaration adds renewed uncertainty to this pent-up queue.
+- **LNG**: No confirmed outbound LNG transit for June 21. ~15 laden LNG carriers remain stranded inside the Persian Gulf. France-flagged + India-linked tankers transited June 18–19; no new confirmed exits since. QatarEnergy 50% capacity restoration within 1 month of stable navigation — clock paused by reblockade.
+- **Fertilizer**: 40+ laden fertilizer vessels stranded. Weekly exports ~60K tons/week (-90% vs pre-war ~600K). Urea ~$780–826/MT. Priority sequence (crude → LNG → fertilizer) delays resumption.
+- **AIS gaps**: Significant undercount risk persists; dark transits (AIS off) not captured. Some Iranian NITC/shadow fleet vessels may continue via IRGC-managed corridor without AIS.
+- **Sources**: [Newsweek — Iran Army Declares Strait of Hormuz 'Closed' Over MOU 'Breach'](https://www.newsweek.com/iran-army-strait-of-hormuz-closed-vance-open-mou-trump-deal-breach-12098993) · [tftc.io — Iran Declares Hormuz Closed as MoU Collapses; U.S. Disputes It](https://www.tftc.io/hormuz-closure-islamabad-mou-ceasefire-collapse/) · [The Hill — US military lifts Strait of Hormuz naval blockade after Iran MOU signed](https://thehill.com/policy/defense/5930649-iran-us-mou-ends-blockade/) · [NPR — U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking](https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz) · [BusinessToday — Iran waives Hormuz transit fees for 60 days as US ends naval blockade under new MoU framework](https://www.businesstoday.in/world/story/iran-waives-hormuz-transit-fees-for-60-days-as-us-ends-naval-blockade-under-new-mou-framework-537931-2026-06-19) · [IranSitrep — Iran War Day 113 | Hormuz Closed | SITREP](https://www.iransitrep.com/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-20
 
 | Metric | Value |
