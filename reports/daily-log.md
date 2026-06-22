@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-22
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate) |
+| vs prior day | flat (0, 0%) vs June 21 (~0) |
+| 7-day average | 1.1 vessels/day (based on 7 days: June 15–21) |
+
+Secondary:
+- LNG: 0 outbound confirmed; 4 Qatari LNG carriers (*Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer*) entering the strait INBOUND — repositioning to Ras Laffan for future loading, not outbound exports; first time these named carriers have entered via the Iranian route since the conflict began Feb 28
+- Fertilizer: 0 vessels (40+ laden fertilizer vessels stranded; weekly exports ~60K tons/week, -90% from pre-war ~600K; urea ~$780–826/MT; priority queue behind crude and LNG)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Euronews, CNN, CNBC, Marinelink, Newsweek, hormuztracking.com). All vessel counts should be treated as approximate.
+- **DAY 114 — IRAN ARMY REBLOCKADE, DAY 3**: Iran's Khatam al-Anbiya Central Headquarters declared the Strait "closed" on June 20 (Day 112), citing Israel's fresh wave of strikes on southern Lebanon on Saturday morning — hours after a ceasefire between Israel and Hezbollah had been announced — as a "blatant breach" of the Islamabad MOU. Today (June 22) is Day 3 of that declaration. Despite the IRGC-Navy warning, Euronews and CNN reported that "ships continued to pass the Strait of Hormuz on Saturday, maritime traffic monitoring websites showed."
+- **CENTCOM DISPUTES CLOSURE — 55 ships on June 21**: US Central Command stated no disruption to flows and reported 55 merchant vessels transited the strait on June 21 carrying more than 17 million barrels of oil to global markets. This is the highest single-day barrel volume claimed since the conflict began Feb 28 and stands in sharp contrast to the AIS-visible commercial tracker (hormuztracking.com: 4 vessels / 0.0 knots average). The gap likely reflects IRGC-corridor shadow fleet vessels and Iranian NITC tankers not visible on commercial AIS feeds.
+- **MAJOR REVISION CAVEAT for June 20–21**: Both the June 20 and June 21 log entries estimated ~0 crude based on AIS-visible data. CENTCOM's post-hoc claims — 55 ships and 17M barrels on Saturday (June 20 per CNN/Euronews) and again 55 ships/17M barrels on June 21 — suggest actual crude flows may be substantially higher than AIS-visible counts indicate. If accurate, the CENTCOM data implies a sustained high-volume corridor (likely IRGC-managed, shadow fleet, non-AIS) that commercial trackers are not capturing.
+- **Iran FM vs. Iran Army contradiction**: Iran's foreign ministry again told Tasnim that shipping through the strait was "operating normally" — directly contradicting the IRGC-Navy closure declaration. The intra-Iranian split mirrors the June 11–12 pattern. The military's declaration may reflect a diplomatic/negotiating posture rather than an operational order enforced on the water.
+- **4 Qatari LNG carriers INBOUND — major recovery signal**: *Wadi Al Sail*, *Mekaines*, *Al Sadd*, and *Mesaimeer* are today entering the strait inbound on Monday June 22, the first time these named carriers have transited via the Iranian-route corridor since the conflict began. These are repositioning to Ras Laffan to load for export — not outbound loaded transits. QatarEnergy moving its fleet back into the Gulf signals confidence in the MOU framework sufficient to pre-position for imminent exports, even amid the reblockade dispute.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed outbound for June 22 in accessible commercial AIS sources. Carrying forward ~0 AIS-visible crude from June 21. Significant upside uncertainty: applying the historical ~35% crude fraction to CENTCOM's 55-ship count would imply ~19 crude vessels; however, this relies entirely on unverified CENTCOM figures for a corridor (shadow fleet/IRGC-managed) that is structurally absent from commercial AIS.
+- **Mine clearance structural barrier**: ~80 mines remain in the central deep-water channel; estimated 40–50 days for clearance (Pentagon estimate up to 6 months for full corridor). This constraint is independent of diplomatic status and limits mass resumption of commercial transits regardless of MOU outcome.
+- **~600 vessels still staged**: ~300 laden inside the Persian Gulf, ~300 empty in the Gulf of Oman — pent-up queue broadly unchanged from prior days.
+- **AIS gaps**: Significant undercount risk persists; dark transits (AIS off) structurally absent from commercial AIS aggregation. CENTCOM counts include military-observed traffic not visible to Kpler/AIS platforms. The gap between CENTCOM claims and commercial AIS has widened substantially in the reblockade period.
+- **Sources**: [Euronews — Trump threatens Hormuz tolls as ships sail on despite IRGC's closure claim](https://www.euronews.com/2026/06/20/iran-recloses-strait-of-hormuz-citing-israeli-strikes-on-lebanon) · [CNN — Iran and US make opposing claims on Strait of Hormuz](https://edition.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon) · [Marinelink — Qatari LNG Carriers Re-Enter Hormuz as Traffic Through Strait Slumps](https://www.marinelink.com/news/qatari-lng-carriers-reenter-hormuz-540500) · [Newsweek — Iran Army Declares Strait of Hormuz 'Closed' Over MOU 'Breach'](https://www.newsweek.com/iran-army-strait-of-hormuz-closed-vance-open-mou-trump-deal-breach-12098993) · [CNBC — Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal](https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html) · [hormuztracking.com — Live Strait of Hormuz Traffic: 4 Vessels | 0.0 knots Moving Avg](https://hormuztracking.com/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-21
 
 | Metric | Value |
