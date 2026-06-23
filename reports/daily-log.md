@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-23
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate) |
+| vs prior day | flat (0, 0%) vs June 22 (~0) |
+| 7-day average | 1.1 vessels/day (based on 7 days: June 17–23) |
+
+Secondary:
+- LNG: 4 vessels inbound (*Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer* — 4 QatarEnergy LNG tankers confirmed transiting today; entering inbound to Ras Laffan to reposition for export loading; first Qatar LNG fleet transit via Iranian corridor since conflict began Feb 28; not outbound laden exports)
+- Fertilizer: 0 vessels (44+ laden fertilizer vessels still stranded inside Gulf; only ~11 total transits since Feb 28; urea ~$780–826/MT; priority queue behind crude and LNG)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (Reuters via au.investing.com, Marinelink, Times of Israel, Newsweek, CNBC, hormuztracking.com). All vessel counts should be treated as approximate.
+- **DAY 115 — IRAN ARMY REBLOCKADE, DAY 4** (June 20 declaration): Iran's Khatam al-Anbiya Central Headquarters declared the Strait "closed" on June 20 (Day 112), citing Israeli strikes on Lebanon as a "blatant breach" of the Islamabad MOU. Today (June 23, Tuesday) is Day 4 of that declaration. The closure remains legally and operationally contested: Iran's foreign ministry continues to deny any closure; US CENTCOM disputes it.
+- **Iran-US technical talks underway in Switzerland**: US-Iran technical implementation talks opened in Switzerland on June 22 (Monday). Agenda covers mine clearance protocol, IRGC corridor rules, insurance liability framework, and MOU annexes. This is the critical near-term catalyst for resolving the reblockade standoff; outcome of talks this week will determine whether traffic rebounds or contracts further.
+- **MAJOR LNG MILESTONE — 4 Qatar LNG tankers transiting today**: *Wadi Al Sail*, *Mekaines*, *Al Sadd*, and *Mesaimeer* are confirmed transiting today (June 23) per Reuters/Marinelink/Times of Israel. These are entering INBOUND to Ras Laffan to reposition for future export loading — not outbound laden cargoes. This is the first time Qatar's named LNG fleet has transited via the Iranian corridor since the conflict began Feb 28. QatarEnergy moving its fleet back into the Gulf signals confidence in the MOU framework sufficient to pre-position for imminent exports, even amid the IRGC reblockade dispute. Note: June 22 entry already logged these vessels as beginning transit on June 22; June 23 reflects confirmed transit date per Reuters.
+- **Crude estimate basis**: No named VLCC/Suezmax crude transit confirmed outbound for June 23 in accessible AIS sources. Commercial AIS tracker (hormuztracking.com) has shown 4 vessels at 0.0 knots since June 17 — stationary/shadow-fleet baseline. CENTCOM previously claimed 55 ships/17M barrels on both June 20 and June 21 via an IRGC-managed shadow corridor not visible to commercial AIS; if that corridor is still active, actual crude could be substantially higher (~10–19 crude vessels). Commercial AIS count: ~0.
+- **Intra-Iranian contradiction persists (Day 4)**: Iran Army's closure declaration vs. Iran Foreign Ministry's "operating normally" — unchanged since June 20. The persistence of this split suggests the military closure is primarily a diplomatic/negotiating posture rather than a uniformly enforced operational order.
+- **Mine clearance structural barrier**: ~80 mines remain in the central deep-water channel; Pentagon estimate: 40–180 days for full corridor clearance. BIMCO warns mine risk "substantial." This is a structural constraint independent of diplomatic resolution — even full MOU compliance cannot produce mass resumption until mines are cleared.
+- **~600 vessels staged**: ~300 laden inside Persian Gulf, ~300 empty in Gulf of Oman — pent-up queue broadly unchanged from prior days. Transit surge contingent on technical talks outcome and mine clearance progress.
+- **Brent crude**: ~$78.14/bbl (down from April highs of ~$97; market pricing in MOU-based reopening and treating reblockade as transient).
+- **Fertilizer**: 44+ laden fertilizer vessels still stranded inside the Persian Gulf; only ~11 total fertilizer transits since Feb 28 (4 urea-laden per Kpler/Bloomberg). Urea ~$780–826/MT. Priority access: crude → LNG → fertilizer. Clearance of fertilizer backlog estimated 10–15 days after crude/LNG queues normalize.
+- **AIS gaps**: Significant undercount risk; dark transits (AIS off) structurally absent from commercial AIS aggregation. CENTCOM counts include military-observed traffic invisible to Kpler/commercial platforms. Gap between CENTCOM and commercial AIS has widened during reblockade period.
+- **Sources**: [Reuters via au.investing.com — More vessels transit Hormuz, Qatar-linked LNG tankers return](https://au.investing.com/news/commodities-news/more-vessels-transit-hormuz-qatarlinked-lng-tankers-return-data-show-4499506) · [Marinelink — Qatari LNG Carriers Re-Enter Hormuz as Traffic Through Strait Slumps](https://www.marinelink.com/news/qatari-lng-carriers-reenter-hormuz-540500) · [Times of Israel — Four QatarEnergy LNG tankers enter Hormuz for first time since April](https://www.timesofisrael.com/liveblog_entry/four-iranian-tankers-seen-taking-oil-through-hormuz-for-first-time-since-april/) · [CNBC — Shipping stalls in Strait of Hormuz after Iran declares key waterway closed again](https://www.cnbc.com/2026/06/22/strait-of-hormuz-iran-us-shipping-oil.html) · [Newsweek — Iran Army Declares Strait of Hormuz 'Closed' Over MOU 'Breach'](https://www.newsweek.com/iran-army-strait-of-hormuz-closed-vance-open-mou-trump-deal-breach-12098993) · [hormuztracking.com — Live Strait of Hormuz Traffic: 4 Vessels | 0.0 knots Moving Avg](https://hormuztracking.com/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-22
 
 | Metric | Value |
