@@ -4,6 +4,37 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-24
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; S&P/CAS data implies ~10+ via shadow corridor) |
+| vs prior day | flat (0, 0%) vs June 23 (~0 AIS-visible) |
+| 7-day average | 1.1 vessels/day (based on 7 days: June 18–24) |
+
+Secondary:
+- LNG: 0 outbound laden confirmed (4 QatarEnergy LNG tankers — *Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer* — transited **inbound** June 22–23 and are now repositioning to Ras Laffan for future export loading; no new outbound laden exports today; ADNOC's *Al Hamra* / *Mubaraz* may be continuing dark voyages)
+- Fertilizer: 0 vessels (44+ laden fertilizer vessels stranded inside Gulf; urea ~$780–826/MT; priority access still behind crude and LNG)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from S&P Global (CAS data), gCaptain, Reuters/Marinelink, and web search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 116 — IRAN ARMY REBLOCKADE, DAY 5** (June 20 declaration): Iran's Khatam al-Anbiya Central Headquarters declared the Strait "closed" on June 20 (Day 112), citing Israeli strikes in Lebanon as a "blatant breach" of the Islamabad MOU. Today (June 24, Wednesday) is Day 5 of the reblockade declaration. The closure remains legally and operationally contested: Iran's Foreign Ministry continues to say operations are "normal"; US CENTCOM disputes the closure.
+- **CRITICAL DATA POINT — S&P Global/CAS: 23 tanker transits as of midday June 24** (down from 37 on June 23): S&P Global, citing CAS (Commodity Analytics & Services) vessel-tracking data, reported 23 total tanker transits through Hormuz as of midday June 24 — a dip from 37 on June 23 and the June 16–22 daily average of 44. The June 9–15 daily average was 46. Critically, the 7-day total to June 22 was only 2.8% below the prior 4-week average of 316 vessels/week — indicating the Iran Army reblockade declaration (Day 5) has not materially reduced overall tanker throughput. S&P/CAS figures include shadow fleet, Iranian NITC, and IRGC-corridor vessels not visible on commercial AIS platforms. Applied crude fraction (~50%): implies ~10–12 crude tanker transits on June 24, vs. ~18–19 on June 23.
+- **Commercial AIS discrepancy persists**: hormuztracking.com live feed continues to show ~4 vessels at 0.0 knots average speed — stationary/anchored, not transiting. The gap between commercial AIS (~0) and S&P/CAS (~23 total tankers as of midday) reflects the IRGC-managed shadow corridor operating outside commercial AIS coverage. This structural undercounting has been a consistent feature since the IRGC toll corridor was established in April.
+- **Swiss technical talks (Day 3)**: US-Iran technical implementation talks continue in Switzerland (opened June 22). Agenda: mine clearance protocol, IRGC corridor rules, insurance liability framework, MOU annexes. Outcome will determine whether the Iran Army reblockade declaration is walked back or formally codified.
+- **Intra-Iranian split continues**: Iran Army (IRGC/Khatam al-Anbiya) maintains "Strait closed"; Iran Foreign Ministry says "operating normally." This contradiction — identical to June 11–12 and June 20–23 patterns — suggests a negotiating/diplomatic posture rather than a uniformly enforced operational order on the water.
+- **LNG repositioning**: Four QatarEnergy LNG tankers (*Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer*) confirmed transiting inbound June 22–23 via the Iranian route and now repositioning at Ras Laffan for loading. This is a QatarEnergy confidence signal in the MOU framework; loaded outbound exports not yet flowing but pre-positioning complete. ~15 laden LNG carriers remain stranded inside the Persian Gulf. ADNOC's *Al Hamra* and *Mubaraz* have each completed two dark voyages.
+- **Mine clearance structural barrier**: ~80 mines remain in the central deep-water channel; Pentagon estimate 40–180 days for full corridor clearance. Structural constraint independent of diplomatic/reblockade status.
+- **~600 vessels staged**: ~300 laden inside Persian Gulf, ~300 empty in Gulf of Oman — queue broadly unchanged.
+- **VLCC freight rates spike**: Platts assessed PG-China VLCC rate at $20.46/mt on June 24, +106% vs pre-conflict baseline — indicating sustained market stress even as volume contraction is "limited" per S&P.
+- **Fertilizer**: 44+ laden fertilizer vessels still stranded. Weekly exports ~60K tons/week, -90% from pre-war ~600K. Urea ~$780–826/MT (vs ~$490 pre-war). Priority queue: crude → LNG → fertilizer.
+- **Brent crude**: ~$78/bbl (mildly elevated from pre-reblockade ~$75; market treating reblockade as transient and limited in impact given S&P/CAS data showing minimal actual contraction).
+- **AIS gaps**: Significant undercount risk persists; S&P/CAS data (satellite AIS + IRGC-corridor tracking) is materially more comprehensive than commercial AIS platforms and shows ~10× higher traffic than hormuztracking.com's live AIS feed.
+- **Sources**: [S&P Global/CAS — Hormuz tanker transits dip again but contraction still limited as freight rates soar](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/crude-oil/062425-hormuz-tanker-transits-dip-again-but-contraction-still-limited-as-freight-rates-soar) · [gCaptain — Hormuz Traffic Slowly Picking Up as Oil and LNG Tankers Resume Transits](https://gcaptain.com/hormuz-traffic-slowly-picking-up-as-oil-and-lng-tankers-resume-transits/) · [Reuters via investing.com — More vessels transit Hormuz, Qatar-linked LNG tankers return](https://au.investing.com/news/commodities-news/more-vessels-transit-hormuz-qatarlinked-lng-tankers-return-data-show-4499506) · [Marinelink — Qatari LNG Carriers Re-Enter Hormuz as Traffic Through Strait Slumps](https://www.marinelink.com/news/qatari-lng-carriers-reenter-hormuz-540500) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-23
 
 | Metric | Value |
