@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-06-25
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; S&P/CAS shadow corridor implies ~10+ via IRGC-managed route) |
+| vs prior day | flat (0, 0%) vs June 24 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day (based on 7 days: June 19–25) |
+
+Secondary:
+- LNG: 0 outbound laden confirmed (4 QatarEnergy carriers — *Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer* — now at Ras Laffan pre-positioning for export loading; no new outbound laden transits; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (44+ laden fertilizer vessels stranded; urea ~$780–826/MT; priority queue behind crude and LNG)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from IMF PortWatch, S&P Global (CAS data), Al Jazeera, CNBC, and web search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 117 — IRAN ARMY REBLOCKADE, DAY 6** (June 20 declaration): Iran's Khatam al-Anbiya Central Headquarters declared the Strait "closed" on June 20, citing Israeli strikes in Lebanon as a "blatant breach" of the Islamabad MOU. Today is Day 6 of the reblockade declaration. The intra-Iranian split (Iran Army: closed; Iran FM: operating normally) persists unchanged.
+- **AIS vs. shadow corridor**: IMF PortWatch commercial AIS records ~5 vessels transiting today vs. ~93/day pre-crisis baseline (~5% of normal). S&P/CAS satellite data (June 24 midday) recorded 23 total tanker transits; applying a ~50% crude fraction implies ~10–12 crude tankers active via IRGC-managed shadow corridor. The ~10× gap between commercial AIS (~5 total) and S&P/CAS (~23 tankers midday) reflects the structural invisibility of the IRGC-corridor shadow fleet to open-source tracking platforms.
+- **SWISS TALKS — ROADMAP AGREED (June 22)**: First round of US-Iran technical talks in Switzerland concluded with both sides agreeing on a "roadmap towards a final deal" within 60 days (Al Jazeera, June 22). Key outcomes: (1) a Hormuz-specific contact channel established to "avoid incidents and miscommunication"; (2) a "deconfliction cell" between the parties and Lebanon stakeholders to prevent fighting re-eruption; (3) further technical talks continuing at Burgenstock resort. This is the most concrete diplomatic progress since the MOU signing on June 17/19, and partially offsets the Iran Army reblockade declaration.
+- **US authorizes Iranian crude sales — Brent below $74**: CNBC (June 22) reported oil prices fell after the US authorized Iranian crude sales, a significant policy shift. Brent crude fell below $74/bbl on June 24, the lowest price since before the conflict began Feb 28 — down from war-era highs of ~$97/bbl in April. Market is pricing a supply recovery signal even as physical AIS-visible transit volumes remain suppressed.
+- **Trump escalation warning persists**: CBS News reports US and Iranian negotiators met while Trump threatened to "hit Iran very hard again" over Hezbollah activity — a reminder that the MOU framework remains fragile with escalation risk on the Lebanon dimension.
+- **Mine clearance structural barrier**: ~80 mines remain in the central deep-water channel; Pentagon estimate 40–180 days for full corridor clearance. The new deconfliction cell and Hormuz contact channel may accelerate mine clearance coordination, but the physical timeline is unchanged.
+- **~600 vessels staged**: ~300 laden inside Persian Gulf, ~300 empty in Gulf of Oman — pent-up queue broadly unchanged.
+- **LNG**: 4 QatarEnergy tankers (*Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer*) repositioned at Ras Laffan after transiting inbound June 22–23; pre-loading in progress for future export runs. No new outbound laden transits. ~15 laden LNG carriers still stranded inside the Persian Gulf.
+- **Fertilizer**: 44+ laden fertilizer vessels stranded. Weekly exports ~60K tons/week (-90% from pre-war ~600K). Urea ~$780–826/MT. Priority queue remains crude → LNG → fertilizer.
+- **AIS gaps**: Significant undercount risk persists; S&P/CAS (satellite AIS + shadow fleet tracking) shows approximately 10× higher throughput than commercial AIS platforms. All AIS-visible figures in this log substantially understate actual physical flows.
+- **Sources**: [Al Jazeera — US, Iran agree on 'roadmap' towards final deal in Switzerland talks](https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks) · [CNBC — Oil prices fall after U.S. authorizes Iranian crude sales](https://www.cnbc.com/2026/06/22/oil-prices-wti-brent-crude-trump-iran-threat-strait-hormuz-closure.html) · [S&P Global — Hormuz tanker transits dip again but contraction still limited as freight rates soar](https://www.spglobal.com/commodity-insights/en/news-research/latest-news/crude-oil/062425-hormuz-tanker-transits-dip-again-but-contraction-still-limited-as-freight-rates-soar) · [straits.live — Strait of Hormuz Closed, Day 117 Live Tracker](https://straits.live/) · [CBS News — US-Iran negotiators meet as Trump threatens to hit Iran again](https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-06-24
 
 | Metric | Value |
