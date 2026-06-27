@@ -3,6 +3,35 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-06-27
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; CENTCOM/shadow corridor implies ~15–20 crude tankers via IRGC-managed route) |
+| vs prior day | flat (0, 0%) vs June 26 (~0 AIS-visible) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days: June 20–26, all ~0); shadow corridor average not separately computable from open-source data |
+
+Secondary:
+- LNG: 0 outbound laden confirmed (~7 empty QatarEnergy carriers now at Ras Laffan pre-positioning for reload; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~2 vessels (approximate; pace estimated from week ending June 21 peak of ~16 exits/week = ~2.3/day; attenuated by June 25 MT Settebello attack; partial resumption on June 26–27 expected)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Secretary Wright (X/Twitter, Jun 24), DAWN.COM, CNBC (Jun 24–26), Bloomberg (Jun 26), and web search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 119 — IRAN ARMY REBLOCKADE, DAY 8** (June 20 declaration): Iran's Khatam al-Anbiya Central Headquarters reblockade (declared June 20, citing Israeli strikes in Lebanon as breach of the Islamabad MOU) enters Day 8. Intra-Iranian split (Iran Army: closed / Iran FM/IRGC: operating normally) persists unchanged.
+- **CRITICAL DATA POINT — Energy Secretary Wright (June 24)**: Wright tweeted: *"In the last 24 hours, 72 ships and 20 million barrels of oil have transited through the Strait of Hormuz — fully restoring pre-conflict flows."* He also stated at the Reuters Global Energy Forum in New York that "Iran [is] no longer able to close it." This is the highest confirmed single-day volume since the conflict began and signals that the CENTCOM/shadow-fleet corridor is operating near pre-conflict throughput. The AIS-visible ~0 crude figure logged for June 20–26 (including June 24) is a structural artefact of the IRGC-managed shadow corridor being invisible to commercial AIS platforms.
+- **AIS vs. CENTCOM/Wright discrepancy**: Wright's June 24 figure (72 ships / 20M bbl) vs. Kpler/CNBC rolling average (~5M bbl/day since deal = "35M barrels exited since June 17–19") represent different measurement scopes. Wright counts all physical transits including shadow fleet/NITC/IRGC-corridor vessels; Kpler tracks commercially confirmed AIS-visible deliveries. Pre-conflict baseline: ~21M bbl/day crude alone. Wright's claim of "fully restoring pre-conflict flows" on June 24 may reflect a one-day surge of backlogged VLCCs, not yet a sustained return to baseline. The Kpler rolling average (~5M bbl/day) is a more conservative and likely more reliable sustained-flow indicator.
+- **June 25 MT Settebello attack aftermath**: The strike on June 25 (3 Indian seafarers killed; IRGC strike near Omani coast; 3 tankers turned back; war-risk premiums spiked to 0.7%+) caused a brief disruption before a partial recovery on June 26 per CNBC ("traffic resumed flowing in both directions") and Bloomberg ("Hormuz Attack Fails to Halt Oil Tanker Traffic, for Now"). June 27 situation likely continues on the June 26 partial-recovery trajectory.
+- **Swiss technical talks roadmap (June 22)**: US-Iran talks concluded with both sides agreeing on a "roadmap towards a final deal within 60 days" and a Hormuz-specific deconfliction cell. Follow-on talks continuing; outcome will determine whether the Iran Army reblockade is formally walked back.
+- **Oil price**: Brent crude ~$73–74/bbl (below June 25 reading of below $77; market pricing in sustained supply recovery). AOL/markets report notes oil curve now signalling a "near-term glut" as backlogged barrels from the Persian Gulf queue start reaching Asian ports.
+- **LNG**: No new outbound laden transit. ~7 empty QatarEnergy carriers (*Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer* plus additional inbound ballast tankers) pre-positioning at Ras Laffan for loading. First loaded LNG export runs expected once mine clearance and IRGC corridor rules are resolved. ~15 laden LNG carriers still stranded inside Persian Gulf.
+- **Fertilizer**: Partial resumption expected post-June 25 attack. Bloomberg (Jun 24) reported ~530,000 tons/week cleared in week ending June 21 (near pre-war ~600K/week — extraordinary backlog surge); June 25 attack likely slowed pace; June 26–27 partial recovery estimated at ~2 vessels/day. 40+ laden fertilizer vessels still staged inside the Gulf. Urea prices declining from $826/MT peak.
+- **Mine clearance**: ~80 mines remain in the deep-water channel; Pentagon estimate 40–180 days for full clearance. Swiss-talks deconfliction cell (agreed June 22) may accelerate coordination but physical timeline unchanged.
+- **Vessel queue**: ~600 vessels staged (~300 laden inside Persian Gulf, ~300 empty in Gulf of Oman). Wright's 72-ship one-day surge (June 24) may reflect an initial burst from this queue; sustained daily rate unclear pending mine clearance and political stability.
+- **AIS gaps**: Structural undercount persists throughout this log. CENTCOM/Wright data indicates ~10× higher physical throughput than commercial AIS platforms capture. All AIS-visible figures in this log substantially understate actual physical flows.
+- **Sources**: [Secretary Wright (X/Twitter Jun 24) — 72 ships / 20M bbl restoring pre-conflict flows](https://x.com/SecretaryWright/status/2069840629048164641) · [DAWN.COM — US energy secretary says 20M barrels exited Hormuz in last 24 hours](https://www.dawn.com/news/2010590/us-energy-secretary-says-20-million-barrels-of-oil-exited-hormuz-in-last-24-hours) · [Washington Examiner — Wright confident the Strait of Hormuz will stay open](https://www.washingtonexaminer.com/daily-on-energy/4623530/daily-on-energy-wright-confident-strait-trump-blames-big-oil-dallas-fed-supervisor/) · [CNBC Jun 26 — Shipping rebounds one week after U.S.–Iran deal](https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html) · [Bloomberg Jun 26 — Hormuz Attack Fails to Halt Oil Tanker Traffic, for Now](https://www.bloomberg.com/news/newsletters/2026-06-26/strait-of-hormuz-attack-fails-to-halt-oil-tanker-traffic-for-now) · [CNBC Jun 24 — Oil tankers with 35M barrels exited Persian Gulf since Iran deal](https://www.cnbc.com/amp/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html) · [Al Jazeera Jun 22 — US, Iran agree on roadmap towards final deal](https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 
 ## 2026-06-26
 
