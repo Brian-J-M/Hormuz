@@ -3,6 +3,35 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-06-28
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor / CENTCOM data implies ~10–20 crude tankers; Wright Jun 28: ~20M bbl/24h — new record) |
+| vs prior day | flat (0, 0%) vs June 27 (~0 AIS-visible) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days: June 21–27, all ~0); physical shadow corridor throughput ~10–20 crude/day per CENTCOM/Wright estimates |
+
+Secondary:
+- LNG: 0 outbound laden confirmed (~7 empty QatarEnergy carriers at Ras Laffan pre-positioning for export loading; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~2 vessels (approximate; partial resumption post-June 25 attack recovery; Bloomberg peak ~530K tons/week ending June 21; pace likely attenuated by post-attack caution)
+- Agricultural (inbound): 0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from web search-aggregated reporting (militaryspend.org, straits.live, CNBC, Bloomberg, Al Jazeera, JMIC/DoD). All AIS-visible vessel counts should be treated as approximate.
+- **DAY 120 — IRAN ARMY REBLOCKADE, DAY 9** (June 20 declaration): Iran's Khatam al-Anbiya Central Headquarters reblockade (declared June 20, citing Israeli strikes in Lebanon as breach of the Islamabad MOU) enters Day 9. Intra-Iranian split (Iran Army: closed / Iran FM: operating normally) persists unchanged. US CENTCOM continues to dispute the closure and assert freedom of navigation.
+- **WRIGHT JUNE 28 RECORD CLAIM — ~20M bbl/24h**: US Energy Secretary Chris Wright confirmed approximately 20 million barrels of oil exited the Strait of Hormuz in the 24 hours preceding June 28 — described as a new single-day record surpassing even pre-war volumes (pre-war crude baseline: ~15M bpd). However, vessel transit counts reportedly remained at "roughly a third of pre-war levels" (~33 vessels/day vs ~100/day pre-war), implying very large individual vessel loads (VLCCs averaging ~600K bbl/transit vs pre-war ~150–200K bbl/transit average). The June 28 claim follows Wright's June 24 figure of 72 ships/20M bbl; the recurring discrepancy between volume claims and AIS-visible counts reflects the shadow corridor's structural invisibility to commercial platforms. Treat as approximate pending third-party data confirmation.
+- **JMIC WIDENED ROUTE ANNOUNCEMENT (June 27)**: The Joint Maritime Information Center (overseen by the US Navy) announced a widened transit route through the Strait near Oman on June 27, allowing increased naval traffic in both directions. This signals a continued US effort to challenge Iran's exclusive routing control and expand the navigable corridor for commercial shipping.
+- **June 25 attack aftermath (MT Settebello / EVER LOVELY)**: Recovery trajectory continued June 26–27 (CNBC: "traffic resumed flowing in both directions"; Bloomberg: "attack fails to halt oil tanker traffic, for now"). June 28 expected on the same partial-recovery path. War-risk premiums remain elevated (~0.7% vs ~0.05% pre-attack).
+- **Swiss talks roadmap (June 22)**: US-Iran technical talks concluded with a "roadmap towards a final deal within 60 days" and a Hormuz-specific deconfliction cell. Follow-on talks ongoing; outcome will determine whether the Iran Army reblockade is formally walked back and when mine clearance coordination accelerates.
+- **Oil price**: Brent crude ~$73–74/bbl (lowest since before the crisis; market pricing sustained supply recovery and a near-term supply glut as backlogged barrels clear through).
+- **LNG**: No outbound laden LNG transit confirmed. ~7 empty QatarEnergy carriers (*Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer* and additional) at Ras Laffan pre-positioning for export loading. ~15 laden LNG carriers still stranded inside Persian Gulf. First loaded LNG exports contingent on mine clearance and IRGC corridor rule resolution.
+- **Fertilizer**: ~2 vessels/day estimated (partial resumption trajectory). Bloomberg reported ~530K tons/week cleared in week ending June 21 (near pre-war ~600K — a backlog surge); June 25 attack likely slowed pace; June 26–28 partial recovery ongoing. 40+ laden fertilizer vessels still staged inside the Gulf. Urea prices declining from $826/MT peak.
+- **Mine clearance**: ~80 mines remain in the deep-water channel; Pentagon estimate 40–180 days for full clearance. Swiss-talks deconfliction cell (agreed June 22) may accelerate coordination but physical timeline unchanged.
+- **Vessel queue**: ~600 vessels staged (~300 laden inside Persian Gulf, ~300 empty in Gulf of Oman). Wright's record 20M bbl claim may reflect sustained drawdown from this backlog queue.
+- **AIS gaps**: Structural undercount persists throughout this log. CENTCOM/Wright data indicates substantially higher physical throughput than commercial AIS platforms capture. All AIS-visible figures substantially understate actual physical flows.
+- **Sources**: [militaryspend.org — Strait of Hormuz Closure 2026: Brent +64% Live Tracker](https://militaryspend.org/strait-of-hormuz) · [straits.live — Strait of Hormuz Closed, Day 119 Live Tracker](https://straits.live/) · [CNBC Jun 26 — Shipping rebounds one week after U.S.–Iran deal](https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html) · [Bloomberg Jun 26 — Hormuz Attack Fails to Halt Oil Tanker Traffic, for Now](https://www.bloomberg.com/news/newsletters/2026-06-26/strait-of-hormuz-attack-fails-to-halt-oil-tanker-traffic-for-now) · [CNBC Jun 24 — Oil tankers with 35M barrels exited Persian Gulf since Iran deal](https://www.cnbc.com/amp/2026/06/24/oil-tanker-strait-hormuz-iran-deal.html) · [Al Jazeera Jun 22 — US, Iran agree on roadmap towards final deal](https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks) · [CNBC Jun 19 — Oil tanker traffic jumps after U.S.–Iran implement deal](https://www.cnbc.com/amp/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-06-27
 
 | Metric | Value |
