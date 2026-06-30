@@ -3,6 +3,32 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-06-30
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 AIS-visible (approximate; CNN Jun 29: 11 tanker transits in preceding 24h [6 outbound + 5 inbound], no crude/product split published; ~55% crude fraction applied per this log's established methodology) |
+| vs prior day | +6 vs ~0 AIS-visible (Jun 29) — percentage change not meaningful from a near-zero base; first confirmed AIS-visible tanker activity in 10 days |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days: June 23–29, all ~0 AIS-visible per prior log entries) |
+
+Secondary:
+- LNG: ~2 laden vessels (approximate; Reuters Jun 29 — two laden LNG carriers departed the Ras Laffan area over the weekend of June 27–28, cargoes bound for India and China — the first confirmed laden LNG export transits logged since the conflict began; Clarksons: 10 LNG carriers entered the Gulf in the week to ~June 26 vs. just 3 across March–May, signaling Qatar preparing to restart North Field-linked exports)
+- Fertilizer: ~2–3 vessels (approximate; cumulative ~16 fertilizer-laden vessels have exited since the mid-June interim deal; ~30 vessels already loaded in the Gulf and ~70 ballast vessels positioned to load, per Kpler/Bloomberg reporting)
+- Agricultural (inbound): ~0–1 vessels (approximate; inbound dry-bulk agricultural shipments remain down ~80–85% from April levels; pre-closure discharge buffer exhausted by June; recovery continues to lag crude/LNG)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 again today (consistent across every session since tracking began; confirmed via proxy log: "gateway answered 403 to CONNECT"). Figures derived from CNN, Reuters, Bloomberg, Windward AI, Al Jazeera, RFE/RL, and Wikipedia's continuously-updated 2026 Strait of Hormuz crisis page. All vessel counts should be treated as approximate.
+- **DAY 122 — DOHA TALKS DAY**: US and Iranian delegations (Witkoff and Kushner for the US) meet today, June 30, in Doha, Qatar — the session was originally slated for Switzerland on Iran's nuclear file but was shifted to Qatar and refocused specifically on management of Strait of Hormuz shipping. This is the most consequential single day for the strait's status since the June 20 Iran Army reblockade declaration.
+- **STAND-DOWN HOLDING**: A US-Iran agreement to halt strikes "for now" (announced June 28) appears to be holding into June 30 — both militaries have paused kinetic activity, and CNN (Jun 29) reports "Strait of Hormuz traffic consistent" with the prior several days' depressed-but-nonzero pace (still well below the ~110–140 vessels/day pre-war baseline).
+- **KEY STICKING POINT — Iranian tolling/control**: Iranian FM Araghchi reiterated Iran's claim to "sole control" over Hormuz traffic management and warned against "new or separate arrangements" for the waterway. The US Secretary of State has stated that any Iranian tolling system "would make a diplomatic deal unfeasible" — this dispute over who administers transit (Iran unilaterally vs. an Iran-Oman joint mechanism vs. internationalized routing) is the primary unresolved issue heading into today's talks.
+- **Iran-Oman joint committee**: Iran and Oman held their first joint-committee meeting in Muscat on the strait's future management, discussing coastal-state sovereign rights — a parallel track to the US-Iran talks that could shape whatever framework emerges from Doha.
+- **LNG milestone**: Two laden LNG carriers transiting outbound over the June 27–28 weekend (bound for India/China) is the first confirmed laden LNG export movement logged in this tracker since the war began Feb 28 — a genuine recovery signal, distinct from the empty/ballast repositioning at Ras Laffan reported in prior entries.
+- **Traffic volume (3-day window)**: MarineTraffic recorded 108 total vessel transits June 26–28, peaking at 48 ships on June 26. Windward logged 42 total transits June 28 (28 inbound/14 outbound) with 861 cargo/tanker vessels present in the Persian Gulf (+4 vs. prior reading) and 112 dark-activity events — the AIS-vs-shadow-corridor gap emphasized in recent entries appears to be narrowing as more transits become AIS-visible.
+- **VLCC Kiku attack (June 27) — still the most recent confirmed strike**: No new vessel attacks reported June 28–29; war-risk premiums remain elevated versus pre-conflict levels but the absence of fresh strikes is itself a recovery signal heading into the Doha talks.
+- **Caveat on today's figures**: Because June 30 same-day data was not yet published by trackers at the time of this snapshot, today's crude/LNG/fertilizer estimates are extrapolated from the most recent confirmed reporting (June 28–29). Treat all figures as provisional pending next-cycle updates.
+- **Sources**: [CNN Jun 29 — Witkoff en route to Doha, Hormuz traffic consistent](https://www.cnn.com/2026/06/29/world/live-news/iran-war-strikes-trump) · [Bloomberg Jun 29 — Iran ratchets up talk of controlling Hormuz ahead of new talks](https://www.bloomberg.com/news/articles/2026-06-29/iran-ratchets-up-talk-of-controlling-hormuz-ahead-of-new-talks) · [RFE/RL — Both sides will stand down for now](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html) · [Al Jazeera Jun 29 — Iran war live updates](https://www.aljazeera.com/news/liveblog/2026/6/29/iran-war-live-tehran-insists-on-control-of-hormuz-amid-reports-of-us-talks) · [CBS News — Iran calls Hormuz situation sensitive and complex](https://www.cbsnews.com/live-updates/us-iran-war-peace-talks-timetable-unclear-strait-of-hormuz-clashes/) · [Axios Jun 28 — US and Iran agree to halt strikes](https://www.axios.com/2026/06/28/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-06-29
 
 | Metric | Value |
