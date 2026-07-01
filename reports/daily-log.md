@@ -3,6 +3,31 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-01
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; hormuztracking.com live feed shows 4 vessels / 0.0 knots avg — effectively no transit-speed AIS activity; IRGC/shadow corridor implies ~10–15 crude tankers physically transiting per CENTCOM baseline) |
+| vs prior day | -6 vs ~6 AIS-visible (Jun 30) — all figures approximate; AIS baseline inherently noisy |
+| 7-day average | 0.9 vessels/day AIS-visible (based on 7 days Jun 25–Jul 1: 0, 0, 0, 0, 0, ~6, ~0) |
+
+Secondary:
+- LNG: ~0 confirmed laden outbound (two laden carriers transited Jun 27–28 — first confirmed laden LNG outbound since war began; no new laden transit confirmed Jul 1; ~15 laden LNG carriers still stranded inside Gulf)
+- Fertilizer: ~2 vessels (approximate; cumulative ~16+ laden fertilizer vessels exited since mid-June MOU; pace ~2/day estimated; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across every session since tracking began). Figures derived from hormuztracking.com (live AIS), CNN (Jul 1 live updates), Fox News, RFE/RL, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **DAY 123 — DOHA INDIRECT TALKS (Jul 1)**: US and Iranian officials are holding indirect, lower-level technical talks in Doha through Qatari and Pakistani mediators, focused on implementation of the June 17 MOU. Witkoff and Kushner met the Qatari PM on June 30 and laid the groundwork; Iran sent a technical team but denied any direct US-Iran meetings: "We will not have any negotiations at any level with the American side in the coming days." This is Day 1 of the Doha technical-implementation track — the primary near-term catalyst for resolving the Iran Army reblockade and confirming the Oman joint-management framework.
+- **OMAN FEE PROPOSAL (key development)**: Oman formally delivered to the US and other Western countries a proposal under which shipping companies would pay service fees to use the Strait of Hormuz (NYT, reported June 30). Iran and Oman are moving forward with the fee-based management scheme despite US public objections; US negotiators received the plan and intend to raise concerns with Omani officials. This is the most concrete compromise framework yet between Iran's unilateral IRGC toll system and the US demand for free passage — but the fee-vs-free-passage dispute remains the primary unresolved obstacle.
+- **AIS vs. physical gap persists**: Live hormuztracking.com shows 4 vessels / 0.0 knots avg — effectively all stationary/anchored, none transiting. IRGC/shadow corridor continues to operate outside commercial AIS coverage. Prior CENTCOM/Wright data (June 24–28) indicated ~20M bbl/24h at peak; current throughput unclear heading into the Doha talks outcome.
+- **No new vessel attacks since Jun 27 KIKU strike**: The absence of new attacks over June 28–July 1 (4-day stretch) is a cautious positive signal consistent with the indirect-talks environment. War-risk premiums remain elevated (~0.7% of hull value).
+- **Iran Army reblockade (Jun 20) — Day 12**: The intra-Iranian split (Iran Army: closed; Iran FM/IRGC: operating on fee basis) continues. The Doha technical track is the primary mechanism to walk back or formalize the reblockade declaration.
+- **WTO tracker note**: A web search of the WTO tracker returned the finding: "crude oil flows having only restarted in a limited way… the seven-day moving average remaining close to zero and well below both the 2025 baseline and the prior-year trend" — consistent with the ~0 AIS-visible crude average in this log for Jun 20–Jul 1.
+- **Oil price**: Brent crude ~$73–74/bbl (near post-war low; market pricing sustained supply recovery).
+- **Sources**: [CNN Jul 1 — US-Iran indirect talks in Doha](https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump) · [CNN Jun 30 — Witkoff/Kushner meet Qatari PM; Oman delivers Hormuz proposal](https://www.cnn.com/2026/06/30/world/live-news/iran-war-trump) · [Fox News Jun 30 — Iran refuses direct US talks](https://www.foxnews.com/live-news/us-iran-doha-qatar-war-peace-talks-hormuz-strait-june-30) · [Pravda USA Jun 30 — Oman fee proposal](https://usa.news-pravda.com/usa/2026/06/30/815302.html) · [RFE/RL — Maritime traffic slows sharply](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html) · [hormuztracking.com live — 4 vessels / 0.0 knots](https://hormuztracking.com/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-06-30
 
 | Metric | Value |
