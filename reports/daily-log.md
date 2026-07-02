@@ -3,6 +3,34 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-02
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor estimates ~10–14 crude via IRGC-managed route, based on Kpler June 30 total of 34 crossings; hormuztracking.com live feed: 4 vessels / 0.0 knots avg) |
+| vs prior day | flat (0, 0%) vs July 1 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day AIS-visible (based on last 7 log entries: June 26–July 1: 0, 0, 0, 0, ~6, ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (two laden carriers transited June 27–28 — first confirmed laden LNG exports since war began — no new laden outbound confirmed today; QatarEnergy carriers *Wadi Al Sail*, *Mekaines*, *Al Sadd*, *Mesaimeer* pre-positioned at Ras Laffan for imminent loading; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~2 vessels (approximate; cumulative ~16+ laden fertilizer vessels exited since mid-June MOU; pace ~2/day estimated; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed AIS-visible inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CNN, Bloomberg, CNBC, OilPrice.com, InsuranceJournal, RFERL, hormuztracking.com, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 125 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~13** (declared June 20 citing Israeli strikes on Lebanon as MOU breach; legally contested, operationally partially enforced).
+- **DOHA TALKS — Day 3**: Indirect US-Iran talks entered their third day (opened June 30). Iran's Deputy FM Gharibabadi met Qatar's PM on July 1. JD Vance characterized talks as "going well" but "still pretty early." IRGC and CENTCOM representatives are jointly present in Doha via the established deconfliction cell. Key unresolved issue: Oman's formal fee proposal (delivered June 30) vs. US demand for free passage — the tolling/control dispute remains the primary obstacle.
+- **Crude estimate basis**: Zero AIS-visible crude per the structural pattern since June 20 IRGC reblockade declaration. Shadow corridor remains active: June 30 Kpler confirmed 34 total crossings (~40% crude fraction → ~13–14 crude via shadow route). Iran exported ~50M bbl in the 2 weeks since June 17 MoU (CNBC Jun 24), implying ~3.6M bbl/day via export channels. Wright/CENTCOM June 28 claim: 72 ships / 20M bbl in 24 hours. Live AIS at hormuztracking.com shows 4 vessels / 0.0 knots avg — consistent with structural shadow-corridor invisibility.
+- **LNG milestone**: Two laden LNG carriers transited outbound June 27–28 (bound for India and China) — the first confirmed laden LNG export transits since the conflict began Feb 28. No new laden LNG outbound transit confirmed for July 2. ~15 laden LNG carriers remain stranded inside the Persian Gulf. 4 QatarEnergy tankers at Ras Laffan pre-positioned for imminent loading.
+- **Tit-for-tat context**: *Ever Lovely* struck June 25 near Oman, *MT Settebello* struck June 25 (3 Indian seafarers killed), CENTCOM retaliatory strikes June 26, IRGC drone strike on VLCC *KIKU* June 27, further CENTCOM strikes June 27. Strikes halted June 28 ahead of Doha. No new attacks June 28–July 2 (5-day stretch) — positive signal for Doha environment.
+- **Fertilizer**: Partial resumption ongoing. Bloomberg peak: ~530K tons/week in week ending June 21 (near pre-war ~600K/week). ~16+ laden fertilizer vessels exited since mid-June MOU; 40+ still staged inside Gulf. Urea declining from $826/MT peak. Estimate ~2 vessels/day.
+- **Mine clearance**: ~80 mines remain in deep-water channel. Pentagon: 40–180 days for full clearance. Doha deconfliction cell may accelerate coordination; physical timeline unchanged.
+- **Vessel queue**: ~600 vessels staged (~300 laden inside Persian Gulf, ~300 empty in Gulf of Oman).
+- **Brent crude**: ~$73–75/bbl (lowest since before the crisis; market pricing sustained supply recovery via shadow corridor).
+- **AIS gaps**: Structural undercount persists. CENTCOM/Wright data indicates ~10× higher physical throughput than commercial AIS captures. All AIS-visible figures substantially understate actual physical flows.
+- **Sources**: [CNN Jul 1 — US-Iran indirect talks in Doha, Vance says going well](https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump) · [Bloomberg Jun 29 — Hormuz Traffic Drops Off as Vessel Attacks Raise Fresh Concerns](https://www.bloomberg.com/news/articles/2026-06-29/hormuz-traffic-drops-off-as-vessel-attacks-raise-fresh-concerns) · [CNBC Jun 27 — US military attacks Iranian targets after commercial tanker hit](https://www.cnbc.com/amp/2026/06/27/tanker-struck-in-strait-of-hormuz-as-us-iran-tensions-escalate.html) · [OilPrice.com — Tanker Traffic Slows After Fresh US-Iran Strikes](https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Tanker-Traffic-Slows-After-Fresh-US-Iran-Strikes.html) · [RFERL — Hormuz Traffic Holds Despite Security and Route Tensions](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-01
 
 | Metric | Value |
