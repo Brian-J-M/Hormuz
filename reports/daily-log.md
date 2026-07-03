@@ -3,6 +3,33 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-03
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor estimates ~12–15 crude physically transiting via IRGC-managed route, based on hormuzstraitmonitor 43-total-transit reading for July 1; diplomacy paused for Khamenei funeral — no new disruptions reported) |
+| vs prior day | flat (0, 0%) vs July 2 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day AIS-visible (based on 7 days Jun 26–Jul 2: 0, 0, 0, 0, ~6, ~0, ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (no confirmed new outbound laden LNG transit since June 27–28 milestone; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~2 vessels (approximate; pace ~2/day continuing; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CBS News, CNN, Al Jazeera, hormuzstraitmonitor.com, The National, Axios, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 126 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~14** (declared June 20)
+- **KHAMENEI FUNERAL — DIPLOMACY PAUSED (KEY DEVELOPMENT)**: Ayatollah Ali Khamenei's coffin was brought to Tehran on July 2–3. Multi-day funeral processions are scheduled July 4–9 across Tehran, Qom, Mashhad (Iran) and Najaf, Karbala (Iraq). Iranian negotiators departed Doha on July 2; Qatar and Pakistan issued a joint statement calling talks "positive" and pledging to resume "at the earliest possible time" after the funeral. Diplomacy formally paused until at least July 9–10.
+- **DOHA TALKS CONCLUDED (JULY 2) — POSITIVE PROGRESS**: Two rounds of indirect US-Iran talks in Doha (June 30–July 2) yielded a communication channel to resolve disputes and a commitment to resume talks after the funeral. Key sticking points remain unresolved: Iran demands sovereign/Oman-joint control + tolls; US demands free passage with no tolls. JD Vance: talks were "positive." Qatar/Pakistan: "positive progress."
+- **IRAN TOLL THREAT — MID-AUGUST DEADLINE**: Iranian negotiators stated they would impose tolls on oil tankers and commercial vessels transiting the Strait in mid-August, when the 60-day MOU window (signed June 17) expires. This creates a hard diplomatic deadline: no deal by ~August 17 → Iran attempts unilateral toll imposition, which the US has called a deal-breaker.
+- **TRAFFIC PICTURE (hormuzstraitmonitor)**: 43 total transits on July 1 (24 inbound + 19 outbound); 149 vessels currently in transit; 268 vessels anchored/stopped. Total traffic remains ~90% below pre-war baseline (~130+ vessels/day). Crisis Pressure Index: 87 (extreme). Physical transit deviation remains top contributor.
+- **No new vessel attacks confirmed July 3** — 7th consecutive no-attack day since June 27 KIKU UAV strike; positive signal for talks environment.
+- **AIS gaps**: Structural undercount persists. Shadow corridor remains dominant channel for crude; commercial AIS shows near-zero crude while CENTCOM/hormuzstraitmonitor imply ~12–15 crude physically transiting daily.
+- **Mine clearance**: ~80 mines remain in deep-water channel; Pentagon: 40–180 days for full clearance. No acceleration confirmed.
+- **Brent crude**: ~$73–75/bbl (stable near post-war lows; market pricing in sustained shadow-corridor supply recovery).
+- **Sources**: [CBS News — Diplomacy paused, Khamenei funeral processions](https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/) · [CNN Jul 2 — Iran issues fresh Hormuz warning, Doha talks make positive progress](https://www.cnn.com/2026/07/02/world/live-news/iran-war-us-talks) · [CNN Jul 3 — Iran funeral live updates](https://www.cnn.com/2026/07/03/world/live-news/iran-funeral-war-trump) · [Al Jazeera Jul 2 — US-Iran Doha talks: outcomes and what's next](https://www.aljazeera.com/news/2026/7/2/us-iran-talks-in-doha-what-were-the-outcomes-and-whats-next) · [Axios Jul 1 — US tries to talk Iran out of tolls as talks resume in Doha](https://www.axios.com/2026/07/01/iran-talks-doha-tolls-strait-hormuz) · [The National Jul 2 — US and Iran conclude Doha talks](https://www.thenationalnews.com/news/mena/2026/07/02/us-and-iran-conclude-hormuz-dominated-indirect-talks-in-doha/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-02
 
 | Metric | Value |
