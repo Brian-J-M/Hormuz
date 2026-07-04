@@ -3,6 +3,33 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-04
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor implies ~12–15 crude physically transiting IRGC-managed route; Iran issued "forceful response" warning for unapproved-route vessels; Oman/IMO new route announced Jul 3 creates compliance standoff) |
+| vs prior day | flat (0, 0%) vs July 3 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day AIS-visible (based on 7 days Jun 27–Jul 3: 0, 0, 0, ~6, ~0, ~0, ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (no confirmed new laden LNG transit since June 27–28 milestone; ~15 laden LNG carriers still stranded inside Persian Gulf; QatarEnergy carriers *Wadi Al Sail*, *Mekaines* pre-positioned at Ras Laffan)
+- Fertilizer: ~2 vessels (approximate; pace ~2/day continuing; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from PBS NewsHour, The Hill, Times of Israel, CNN, Fox News, Al Jazeera, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 127 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~15** (declared June 20)
+- **IRAN "FORCEFUL RESPONSE" ROUTE WARNING (KEY DEVELOPMENT)**: Iran's joint military command issued a warning that any vessel transiting the Strait of Hormuz without following "approved routes" and "navigation protocols of the Islamic Republic of Iran" will face "an immediate and forceful response from the armed forces, endangering the security of the violating vessels." Directed specifically at vessels attempting to use Oman's newly announced IMO-coordinated alternative route.
+- **OMAN/IMO NEW ROUTE (Jul 3)**: Oman announced a new shipping transit route through the strait on July 3, coordinated with the International Maritime Organization. FM Albusaidi stated the route carries "no transit fees" and reaffirmed freedom of navigation. This route directly conflicts with Iran's IRGC-managed corridor and its pending toll demands — Iran's "forceful response" warning is understood to be a direct counter to this framework.
+- **UK/FRANCE-OMAN NAVIGATION AGREEMENT**: France (Macron) and the UK (Starmer) issued a joint statement affirming "willingness to maintain close cooperation with their partners to uphold global security, freedom of navigation and international law." Iran's senior official warned UK and France: "Crisis-makers will be held accountable" and that Hormuz "is not a theater for the military display of extra-regional powers."
+- **KHAMENEI FUNERAL DAY 1 (July 4–9)**: Main funeral ceremonies began today at Imam Khomeini Grand Mosalla in Tehran; huge crowds expected. Coffins of Khamenei and family members on display. Ceremonies continue through July 9 in Tehran, Qom, Mashhad (Iran) and Najaf, Karbala (Iraq). The US agreed to halt diplomatic talks for the week of the funeral; Qatar/Pakistan committed to resume talks "at the earliest possible time" after the funeral (≥ July 9–10).
+- **MID-AUGUST DEADLINE PRESSURE**: With talks paused until ~July 9–10, the window to resolve the Oman fee-free route vs. Iran's toll/control claim before the MOU's 60-day expiry (~August 17) has narrowed. A new agreement must be in place by mid-August or Iran has stated it will impose unilateral tolls — a US-declared deal-breaker.
+- **No new vessel attacks confirmed July 4** — 8th consecutive no-attack day since June 27 KIKU UAV strike; positive signal for talks environment persists despite escalatory route warning.
+- **AIS gaps**: Structural undercount persists. Saudi Arabia shipped ~34M bbl through Hormuz since June 17 (Kpler); Kpler estimates ~4.8M bbl/day flowing via shadow corridor as of late June. AIS-visible crude near zero while physical throughput ~4–5M bbl/day — approximately 30% of pre-war 15M bbl/day baseline.
+- **Brent crude**: ~$73–75/bbl (stable near post-war lows; Iran route warning and funeral-induced talks delay creating modest upside risk, offset by continued shadow-corridor supply).
+- **Sources**: [PBS NewsHour — Iran warns tankers to use approved routes or face 'forceful response'](https://www.pbs.org/newshour/world/iran-warns-oil-tankers-to-use-approved-routes-in-strait-of-hormuz-or-face-a-forceful-response) · [The Hill — Iran warns tankers: follow approved routes](https://thehill.com/policy/international/5950982-iran-warning-strait-of-hormuz-routes/) · [Times of Israel — Iranian official warns UK, France over Hormuz](https://www.timesofisrael.com/liveblog-july-4-2026/) · [CNN Jul 4 — Iran begins dayslong funeral for supreme leader](https://us.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump) · [Fox News — US agrees to halt talks for a week as funeral for Khamenei begins](https://www.foxnews.com/live-news/us-iran-peace-talks-pause-supreme-leader-ayatollah-khamenei-funeral-july-3-2026) · [Al Jazeera — IRGC warns against new Hormuz route for ships](https://www.aljazeera.com/news/2026/6/25/irgc-warns-against-new-hormuz-route-for-ships-what-we-know) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-03
 
 | Metric | Value |
