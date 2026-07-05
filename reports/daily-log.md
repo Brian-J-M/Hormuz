@@ -3,6 +3,32 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-05
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor implies ~12–15 crude physically transiting IRGC-managed route; July 3 hormuzstraitmonitor: 39 total transits, no crude departing; July 4: 27 total transits) |
+| vs prior day | flat (0, 0%) vs July 4 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day AIS-visible (based on 7 days Jun 29–Jul 5: 0, ~6, 0, 0, 0, 0, ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (no confirmed new laden LNG transit since June 27–28 milestone; ~15 laden LNG carriers still stranded inside Persian Gulf; QatarEnergy carriers pre-positioned at Ras Laffan)
+- Fertilizer: ~2 vessels (approximate; pace ~2/day continuing; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from hormuzstraitmonitor.com, CNN, Fox News, ABC News, CBS News, Times of Israel, UANI, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 128 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~16** (declared June 20)
+- **KHAMENEI FUNERAL DAY 2 (July 5)**: Funeral ceremonies continue across Tehran; processions scheduled July 4–9 in Tehran, Qom, Mashhad and Najaf, Karbala (Iraq); 15–20 million participants anticipated in Tehran. US-Iran talks formally paused until ~July 9–10; Qatar/Pakistan pledged to resume "at the earliest possible time."
+- **IRAN "DEFINITELY" TO CHARGE HORMUZ FEES**: Times of Israel (July 4) headlined Iran confirming it will "definitely" charge Hormuz fees, with "friendly nations" potentially receiving "special treatment." This hardens the mid-August toll-imposition deadline. The 60-day MOU window (~August 17 expiry) narrows as talks remain paused through at least July 9.
+- **TRAFFIC PICTURE**: hormuzstraitmonitor.com: 39 total transits July 3 (17 inbound + 22 outbound, no crude departing, light products only); 27 total transits July 4 — both well below pre-war ~130+/day baseline. No crude departure confirmed for either day.
+- **No new vessel attacks confirmed July 5** — 9th consecutive no-attack day since June 27 KIKU UAV strike; positive signal for talks environment persists despite paused negotiations.
+- **OMAN/IMO ROUTE STANDOFF**: Iran's July 3 "forceful response" warning against vessels using the Oman/IMO-coordinated route remains in direct conflict with Oman's fee-free alternative. No resolution expected before talks resume post-funeral (~July 9–10).
+- **AIS gaps**: Structural undercount persists. Shadow corridor remains dominant channel for crude; AIS near zero while physical throughput estimated ~4–5M bbl/day (~30% of 15M bbl/day pre-war baseline per Kpler).
+- **Brent crude**: ~$73–75/bbl (stable near post-war lows; Iran fee-hardening creates modest upside risk; funeral-induced talks pause adds minor additional headwind).
+- **Sources**: [hormuzstraitmonitor.com — Live Tracker](https://hormuzstraitmonitor.com/) · [Times of Israel — Iran says it will 'definitely' charge Hormuz fees (Jul 4)](https://www.timesofisrael.com/liveblog-july-4-2026/) · [CBS News — Tehran enters second day of massive funeral](https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/) · [ABC News — Iran live updates Jul 5](https://abcnews.com/International/live-updates/iran-live-updates/?id=134300648) · [Fox News — US agrees to halt talks for a week as Khamenei funeral begins](https://www.foxnews.com/live-news/us-iran-peace-talks-pause-supreme-leader-ayatollah-khamenei-funeral-july-3-2026) · [UANI — Iran Shipping Update July 2, 2026](https://www.unitedagainstnucleariran.com/blog/iran-shipping-update-july-2-2026) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-04
 
 | Metric | Value |
