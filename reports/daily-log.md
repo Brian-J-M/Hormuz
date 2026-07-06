@@ -3,6 +3,34 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor implies ~12–15 crude physically transiting IRGC-managed route; Tehran airspace closed Jul 6 for 12-hour Khamenei funeral procession — no diplomatic movement possible; IRGC VHF warnings actively turning vessels back from southern corridor) |
+| vs prior day | flat (0, 0%) vs July 5 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day AIS-visible (based on 7 days Jun 30–Jul 6: ~6, 0, 0, 0, 0, 0, ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (no confirmed new laden LNG transit since June 27–28 milestone; ~15 laden LNG carriers still stranded inside Persian Gulf; QatarEnergy carriers pre-positioned at Ras Laffan)
+- Fertilizer: ~2 vessels (approximate; ~2/day pace continuing; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement; recovery lag estimated 30–60 days behind crude)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Armenpress, CBS News, NBC News, HSToday, CNBC, The Ops Con, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 129 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~17** (declared June 20)
+- **TEHRAN AIRSPACE CLOSED TODAY (KEY EVENT)**: Iran's Civil Aviation Organization closed Tehran airspace for the full day on July 6 for a 12-hour Khamenei funeral procession carrying the coffin through Tehran's streets to Mehrabad Airport. This is Day 3 of multi-day funeral ceremonies (July 4–9). No diplomatic movements are possible today; indirect US-Iran talks remain suspended until after burial at Mashhad (~July 9). Next round of talks expected ~July 11.
+- **IRGC ROUTE ENFORCEMENT CONTINUES**: IRGC VHF radio warnings actively turning vessels back from the southern/Omani corridor. On July 5, two tankers diverted northward and four reversed course back into the Gulf following IRGC warnings; IRGC patrol boats confirmed operating in the Strait. The southern corridor — previously considered outside Iranian control — is now subject to active IRGC enforcement, eliminating the one route operators believed to be fee-free.
+- **TRAFFIC PICTURE**: Most recent hormuzstraitmonitor data: July 4 = 27 total transits; July 3 = 39 total transits (17 inbound + 22 outbound). No crude departure confirmed for either day via AIS. Total traffic remains ~75–80% below pre-war baseline (~130+ vessels/day).
+- **No new vessel attacks confirmed July 6** — 10th consecutive no-attack day since June 27 KIKU UAV strike; positive signal for diplomatic environment persisting even with paused talks.
+- **MID-AUGUST DEADLINE PRESSURE**: With talks suspended through ~July 9, the window to resolve Iran's toll/control claim vs. Oman/US fee-free framework before the MOU's 60-day expiry (~August 17) continues to narrow. Iran states it will impose unilateral tolls at expiry; the US has called this a deal-breaker.
+- **PHYSICAL FLOWS (shadow corridor)**: Windward reported ~8.5M bbl crude through Hormuz on July 2 (single-day figure); Kpler estimates ~4.8–5M bbl/day sustained via shadow/IRGC corridor since mid-June MOU — approximately 30–33% of pre-war ~15M bbl/day baseline. Saudi Arabia shipped ~34M bbl through Hormuz in the two weeks since June 17 (Kpler/CNBC Jul 2).
+- **Positive normalization signals**: Container port calls at Shahid Rajai up 359% week-over-week (13 vessels vs. predicted 3) for June 26–July 3, highest since crisis began. Crude tankers going dark in Iranian waters fell 67% (7 vs. predicted 21) for June 20–27 — lowest AIS-evasion count in the series.
+- **AIS gaps**: Structural undercount persists. Shadow corridor dominant for crude; AIS near zero while physical throughput estimated ~4–5M bbl/day (~30% of pre-war baseline per Kpler).
+- **Brent crude**: ~$73–75/bbl (stable near post-war lows; funeral-induced talks pause adds minor headwind; Iran's hardened toll stance creates modest upside risk).
+- **Sources**: [Armenpress — Tehran airspace closes Jul 6 for funeral procession](https://armenpress.am/en/article/1254704) · [CBS News — 12-hour funeral procession through Tehran underway](https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/) · [NBC News — Iran begins funeral procession through Tehran](https://www.nbcnews.com/world/iran/iran-funeral-procession-tehran-supreme-leader-khamenei-rcna353101) · [HSToday — IRGC orders vessels to turn back](https://www.hstoday.us/subject-matter-areas/maritime-security/iran-tightens-grip-on-strait-of-hormuz-as-shipping-forced-into-controlled-routes/) · [CNBC Jul 2 — Saudi Arabia ramps oil shipments through Hormuz](https://www.cnbc.com/2026/07/02/saudi-arabia-iran-strait-hormuz-persian-gulf-oil.html) · [The Ops Con — Khamenei funeral week Gulf posture](https://theopscon.com/intelligence/iran-khamenei-funeral-week-gulf-posture-2026-07-05) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-05
 
 | Metric | Value |
