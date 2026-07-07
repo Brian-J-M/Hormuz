@@ -3,6 +3,33 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor implies ~12–15 crude physically transiting via IRGC-managed route; IRGC struck two Qatari LNG tankers today targeting the Oman/southern corridor) |
+| vs prior day | flat (0, 0%) vs July 6 (~0 AIS-visible) |
+| 7-day average | 0.9 vessels/day AIS-visible (based on 7 entries Jun 30–Jul 6: ~6, 0, 0, 0, 0, 0, ~0) |
+
+Secondary:
+- LNG: 0 new successful outbound transits; 2 Qatari LNG tankers struck by IRGC missiles (*Al Rekayyat* set ablaze; *Al Areesh* fired upon and diverted); all crew reported safe
+- Fertilizer: ~2 vessels (approximate; shadow corridor ~2/day pace continuing; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Bloomberg, NPR, NBC News, ABC News, Times of Israel, The National, gCaptain, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 130 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~18** (declared June 20)
+- **QATARI LNG TANKERS STRUCK — MAJOR ESCALATION (KEY EVENT)**: Iran's IRGC fired at least two missiles at commercial vessels transiting the Strait of Hormuz, striking the *Al Rekayyat* (Qatari LNG tanker, Nakilat-owned) ~8 nautical miles east of Limah, Oman — setting it ablaze via an engine-room fire — and also firing on the *Al Areesh* (a second Qatari LNG tanker loaded at Ras Laffan). Both vessels had loaded LNG at Ras Laffan, Qatar, and were attempting to exit the Persian Gulf via the southern/Oman corridor. All crew reported safe; no casualties; no confirmed environmental impact. Iranian state TV said vessels "ignored approved-route warnings."
+- **ENDS 10-DAY NO-ATTACK STREAK**: First vessel strike since the June 27 KIKU UAV attack. The attacks directly target Qatar — the country hosting US-Iran indirect talks in Doha — dramatically complicating the diplomatic resumption expected ~July 9–10 post-funeral.
+- **DIPLOMATIC IMPACT — CRITICAL**: Qatar hosts the mediation channel and Nakilat is a Qatari state-owned shipping company. Attacking Qatari vessels during the funeral truce period jeopardizes Qatar's willingness to continue as mediator and undermines the June 17 MOU framework's credibility. Resumption of Doha talks after ~July 9–10 is now highly uncertain.
+- **KHAMENEI FUNERAL CONTINUES (Day 4 of July 4–9)**: Coffin moved to Qom today; hundreds of thousands of mourners. Burial at Mashhad expected ~July 9. Talks formally suspended through ~July 9–10.
+- **OMAN CORRIDOR ENFORCEMENT — CONFIRMED KINETIC**: Both attacked vessels were using the Oman/IMO-coordinated fee-free route announced July 3. Iran is now actively enforcing its "forceful response" warning (issued July 3–4) via live missile strikes. UK/US maritime escorts had not yet been positioned for the new route.
+- **MID-AUGUST DEADLINE**: 60-day MOU window expires ~August 17; today's strikes narrow the already-compressed negotiation window and may push Iran toward early unilateral toll imposition.
+- **AIS gaps**: Structural undercount persists. Shadow corridor (~IRGC-managed route) remains dominant for physical crude flows (~4–5M bbl/day per Kpler, ~30% of pre-war ~15M bbl/day baseline). AIS-visible crude remains near zero.
+- **Market impact**: Brent crude prices expected to rise sharply in reaction; LNG spot prices likely spiking given Qatar supplies ~25% of global LNG.
+- **Sources**: [Bloomberg — Qatari LNG Ship Struck in Strait of Hormuz, Testing US-Iran Deal](https://www.bloomberg.com/news/articles/2026-07-07/iranian-missile-hits-qatari-lng-ship-in-strait-testing-us-talks) · [NPR — Tanker set ablaze after being struck by projectile](https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz) · [NBC News — Tanker set ablaze, struck by projectile as Iran mourns Khamenei](https://www.nbcnews.com/world/middle-east/tanker-set-ablaze-struck-projectile-strait-hormuz-iran-mourns-khamenei-rcna353264) · [The National — Iran fires missiles at two commercial ships](https://www.thenationalnews.com/news/mena/2026/07/07/iran-fires-missiles-at-two-commercial-ships-in-strait-of-hormuz/) · [Times of Israel — Iran said to fire at 2 ships, including Qatari gas tanker](https://www.timesofisrael.com/liveblog_entry/iran-said-to-fire-at-2-commercial-ships-in-strait-of-hormuz-including-qatari-gas-tanker/) · [gCaptain — Qatari LNG Ship Struck in Strait of Hormuz](https://gcaptain.com/qatari-lng-ship-struck-in-strait-of-hormuz-testing-us-talks/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-06
 
 | Metric | Value |
