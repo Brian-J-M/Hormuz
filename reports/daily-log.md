@@ -3,6 +3,33 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor physically ~12–15 crude via IRGC-managed route; all Oman/southern-corridor commercial transits halted following Jul 7 kinetic enforcement; US retaliatory strikes on Iranian targets overnight further suppress any new transit attempts) |
+| vs prior day | flat (0, 0%) vs July 7 (~0 AIS-visible) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days Jul 1–7: all ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (*Al Rekayyat* still ablaze/at explosion risk; crew evacuated; *Al Areesh* diverted; all LNG transit halted; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~1–2 vessels (approximate; shadow corridor pace may be disrupted by US–Iran military exchange; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from The War Zone, NPR, CBS News, Washington Post, Bloomberg, gCaptain, Time, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 131 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~19** (declared June 20)
+- **US RETALIATORY STRIKES ON IRAN — OVERNIGHT (KEY EVENT)**: CENTCOM launched strikes against dozens of Iranian military targets overnight July 7–8 in direct retaliation for IRGC attacks on three commercial vessels transiting the Strait on July 7. This is the most significant US military action since the June 17 MoU was signed and directly threatens the ceasefire framework.
+- **AL REKAYYAT STATUS**: Qatari LNG tanker *Al Rekayyat* (Nakilat-owned, ~149,600 m³) remains ablaze following yesterday's missile strike; engine-room fire puts it at explosion risk. Crew has been evacuated. Saudi-flagged crude supertanker *Wedyan* was also damaged in a separate strike.
+- **OMAN CORRIDOR NOW KINETICALLY ENFORCED — EFFECTIVELY CLOSED**: Both attacked vessels had been using the Oman/IMO-coordinated fee-free route announced July 3. Yesterday's strikes represent live enforcement of Iran's July 3 "forceful response" warning. No commercial operator expected to attempt the southern corridor today.
+- **QATAR MEDIATOR ROLE COMPROMISED**: Qatar hosts the US-Iran indirect talks channel in Doha; *Al Rekayyat* is Nakilat-owned (Qatari state company). Qatar's continued willingness to serve as mediator is now highly uncertain. Talks resumption expected ~July 9–10 post-Khamenei funeral is in serious jeopardy.
+- **CEASEFIRE / MOU UNDER MAXIMUM STRESS**: The June 17 MoU has been violated by Iran's kinetic strikes on commercial vessels and the subsequent US military retaliation. The 60-day window expiring ~August 17 is under severe strain.
+- **KHAMENEI FUNERAL — DAY 5**: Ceremonies continue; burial at Mashhad expected ~July 9. Talks cannot resume until post-burial (earliest July 9–10) even if MoU survives.
+- **AIS gaps**: Shadow corridor continues to move physical crude (~12–15 vessels/day, ~4–5M bbl/day per Kpler) via IRGC-managed route. AIS-visible crude expected to remain near zero following escalation.
+- **Market impact**: Brent crude surging on escalation; LNG spot prices spiking as *Al Rekayyat* ablaze and Qatar (~25% of global LNG supply) directly targeted. War-risk insurance premiums rising sharply.
+- **Sources**: [The War Zone — US Strikes Iran in Retaliation for Shipping Attacks](https://www.twz.com/news-features/u-s-strikes-iran-in-retaliation-for-multiple-attacks-on-shipping-in-strait-of-hormuz-over-last-24-hours) · [NPR — US launches new strikes against Iran](https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz) · [Washington Post — US and Iran launch fresh strikes](https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/) · [CBS News — US hits dozens of Iranian targets](https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/) · [Bloomberg — Hormuz Sees Biggest Day of Attacks Since US-Iran Peace Deal](https://www.bloomberg.com/news/articles/2026-07-07/iranian-missile-hits-qatari-lng-ship-in-strait-testing-us-talks) · [Time — Fresh Attacks in the Strait of Hormuz Raise Stakes for Peace Deal](https://time.com/article/2026/07/07/fresh-attacks-in-the-strait-of-hormuz-shake-peace-talks/) · [gCaptain — LNG Tanker Al Rekayyat at Risk of Exploding](https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-07
 
 | Metric | Value |
