@@ -3,6 +3,35 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-09
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor physically ~8–12 crude via IRGC-managed route — lower estimate than prior days as IRGC military posture shifts toward retaliatory strikes on US bases in Kuwait and Bahrain; all Oman/southern-corridor commercial transits remain suspended following Jul 7 kinetic enforcement) |
+| vs prior day | flat (0, 0%) vs July 8 (~0 AIS-visible) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days Jul 2–8: all ~0) |
+
+Secondary:
+- LNG: ~0 new outbound laden (*Al Rekayyat* still ablaze/at explosion risk; crew evacuated; *Al Areesh* remains diverted; all laden LNG transit halted; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~1–2 vessels (approximate; shadow corridor pace uncertain given IRGC military posture shift toward retaliatory strikes; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from ABC News, CBS News, RFERL, Al Jazeera, Windward AI, Washington Post, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 132 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~20** (declared June 20)
+- **IRAN STRIKES US BASES IN KUWAIT AND BAHRAIN (KEY EVENT)**: Iran's IRGC launched retaliatory strikes — described by Iranian state media as "the first stage of a punitive response" — targeting US military facilities in Bahrain and Kuwait. Both countries confirmed their air defense systems engaged incoming Iranian missiles and drones. This is the most significant Iran-initiated escalation against US bases since the start of the conflict, directly hitting US treaty allies.
+- **KHAMENEI BURIAL IN MASHHAD — FUNERAL CONCLUDES TODAY**: Khamenei was buried in Mashhad (his hometown) on July 9, formally concluding the multi-day state funeral (July 4–9). The agreed diplomatic pause now ends; US-Iran indirect talks in Doha are technically eligible to resume July 10+. However, Iran's retaliatory strikes on Kuwait/Bahrain and Trump's Kharg Island threat make prompt resumption highly uncertain.
+- **US RETALIATORY STRIKES CONTEXT (Jul 7–8)**: US CENTCOM launched strikes on dozens of Iranian military targets overnight July 7–8 in response to IRGC attacks on commercial vessels (*Al Rekayyat*, *Wedyan*, and *Cyprus Prosperity*). Iran's strikes on Kuwait/Bahrain are counter-retaliation to those US strikes — a tit-for-tat spiral that has consumed the ceasefire framework.
+- **AL REKAYYAT STATUS**: Qatari LNG tanker *Al Rekayyat* (Nakilat-owned, ~149,600 m³) remains ablaze/at explosion risk. Engine-room fire; crew evacuated. *Al Areesh* (second Qatari LNG tanker struck July 7) also remains diverted. Qatar's Nakilat assets are now directly targeted, placing Qatar's mediation role in serious jeopardy.
+- **TRUMP THREATENS KHARG ISLAND**: President Trump stated the US might seize or strike Kharg Island (Iran's primary crude oil export terminal, handling ~80–90% of Iranian crude exports). If executed, this would effectively eliminate Iran's crude export capacity entirely and escalate the conflict to a new level.
+- **OMAN CORRIDOR CLOSED**: All Oman/IMO-coordinated fee-free corridor transits remain suspended. IRGC kinetically enforced the ban on July 7 by striking the *Al Rekayyat* and *Wedyan*; no commercial operator is expected to test the southern corridor under current conditions.
+- **TALKS RESUMPTION UNDER SEVERE STRAIN**: Khamenei burial ends the agreed pause. However, Iran's strikes on Kuwait/Bahrain (US treaty allies) and the US Kharg Island threat severely damage the diplomatic environment. Qatar's willingness to continue mediating is under strain following strikes on Nakilat (Qatari state-owned) vessels on July 7. Talks resumption timeline is now highly uncertain.
+- **JUNE 17 MOU EFFECTIVELY SUSPENDED**: The series of events (IRGC vessel strikes July 7 → US retaliatory strikes July 7–8 → IRGC strikes on Kuwait/Bahrain July 9) represent mutual violations that have effectively suspended the MOU framework. The formal 60-day window (expiring ~August 17) remains technically in force, but the framework is under maximum stress.
+- **MARKET IMPACT**: Brent crude surged ~7.42% to ~$78.08/bbl in response to the escalation spiral. LNG spot prices spiking given Qatar's ~25% share of global LNG supply. War-risk insurance premiums rising sharply across all Gulf routes.
+- **AIS gaps**: Shadow corridor continues to move physical crude via IRGC-managed route; estimated lower today (~8–12 crude/day vs. prior ~12–15) due to IRGC military posture disruption. AIS-visible crude near zero.
+- **Sources**: [ABC News — Iran retaliates, targeting Bahrain and Kuwait after Trump retribution strikes](https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610) · [CBS News — Trump says US will win Iran war as Tehran holds Khamenei funeral](https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral/) · [RFERL — Trump Says US Might Take Kharg Island](https://www.rferl.org/a/iran-war-us-hormuz-oil-blockade-gulf-israel/33640284.html) · [Al Jazeera — Ships attacked in Strait of Hormuz: What that means for ongoing talks](https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks) · [Windward AI — Hormuz NCAGS Corridor Under Attack](https://windward.ai/blog/hormuzs-ncags-corridor-under-attack/) · [Washington Post — US and Iran launch fresh strikes after attacks on commercial ships](https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-08
 
 | Metric | Value |
