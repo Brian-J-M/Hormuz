@@ -3,6 +3,31 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-10
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; shadow corridor physically ~8–12 crude via IRGC-managed route — pace consistent with prior two days as Iran–US tit-for-tat escalation continues; all commercial AIS-visible transits effectively halted since Jul 7) |
+| vs prior day | flat (0, 0%) vs July 9 (~0 AIS-visible) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days Jul 3–9: all ~0 AIS-visible) |
+
+Secondary:
+- LNG: ~0 outbound laden (*Al Rekayyat* remains ablaze; *Al Areesh* diverted; ~15 laden LNG carriers still stranded inside Persian Gulf; GasLog Shanghai and Al Rayyan likely transited inbound/ballast overnight Jul 9–10 — repositioning only, not outbound laden cargo)
+- Fertilizer: ~1–2 vessels (approximate; shadow corridor pace uncertain given ongoing Iran–US military exchange; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Al Jazeera, US News, Japan Times, Bloomberg, Lloyd's List, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 133 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~21** (declared June 20)
+- **SHIPPING GRINDING TO HALT (KEY EVENT)**: Al Jazeera (Jul 10): "Strait of Hormuz shipping grinds to halt as US, Iran resume fighting." Lloyd's List Intelligence confirms no vessels above 10,000 dwt have transited via AIS since July 7. Commercial transit via the Oman-hugging/IMO-coordinated corridor is "effectively at a standstill." Only dark/sanctioned shadow-corridor traffic is moving.
+- **DIPLOMATIC PAUSE ENDED — TALKS RESUMPTION HIGHLY UNCERTAIN**: Khamenei burial in Mashhad concluded July 9, formally ending the agreed diplomatic pause. US-Iran Doha indirect talks are technically eligible to resume July 10+. However, Iran's retaliatory strikes on US military facilities in Kuwait and Bahrain (Jul 9) and Trump's Kharg Island threat place talks resumption under maximum uncertainty. The Doha July 1–2 round concluded without headway — focused on maritime traffic and frozen funds rather than the nuclear programme.
+- **PARTIAL RECOVERY NOW FULLY REVERSED**: Traffic had recovered to ~40 ships/day total in the two weeks before July 7 (still ~70% below the pre-war baseline of ~125–140/day). Iran's July 7 attacks on *Al Rekayyat*, *Wedyan*, and *Cyprus Prosperity* triggered US retaliatory strikes (Jul 7–8) and Iran's counter-retaliation strikes on US bases in Kuwait and Bahrain (Jul 9), collapsing that partial recovery back to near-zero.
+- **JAPAN-LINKED VESSEL EXODUS COMPLETE**: 22 Japan-linked vessels (including 6 large crude tankers) exited the Gulf in a rush July 7–9; only 4 Japan-linked vessels now remain inside the Gulf. The exit window appears closed.
+- **LNG**: *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³) remains ablaze/at explosion risk; crew evacuated. *Al Areesh* (second Qatari LNG tanker struck Jul 7) diverted. GasLog Shanghai and Al Rayyan — part of a group of 5 ballast LNG tankers (also Al Samriya, Al Dafna, Al Gattara) — likely transited inbound (ballast) into the strait overnight July 9–10; these are repositioning moves, not outbound laden cargo. No laden LNG outbound confirmed.
+- **AIS gaps**: Shadow corridor continues to move physical crude (~8–12 crude/day estimated, reduced from prior ~12–15/day) via IRGC-managed route. AIS-visible crude near zero. Shadow corridor pace reduced as IRGC military operations dominate IRGC posture today.
+- **Sources**: [Al Jazeera Jul 10 — Shipping grinds to halt](https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting) · [US News Jul 9 — Tanker traffic near standstill](https://www.usnews.com/news/world/articles/2026-07-09/oil-tanker-traffic-through-hormuz-at-near-standstill-as-attacks-strain-iran-truce) · [Japan Times Jul 10 — LNG Japan-linked vessels transit despite tensions](https://www.japantimes.co.jp/news/2026/07/10/japan/japan-vessels-transit-hormuz-increase/) · [Bloomberg Jul 7 — Hormuz biggest day of attacks since peace deal](https://www.bloomberg.com/news/articles/2026-07-07/iranian-missile-hits-qatari-lng-ship-in-strait-testing-us-talks) · [Al Jazeera Jul 7 — Ships attacked, what it means](https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks) · [Business Standard Jul 2 — Doha talks conclude](https://www.business-standard.com/amp/world-news/us-iran-talks-conclude-in-doha-focused-on-strait-of-hormuz-frozen-funds-126070200100_1.html) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-09
 
 | Metric | Value |
