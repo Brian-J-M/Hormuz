@@ -3,6 +3,30 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-11
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; ~15 total commercial transits reported in past 24h per MarineTraffic; shadow corridor physically ~8–12 crude via IRGC-managed route; AIS-visible crude remains near zero — Day 5 of near-total commercial standstill since Jul 7 escalation) |
+| vs prior day | flat (0, 0%) vs July 10 (~0 AIS-visible) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days Jul 4–10: all ~0 AIS-visible) |
+
+Secondary:
+- LNG: ~0 outbound laden (*Al Rekayyat* still ablaze/at explosion risk; crew evacuated; ~15 laden LNG carriers still stranded inside Persian Gulf; no new laden LNG outbound confirmed)
+- Fertilizer: ~1–2 vessels (approximate; shadow corridor pace uncertain; 40+ laden fertilizer vessels still staged inside Gulf)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from MarineTraffic, PressTV, CNN, Al Jazeera, Türkiye Today, and search-aggregated reporting. All AIS-visible vessel counts should be treated as approximate.
+- **DAY 134 OF CRISIS** (since Feb 28); **IRAN ARMY REBLOCKADE DAY ~22** (declared June 20)
+- **KEY DIPLOMATIC SIGNAL — ARAGHCHI IN MUSCAT**: Iran FM Abbas Araghchi and parliamentary speaker Mohammad Bagher Ghalibaf traveled to Muscat on July 11 for direct talks with Oman on Strait of Hormuz shipping arrangements. The visit focuses on "establishing appropriate mechanisms to ensure the safe passage of ships." Iran and Oman reportedly "reaffirmed toll-free shipping" through the Strait — the first positive diplomatic signal since the July 7–9 tit-for-tat escalation spiral (IRGC vessel strikes → US retaliatory strikes → Iran strikes on US bases in Kuwait/Bahrain). US officials say Washington expects Tehran to issue a public statement confirming Hormuz is open and vessels won't be attacked.
+- **TOTAL COMMERCIAL TRANSITS**: ~15 commercial vessels in past 24 hours (MarineTraffic); July 9 count was 22 total (12 inbound + 10 outbound) — all well below pre-war baseline of ~110–130/day. Crude AIS-visible remains near zero since July 7 standstill.
+- **MOU STATUS**: Trump declared the June 17 MoU "over" but stated talks with Iran would continue. Oman-brokered negotiation framework is the active channel; the Muscat meeting today represents an attempt to rebuild the transit-safety architecture broken by Jul 7–9 events.
+- **LNG**: *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³) still ablaze off Oman; risk of explosion persists. No laden LNG outbound confirmed. ~15 laden LNG carriers stranded inside Persian Gulf.
+- **AIS gaps**: Shadow corridor continues to move physical crude (~8–12 crude/day estimated, reduced from prior ~12–15/day) via IRGC-managed route. AIS-visible crude near zero.
+- **Sources**: [PressTV Jul 11 — Araghchi arrives in Muscat for Hormuz talks](https://www.presstv.ir/Detail/2026/07/11/772014/Araghchi-arrives-Muscat-Strait-Hormuz,-regional-developments) · [CNN — Live updates: Iran FM in Oman to discuss Strait of Hormuz](https://edition.cnn.com/2026/07/11/world/live-news/iran-war-trump) · [Türkiye Today — Iran, Oman reaffirm toll-free shipping through Strait of Hormuz](https://www.turkiyetoday.com/region/iran-oman-reaffirm-toll-free-shipping-through-strait-of-hormuz-3222485) · [National Security Journal — Oman breaks with Iran over transit fee plan](https://nationalsecurityjournal.org/oman-just-broke-with-iran-over-the-strait-of-hormuz-formally-telling-the-un-it-opposes-tehrans-transit-fee-plan/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
 ## 2026-07-10
 
 | Metric | Value |
