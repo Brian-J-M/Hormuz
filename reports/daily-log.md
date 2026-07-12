@@ -3,6 +3,37 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-12
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | -2 (-67%) vs last logged entry Apr 12 (~3) — **91-day log gap; no entries Apr 13 – Jul 11** |
+| 7-day average | 3.3 vessels/day (based on 7 log entries: Apr 5–12) |
+
+Secondary:
+- LNG: 0 laden outbound confirmed (5 ballast LNG carriers entered inbound: *GasLog Shanghai*, *Al Samriya*, *Al Dafna*, *Al Gattara*, *Al Rayyan*; *Al Rekayat* struck by missile Jul 7, fire, crew evacuated)
+- Fertilizer: 0 vessels (near-standstill continues; weekly exports ~90% below pre-conflict per WTO blog July 10)
+- Agricultural (inbound): ~1–2 vessels (early signs of improvement in July per reporting, but still deeply suppressed; no confirmed vessel-by-vessel count)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg, US News, Japan Times, MarineLink, Al Jazeera, UANI (July 8), House of Saud, Windward AI, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **91-day log gap**: No entries exist between 2026-04-12 and today. 7-day average and prior-day comparison are drawn from the last 7 log entries (all April); they do not reflect July conditions. Actual July crude average (research-derived) was approximately 1–3 vessels/day, significantly below April levels.
+- **Day 133 of crisis** (since Feb 28, 2026 US-Israel strikes on Iran).
+- **June 17 US-Iran MoU**: A ceasefire/deal was signed June 17, producing a partial recovery — daily total crossings reached 41–43 vessels in early July (Jul 1: 41; Jul 3: 43; Jul 6: 42), compared to a pre-war baseline of ~138 vessels/day. However, crude flows remained near-zero even during this recovery: "Since the MoU was signed on June 17, crude oil flows have been limited to only a few isolated shipments, with the seven-day moving average remaining close to zero."
+- **July 7 — biggest attack day since June 17 MoU**: IRGC missile struck Qatari LNG tanker *Al Rekayat* (fire in engine room, crew evacuated); Saudi-flagged supertanker *Wedyan* also struck; a third vessel attacked within 24 hours. Bloomberg: "Hormuz Sees Biggest Day of Attacks Since US-Iran Peace Deal."
+- **July 9 — near-complete transit halt**: Lloyd's List Intelligence recorded zero AIS-visible commercial vessels >10,000 dwt crossing the southern corridor — down from 33 AIS-traceable crossings the prior day. Overall crossing count per other methodologies: ~17. IMO Council Meeting 137 convened the same day, passing a resolution affirming transit passage rights.
+- **July 10**: 11 total transits (3 outbound, 6 inbound, 3 inbound tankers running dark/AIS off).
+- **July 12 (today)**: IRGC gunboats fired on vessels at 09:20 UTC; at least one crude tanker reversed course with cargo undelivered. Crude transit estimate of ~1 assumes 0–1 completions; true count may be zero.
+- **AIS-traceable crude flow**: ~2.5 million barrels/day as of July 10 (ShipFinder), down ~87% from IEA pre-war baseline of ~20 million bbl/day.
+- **Japan-linked vessels**: 22 Japan-linked ships including 6 large crude tankers transited outbound July 7–9 (per Japan Times July 10), before attacks intensified.
+- **LNG**: *Al Rekayat* attack on July 7 was the first confirmed loaded LNG carrier attacked since crisis began. Five ballast LNG carriers entered the strait inbound (repositioning), suggesting operators believe inbound passage is marginally safer than outbound. No laden outbound LNG transit confirmed today.
+- **Fertilizer**: WTO Data Blog (July 10, 2026) confirms near-standstill continues; ~16 vessels carrying 330,000 tons urea and 4 vessels carrying 257,000 tons DAP stranded near strait; weekly exports down ~90% from pre-conflict levels; ongoing food security implications.
+- **Brent crude**: ~$76.01/bbl — significantly below April's ~$96–97 peak; June 17 MoU triggered a price collapse, though attacks have partially reversed the decline.
+- **War-risk insurance**: 8.0× pre-crisis levels; 6 P&I clubs have withdrawn cover entirely.
+- **Sources**: [Bloomberg Jul 7 — IRGC attacks LNG tanker](https://www.bloomberg.com/news/articles/2026-07-07/iranian-missile-hits-qatari-lng-ship-in-strait-testing-us-talks) · [Al Jazeera Jul 7 — Ships attacked, talks implications](https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks) · [US News Jul 9 — Tanker traffic near standstill](https://www.usnews.com/news/world/articles/2026-07-09/oil-tanker-traffic-through-hormuz-at-near-standstill-as-attacks-strain-iran-truce) · [Japan Times Jul 10 — Japan-linked vessels transit](https://www.japantimes.co.jp/news/2026/07/10/japan/japan-vessels-transit-hormuz-increase/) · [MarineLink — LNG tankers resume crossings](https://www.marinelink.com/news/lng-tankers-resume-hormuz-crossings-amid-541108) · [UANI Jul 8 — Iran shipping update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-july-8-2026) · [WTO Blog Jul 10 — Fertilizer trade impact](https://www.wto.org/english/blogs_e/data_blog_e/blog_dta_10jul26_451_e.htm) · [OilPrice.com — Tanker traffic slowly recovers](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Slowly-Recovers-Despite-Persistent-Risks.html)
+
+---
 ## 2026-07-11
 
 | Metric | Value |
@@ -106,6 +137,7 @@ Notes:
 - **AIS gaps**: Shadow corridor continues to move physical crude (~12–15 vessels/day, ~4–5M bbl/day per Kpler) via IRGC-managed route. AIS-visible crude expected to remain near zero following escalation.
 - **Market impact**: Brent crude surging on escalation; LNG spot prices spiking as *Al Rekayyat* ablaze and Qatar (~25% of global LNG supply) directly targeted. War-risk insurance premiums rising sharply.
 - **Sources**: [The War Zone — US Strikes Iran in Retaliation for Shipping Attacks](https://www.twz.com/news-features/u-s-strikes-iran-in-retaliation-for-multiple-attacks-on-shipping-in-strait-of-hormuz-over-last-24-hours) · [NPR — US launches new strikes against Iran](https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz) · [Washington Post — US and Iran launch fresh strikes](https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/) · [CBS News — US hits dozens of Iranian targets](https://www.cbsnews.com/live-updates/iran-us-war-strait-of-hormuz-trump-nato/) · [Bloomberg — Hormuz Sees Biggest Day of Attacks Since US-Iran Peace Deal](https://www.bloomberg.com/news/articles/2026-07-07/iranian-missile-hits-qatari-lng-ship-in-strait-testing-us-talks) · [Time — Fresh Attacks in the Strait of Hormuz Raise Stakes for Peace Deal](https://time.com/article/2026/07/07/fresh-attacks-in-the-strait-of-hormuz-shake-peace-talks/) · [gCaptain — LNG Tanker Al Rekayyat at Risk of Exploding](https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+ (Daily snapshot: 2026-07-12)
 
 ---
 ## 2026-07-07
