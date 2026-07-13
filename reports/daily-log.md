@@ -3,6 +3,34 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-13
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 AIS-visible (approximate; VLCC *Humanity* confirmed outbound laden ~2M bbl Iranian crude; *Capetan Andreas* outbound ~500K bbl Kuwaiti oil products; 3 empty tankers inbound; 6 total transits per Kpler — lowest in 5 weeks) |
+| vs prior day | flat (0, 0%) vs July 12 (~1 AIS-visible) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 days Jul 6–12: 0,0,0,0,0,0,~1 = avg 0.14) |
+
+Secondary:
+- LNG: 0 laden outbound (*Al Rekayyat* still ablaze off Oman; ~15 laden LNG carriers remain stranded inside Persian Gulf; no new laden LNG transit confirmed)
+- Fertilizer: 0 AIS-visible (shadow corridor ~1–2/day estimated; ~40+ laden fertilizer vessels still staged inside Gulf; near-standstill continues per WTO Data Blog Jul 10)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement; 3 empty tankers entered inbound for crude loading only)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Washington Times (Jul 12), MarineLink, Jerusalem Post, and Kpler ship-tracking data. All vessel counts should be treated as approximate.
+- **DAY 135 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran).
+- **6 TOTAL TRANSITS — LOWEST IN 5 WEEKS (KEY DATA POINT)**: Kpler ship-tracking recorded only 6 commercial vessels transiting the Strait of Hormuz on Sunday July 13 — the lowest single-day count since approximately June 8, before the June 17 MoU partial recovery. Most switched AIS transponders off while crossing. Named vessels: *Humanity* (VLCC, 2M bbl Iranian crude, outbound), *Capetan Andreas* (~500K bbl Kuwaiti oil products, outbound), plus 3 empty tankers inbound (to load crude inside Gulf), and 1 unspecified.
+- **CENTCOM VS. IRAN ESCALATION SPIRAL CONTINUES**: US CENTCOM on Sunday (July 13) accused Iran of attacking a Cypriot-flagged vessel in the strait and launched retaliatory strikes against more than 140 Iranian military targets. Iran confirmed striking a vessel it said was "transiting illegally," and subsequently launched drone and missile retaliatory strikes on US military installations in Bahrain, Jordan, Kuwait, Oman, and Qatar — the widest geographic spread of Iranian counter-strikes since the conflict began.
+- **CENTCOM ASSERTS HORMUZ "OPEN"**: US Central Command publicly stated the Strait of Hormuz is "open to all vessels seeking to lawfully transit," disputing Iran's claim to control the waterway. However, this assertion is contradicted by the 6-vessel Kpler count — the lowest in 5 weeks — with most tankers running dark.
+- **IRAN-OMAN MUSCAT TALKS (Jul 11) — NO BREAKTHROUGH**: Iran FM Araghchi's July 11 visit to Muscat produced a joint reaffirmation of "toll-free shipping" through the Strait, but no operational framework change. Iran's "forceful response" warning against non-approved routes remains in effect. Oman's position (opposing Iran's transit fee plan) creates structural conflict with IRGC enforcement posture.
+- **LNG**: *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³, struck July 7) remains ablaze off Oman. ~15 laden LNG carriers still stranded inside the Persian Gulf. No laden outbound LNG transit confirmed. Qatar's mediating role continues under strain following Nakilat vessel attacks.
+- **Fertilizer**: WTO Data Blog (Jul 10) confirms near-standstill continues; ~16 vessels carrying 330,000 MT urea and 4 vessels carrying 257,000 MT DAP remain stranded near/in strait. Weekly exports ~90% below pre-conflict levels. Shadow-corridor fertilizer flow estimated ~1–2 vessels/day.
+- **AIS gaps**: Structural undercount persists. Most vessels transiting Sunday switched AIS transponders off. Shadow corridor (IRGC-managed route) estimated to carry ~8–12 crude/day physically vs. ~1 AIS-visible — large divergence.
+- **MOU STATUS**: June 17 MoU formally in its 60-day window (expiry ~Aug 17) but effectively suspended by mutual military actions. US-Iran talks framework under maximum stress; next formal round date unknown following Iran's retaliatory strikes on US bases across the region.
+- **Brent crude**: Rising on escalation — estimated ~$78–80/bbl (up from ~$76 on Jul 12 as tit-for-tat spiral widens).
+- **Sources**: [Washington Times Jul 12 — US military says Strait of Hormuz open despite recent strikes on commercial ships](https://www.washingtontimes.com/news/2026/jul/12/us-military-says-strait-hormuz-open-despite-recent-strikes-commercial/) · [MarineLink — Hormuz Traffic Falls to Five-Week Low as Tensions Escalate](https://www.marinelink.com/news/hormuz-traffic-falls-fiveweek-low-541147) · [Jerusalem Post — Shipping traffic in Strait of Hormuz slows as US strikes Iran](https://www.jpost.com/middle-east/iran-news/article-902303) · [straits.live — Strait of Hormuz Live Tracker, Day 134](https://straits.live/) · [Al Jazeera Jul 7 — Ships attacked in the Strait of Hormuz: what that means for ongoing talks](https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks)
+
+---
 ## 2026-07-12
 
 | Metric | Value |
