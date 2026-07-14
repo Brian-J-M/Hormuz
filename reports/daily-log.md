@@ -3,6 +3,34 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 AIS-visible (approximate; CNBC/US Energy Dept reported 4 crude tankers and 8M barrels transited July 13 with US military assistance; AIS-visible Kpler count ~1, consistent with escalating conditions July 14 as US third-round strikes continue and Iran has declared Hormuz closed) |
+| vs prior day | flat (0, 0%) vs July 13 (~1 AIS-visible) |
+| 7-day average | 0.3 vessels/day AIS-visible (based on 7 days Jul 7–13: 0, 0, 0, 0, 0, ~1, ~1 = avg 0.3) |
+
+Secondary:
+- LNG: 0 laden outbound (~15 laden LNG carriers remain stranded inside Persian Gulf; *Al Rekayyat* still ablaze off Oman; no new laden LNG transit confirmed)
+- Fertilizer: ~0 AIS-visible (shadow corridor ~1–2/day estimated; near-standstill continues per WTO Data Blog Jul 10)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from CNBC (Jul 13–14), CNN (Jul 13 live blog), The Hill, Defcon Level, World Cargo News, and straits.live (Day 135). All AIS-visible vessel counts should be treated as approximate.
+- **DAY 136 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran).
+- **US THIRD ROUND OF STRIKES (KEY EVENT)**: US Central Command continued targeting Iranian military assets on July 14 — the third round of strikes this week — following the July 11 IRGC attack on Cyprus-flagged container vessel *M/V GFS Galaxy* (22:40 UTC July 11; engine-room damage, fire, 1 crew member missing) and Iran's subsequent declaration that the Strait is "closed until further notice and until the end of US operations."
+- **IRAN CLAIMED STRIKING 2 TANKERS (JULY 13)**: Iranian state media reported IRGC forces struck two tankers in the Strait on July 13 that were "transiting illegally." No independent vessel identification confirmed at time of writing.
+- **DIVERGENT METHODOLOGY NOTE**: US Energy Dept (via CNBC) reported 4 crude tankers / 14 total ships / 8M barrels transited Sunday July 13 with US military assistance; 16 tankers running dark (AIS off). Kpler AIS-visible count for July 13 was 6 total / ~1 crude (logged yesterday). CENTCOM data includes dark/escorted vessels outside standard AIS capture. Physical crude throughput via shadow/IRGC corridor estimated ~8–12 vessels/day.
+- **BRENT CRUDE SURGES TO ~$84/BBL**: Brent surged 6.32% to $84.23/bbl as of July 14 — highest level since the April escalation peak — as US reinstated naval blockade posture and IRGC struck tankers in the strait.
+- **CRISIS PRESSURE INDEX 90 (EXTREME)**: 503 vessels anchored or stopped in the region (straits.live Day 135). Oman/southern-corridor traffic effectively zero as Iran kinetically enforces transit ban. Only IRGC-cleared northern route moving limited traffic.
+- **MOU STATUS**: June 17 MoU 60-day window nominally active (expiry ~Aug 17) but effectively suspended by mutual military actions since July 7. No talks resumption date set following Iran's retaliatory strikes on US bases in Bahrain, Kuwait, Oman, Qatar, and Jordan (Jul 9) and continued US strikes Jul 10–14.
+- **LNG**: *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³) remains ablaze off Oman. ~15 laden LNG carriers stranded inside Persian Gulf. No laden outbound LNG transit confirmed.
+- **Fertilizer**: Near-standstill continues per WTO Data Blog (Jul 10). ~16 vessels carrying 330,000 MT urea and 4 vessels carrying 257,000 MT DAP stranded near/in strait; weekly exports ~90% below pre-conflict levels.
+- **AIS gaps**: Structural undercount persists. Shadow corridor (IRGC-managed route) estimated ~8–12 crude/day physically vs. ~1 AIS-visible — large divergence. 16+ tankers confirmed running dark as of July 13–14.
+- **Sources**: [CNBC Jul 13 — US says 8M barrels transited Hormuz Sunday with military assistance](https://www.cnbc.com/2026/07/13/ship-traffic-through-hormuz-falls-as-us-and-iran-fight-for-control.html) · [CNBC Jul 14 — US targets military assets in latest round of strikes against Iran](https://www.cnbc.com/2026/07/14/us-iran-hormuz-strikes-oil-toll.html) · [CNN Jul 13 — US resumes strikes while Iran says it struck two tankers in Strait of Hormuz](https://www.cnn.com/2026/07/13/world/live-news/iran-war-trump) · [The Hill — US launches third round of strikes after Iran announces strait closure](https://thehill.com/policy/defense/5964263-iran-closes-strait-hormuz/) · [Defcon Level — CENTCOM strikes after GFS Galaxy attack; Iran announces closure](https://www.defconlevel.com/alert/2026-07-11-u-s-central-command-launches-strikes-in-response-to-attack-on-m-v-gfs-galaxy-in-strait-of-hormuz-iran-announces-closure-report) · [World Cargo News — GFS Galaxy heavily damaged](https://www.worldcargonews.com/news/2026/07/container-ship-gfs-galaxy-heavily-damaged-in-strait-of-hormuz-attack-one-crew-member-missing/) · [Al Jazeera Jul 10 — Shipping grinds to halt](https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting) · [straits.live — Day 135 Hormuz closed](https://straits.live/)
+
+---
 ## 2026-07-13
 
 | Metric | Value |
