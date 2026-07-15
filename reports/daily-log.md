@@ -3,6 +3,35 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-15
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 laden outbound (approximate; 1 VLCC with ~2M bbl Iranian crude per Kpler/Reuters; 3 empty crude tankers entered inbound ballast; 11 total transits Jul 15 per Kpler — 9 of 11 via Iranian route) |
+| vs prior day | flat (0, 0%) vs July 14 (~1 AIS-visible laden crude) |
+| 7-day average | 0.4 vessels/day AIS-visible (based on 7 days Jul 8–14: 0, 0, 0, 0, ~1, ~1, ~1 = avg 0.43) |
+
+Secondary:
+- LNG: 0 laden outbound (*Al Rekayyat* remains off Oman awaiting salvage; fire risk assessment ongoing; ~15 laden LNG carriers still stranded inside Persian Gulf; no new laden LNG transit confirmed)
+- Fertilizer: ~0 AIS-visible (near-standstill continues; ~90% below pre-conflict levels; stranded fertilizer vessels still staged near strait)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Reuters (via People News Today, Investing.com, Al-Monitor Jul 15), CNBC (Jul 15), NBC News (Jul 15), Al Jazeera (Jul 14), and Kpler ship-tracking data. All vessel counts should be treated as approximate.
+- **DAY 137 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran).
+- **US NAVAL BLOCKADE REIMPOSED — EFFECTIVE JULY 16 (KEY EVENT)**: President Trump on July 15 reimposed a naval blockade of all Iranian ports, effective July 16. Trump also threatened to strike Iranian power plants and bridges "next week" unless Tehran returns to the negotiating table. US CENTCOM conducted a ~7-hour strike operation against dozens of Iranian coastal military assets and targets near the strait.
+- **IRAN-LINKED VESSELS RUSH BEFORE BLOCKADE**: 11 vessels transited on July 15 per Kpler; 9 of 11 used the Iranian-controlled route. This represents a last-minute surge of Iranian exports before the blockade took effect. Outbound traffic included: 1 VLCC (~2M bbl Iranian crude), 1 MR tanker (refined products), 2 LPG tankers, 1 methanol tanker, 1 dry-bulk carrier (iron ore). Inbound: 3 empty crude tankers (1 Aframax + 2 VLCCs, repositioning to load).
+- **IRAN ATTACKED 7 COMMERCIAL SHIPS IN PAST WEEK**: US stated late July 15 that Iran had attacked 7 commercial ships over the prior week, resulting in approximately 12 crew members killed, missing, or injured.
+- **US STRIKES — ONGOING THIRD ROUND**: CENTCOM continued targeting Iranian military assets; strikes primarily focused on Iranian coastal military infrastructure and assets capable of threatening shipping lanes.
+- **DIVERGENT METHODOLOGY NOTE**: 11 total transits per Kpler AIS-visible; physical crude via IRGC/shadow corridor estimated at higher levels. The blockade announcement is expected to sharply suppress even the shadow corridor from July 16.
+- **BRENT CRUDE ~$85.31/BBL** (up 0.68% July 15; Brent climbing above $85/bbl for third consecutive session on blockade reimposition + US strikes; up from ~$84.23 on July 14).
+- **MOU STATUS**: June 17 MoU 60-day window nominally in force (expiry ~Aug 17) but blockade reimposition by US represents a fundamental alteration of the framework. No talks resumption date set.
+- **LNG**: *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³) still off Oman in salvage/assessment phase. ~15 laden LNG carriers stranded inside Persian Gulf. No laden outbound LNG transit confirmed.
+- **Fertilizer**: Near-standstill continues. ~16 vessels carrying 330,000 MT urea and 4 vessels carrying 257,000 MT DAP remain stranded. Weekly exports ~90% below pre-conflict levels.
+- **AIS gaps**: Structural undercount persists. Shadow corridor (IRGC-managed route) has been the primary channel; blockade effective July 16 will likely force further route suppression or dark-AIS operation.
+- **Sources**: [Reuters/People News Today Jul 15 — Iran-linked vessels pass through Hormuz ahead of US blockade](https://www.peoplenewstoday.com/news/en/2026/07/15/1148335.html.Iran-linked-vessels-pass-through-Hormuz-ahead-of-US-blockade.html) · [Investing.com Jul 15 — Iran-linked vessels pass through Hormuz ahead of US blockade](https://www.investing.com/news/commodities-news/iranlinked-vessels-pass-through-hormuz-ahead-of-us-blockade-4792133) · [Al-Monitor Jul 15 — Iran-linked vessels pass through Hormuz ahead of US blockade](https://www.al-monitor.com/originals/2026/07/iran-linked-vessels-pass-through-hormuz-ahead-us-blockade) · [CNBC Jul 15 — Oil prices today: Brent, WTI, Hormuz blockade](https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html) · [NBC News Jul 15 — Oil hits $87/bbl after US strikes on Iran and looming blockade](https://www.nbcnews.com/business/energy/oil-prices-us-iran-strikes-blockade-rcna587432) · [Al Jazeera Jul 14 — Oil hits 1-month high as US-Iran attacks dim Hormuz outlook](https://www.aljazeera.com/economy/2026/7/14/oil-hits-1-month-high-as-us-iran-fighting-clouds-strait-of-hormuz-outlook) · [CNBC Jul 14 — Oil prices rise as US launches new Iran airstrikes](https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html)
+
+---
 ## 2026-07-14
 
 | Metric | Value |
