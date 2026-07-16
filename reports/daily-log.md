@@ -3,6 +3,34 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+## 2026-07-16
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (9 total Kpler crossings; no VLCC or LNG tanker AIS-visible; all 9 transiting via Iranian route; US CENTCOM fired on VLCC *Belma* heading to Kharg Island) |
+| vs prior day | -1 (-100%) vs July 15 (~1 AIS-visible laden crude) |
+| 7-day average | 0.6 vessels/day (based on 7 days Jul 9–15: 0, 0, 0, ~1, ~1, ~1, ~1) |
+
+Secondary:
+- LNG: 0 vessels (no VLCC or LNG tanker AIS-visible; ~15 laden LNG carriers still stranded inside Persian Gulf)
+- Fertilizer: ~0 AIS-visible (shadow corridor ~1–2/day estimated; near-standstill continues; ~16 vessels carrying 330,000 MT urea + 4 vessels 257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures derived from Reuters/Al-Monitor (Jul 16), US News, CBS News, NBC News, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **DAY 138 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 1** (effective July 14 at 20:00 UTC / July 15 US morning).
+- **US BLOCKADE DAY 1 — TRANSIT DECLINE**: 9 total commercial vessels crossed the Strait on July 16, down from 13 the previous day (Kpler). All 9 transited mostly via the Iranian route. No VLCC or LNG tanker was AIS-visible — the first confirmed zero-VLCC day since the mid-June MoU partial recovery phase.
+- **US CENTCOM FIRES ON VLCC *BELMA***: US Central Command disabled the Curacao-flagged VLCC *Belma* by firing Hellfire missiles into its smokestack after the vessel ignored multiple warnings while heading toward Kharg Island (Iran's primary crude export terminal, handling ~80–90% of Iranian crude exports). CENTCOM confirmed the vessel was no longer transiting toward Iran. First confirmed US kinetic action against a commercial vessel since the blockade reimposition.
+- **US ENFORCEMENT TALLY**: Since reimposing the naval blockade, CENTCOM redirected 2 ships and disabled 1 (*Belma*) — confirming active enforcement posture along the strait approaches.
+- **IRAN CLAIMS STRAIT CLOSED**: Iran continues to assert the Strait remains closed until the US accepts its terms. Despite Iranian claims, limited shadow-corridor traffic (9 vessels, mostly Iranian route) is still moving.
+- **MOU STATUS**: June 17 MoU 60-day window nominally in force (expiry ~Aug 17) but blockade reimposition by US on July 14–15 represents a fundamental alteration of the framework. No talks resumption date set; US-Iran strikes ongoing.
+- **LNG**: ~15 laden LNG carriers still stranded inside the Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³) remains in salvage/assessment phase off Oman. No laden outbound LNG transit confirmed.
+- **Fertilizer**: Near-standstill continues. ~16 vessels carrying 330,000 MT urea and 4 vessels carrying 257,000 MT DAP remain stranded. Weekly exports ~90% below pre-conflict levels.
+- **AIS gaps**: Structural undercount persists. Shadow corridor (IRGC-managed route) dominant for what little physical crude is moving; no VLCC AIS-visible while smaller tankers may be operating dark.
+- **Brent crude**: Rising above $85/bbl on blockade reimposition (was ~$85.31/bbl on July 15).
+- **Sources**: [Reuters/Al-Monitor Jul 16 — Fewer vessels travel through Hormuz after US resumes blockade](https://www.al-monitor.com/originals/2026/07/fewer-vessels-travel-through-hormuz-after-us-resumes-blockade) · [US News Jul 15 — Fewer vessels travel through Hormuz as US, Iran continue strikes](https://www.usnews.com/news/world/articles/2026-07-15/fewer-vessels-travel-through-hormuz-as-us-iran-continue-strikes) · [CBS News Jul 16 — US blockades Iranian ports, launches dozens of strikes](https://www.cbsnews.com/live-updates/us-iran-war-trump-ceasefire-attacks-strait-of-hormuz/) · [NBC News — Track Strait of Hormuz ship traffic as Trump blockades Iran ports](https://www.nbcnews.com/data-graphics/strait-of-hormuz-ports-traffic-trump-us-iran-war-rcna331507)
+
+---
 ## 2026-07-15
 
 | Metric | Value |
