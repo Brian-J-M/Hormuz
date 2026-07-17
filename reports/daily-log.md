@@ -3,6 +3,34 @@
 Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker) (WTO–AXSMarine dashboard), supplemented by UANI, Windward AI, and open-source maritime intelligence when the WTO dashboard is inaccessible.
 
 ---
+
+## 2026-07-17
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US blockade Day 2; ~10 total ships transiting, all via Iranian/shadow corridor; no VLCC AIS-visible; dark AIS structural undercount applies) |
+| vs prior day | flat (Jul 16: ~0 AIS-visible crude; 9 total Kpler crossings) |
+| 7-day average | 0.6 vessels/day (based on 7 days Jul 10–16: 0, 0, ~1, ~1, ~1, ~1, ~0) |
+
+Secondary:
+- LNG: 0 vessels (no confirmed AIS-traceable LNG transit; ~15 laden LNG carriers still stranded inside Persian Gulf; *Al Rekayyat* remains in salvage/assessment phase off Oman)
+- Fertilizer: 0 AIS-visible (shadow corridor estimated ~1–2/day; near-standstill continues; ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): 0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from Bloomberg (Jul 13, 15, 16), CNBC (Jul 13), US News (Jul 13), Kpler, Windward AI, HSToday, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **US BLOCKADE DAY 2**: CENTCOM naval blockade (reimposed Jul 14–15) continues. As of Jul 17, Strait of Hormuz is effectively closed to commercial shipping — trackers report ~10 ships/day vs ~88/day pre-crisis baseline (~11% of normal). The June 18 MoU's 60-day window nominally runs to ~Aug 17 but the blockade reimposition represents a fundamental alteration of that framework.
+- **Crude estimate basis**: Kpler recorded 9 total crossings on Jul 16, all via the Iranian/shadow corridor; 0 VLCC or LNG tanker AIS-visible — the first confirmed zero-VLCC day since mid-June recovery. Jul 17 estimate of ~0 AIS-visible crude extrapolated from Jul 16 pattern; CENTCOM's disabled-VLCC action (*Belma*, Jul 16) creates additional deterrence for laden tankers attempting AIS-visible transit. True dark-AIS flow likely higher — 50+ tankers reportedly running dark in the region.
+- **Dark ships and Oman STS transfers**: Imagery analysis (Jul 16) showed six AIS-dark vessels in the strait — three inbound on the eastern corridor, two holding south of the strait. At least four tankers conducting ship-to-ship (STS) cargo transfers near Fujairah/Sohar, Oman. Kharg Island waiting-area dark-tanker count fell from 22 (Jul 14) to 19 (Jul 16), one breaking to underway on northbound heading.
+- **US CENTCOM *Belma* action (Jul 16)**: CENTCOM fired Hellfire missiles into the smokestack of Curacao-flagged VLCC *Belma*, disabling it as it headed toward Kharg Island. First confirmed US kinetic action against a commercial vessel since the blockade reimposition. Since reimposing the blockade, CENTCOM has redirected 2 ships and disabled 1.
+- **Ceasefire collapse recap**: June 18 interim truce broke down ~Jul 8 after Iran struck multiple commercial vessels including Saudi supertanker *Wedyan* and Qatari LNG carrier *Al Rekayyat* (Jul 7). Both governments declared the agreement void.
+- **LNG**: ~15 laden LNG carriers stranded inside the Persian Gulf (Kpler). *Al Rekayyat* (Nakilat, ~149,600 m³, struck Jul 7) in salvage/assessment off Oman — the third IRGC attack on Qatari LNG assets in 2026. No laden outbound LNG transit confirmed since the truce collapse.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea and 4 vessels carrying ~257,000 MT DAP stranded near the strait. Weekly exports ~90% below pre-conflict levels. Urea prices remain elevated; downstream food-supply impacts expected through H2 2026.
+- **Oil market**: Brent crude ~$84.87/bbl (risen from ~$85.31 on Jul 15 as market re-prices blockade risk).
+- **Sources**: [CNBC Jul 13 — 8M barrels transit with US assist](https://www.cnbc.com/2026/07/13/ship-traffic-through-hormuz-falls-as-us-and-iran-fight-for-control.html) · [Bloomberg Jul 13 — Ships transit in secret](https://www.bloomberg.com/news/articles/2026-07-13/ships-pass-through-hormuz-in-secret-as-us-and-iran-trade-strikes) · [Bloomberg Jul 15 — Handful of vessels as blockade takes effect](https://www.bloomberg.com/news/articles/2026-07-15/handful-of-vessels-crossing-hormuz-as-us-blockade-takes-effect) · [Bloomberg Jul 16 — Dark ships and Oman transfers](https://www.bloomberg.com/news/articles/2026-07-16/dark-ships-and-oman-transfers-indicate-hormuz-transits-continue) · [US News Jul 13 — Two-month traffic low](https://www.usnews.com/news/top-news/articles/2026-07-13/hormuz-traffic-slows-to-two-month-low-as-renewed-us-iran-strikes-raise-safety-risk) · [gCaptain Jul 7 — Al Rekayyat explosion risk](https://gcaptain.com/lng-tanker-al-rekayyat-at-risk-of-exploding-after-attack-near-hormuz/) · [Insurance Journal Jul 8 — Qatari LNG awaits salvage](https://www.insurancejournal.com/news/international/2026/07/08/876640.htm) · [HSToday — Ceasefire collapses, CENTCOM strikes 80+ targets](https://www.hstoday.us/subject-matter-areas/maritime-security/iran-tightens-grip-on-strait-of-hormuz-as-shipping-forced-into-controlled-routes/)
+
+---
+
 ## 2026-07-16
 
 | Metric | Value |
