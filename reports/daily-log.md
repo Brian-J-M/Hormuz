@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 4; ~8–10 total ships via Iranian/shadow corridor; no AIS-visible VLCC or laden tanker; dark-AIS structural undercount applies) |
+| vs prior day | flat (Jul 17: ~0 AIS-visible crude; ~10 total ships) |
+| 7-day average | 0.6 vessels/day AIS-visible (based on 7 log entries Jul 11–17: ~0, ~1, ~1, ~1, ~1, ~0, ~0) |
+
+Secondary:
+- LNG: 0 vessels (no outbound laden LNG confirmed; *Al Rekayyat* in salvage/assessment off Oman; ~15 laden LNG carriers stranded inside Persian Gulf)
+- Fertilizer: ~0 AIS-visible (shadow corridor ~1–2/day estimated; ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): 0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent across all sessions since tracking began). Figures extrapolated from July 17 log pattern and CNBC (Jul 17). All vessel counts should be treated as approximate.
+- **DAY 141 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 4** (effective July 14–15).
+- **Crude estimate basis**: No July 18-specific Kpler or Bloomberg count available; extrapolated from July 17 pattern (~0 AIS-visible crude; ~10 total ships). CENTCOM's active enforcement posture (disabled VLCC *Belma* with Hellfire missiles July 16; redirected 2 additional vessels) continues to deter laden tanker transits. All traffic remains via the Iranian/shadow corridor.
+- **US blockade enforcement**: Since reimposing the blockade July 14–15, CENTCOM has redirected 2 vessels and disabled 1 (*Belma*). Trump demands 20% of cargo value as "protection fee" for US-escorted transit; Iran requires IRGC-cleared northern route. No vessel is attempting either corridor under current kinetic conditions.
+- **MoU status**: June 17 MoU 60-day window nominally in force (expiry ~Aug 17) but both sides have declared it void. No talks resumption date set; US-Iran strikes ongoing.
+- **LNG**: *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³, struck July 7) in salvage/assessment off Oman. ~15 laden LNG carriers stranded inside Persian Gulf. No outbound laden LNG transit since pre-July 7.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea and 4 vessels carrying ~257,000 MT DAP stranded near strait. Weekly exports ~90% below pre-conflict baseline. H2 2026 food security impact now near-certain per UN food agencies.
+- **Oil market**: Brent crude ~$84–85/bbl (rising on blockade reimposition and ongoing strikes; up from ~$74/bbl at time of Jul 7 attack; well below Apr peak of ~$97/bbl).
+- **AIS gaps**: Structural undercount persists. 50+ tankers reportedly running dark in region. Physical crude via IRGC shadow corridor estimated ~6–10 vessels/day — large divergence from ~0 AIS-visible.
+- **Sources**: [CNBC Jul 17 — Oil tankers face 'worst case scenario' in Hormuz](https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html) · [Bloomberg Jul 16 — Dark ships and Oman transfers indicate Hormuz transits continue](https://www.bloomberg.com/news/articles/2026-07-16/dark-ships-and-oman-transfers-indicate-hormuz-transits-continue) · [Bloomberg Jul 15 — Handful of vessels crossing Hormuz as US blockade takes effect](https://www.bloomberg.com/news/articles/2026-07-15/handful-of-vessels-crossing-hormuz-as-us-blockade-takes-effect) · [WTO tracker (inaccessible)](https://datalab.wto.org/Strait-of-Hormuz-Trade-Tracker)
+
+---
+
 ## 2026-07-17
 
 | Metric | Value |
