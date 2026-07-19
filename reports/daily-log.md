@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 6; IRGC mine-claim chilling effect Jul 18; dark-AIS undercount applies; Kpler-inclusive estimate ~3–4 crude vessels within ~15–20 total) |
+| vs prior day | flat (Jul 18: ~0 AIS-visible crude; Kpler-revised ~21 total / ~4–6 crude — upward revision of prior entry's ~8–10 total estimate) |
+| 7-day average | 0.6 vessels/day AIS-visible (based on 7 log entries Jul 12–18: ~1, ~1, ~1, ~1, ~0, ~0, ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~5 ballast LNG tankers (*GasLog Shanghai*, *Al Samriya*, *Al Dafna*, *Al Gattara*, *Al Rayyan*) entered strait for repositioning in recent days — no laden outbound LNG confirmed
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP remain stranded near strait)
+- Agricultural (inbound): 0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures extrapolated from July 18 Kpler data, CENTCOM/IRGC statements, ANI, Manila Times, CNBC, The National News, and prior log pattern. All vessel counts should be treated as approximate.
+- **DAY 142 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 6** (effective July 14).
+- **Crude estimate basis**: No July 19-specific AIS or Kpler count available at time of writing. Extrapolated from July 18 pattern. Kpler logged 21 total ships on July 18 (carrying crude, LPG, methanol, iron ore) — significantly exceeding prior entry's ~8–10 estimate; crude fraction ~20–30% implies ~4–6 crude vessels on July 18. For July 19, IRGC mine claims (see below) likely added a further chilling effect, placing estimate at ~3–4 crude (Kpler-inclusive) or ~0 AIS-visible laden tankers.
+- **IRGC mine claims (July 18) — disputed**: Iran's IRGC stated that two oil tankers "exploded and caught fire" after striking mines south of the Strait of Hormuz, claiming they "were trying to pass through the minefield... by deceptive American intelligence agencies." Vessels were not identified. CENTCOM dismissed the claim: "Like most IRGC claims, this is false." Incident unverified independently; real or fabricated, the claim creates significant additional chilling effect on July 19 transit activity.
+- **CENTCOM destroys IRGC surveillance tower**: CENTCOM confirmed it destroyed a surveillance tower used by the IRGC to monitor commercial shipping lanes in the Gulf of Oman — escalation of infrastructure targeting beyond vessel interdiction.
+- **US airstrikes on Iran**: Ongoing as of July 18 (7th+ consecutive night). No ceasefire signals detected.
+- **Vessel attacks since July 6**: At least 9 ships attacked since Iran escalated on July 6; named victims include crude tanker *Al Bahyah* (1 seafarer killed, 3 injured) and crude tanker *Mombasa B* (11 mariners injured). Attack pattern intensifying.
+- **CNBC (July 17)**: Maritime risk CEO described the situation as a "worst case scenario" for oil tankers — the first such characterization since blockade reinstatement.
+- **LNG**: Zero laden outbound LNG. Five ballast LNG carriers (*GasLog Shanghai*, and QatarEnergy-linked *Al Samriya*, *Al Dafna*, *Al Gattara*, *Al Rayyan*) entered the strait in recent days — inbound repositioning, not laden exports. *Al Rekayyat* (struck July 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: ~0 AIS-visible outbound fertilizer. 16 vessels carrying ~330,000 MT urea and 4 vessels carrying ~257,000 MT DAP remain stranded near the strait. Spring planting season advanced; summer planting impacted.
+- **Stranded vessels**: 444 vessels anchored or stopped in the region.
+- **Sources**: [ANI Jul 18 — CENTCOM dismisses mine claims](https://aninews.in/news/world/us/centcom-dismisses-iranian-claims-of-tanker-mine-blasts-in-strait-of-hormuz20260718075715/) · [Manila Times Jul 18 — IRGC mine blast claims](https://www.manilatimes.net/2026/07/18/world/americas-emea/irans-guards-say-tankers-exploded-from-hormuz-mines-as-us-strikes-continue/2386856) · [Tribune India Jul 18 — CENTCOM dismissal](https://www.tribuneindia.com/news/chabahar-surveillance-tower/centcom-dismisses-iranian-claims-of-tanker-mine-blasts-in-strait-of-hormuz) · [CNBC Jul 17 — Worst case scenario for oil tankers](https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html) · [The National News Jul 13 — Traffic at two-month low](https://www.thenationalnews.com/business/energy/2026/07/13/strait-of-hormuz-shipping-traffic-falls-to-two-month-low-as-us-iran-strikes-raise-safety-fears/) · [CNBC Jul 13 — 8M barrels transited with military assistance](https://www.cnbc.com/2026/07/13/ship-traffic-through-hormuz-falls-as-us-and-iran-fight-for-control.html)
+
+---
+
 ## 2026-07-18
 
 | Metric | Value |
