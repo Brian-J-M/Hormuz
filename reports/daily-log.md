@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-21
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 8; IRGC formal transit ban Day 3; ships shunning strait per CNBC Jul 21; Lloyd's List Intelligence: 53 total crossings week through Jul 20 / 30 tanker+gas, declining to single-digit daily Jul 16+; Kpler dark estimate ~0–3 crude within ~0–10 total) |
+| vs prior day | flat (Jul 20: ~0 AIS-visible crude; Kpler dark estimate ~0–3) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 log entries Jul 15–21: ~1, ~0, ~0, ~0, ~0, ~0, ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf; *Al Rekayyat* remains in salvage/assessment off Oman
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): 0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from CNBC (Jul 21), Lloyd's List Intelligence (week through Jul 20), and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 144 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 8** (effective July 14).
+- **Crude estimate basis**: Lloyd's List Intelligence recorded 53 total crossings in the week through July 20 (avg 7.6/day), down 66% from 157 the prior week; tanker and gas carrier movements fell to 30 from 90. Daily crossings dropped to single digits from July 16 onward. IRGC formal transit ban (Jul 19–20) now in Day 3. Extrapolating from the July 20 pattern (~0 AIS-visible crude), today's AIS-visible crude count estimated ~0; Kpler-inclusive dark estimate ~0–3 crude within ~0–10 total.
+- **"Ships shun Strait of Hormuz"** (CNBC Jul 21): Vessel traffic slumped since Trump's blockade took effect last week; shipowners increasingly avoiding the corridor as US-Iran fighting intensifies. Flows at ~15% of pre-war levels; analysts warn oil could retest $100/bbl if kinetic conditions persist several more weeks or regional energy infrastructure suffers further attacks.
+- **IRGC formal transit ban (Day 3)**: IRGC blanket ban on all maritime traffic (declared Jul 19–20) remains in effect. No vessel transit permits being issued. At least 9 ships attacked since July 6 (including crude tankers *Al Bahyah* and *Mombasa B* on Jul 19, 1 seafarer killed, 14 injured combined).
+- **MoU (June 17) declared void by both sides**: No ceasefire talks scheduled. US-Iran strikes ongoing (8th+ consecutive night of US airstrikes; Iran continuing attacks on commercial shipping near the strait).
+- **Brent crude ~$90/bbl**: Brent surged above $90/bbl on Jul 20 driven by IRGC transit ban and Kuwait oil facility attack (Jul 18–19). Potential $100/bbl retest flagged if conflict persists.
+- **~490 vessels anchored or stopped in the region** (consistent with Jul 20 count; up from 444 on Jul 19 and 503 on Jul 14).
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³, struck July 7) in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [CNBC Jul 21 — Ships shun Strait of Hormuz as renewed fighting strains key oil corridor](https://www.cnbc.com/2026/07/21/strait-of-hormuz-traffic-renewed-us-iran-conflict-chokes-hormuz.html) · [CGTN Jul 20 — Iran halts Strait of Hormuz shipping](https://news.cgtn.com/news/2026-07-20/Iran-halts-Strait-of-Hormuz-shipping-Israel-ready-to-resume-war-1OVjYHLgh8Y/p.html) · [Bloomberg Jul 19–20 — Brent Oil Tops $90 as Middle East Attacks Threaten Hormuz Flows](https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20) · [CNBC Jul 17 — Oil tankers face 'worst case scenario' in Hormuz](https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html) · [Bloomberg Jul 16 — Dark ships and Oman transfers indicate Hormuz transits continue](https://www.bloomberg.com/news/articles/2026-07-16/dark-ships-and-oman-transfers-indicate-hormuz-transits-continue)
+
+---
+
 ## 2026-07-20
 
 | Metric | Value |
