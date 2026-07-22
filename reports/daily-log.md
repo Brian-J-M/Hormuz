@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-22
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 9; IRGC transit ban Day 4; Kpler: 3 total crossings on Jul 21 — Kaiser [general cargo], H7 Smb8 [dry bulk ballast], Hsin Ocean [palm olein]; no VLCC or crude tanker; 10th consecutive day of US airstrikes; 0 crude confirmed) |
+| vs prior day | flat (Jul 21: ~0 AIS-visible crude) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 log entries Jul 16–22: ~0, ~0, ~0, ~0, ~0, ~0, ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf; *Al Rekayyat* remains in salvage/assessment off Oman
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no confirmed agricultural cargo; H7 Smb8 dry bulk entered inbound ballast only)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from US News/Kpler (Jul 21 report), Fortune oil price data, IMO/Middle East Eye, UN News, and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 145 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 9** (effective July 14); **IRGC TRANSIT BAN DAY 4** (declared July 19–20).
+- **Crude estimate basis**: Kpler data (via US News, dated July 21) recorded 3 total commodity crossings on the most recent tracked day (Tuesday July 21): Kaiser (general cargo, outbound laden), H7 Smb8 (dry bulk carrier, inbound ballast), and Hsin Ocean (palm olein refined product). No VLCC or LNG tanker AIS-visible; no crude oil tanker identified in any crossing. July 22 estimate of ~0 crude extrapolated from Jul 21 pattern and continuing escalation. 7-day average drops to 0.0 as the Jul 15 ~1 crude entry exits the window.
+- **IMO condemns attacks — 2 seafarers killed**: The IMO Secretary-General condemned overnight attacks on shipping in and around the Strait of Hormuz that killed at least 2 seafarers, with fresh US strikes reported early July 22. IMO stated: "The cycle of escalation must end." At least 9 ships have been attacked since July 6.
+- **Brent surging toward $100/bbl**: Brent rose to $91.10/bbl on July 21 (+2.11%); early July 22 trading at ~$95.47/bbl — the highest since the April conflict peak. Driven by 10th consecutive day of US airstrikes and Trump's vow that Tehran "will pay" for attacks killing American soldiers. $100/bbl retest now in analysts' base case if kinetic conditions persist.
+- **No ceasefire signals**: MoU (June 17) declared void by both sides. No talks scheduled. US-Iran strikes ongoing (10th consecutive night as of July 22).
+- **~490 vessels anchored or stopped in the region** (consistent with Jul 21 estimate; no change signalled).
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, ~149,600 m³, struck July 7) in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [US News Jul 21 — Hormuz Vessel Crossings Fall Further as Security Concerns Linger](https://www.usnews.com/news/world/articles/2026-07-21/hormuz-vessel-crossings-fall-further-as-security-concerns-linger) · [Middle East Eye — IMO condemns attacks that killed two sailors](https://www.middleeasteye.net/live-blog/live-blog-update/imo-condemns-attacks-shipping-hormuz-killed-two-sailors) · [UN News Jul 22 — Cycle of escalation must end](https://news.un.org/en/story/2026/07/1167936) · [IMO Secretary-General condemns new attacks](https://www.imo.org/en/mediacentre/pressbriefings/pages/imo-secretary-general-condemns-new-attacks-on-ships-in-strait-of-hormuz.aspx) · [Fortune — Oil price July 22, 2026](https://fortune.com/article/price-of-oil-07-22-2026/) · [Fortune — Oil price July 21, 2026](https://fortune.com/article/price-of-oil-07-21-2026/)
+
+---
+
 ## 2026-07-21
 
 | Metric | Value |
