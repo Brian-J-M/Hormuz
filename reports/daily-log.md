@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-23
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 10; IRGC Transit Ban Day 5; VLCC *Mobassa B* struck by Iranian cruise missiles; no confirmed crude transit; pattern unchanged from Jul 22) |
+| vs prior day | flat (Jul 22: ~0 AIS-visible crude) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 log entries Jul 17–23: all ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (stranded fertilizer fleet unchanged near strait)
+- Agricultural (inbound): ~0 confirmed
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from CNBC (Jul 23), AOL/AP (Jul 23), US News/Kpler (Jul 21 report), prior log entries, and web-aggregated intelligence. All vessel counts should be treated as approximate.
+- **DAY 146 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 10** (effective July 14); **IRGC TRANSIT BAN DAY 5** (declared ~July 19–20).
+- **Crude estimate basis**: No VLCC or crude tanker AIS-visible on July 22 (Kpler/US News Jul 21 data — Kaiser [general cargo], H7 Smb8 [dry bulk ballast], Hsin Ocean [palm olein] were the only crossings; no crude). Pattern continues July 23. VLCC *Mobassa B* (UAE-flagged, formerly *Front Forth*) struck by Iranian cruise missiles while transiting Hormuz — raising total to 9+ ship attacks since July 6. Crude transit estimate: ~0 confirmed.
+- **Oil tops $98/bbl**: Brent crude rose above $98 on July 23 after tankers struck off Saudi Arabia and Trump escalated threats against Iran. $100/bbl retest now in analysts' base case.
+- **3 commercial ships attacked**: Three commercial vessels hit by projectiles in/around the Strait of Hormuz on or around July 23 (AOL/AP). Iran reportedly forcing vessels to use its controlled northern route through territorial waters, attacking any that do not comply.
+- **VLCC Mobassa B struck**: UAE defence ministry confirmed VLCC *Mobassa B* hit by Iranian cruise missiles while transiting the Strait — one of the largest vessel types attacked in the conflict. Vessel condition and crew status unknown at time of writing.
+- **No ceasefire signals**: MoU (June 17) declared void by both sides. No talks scheduled. US-Iran strikes ongoing (11th consecutive night as of July 23).
+- **~490 vessels anchored or stopped in the region** (unchanged from Jul 22 estimate).
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [CNBC Jul 23 — Oil tops $98 after tankers struck off Saudi Arabia](https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html) · [AOL/AP Jul 23 — 3 commercial ships attacked](https://www.aol.com/articles/attacks-strait-hormuz-intensify-iran-195209600.html) · [CNBC Jul 17 — Oil tankers face worst case scenario](https://www.cnbc.com/2026/07/17/iran-war-oil-tanker-strait-hormuz-traffic-attacks-trump.html) · [Al Jazeera Jul 7 — Ships attacked in Hormuz](https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks) · [US News Jul 21 — Vessel crossings fall further](https://www.usnews.com/news/world/articles/2026-07-21/hormuz-vessel-crossings-fall-further-as-security-concerns-linger)
+
+---
+
 ## 2026-07-22
 
 | Metric | Value |
