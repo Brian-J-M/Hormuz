@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-24
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 11; IRGC Transit Ban Day 6; no July 24-specific crossing data confirmed; Jul 23 revised to ~1 crude per Kpler — VLCC *New Giant* 2M bbl Iraqi Basrah crude outbound; continuing near-zero pattern) |
+| vs prior day | -1 (-100%) vs revised Jul 23 ~1 (VLCC *New Giant*, the lowest Hormuz crossing count since May 7) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 entries Jul 18–24: Jul 23 revised to ~1 per Kpler data published today; all other days ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (stranded fertilizer fleet unchanged near strait)
+- Agricultural (inbound): ~0 confirmed (0 ships entered the strait on Jul 23; pattern continues Jul 24)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from Arab News, The National, Nikkei Asia, Jerusalem Post (all Jul 24), CNBC (Jul 23), and Kpler ship-tracking data. All vessel counts should be treated as approximate.
+- **DAY 147 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 11** (effective July 14); **IRGC TRANSIT BAN DAY 6** (declared ~July 19–20).
+- **Crude estimate basis**: No July 24-specific AIS or Kpler crossing count available at time of writing. July 23 Kpler data (reported today by Arab News, The National, Nikkei Asia, Jerusalem Post) recorded 1 total crossing — VLCC *New Giant* carrying 2 million barrels of Iraqi Basrah crude, outbound, bound for China's Rizhao port by mid-August. Zero ships entered the strait on July 23. This was the lowest single-day crossing count since May 7. July 24 estimate extrapolated as ~0 based on continuing blockade/ban conditions and no new confirmed transits.
+- **Jul 23 log revision**: Yesterday's entry logged ~0 crude for Jul 23. Kpler data now confirms 1 crude vessel (VLCC *New Giant*) transited Jul 23 — the same-day reporting was dominated by *Mobassa B* strike news; the New Giant transit appeared in next-day aggregated data.
+- **Lowest transit in 2½ months**: July 23's single crossing is the lowest since May 7 — worse than the most acute April blockade days in absolute count terms. July 24 pattern consistent with continued near-shutdown.
+- **Oil surges toward $100/bbl**: Brent crude rose above $98/bbl on July 23 and surged toward $100/bbl on July 24 — first time at this level since the April escalation peak — driven by escalating US–Iran strikes and vessel attacks near the strait.
+- **13+ consecutive nights of US airstrikes**: US military completed its 13th consecutive night of strikes on Iran as of July 23. No ceasefire signals. US-Iran strikes ongoing.
+- **~490 vessels anchored or stopped in the region** (unchanged from Jul 22–23 estimate).
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [Arab News Jul 24 — Hormuz tanker crossings slip to lowest in more than two months](https://www.arabnews.com/node/2652103/middle-east) · [The National Jul 24 — Strait of Hormuz tanker crossings fall to lowest level in more than two months](https://www.thenationalnews.com/news/mena/2026/07/24/hormuz-tanker-crossings-fall-to-lowest-level-in-more-than-two-months-data-shows/) · [Nikkei Asia Jul 24 — Hormuz sees fewest tanker crossings in 2½ months](https://asia.nikkei.com/business/energy/hormuz-sees-fewest-tanker-crossings-in-2-1-2-months-data-shows) · [Jerusalem Post Jul 24 — Vessel crossings lowest in more than two months](http://www.jpost.com/middle-east/article-903534) · [CNBC Jul 23 — Oil tops $98 after tankers struck off Saudi Arabia](https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html) · [Kpler via multiple sources — VLCC New Giant exits Jul 23 with 2M bbl Iraqi Basrah crude]
+
+---
+
 ## 2026-07-23
 
 | Metric | Value |
