@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-25
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 12; IRGC Transit Ban Day 7; Iran rejected Iraqi-mediated US ceasefire proposal; IRGC claims tanker ablaze on southern Oman transit route; no Jul 25-specific Kpler crossing count confirmed; continuing near-zero pattern from Jul 24) |
+| vs prior day | flat (~0 AIS-visible crude Jul 24; only Jul 23 VLCC *New Giant* logged as ~1 in 7-day window) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 entries Jul 19–25: Jul 23 ~1 per Kpler/VLCC *New Giant*; all other days ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from GlobalSecurity.org Day 147 update (Jul 24), CNN Iran war live blog (Jul 24), CNBC (Jul 21), The National (Jul 24), and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 148 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 12** (effective July 14); **IRGC TRANSIT BAN DAY 7** (declared ~July 19–20).
+- **Crude estimate basis**: No July 25-specific AIS or Kpler crossing count available at time of writing. Strait described as "effectively closed to commercial shipping" across multiple July 25 sources. Jul 24 logged ~0 crude AIS-visible; the only transit in the Jul 19–25 window is the VLCC *New Giant* (Jul 23, 2M bbl Iraqi Basrah crude, revised Kpler data). Today's estimate: ~0 crude AIS-visible. 7-day average unchanged at 0.1.
+- **Iran rejects ceasefire proposal (KEY EVENT)**: Iran rejected a US-backed ceasefire proposal carried to Tehran by Iraqi Prime Minister Ali al-Zaidi. Iranian officials stated Tehran is not interested in a temporary arrangement that leaves control of the Strait of Hormuz unresolved. This removes the near-term diplomatic off-ramp flagged in recent days and signals the blockade/transit-ban conditions will persist.
+- **IRGC tanker incident on southern Oman corridor**: IRGC reported an explosion setting a tanker ablaze after it attempted the southern transit route off Oman, claiming two accompanying vessels turned back. IRGC asserted the ships were "acting under US orders" and "intended to pass through the mine-laid route south of the Strait of Hormuz." Incident not independently verified; real or fabricated, it reinforces the chilling effect on non-Iranian-sanctioned transit attempts.
+- **Brent crude approaching $100/bbl**: Continued escalation (US airstrikes 14th+ consecutive night, Iran ceasefire rejection, vessel attacks) pushing Brent toward $100/bbl — a level not sustained since the April conflict peak.
+- **~490 vessels anchored or stopped in the region** (consistent with Jul 22–24 estimate; no new vessel-count update available for Jul 25).
+- **No ceasefire signals**: MoU (June 17) declared void by both sides. Iraqi PM mediation rejected by Iran. No talks scheduled.
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [CNN Jul 24 — Escalation in Iran war nears 2-week mark (live blog)](https://www.cnn.com/2026/07/24/world/live-news/iran-war-trump) · [GlobalSecurity.org — Iran War Day 147 Update, 24 Jul 2026](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [CNBC Jul 21 — US strikes Iran as tanker hit in Hormuz; 10-day ceasefire in focus](https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html) · [The National Jul 24 — Strait of Hormuz tanker crossings fall to lowest level in more than two months](https://www.thenationalnews.com/news/mena/2026/07/24/hormuz-tanker-crossings-fall-to-lowest-level-in-more-than-two-months-data-shows/) · [CFR — Strait of Hormuz faces tough recovery as Iran deal unravels](https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling)
+
+---
+
 ## 2026-07-24
 
 | Metric | Value |
