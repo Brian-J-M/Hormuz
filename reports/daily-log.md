@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-26
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 13; IRGC Transit Ban Day 8; Iran rejected Iraqi-mediated ceasefire Jul 25; Kpler Jul 23 blog: crossings down 70% with traffic shifted to Iranian-controlled northern route; Baird Maritime: "daily ship count sticks to three" total vessels ~3/day — consistent with non-crude general cargo/dry-bulk pattern; no crude transit confirmed for Jul 26) |
+| vs prior day | flat (~0 AIS-visible crude Jul 25) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 entries Jul 20–26: Jul 23 ~1 per Kpler — VLCC *New Giant*; all other days ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from Baird Maritime (Jul 25–26), Kpler/CNBC (Jul 21–23), GlobalSecurity.org (Jul 25), and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 149 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 13** (effective July 14); **IRGC TRANSIT BAN DAY 8** (declared ~July 19–20).
+- **Crude estimate basis**: No July 26-specific AIS or Kpler crossing count available at time of writing. Pattern extrapolated from Jul 24–25 (~0 AIS-visible crude). Baird Maritime reports total daily transits "steady at three" as of the Jul 24–26 window; commodity breakdown consistent with prior-day pattern (general cargo, dry bulk, non-crude). Kpler July 23 blog reports a 70% drop in AIS-visible crossings as traffic shifts to the Iranian-controlled northern corridor (dark-AIS, IRGC permit required); crude within that dark corridor estimated ~0–1/day by inference. AIS-visible crude estimate for July 26: ~0.
+- **Oil surges past $100/bbl (KEY EVENT)**: Brent crude crossed $100/bbl on "ceasefire doubts" — first sustained breach since the April conflict peak. Iranian-route shift, continued US naval blockade, and Iran's ceasefire rejection all cited as drivers. WTI followed above $97.
+- **Iran rejects ceasefire — diplomatic off-ramp removed (carry-forward from Jul 25)**: Iran's rejection of the Iraqi PM-mediated US ceasefire proposal (Jul 25) removes the primary near-term diplomatic pathway. Tehran stated the Strait of Hormuz issue must be fully resolved, not temporarily patched.
+- **10-day ceasefire proposal in limbo**: Qatar/Egypt/Oman/Pakistan-mediated 10-day ceasefire proposal presented to both Washington and Tehran; US demanding a longer truce; Iran's stance hardened after Jul 25 rejection. Proposed "middle corridor" (between Omani and Iranian territorial waters) as transit safety mechanism — not yet operationalised.
+- **IRGC tanker incident on southern Oman corridor (Jul 25)**: IRGC claimed an explosion set a tanker ablaze on the southern Oman transit route, asserting two accompanying vessels turned back. Incident unverified; reinforces chilling effect on any non-Iranian-route transit attempts.
+- **Saudi products tanker targeted in Red Sea (Jul 25)**: 183-meter Saudi-flagged oil products tanker suffered minor hull damage from a projectile in the Red Sea — Houthi threat vector expanding, broadening maritime risk beyond the strait itself.
+- **~490 vessels anchored or stopped in the region** (consistent with Jul 22–25 estimate; no new vessel-count update available for Jul 26).
+- **US airstrikes on Iran**: Ongoing; 15th+ consecutive night of strikes expected as of Jul 26. No ceasefire signals. Iran and Houthis continuing attacks on commercial shipping near the strait and in the Red Sea.
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [Baird Maritime Jul 25–26 — Strait of Hormuz daily ship count sticks to three as crude spikes back to $100](https://www.bairdmaritime.com/shipping/tankers/strait-of-hormuz-daily-ship-count-sticks-to-three-as-crude-spikes-back-to-100) · [Kpler Jul 23 — Hormuz crossings drop 70% as traffic shifts to Iranian route](https://www.kpler.com/blog/strait-of-hormuz-crossings-drop-70-as-tanker-traffic-shifts-almost-entirely-to-the-iranian-route) · [CNBC Jul 21 — US strikes Iran and Houthis threaten Saudi Arabia shipping as mediators push 10-day ceasefire](https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html) · [Trading Economics — Oil Surges Past $100 on Ceasefire Doubts](https://tradingeconomics.com/commodity/crude-oil/news/540675) · [GlobalSecurity.org — Iran War Day 148 Update, 25 Jul 2026](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [Middle East Online — Hormuz ship transits steady at three for three days](https://www.middle-east-online.com/en/hormuz-ship-transits-steady-three-three-days)
+
+---
+
 ## 2026-07-25
 
 | Metric | Value |
