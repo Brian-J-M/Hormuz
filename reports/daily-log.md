@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-27
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 14; IRGC Transit Ban Day 9; no Jul 27-specific Kpler crossing count confirmed; continuing near-zero pattern from Jul 26; CNN: "fewer than 10 commodity ships" over the weekend; US signals strike pause to allow talks) |
+| vs prior day | flat (~0 AIS-visible crude Jul 26) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 entries Jul 21–27: Jul 23 ~1 per Kpler — VLCC *New Giant*; all other days ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from CNN Jul 27 live blog, Baird Maritime (Jul 25–26), Kpler (Jul 21–25), and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 150 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 14** (effective July 14); **IRGC TRANSIT BAN DAY 9** (declared ~July 19–20).
+- **Crude estimate basis**: No July 27-specific AIS or Kpler crossing count available at time of writing. CNN Jul 27 live blog reports "fewer than 10 commodity ships" passed through the Strait over the weekend vs ~100/day pre-war baseline. Baird Maritime (Jul 25–26) reported daily ship count "steady at three," consistent with non-crude general cargo/dry-bulk pattern. AIS-visible crude estimate for July 27: ~0.
+- **US SIGNALS PAUSE IN STRIKES — TALKS MAY PROGRESS (KEY EVENT)**: CNN Jul 27 live blog: "US signals pause in Iran strikes will allow talks to progress." This is the most significant diplomatic development since Iran rejected the Iraqi-mediated ceasefire proposal on Jul 25. A verified strike pause and re-entry into talks would be the first positive diplomatic signal in days and a potential catalyst for transit normalization — though prior pauses have not reliably yielded durable agreements.
+- **First 2-day pause in IRGC ship attacks (Jul 25–26)**: No Iranian attacks on shipping reported over the Jul 25–26 weekend — the first two-day interval without an attack since the IRGC interdiction campaign resumed. Combined with the US strike-pause signal, this creates a cautiously more positive short-term outlook than the preceding week.
+- **Brent crude above $100/bbl**: Brent crude breached and sustained above $100/bbl following Iran's Jul 25 ceasefire rejection; first sustained level at this threshold since the April conflict peak. US strike-pause signal may provide near-term downside pressure if talks materialize.
+- **Houthi maritime embargo against Saudi Arabia**: Houthi militants declared a maritime embargo against Saudi Arabia, expanding the threat vector beyond Hormuz into the Bab al-Mandeb/Red Sea corridor — a compounding risk for Saudi crude exports regardless of Hormuz status.
+- **~490 vessels anchored or stopped in the region** (unchanged from Jul 26 estimate; no new vessel-count update available for Jul 27).
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Sources**: [CNN Jul 27 live blog — US signals pause in Iran strikes will allow talks to progress](https://www.cnn.com/2026/07/27/world/live-news/iran-war-trump) · [Baird Maritime Jul 25–26 — Strait of Hormuz daily ship count sticks to three as crude spikes back to $100](https://www.bairdmaritime.com/shipping/tankers/strait-of-hormuz-daily-ship-count-sticks-to-three-as-crude-spikes-back-to-100) · [Kpler Jul 23 — Hormuz crossings drop 70% as traffic shifts to Iranian route](https://www.kpler.com/blog/strait-of-hormuz-crossings-drop-70-as-tanker-traffic-shifts-almost-entirely-to-the-iranian-route) · [CNBC Jul 21 — US strikes Iran as tanker hit in Hormuz; 10-day ceasefire in focus](https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html) · [Middle East Online — Hormuz ship transits steady at three for three days](https://www.middle-east-online.com/en/hormuz-ship-transits-steady-three-three-days)
+
+---
+
 ## 2026-07-26
 
 | Metric | Value |
