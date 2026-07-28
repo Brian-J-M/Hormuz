@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-28
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 15; IRGC Transit Ban Day 10; US-Iran fighting pause holds Day 2; no Jul 28-specific Kpler crossing count confirmed; continuing near-zero pattern from Jul 27) |
+| vs prior day | flat (~0 AIS-visible crude Jul 27) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 entries Jul 22–28: Jul 23 ~1 per Kpler revised — VLCC *New Giant* 2M bbl Iraqi Basrah crude; all other days ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from CNBC Jul 28, web search aggregated intelligence (Baird Maritime, Kpler, PortWatch), and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 151 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 15** (effective July 14); **IRGC TRANSIT BAN DAY 10** (declared ~July 19–20).
+- **Crude estimate basis**: No July 28-specific AIS or Kpler crossing count confirmed. Pattern extrapolated from Jul 25–27 (~0 AIS-visible crude). Kpler-inclusive dark-AIS estimate: ~0–2 crude (potentially marginally higher if the US strike pause allows informal IRGC corridor activity, but no confirmed transits). AIS-visible crude estimate for July 28: ~0.
+- **KEY RECOVERY SIGNAL — US-Iran fighting pause holds (Day 2)**: Trump said the US was engaged in "good talks" with Iran aimed at ending the Middle East conflict, raising market hopes for potential de-escalation. This is the first back-to-back pause in US-Iran hostilities since the MoU was declared void by both sides. Tehran has rejected reports of a formal 10-day ceasefire, but the absence of new strikes for two consecutive days is the most significant positive diplomatic signal in weeks. Oil prices fell for a third consecutive session — Brent -3.71% to ~$85.08/bbl; WTI -3% to ~$80.11/bbl — on de-escalation expectations.
+- **Caveat — talks fragile**: Tehran's rejection of the 10-day ceasefire framing and ongoing disagreements over Hormuz control mean a resumption of hostilities remains plausible. "Disagreements over the vital Strait of Hormuz shipping lane could see hostilities reignite" (CNBC Jul 28). The pause is not a ceasefire.
+- **~490 vessels anchored or stopped in the region** (unchanged estimate; no new vessel-count update for Jul 28 at time of writing).
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers remain stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies.
+- **Brent crude ~$85/bbl**: Down from $100+ sustained peak in Jul 24–27 period. Third consecutive session of declines driven by the US-Iran talks signal. WTI ~$80/bbl.
+- **Sources**: [CNBC Jul 28 — Oil price falls as US-Iran fighting pause holds](https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html) · [Baird Maritime Jul 25–26 — Strait of Hormuz daily ship count sticks to three as crude spikes back to $100](https://www.bairdmaritime.com/shipping/tankers/strait-of-hormuz-daily-ship-count-sticks-to-three-as-crude-spikes-back-to-100) · [Kpler Jul 23 — Hormuz crossings drop 70% as traffic shifts to Iranian route](https://www.kpler.com/blog/strait-of-hormuz-crossings-drop-70-as-tanker-traffic-shifts-almost-entirely-to-the-iranian-route) · [Middle East Online — Hormuz ship transits steady at three for three days](https://www.middle-east-online.com/en/hormuz-ship-transits-steady-three-three-days)
+
+---
+
 ## 2026-07-27
 
 | Metric | Value |
