@@ -4,6 +4,32 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-29
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 16; IRGC Transit Ban Day 11; no confirmed crude transit; extrapolating near-zero pattern from Jul 28) |
+| vs prior day | flat (~0 AIS-visible crude Jul 28) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 entries Jul 23–29: Jul 23 ~1 per Kpler — VLCC *New Giant* 2M bbl Iraqi Basrah crude; all other days ~0) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers remain stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from CNBC Jul 28–29, CNN Jul 27, Kpler Jul 23, Baird Maritime Jul 25–26, and prior log entries. All vessel counts should be treated as approximate.
+- **DAY 152 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 16** (effective July 14); **IRGC TRANSIT BAN DAY 11** (declared ~July 19–20).
+- **Crude estimate basis**: No July 29-specific AIS or Kpler crossing count confirmed. Pattern extrapolated from Jul 25–28 (~0 AIS-visible crude). The last confirmed crude transit was July 23 (VLCC *New Giant*, ~2 Mb Iraqi Basrah crude, per Kpler). AIS-visible crude estimate for July 29: ~0. Dark/informal transits via IRGC corridor cannot be ruled out but none confirmed.
+- **US-Iran fighting pause — Day 3**: The US strike pause initiated July 27 appears to be holding into a third day. Trump referenced "good talks" with Iran on July 28 (CNBC). Iran has rejected the 10-day ceasefire framing (per CNN Jul 27 live blog), and Tehran stated there are no current formal negotiations. The pause is fragile — "disagreements over the vital Strait of Hormuz shipping lane could see hostilities reignite" (CNBC Jul 28). A resumption of formal ceasefire talks would be a key catalyst for transit recovery.
+- **Oil market**: Brent continued declining Tuesday Jul 28 to ~$85.08/bbl (−3.71%); WTI to ~$80.11/bbl (−3%). Third consecutive session of declines driven by de-escalation expectations. Market pricing in partial reopening probability.
+- **LNG**: Zero laden outbound on Jul 29. ~15 laden LNG carriers remain stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman. Standstill continues — no confirmed LNG transit since early June.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait (unchanged from Jul 28). H2 2026 food security impact near-certain per UN food agencies. Insurance Journal (Jun 16) confirmed long backlog persists even if Hormuz reopens.
+- **~490 vessels anchored or stopped in region** (consistent estimate; no new update for Jul 29 at time of writing).
+- **Sources**: [CNBC Jul 28 — Oil price falls as US-Iran fighting pause holds](https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html) · [CNN Jul 27 — US pauses strikes; Iran: no negotiations](https://www.cnn.com/2026/07/27/world/live-news/iran-war-trump) · [CNBC Jul 21 — US strikes Iran; Houthis threaten Saudi shipping](https://www.cnbc.com/2026/07/21/us-iran-war-trump-hormuz-houthis.html) · [Kpler Jul 23 — Hormuz crossings drop 70%](https://www.kpler.com/blog/strait-of-hormuz-crossings-drop-70-as-tanker-traffic-shifts-almost-entirely-to-the-iranian-route) · [Baird Maritime Jul 25–26 — Daily ship count sticks at three](https://www.bairdmaritime.com/shipping/tankers/strait-of-hormuz-daily-ship-count-sticks-to-three-as-crude-spikes-back-to-100) · [Al Jazeera Jul 9 — What has happened since MoU of June 17](https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17) · [Insurance Journal Jun 16 — Fertilizer backlog](https://www.insurancejournal.com/news/international/2026/06/16/873881.htm)
+
+---
+
 ## 2026-07-28
 
 | Metric | Value |
