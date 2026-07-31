@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-07-31
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 18; IRGC Transit Ban Day 13; no confirmed crude transit; continuing near-zero pattern from Jul 25–30) |
+| vs prior day | flat (~0 AIS-visible crude Jul 30) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days Jul 25–31: all ~0; last confirmed transit VLCC *New Giant* Jul 23 remains outside 7-day window) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers remain stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures extrapolated from prior log entries and the pattern established Jul 25–30. All vessel counts should be treated as approximate.
+- **DAY 154 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 18** (effective July 14); **IRGC TRANSIT BAN DAY 13** (declared ~July 19–20).
+- **Crude estimate basis**: No July 31-specific AIS or Kpler crossing count confirmed. Pattern extrapolated from Jul 25–30 (~0 AIS-visible crude). The last confirmed crude transit remains July 23 (VLCC *New Giant*, ~2 Mb Iraqi Basrah crude, per Kpler). AIS-visible crude estimate for July 31: ~0. Dark/informal transits via IRGC corridor cannot be ruled out but none confirmed.
+- **KEY RECOVERY SIGNAL — US-Iran initial deal reported**: PBS NewsHour and BBC News report that US and Iranian negotiators have reached an initial deal to extend the ceasefire and re-open the Strait of Hormuz with fewer restrictions on ships. The compromise under negotiation centres on Iran running vessel transit with reduced restrictions. Challenges remain — Oman opposes IRGC toll charges, which the US also calls unacceptable. This is the most significant diplomatic development since the June 17 MoU.
+- **US-Iran fighting pause — potentially Day 5**: The strike pause initiated July 27 appears to be holding. Both sides confirmed cessation of hostilities for multiple consecutive days. A formal deal announcement would be the primary catalyst for transit recovery.
+- **Oil market**: Brent crude continued declining on de-escalation expectations (~$85/bbl range), reflecting market pricing of partial reopening probability.
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers remain stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait (unchanged). H2 2026 food security impact near-certain per UN food agencies. Insurance Journal (Jun 16) noted long backlog persists even if Hormuz reopens.
+- **~490 vessels anchored or stopped in region** (consistent estimate; no new vessel-count update for Jul 31 at time of writing).
+- **Sources**: [PBS NewsHour — Iran and US reach initial deal to reopen Hormuz](https://www.pbs.org/newshour/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain) · [BBC — US and Iranian negotiators reach deal to re-open Hormuz](https://www.youtube.com/watch?v=ryTZimin9Ok) · [NPR Jul 26 — US pauses attacks for second day](https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran) · [CNBC Jul 28 — Oil price falls as US-Iran fighting pause holds](https://www.cnbc.com/2026/07/28/oil-price-today-wti-brent-us-iran-hormuz.html) · [Kpler Jul 23 — Hormuz crossings drop 70%](https://www.kpler.com/blog/strait-of-hormuz-crossings-drop-70-as-tanker-traffic-shifts-almost-entirely-to-the-iranian-route) · [Baird Maritime Jul 25–26 — Daily ship count sticks at three](https://www.bairdmaritime.com/shipping/tankers/strait-of-hormuz-daily-ship-count-sticks-to-three-as-crude-spikes-back-to-100)
+
+---
+
 ## 2026-07-30
 
 | Metric | Value |
