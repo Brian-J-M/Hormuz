@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-01
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; US Naval Blockade Day 19; IRGC Transit Ban Day 14; no new confirmed crude transit; last confirmed exit was Spain B VLCC July 31) |
+| vs prior day | flat (~0 new AIS-visible crude Aug 1; Jul 31 actual revised to ~1–2: Spain B VLCC confirmed exit per Kpler) |
+| 7-day average | 0.3 vessels/day AIS-visible (based on 7 days Jul 26–Aug 1: Spain B ~Jul 31 = 1 confirmed, Noble ~Jul 27–28 = 1 probable, all other days ~0; = ~2/7 ≈ 0.3) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers remain stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from Kpler, USNI News, Baird Maritime, Middle East Online, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **DAY 155 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE DAY 19** (effective July 14); **IRGC TRANSIT BAN DAY 14** (declared ~July 19–20).
+- **Crude estimate basis**: No August 1-specific AIS or Kpler crossing count confirmed. Two VLCCs identified around the July 31 timeframe: *Spain B* (Saudi crude, ~2 Mb, loaded Ras Tanura July 12, confirmed exiting Hormuz Friday July 31 per Kpler/Baird Maritime/MarineLink) and *Noble* (Iraqi Basrah crude, ~2 Mb, loaded July 25, heading to China, estimated transit ~July 27–28). AIS-visible crude estimate for August 1: ~0 new transits. Next known crude loading is VLCC *Jamaica Prosperity* (PetroChina, Basrah ~August 3), so outbound transit expected ~August 6–8 at earliest.
+- **USNI July 31 — traffic continues decreasing**: Traffic through the Strait of Hormuz last week dropped to levels not seen since March 2026 (the earliest days of the crisis). Transits were down 52.4% between July 20–26 vs the prior week. From July 19 onward, daily transits in single digits; only 2 confirmed transits on July 23 and one Saturday. Dark AIS transits (VLCCs running AIS-off) are occurring but unquantified.
+- **KEY RECOVERY SIGNAL — potential new ceasefire deal**: PBS NewsHour ("Deal is reached to end Iran war and Trump orders stop to U.S. naval blockade") and the earlier PBS initial-deal report (Jul 31) suggest a formal agreement may have been reached to end the war and lift the US naval blockade. If confirmed, this would be the most significant positive catalyst since the June 17 MoU. Deal details remain unverified as of time of writing; WTO dashboard and most primary sources inaccessible. Confirmation and vessel-level impact expected over coming 24–48 hours.
+- **US-Iran fighting pause**: Fighting pause first signalled July 27 appears to be holding into Day 6+ as of August 1. Brent crude ~$85/bbl reflecting de-escalation market pricing.
+- **Houthis escalation — Saudi tanker threat**: USNI July 31 notes Houthis in Yemen are threatening Saudi Arabia-linked tankers. This adds an additional risk layer for Gulf exit routes even if Hormuz itself partially reopens.
+- **UAE VLCC demand surge**: UAE tankers in such demand that used VLCCs are being purchased at newbuild prices and sent through the strait without AIS (dark transits). Actual crude flow is likely higher than AIS-visible count indicates.
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers remain stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait (unchanged). H2 2026 food security impact near-certain per UN food agencies.
+- **~490 vessels anchored or stopped in region** (consistent estimate; no new update for Aug 1 at time of writing).
+- **Sources**: [USNI Jul 31 — traffic continues decreasing](https://news.usni.org/2026/07/31/hormuz-traffic-levels-continue-decreasing-houthis-in-yemen-threaten-saudi-tankers) · [Baird Maritime — two VLCCs slip through](https://www.bairdmaritime.com/shipping/tankers/amid-quieter-traffic-two-vlccs-slip-through-the-strait-of-hormuz) · [MarineLink — two oil supertankers exit](https://www.marinelink.com/news/two-oil-supertankers-exit-hormuz-traffic-541679) · [DatamarNews — two VLCCs exit](https://datamarnews.com/noticias/two-vlccs-exit-strait-of-hormuz-where-traffic-remains-thin/) · [Middle East Online — two oil-laden VLCCs](https://www.middle-east-online.com/en/two-oil-laden-vlccs-exit-strait-hormuz) · [PBS — Deal reached to end Iran war / naval blockade](https://www.pbs.org/newshour/world/deal-is-reached-to-end-iran-war-and-trump-orders-stop-to-us-naval-blockade) · [PBS — initial deal to extend ceasefire (Jul 31)](https://www.pbs.org/newshour/world/iran-and-u-s-reach-an-initial-deal-to-extend-the-ceasefire-and-open-the-strait-of-hormuz-but-challenges-remain) · [Kpler Jul 28 — 12 crossings](https://x.com/Kpler/status/2082406894740648218) · [OilPrice — 4 Mb Saudi crude set to transit](https://oilprice.com/Latest-Energy-News/World-News/4-Million-Barrels-of-Saudi-Crude-Set-to-Transit-Strait-of-Hormuz.html)
+
+---
+
 ## 2026-07-31
 
 | Metric | Value |
