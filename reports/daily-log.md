@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-02
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; deal to end Iran war confirmed; US naval blockade ordered stopped Aug 1; no new crude transits yet — vessels need days to load/stage) |
+| vs prior day | flat (~0 AIS-visible crude Aug 1; day-over-day unchanged as deal impact not yet vessel-visible) |
+| 7-day average | 0.3 vessels/day AIS-visible (based on 7 days Jul 27–Aug 2: Spain B VLCC ~Jul 31 = 1 confirmed, Noble ~Jul 27–28 = 1 probable, all other days ~0; = ~2/7 ≈ 0.3) |
+
+Secondary:
+- LNG: 0 laden outbound; ~15 laden LNG carriers remain stranded inside Persian Gulf
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from PBS NewsHour, NBC News, CNN Aug 1 live blog, Kpler, USNI, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **DAY 156 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE LIFTED** (blockade Day 20 effective July 14; Trump ordered halt to blockade ~Aug 1 as part of deal); **IRGC TRANSIT BAN DAY 15** (declared ~July 19–20; status under new deal unclear).
+- **MAJOR EVENT — DEAL TO END IRAN WAR CONFIRMED**: NBC News reports Trump and Iran's president signed an initial deal to end the war, open the Strait of Hormuz, and ease sanctions. PBS NewsHour confirms "Deal is reached to end Iran war and Trump orders stop to U.S. naval blockade." Task & Purpose confirms "US to lift Strait of Hormuz blockade as peace agreement with Iran reached." This is the second major ceasefire agreement of the conflict (the June 17 MoU collapsed in early July when Iran resumed attacks on commercial vessels).
+- **Crude estimate basis**: No August 2-specific AIS or Kpler crossing count confirmed. Deal just reached — actual vessel transits require several days: ships must load, stage, and transit (typical VLCC Basrah-to-strait transit time ~12–36 hours). Next known crude loading: VLCC *Jamaica Prosperity* (PetroChina, Basrah ~August 3); outbound transit expected ~August 6–8 at earliest. AIS-visible crude estimate for August 2: ~0. Recovery trajectory following deal confirmation expected to mirror post-June 17 MoU pattern (~25 ships/day within 1–2 weeks if deal holds).
+- **Historical precedent**: After the June 17 MoU, oil tanker traffic jumped in the first 24–48 hours (25 ships transited on June 19 per CNBC, vs single digits prior). If the new deal holds, a similar surge is anticipated for August 3–7.
+- **LNG**: Zero laden outbound. ~15 laden LNG carriers remain stranded inside Persian Gulf. *Al Rekayyat* (Nakilat/Qatar, struck Jul 7) remains in salvage/assessment off Oman. LNG transit clearances expected to lag crude by days to weeks.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. Even with deal, Insurance Journal (Jun 16) noted long logistics backlog means fertilizer recovery will lag crude significantly. H2 2026 food security impact near-certain per UN food agencies.
+- **~490 vessels anchored or stopped in region** (consistent estimate; no new vessel-count update for Aug 2 at time of writing).
+- **Market signal**: Brent crude ~$85/bbl (as of Aug 1 context). Deal confirmation expected to drive further de-escalation price pressure. Post-June MoU precedent: Brent fell ~40% from $118 war peak to ~$73 within weeks of the first deal.
+- **Sources**: [PBS — Deal reached to end Iran war / naval blockade](https://www.pbs.org/newshour/world/deal-is-reached-to-end-iran-war-and-trump-orders-stop-to-us-naval-blockade) · [NBC — Trump and Iran sign deal to end war and open Hormuz](https://www.nbcnews.com/world/iran/strait-hormuz-reopen-us-lift-iran-sanctions-14-point-deal-seeking-end-rcna350513) · [NBC live blog — Trump and Iran reach tentative deal](https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-deal-end-war-reopen-hormuz-markets-israel-rcna350076) · [Task & Purpose — US to lift blockade](https://taskandpurpose.com/news/us-iran-deal-blockade-strait-of-hormuz/) · [CNN Aug 1 — US-Iran war live](https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump) · [Fox News Jul 31 live](https://www.foxnews.com/live-news/us-iran-war-israel-hamas-july-31-2026) · [CNBC Jun 19 — Tanker traffic jumps after June deal (precedent)](https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html) · [Kpler Jul 28 — 12 crossings](https://x.com/Kpler/status/2082406894740648218) · [USNI Jul 31 — traffic continues decreasing / Houthis threaten Saudi tankers](https://news.usni.org/2026/07/31/hormuz-traffic-levels-continue-decreasing-houthis-in-yemen-threaten-saudi-tankers)
+
+---
+
+
 ## 2026-08-01
 
 | Metric | Value |
