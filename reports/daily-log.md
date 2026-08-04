@@ -4,6 +4,37 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-04
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; post-deal Day 3; US naval blockade halted Aug 1; IRGC transit restrictions nominally lifted per deal; no new confirmed crude transit; *Jamaica Prosperity* VLCC loading at Basrah since Aug 3 — outbound transit expected ~Aug 6–8) |
+| vs prior day | flat (~0 AIS-visible crude Aug 3; deal recovery not yet vessel-visible) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 days Jul 29–Aug 4: *Spain B* VLCC ~Jul 31 = 1 confirmed; all other days ~0; = 1/7 ≈ 0.1) |
+
+Secondary:
+- LNG: 0 laden outbound; ~14 laden LNG carriers stranded inside Persian Gulf (*Gaslog Shanghai* struck/disabled Aug 1 while transiting dark; status unclear — may be near strait entrance)
+- Fertilizer: ~0 AIS-visible (~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403 (consistent since tracking began). Figures derived from Argus Media, Yahoo Finance/Bloomberg, CNBC, USNI News, GulfNews, OilPrice.com, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **DAY 158 OF CRISIS** (since Feb 28, 2026 US-Israel strikes on Iran); **US NAVAL BLOCKADE HALTED** (ordered stopped Aug 1 per deal); **IRGC TRANSIT RESTRICTIONS NOMINALLY LIFTED** (per deal terms, but *Gaslog Shanghai* attack Aug 1 suggests IRGC forces or proxies not fully stood down).
+- **Crude estimate basis**: No Aug 4-specific AIS or Kpler crossing count confirmed. Argus Media (Aug 3): "Hormuz tanker traffic unchanged after US-Iran deal" — confirms deal has not yet translated to AIS-visible transit increase. First known post-deal crude loading: VLCC *Jamaica Prosperity* (PetroChina, Basrah ~Aug 3); outbound Hormuz transit expected ~Aug 6–8 at earliest. Dark tanker activity ongoing: 19 dark stationary tankers in offshore waiting area as of Aug 1 per Windward AI/SAR satellite; 2 additional inbound dark tankers detected Aug 1. True crude flow likely exceeds AIS-visible count.
+- **Partial recovery signal**: Yahoo Finance reports Hormuz shipping traffic "picking up despite Middle East hostilities" with ~14 commodity vessels transiting on a recent Wednesday (date of reference ambiguous — July 30 or Aug 5). This marks a mild uptick from the single-digit daily counts of July 19–28, though far below the 25–37/day seen in early-to-mid July (post-June MoU) and far below pre-war 100+/day.
+- **KEY NEGATIVE — *Gaslog Shanghai* LNG carrier struck (Aug 1)**: Bloomberg reports the LNG tanker (carrying Qatari cargo, identified by security firms as *Gaslog Shanghai*) was struck by a projectile while transiting dark Aug 1. Engine room damaged; vessel unable to maneuver per UKMTO. No casualties. Attack occurred simultaneously with deal announcement — assessed as signal from residual IRGC-linked forces chilling LNG recovery sentiment. No Aug 4 status update on vessel.
+- **US sanctions expiry Aug 21 — 17 days remaining**: US sanctions relief for Iran expires Aug 21. If not renewed, deal viability collapses before Hormuz clears its backlog. Shipowners deferring large commitments pending clarity. War-risk insurance not yet meaningfully repriced lower.
+- **Recovery pace slower than June MoU precedent**: After June 17 MoU, traffic jumped to 20+ tankers/day within 48 hours (CNBC Jun 19). August deal recovery is notably slower on Day 3 — Argus confirms traffic "unchanged" Aug 3. Attributed to: (i) *Gaslog Shanghai* attack chilling LNG and general transit sentiment; (ii) Aug 21 sanctions expiry cliff; (iii) insurance not yet repriced.
+- **ADNOC Gas output adjustment**: GulfNews reports ADNOC Gas is adjusting production output due to Hormuz shipping disruptions — a supply-side signal of continued market stress even under deal conditions.
+- **Houthis threatening Saudi tankers**: USNI (Jul 31) noted Houthis in Yemen are threatening Saudi Arabia-linked tankers — secondary risk layer for vessels seeking to exit via Hormuz even if deal holds.
+- **LNG**: 0 laden outbound Aug 4. ~14 laden LNG carriers stranded inside Persian Gulf. *Gaslog Shanghai* status: disabled near strait entrance (unconfirmed Aug 4 update). *Al Rekayyat* (Nakilat/Qatar, struck Jul 7): in salvage/assessment off Oman.
+- **Fertilizer / food**: Near-standstill continues. ~16 vessels carrying ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. H2 2026 food security impact near-certain per UN food agencies. Fertilizer recovery expected to lag crude significantly even with deal.
+- **~490 vessels anchored or stopped in region** (consistent estimate; no new vessel-count update for Aug 4 at time of writing).
+- **Sources**: [Argus Media Aug 3 — Hormuz tanker traffic unchanged after US-Iran deal](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2839545-hormuz-tanker-traffic-unchanged-after-us-iran-deal) · [Bloomberg Aug 1 — LNG tanker carrying Qatari cargo struck in Hormuz](https://www.bloomberg.com/news/articles/2026-08-01/tanker-carrying-qatari-lng-struck-while-transiting-hormuz) · [Yahoo Finance — Hormuz Shipping Traffic Picks Up Despite Hostilities](https://finance.yahoo.com/energy/articles/hormuz-shipping-traffic-picks-despite-065530292.html) · [GulfNews — ADNOC Gas adjusts output due to Hormuz disruptions](https://gulfnews.com/business/energy/adnoc-gas-adjusts-output-as-hormuz-shipping-disruptions-hit-export-flows-1.500483684) · [OilPrice.com — Gulf oil exports struggle despite higher Hormuz traffic](https://oilprice.com/Energy/Energy-General/Gulf-Oil-Exports-Struggle-to-Recover-Despite-Higher-Hormuz-Traffic.html) · [USNI Jul 31 — Hormuz traffic continues decreasing; Houthis threaten Saudi tankers](https://news.usni.org/2026/07/31/hormuz-traffic-levels-continue-decreasing-houthis-in-yemen-threaten-saudi-tankers) · [PBS — Deal reached to end Iran war / naval blockade](https://www.pbs.org/newshour/world/deal-is-reached-to-end-iran-war-and-trump-orders-stop-to-us-naval-blockade) · [Windward AI — Dark Shipping Dominates Hormuz (satellite/SAR data)](https://windward.ai/blog/one-month-into-the-ceasefire/) · [CNBC Jun 19 — Tanker traffic jumps after June deal (precedent)](https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html)
+
+---
+
+
 ## 2026-08-03
 
 | Metric | Value |
