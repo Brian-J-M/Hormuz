@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; *Jamaica Prosperity* VLCC en route from Basrah — transit window Aug 6–8; dark activity ongoing but unquantifiable) |
+| vs prior day | flat (~0 AIS-visible crude Aug 5; day-over-day unchanged) |
+| 7-day average | 0.1 vessels/day AIS-visible (based on 7 days Aug 1–6 + Jul 31: *Spain B* VLCC ~Jul 31 = only confirmed crude transit; all other days ~0; 1/7 ≈ 0.1) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck/disabled Aug 1, status unknown)
+- Fertilizer: ~0 AIS-visible (no confirmed transits; UN humanitarian corridor stalled pending political agreement)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org returned HTTP 403; figures derived from TankerMap, Windward AI, Bloomberg, CNN, Lloyd's List Intelligence, and search-aggregated reporting. All vessel counts should be treated as approximate.
+- **Day 160 of the Hormuz crisis**: The Strait remains effectively closed to commercial shipping as of August 6, 2026. TankerMap recorded zero AIS-visible tanker transits on August 5; August 6 pattern is consistent with continued near-zero traffic. Traffic is approximately 97–100% below the pre-war baseline of ~73 vessels/day.
+- **Second escalation cycle context**: Following the partial reopening under the June 17 MoU (60-day negotiation period, expiring ~August 16), a second escalation cycle began July 7 when three vessels were struck near Oman and the US revoked Iran's oil-sale sanctions waiver. Traffic had briefly recovered to ~25 ships/day in late June/early July (vs ~100/day pre-war); it has since collapsed back to near-zero.
+- **August 5 key events**: CNN live coverage reported Houthis claimed an attack on a Saudi oil tanker. Trump stated the Strait's reopening is coming "soon." Iran and Oman have previously agreed on geographical coordinates for a proposed safe shipping corridor, but the route remains unactivated as of August 6.
+- **Jamaica Prosperity VLCC**: This vessel is en route from Basrah carrying Iraqi crude, with an expected Hormuz transit window of August 6–8. If it transits today, the day's crude count would be revised upward to ~1. Shadow/dark fleet activity is ongoing but unquantifiable via AIS.
+- **LNG**: Approximately 14 laden LNG carriers remain stranded inside the Persian Gulf. *Gaslog Shanghai* (LNG carrier) was struck and disabled on August 1; status as of August 6 is unknown. No laden LNG transits since the re-closure following the July 7 escalation.
+- **Fertilizer/food supply**: ~16 vessels carrying ~330,000 MT of urea and ~4 vessels carrying ~257,000 MT of DAP remain stranded near the strait. UN humanitarian corridor proposal requires political agreement from both US and Iran; none has been reached.
+- **Oil price signal**: Brent crude at $80.13 (-4.56% over 24h as of August 5), below the crisis peak of ~$107/bbl in late April but still above the pre-crisis Jan 2026 baseline of ~$73/bbl. Modest price softening may reflect partial market pricing of diplomatic progress ahead of the August 16 MoU expiry.
+- **Upcoming catalyst — MoU deadline ~August 16**: The 60-day negotiation window opened by the June 17 MoU expires in approximately 10 days. A deal by that date could trigger rapid partial reopening; failure risks a third escalation cycle.
+- **AIS caveat**: TankerMap and Windward AI figures represent confirmed AIS-broadcasting vessels only. Shadow fleet and IRGC-escorted vessels routinely operate AIS-dark; actual transit counts likely exceed visible figures.
+- **Sources**: [TankerMap — Strait of Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz) · [CNN Aug 5 — Iran war live updates, Houthi attack, Trump reopening "soon"](https://www.cnn.com/2026/08/05/world/live-news/iran-war-trump) · [Lloyd's List Intelligence — Strait of Hormuz Brief 5 August 2026](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-5-august-2026) · [Windward Daily Intelligence](https://insights.windward.ai/) · [Straits.live — Strait of Hormuz Closed Day 157+](https://straits.live/) · [Al Jazeera — With Hormuz reopened, has the oil shortage turned into a glut? (Jul 2)](https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut) · [World Oil — Hormuz reopening gains momentum (Jun 18)](https://www.worldoil.com/news/2026/6/18/hormuz-reopening-gains-momentum-as-tankers-resume-transit/) · [Axios — Middle East oil transit resumes faster than expected (Jul 1)](https://www.axios.com/2026/07/01/oil-strait-hormuz-transit) · [Statista — Ship traffic in Strait of Hormuz, June–July 2026](https://www.statista.com/chart/35984/ship-traffic-in-the-strait-of-hormuz/) · [GlobalSecurity — Iran War Day 159 OPREP](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm)
+
+---
+
 ## 2026-08-05
 
 | Metric | Value |
