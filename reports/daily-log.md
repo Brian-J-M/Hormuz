@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~0 AIS-visible (approximate; all web sources blocked by network egress proxy — no new data retrievable; *Jamaica Prosperity* VLCC transit window Aug 6–8 — may have transited today; dark activity ongoing but unquantifiable) |
+| vs prior day | flat (~0 AIS-visible Aug 6; *Jamaica Prosperity* transit unconfirmed — if it crossed, day count revises to ~1) |
+| 7-day average | 0.0 vessels/day AIS-visible (based on 7 days Aug 1–7: *Spain B* VLCC Jul 31 exit is now outside the window; all Aug 1–7 days log ~0 AIS-visible; potential +0.1 if *Jamaica Prosperity* transited Aug 6 or 7) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status unknown)
+- Fertilizer: ~0 AIS-visible (~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~0 confirmed (no AIS-visible inbound dry-bulk agricultural movement)
+
+Notes:
+- **All web sources blocked by network egress proxy**: datalab.wto.org (WTO dashboard), bloomberg.com, gcaptain.com, windward.ai, reuters.com, shipandbunker.com, aljazeera.com, seatrade-maritime.com, stonex.com, cnbc.com, and ibtimes.com.au all returned EGRESS_BLOCKED errors. No new vessel count data could be retrieved for August 7. All figures extrapolated from the Aug 6 log entry.
+- **Day 161 of the Hormuz crisis** (since Feb 28, 2026 US-Israel strikes on Iran). The second escalation cycle (July 7 triple-vessel strike, US naval blockade Day 19+, IRGC transit ban) continues to suppress AIS-visible traffic at near-zero levels despite the Aug 1–2 deal.
+- ***Jamaica Prosperity* VLCC (PetroChina, Iraqi Basrah crude, ~2 Mb)**: Transit window Aug 6–8 per prior entries. Loading at Basrah ~Aug 3; Basrah-to-Hormuz transit ~12–36 hours. If it transited today (Aug 7), crude count revises upward to ~1 and 7-day average to ~0.1 vessels/day. Status unconfirmable due to blocked web sources.
+- **Post-deal recovery stalled (Day 6)**: Deal to end Iran war reached Aug 1–2 (PBS/NBC); US naval blockade halted Aug 1; IRGC transit restrictions nominally lifted. As of Aug 3, Argus Media confirmed "Hormuz tanker traffic unchanged after US-Iran deal." Pattern persisted through Aug 6; AIS-visible traffic remains near-zero six days post-deal.
+- **MoU expiry ~Aug 16 — ~9 days away**: The 60-day negotiation window (opened Jun 17 MoU) expires in approximately 9 days. A deal or extension by that date could trigger rapid partial reopening; failure risks a third escalation cycle and renewed closure.
+- **US sanctions relief expiry Aug 21 — ~14 days away**: Non-renewal would collapse deal viability before the stranded-vessel backlog can clear. Shipowners and war-risk insurers deferring large transit commitments pending clarity on this date.
+- **LNG**: ~14 laden LNG carriers stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1 while transiting dark, engine-room damage, unable to maneuver) status still unknown as of Aug 6. Last confirmed laden LNG transit: *Al Areesh* (QatarEnergy) exited Jul 29 via Iran-designated route.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. UN humanitarian corridor proposal remains unactivated pending political agreement between US and Iran.
+- **Brent crude**: ~$80/bbl (from Aug 5 data; Aug 7 figure unavailable due to blocked web sources). Down from ~$100/bbl at peak second-escalation (Aug 1 Baird Maritime reading) as market prices in deal progress.
+- **AIS caveat**: All vessel counts are AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels are unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels continue to be anchored or stopped in the wider region.
+
+---
+
 ## 2026-08-06
 
 | Metric | Value |
