@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | ~+1 vs Kpler Aug 7 actual (~1 crude, *Nissos Kea* VLCC); Aug 7 log entry shows ~0 due to proxy blockade |
+| 7-day average | ~1.6 vessels/day (approximate; Kpler/Bloomberg external data Aug 2–8; log Aug 1–7 records ~0 due to proxy blockade during prior runs) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded in Persian Gulf; *Gaslog Shanghai* struck Aug 1 — engine-room damage, unable to maneuver; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait; flows suppressed since MoU collapse)
+- Agricultural (inbound): ~2 vessels (3 bulk carriers entered strait today per J-Post; UNCTAD/WTO data show early recovery signals for inbound agricultural flows, still below 2025 average)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from J-Post, US News/Kpler (Aug 7), Seatrade Maritime, CNN, NBC News, CBS News, Al Jazeera, UNCTAD, and search-aggregated reporting. All vessel counts approximate.
+- **Aug 8 transit basis**: J-Post reports 8 total vessels transited the Strait of Hormuz today — 5 tankers and 3 bulk carriers; 6 entering (3 tankers + 3 bulk carriers) and 2 exiting (1 tanker + 1 gas carrier). Crude estimate of ~2 reflects the 1 exiting tanker (likely crude) plus ~1 of the 3 entering tankers as crude imports; exiting gas carrier likely LPG. *Jamaica Prosperity* VLCC (PetroChina, Iraqi Basrah crude, ~2 Mb) transit window Aug 6–8 per prior log entry — may be among today's tankers if it has not yet crossed.
+- **Aug 7 Kpler revision (prior log entry understated)**: External data show August 7 had ~1 crude transit (*Nissos Kea* VLCC, ~2 million barrels Basrah crude, Iraq), 2 LPG, and 1 bulk carrier — 4 total per Kpler. Aug 7 log entry recorded ~0 AIS-visible because all web sources were proxy-blocked at logging time. Weekly Kpler tally Aug 4–7: 6 crude exits in 4 days (~1.5/day); 33 total transits Mon–Thu vs 50 in the week-ago period.
+- **Iran-Oman talks in final stage — key near-term catalyst**: Iran's FM said Aug 6 that negotiations with Oman are in the "final stage" of drafting a corridor arrangement. US Sec. Rubio confirmed "progress but not finality." Trump said a deal could be announced "this week." Key sticking points: Iran wants to control the corridor and retain fee-collection rights; Iran insists on a single corridor (vs two previously discussed). A deal would yield a temporary arrangement (up to 3 months), not a full permanent reopening.
+- **Aug 1–2 war deal — blockade ended, recovery stalled**: A deal to end the Iran war was reached Aug 1–2 (PBS/NBC); US naval blockade halted Aug 1; IRGC nominally lifted transit restrictions. Argus Media confirmed Aug 3: "Hormuz tanker traffic unchanged after US-Iran deal." Operators holding off pending war-risk insurance reconstitution and IRGC clearance resolution. Traffic remains ~94% below pre-crisis baseline.
+- **Expiry clocks**: MoU 60-day negotiation window expires ~Aug 16 (~8 days from today); US sanctions relief expires ~Aug 21 (~13 days). These are the dominant near-term binary triggers — failure risks a third escalation cycle.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (Bermuda-flagged, struck Aug 1 at 23:30 UTC, 11 nm NE of Oman, engine-room fire, lost propulsion) — status still unknown. Iran does not recognize the southern transit corridor (where GasLog Shanghai was struck) and has warned vessels to use its northern IRGC-controlled route. Last confirmed laden LNG transit: *Al Areesh* (QatarEnergy) Jul 29.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. UN humanitarian corridor proposal unactivated pending political agreement. UNCTAD: ~1/3 of global fertilizer trade stalled. Bloomberg (Jun 24) reported 16+ fertilizer vessels exited during the brief Jun 14–17 MoU window; flows collapsed again after MoU failure.
+- **Brent crude**: ~$80/bbl (Aug 5 data). Down from ~$100/bbl at peak second-escalation; market pricing in deal-progress optimism.
+- **Day 162 of effective closure** (Feb 28 to Aug 8); traffic ~94–97% below pre-crisis baseline of ~138 vessels/day.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [J-Post Aug 8 — 8 ships transit Hormuz](https://www.jpost.com/middle-east/article-904620) · [US News/Kpler Aug 7 — Traffic dwindles](https://www.usnews.com/news/world/articles/2026-08-07/vessel-traffic-through-hormuz-dwindles-this-week-as-markets-watch-iran-oman-talks) · [Bloomberg Aug 4 — Traffic at a trickle](https://www.bloomberg.com/news/articles/2026-08-04/hormuz-traffic-at-a-trickle-as-ship-attacks-heighten-concerns) · [Seatrade Maritime — GasLog Shanghai struck](https://www.seatrade-maritime.com/tankers/lng-carrier-struck-in-hormuz-tanker-in-near-miss) · [CNN Aug 4 — Iran-Oman talks](https://www.cnn.com/2026/08/04/world/live-news/iran-war-trump) · [NBC News — Deal close, both back down](https://www.nbcnews.com/world/iran/trump-iran-war-deal-strait-hormuz-deal-oman-rcna590920) · [CBS News — Iran Oman deal close](https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-deal/) · [Al Jazeera — Iran-Oman-US close to deal](https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want) · [UNCTAD — Fertilizer disruption](https://unctad.org/news/hormuz-shipping-disruptions-raise-risks-energy-fertilizers-and-vulnerable-economies) · [Bloomberg Jun 24 — Fertilizer flows recover](https://www.bloomberg.com/news/articles/2026-06-24/hormuz-fertilizer-flows-recover-significantly-as-more-ships-exit)
+
+---
+
 ## 2026-08-07
 
 | Metric | Value |
