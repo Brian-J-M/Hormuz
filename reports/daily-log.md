@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-09
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (~2 Aug 8 per J-Post; Aug 9 pattern consistent — Iran-Oman deal still unsigned, no new transit catalyst) |
+| 7-day average | ~0.7 vessels/day (based on 7 days Aug 3–9: Aug 3–6 ~0 each; Aug 7 ~1 [Kpler: *Nissos Kea* VLCC]; Aug 8 ~2 [J-Post: 5 tankers]; Aug 9 ~2 [today estimate]; sum=5, 5/7≈0.7) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — engine-room damage, status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait; corridor deal unsigned = no fertilizer recovery)
+- Agricultural (inbound): ~2 vessels (bulk carrier inbound activity consistent with Aug 8 pattern per J-Post; early recovery signals noted by UNCTAD/WTO for inbound ag flows, still below 2025 average)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from CNN, Al Jazeera, Bloomberg, Fortune, The Hill, IranWire, UANI, Windward AI, and search-aggregated reporting for Aug 8–9. All vessel counts approximate.
+- **Day 163 of effective closure** (Feb 28 to Aug 9); traffic ~94–97% below pre-crisis baseline of ~138 vessels/day.
+- **Iran-Oman corridor deal NOT yet signed as of Aug 9**: Iran's FM Araghchi confirmed Aug 8 the deal is "very close" but Iran demands US concessions before reopening. Iran deliberating terms (CNN Aug 8: "Iran demands concessions from US as it nears Strait of Hormuz deal with Oman"). IRGC separately stated reopening does not depend on Oman talks — underscoring uncertainty about whether any Iran-Oman deal translates into actual transit. US rejects any fee/permit requirement for transit. Joint Iran-Oman statement still in final drafting stage.
+- **Corridor geography agreed**: Iran and Oman have agreed on coordinates — inbound lane through northern Iranian territorial waters; outbound lane through southern Omani waters coordinated with Iran. Full activation requires US acceptance of terms Iran has set.
+- **MoU 60-day negotiation window expires ~Aug 16 (~7 days away)**: Dominant near-term binary trigger. Failure risks third escalation cycle; success would be most significant transit catalyst since Aug 1–2 deal.
+- **US sanctions relief expires ~Aug 21 (~12 days away)**: Non-renewal collapses deal viability before stranded-vessel backlog clears. Shipowners and war-risk insurers deferring large transit commitments.
+- ***Jamaica Prosperity* VLCC (PetroChina, Iraqi Basrah crude, ~2 Mb)**: Transit window was Aug 6–8 per prior entries; if it crossed on Aug 8, it is likely among the 5 tankers reported by J-Post for that day. Aug 9 crude estimate partially reflects continuation of this pattern.
+- **NPR Aug 8**: "Tanker sailors still face danger in the Strait of Hormuz" — confirms operational risk environment persists despite deal progress.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1 at 23:30 UTC, engine-room fire/damage, lost propulsion) — status still unknown. No laden LNG transits since *Al Areesh* (QatarEnergy) Jul 29. LNG recovery expected to significantly lag crude even if corridor activates.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. UN humanitarian corridor unactivated pending US-Iran political agreement. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **Brent crude**: ~$83.55/bbl (Aug 9 data from search aggregation). Down from ~$100/bbl second-escalation peak; market pricing in deal-progress optimism.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [CNN Aug 8 — Iran demands concessions as it nears deal with Oman](https://www.cnn.com/2026/08/08/world/live-news/iran-war-trump) · [Al Jazeera Aug 8 — Iran deliberates Hormuz arrangement amid uncertain prospects with US](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us) · [Al Jazeera Aug 6 — Hormuz deal close: what's the latest?](https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions) · [Bloomberg Aug 5 — Iran, Oman reach agreement on proposed Hormuz shipping route](https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman) · [The Hill — Iran nears Oman deal on Strait of Hormuz](https://thehill.com/policy/international/6018567-iran-oman-strait-hormuz-deal-close/) · [IranWire — Iran, Oman reach Strait of Hormuz transit deal](https://iranwire.com/en/news/155988-iran-oman-reach-strait-of-hormuz-transit-deal/) · [J-Post Aug 8 — 8 ships transit Hormuz](https://www.jpost.com/middle-east/article-904620) · [Fortune Aug 7 — Iran says agreement on Hormuz shipping reached with Oman](https://fortune.com/2026/08/07/iran-agreement-oman-strait-of-hormuz-shipping/) · [NPR Aug 8 — Tanker sailors still face danger in the Strait of Hormuz](https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz) · [UANI Aug 7 — Iran Shipping Update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-august-7-2026)
+
+---
+
 ## 2026-08-08
 
 | Metric | Value |
