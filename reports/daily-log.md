@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-10
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (~2 Aug 9; ADNOC tanker strike Aug 8/9 sustains risk-off; Iran-Oman deal unsigned) |
+| 7-day average | ~1.0 vessels/day (based on 7 days Aug 4–10: Aug 4–6 ~0 each; Aug 7 ~1 [Kpler: *Nissos Kea* VLCC]; Aug 8 ~2 [J-Post]; Aug 9 ~2 [log estimate]; Aug 10 ~2 [today estimate]; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait; Iran-Oman corridor deal unsigned = no fertilizer recovery)
+- Agricultural (inbound): ~2 vessels (bulk carrier inbound activity consistent with Aug 8–9 pattern; UNCTAD/WTO noting early recovery signals for inbound ag flows, still below 2025 average)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from Al Jazeera, CFR, CNN, Bloomberg, UANI, UNCTAD, J-Post, and search-aggregated reporting for Aug 8–10. All vessel counts approximate.
+- **Day 164 of effective closure** (Feb 28 to Aug 10); traffic ~94–97% below pre-crisis baseline of ~138 vessels/day.
+- **ADNOC tanker attack Aug 8–9 (confirmed)**: UAE officially accused Iran of striking an ADNOC-owned tanker with a missile as it crossed the Strait on the night of Aug 8/9 — no casualties in this specific strike. ADNOC reported 15 of its vessels have been attacked since the conflict began, including 3 in the week of Aug 5–9, resulting in 1 crew member killed and 20 injured total.
+- **Iranian strikes on two tankers Monday night (Aug 10 — developing)**: Search-aggregated reporting indicates Iran attacked two tankers with missiles on Monday night (Aug 10), killing at least 1 crew member. Details remain preliminary at time of writing. Attack adds to week's casualty toll and further suppresses transit confidence.
+- **Iran-Oman corridor deal still unsigned**: Iranian FM Araghchi confirmed Aug 9 deal is "very close" but Iran demands US concessions (lifting blockade, withdrawing forces, permanently ending war) before reopening. CFR analysis ("Trump's Iran Deal Has Collapsed, Leaving the U.S. With Few Good Options") indicates broader Aug 1–2 war deal has faltered. Corridor geography (coordinates) agreed; political activation remains pending.
+- **MoU 60-day negotiation window expires ~Aug 16 (~6 days away)**: Dominant near-term binary trigger. Failure risks third escalation cycle; success would be the most significant transit catalyst since early July.
+- **US sanctions relief expires ~Aug 21 (~11 days away)**: Non-renewal collapses deal viability before the stranded-vessel backlog can clear. Shipowners and war-risk insurers deferring large transit commitments.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. No laden LNG transits since *Al Areesh* (QatarEnergy) Jul 29. LNG recovery expected to lag crude significantly even if corridor activates.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. UN humanitarian corridor unactivated pending US-Iran political agreement. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **Brent crude**: ~$83–85/bbl (based on Aug 9 data ~$83.55/bbl; Aug 10 figure unavailable at time of writing). Down from crisis peak ~$107/bbl in late April; market pricing in deal-progress optimism but ongoing attacks sustaining floor.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [Al Jazeera Aug 8 — UAE says Iran targeted ADNOC tanker in Strait of Hormuz](https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2) · [CFR — Trump's Iran Deal Has Collapsed, Leaving the U.S. With Few Good Options](https://www.cfr.org/articles/trumps-iran-deal-has-collapsed-leaving-the-u-s-with-few-good-options) · [CNN Aug 8 — Iran demands concessions as it nears Strait of Hormuz deal with Oman](https://www.cnn.com/2026/08/08/world/live-news/iran-war-trump) · [Al Jazeera Aug 8 — Iran deliberates Hormuz arrangement](https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us) · [Al Jazeera Aug 6 — Will the US-Iran war and Hormuz deadlock last for months?](https://www.aljazeera.com/news/2026/8/6/will-the-us-iran-war-and-hormuz-deadlock-last-for-months) · [Bloomberg Aug 5 — Iran, Oman reach agreement on proposed Hormuz shipping route](https://www.bloomberg.com/news/articles/2026-08-05/iran-says-agreement-on-hormuz-shipping-route-reached-with-oman) · [J-Post Aug 8 — 8 ships transit Hormuz](https://www.jpost.com/middle-east/article-904620) · [UNCTAD — Hormuz shipping disruptions raise risks for energy, fertilizers and vulnerable economies](https://unctad.org/news/hormuz-shipping-disruptions-raise-risks-energy-fertilizers-and-vulnerable-economies)
+
+---
+
 ## 2026-08-09
 
 | Metric | Value |
