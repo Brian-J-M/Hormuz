@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-11
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | -1 (-50%) vs Aug 10 ~2; Iran struck 2 tankers Monday night (Aug 10), chilling Day 165 transit confidence |
+| 7-day average | 1.0 vessels/day (based on 7 days Aug 5–11: Aug 5–7 ~0 each; Aug 8 ~2; Aug 9 ~2; Aug 10 ~2; Aug 11 ~1; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (Iran-Oman corridor deal unsigned; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~2 vessels (bulk carrier inbound activity consistent with recent Aug 8–10 pattern; early recovery signals for inbound ag flows per UNCTAD/WTO, still below 2025 average)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from Aug 10 log entry, prior-entry source chain, and search-aggregated context. All vessel counts approximate.
+- **Day 165 of effective closure** (Feb 28 to Aug 11); traffic ~94–97% below pre-crisis baseline of ~138 vessels/day.
+- **Iran struck 2 tankers Monday night (Aug 10 — confirmed in prior log)**: Iran attacked two tankers with missiles on the night of Aug 10 (Monday), killing at least 1 crew member. This is the primary chilling factor for Aug 11 transit confidence. Combined with the prior ADNOC tanker strike on Aug 8/9, three tanker attacks occurred in 48 hours — the most intense cluster since the July 7 second-escalation.
+- **MoU 60-day negotiation window expires ~Aug 16 (~5 days away)**: The dominant near-term binary trigger. Failure risks a third escalation cycle; success could yield the most significant transit recovery since the June 17 MoU window.
+- **US sanctions relief expires ~Aug 21 (~10 days away)**: Non-renewal collapses deal viability before the stranded-vessel backlog can clear. Shipowners and war-risk insurers are deferring large transit commitments.
+- **Iran-Oman corridor deal still unsigned**: Iranian FM Araghchi confirmed Aug 9 the deal is "very close," but Iran demands US concessions (lifting blockade, withdrawing forces, ending war permanently) before reopening. Corridor geography (coordinates) agreed; political activation pending. IRGC stance ambiguous.
+- **Crude estimate basis**: No direct AIS or Kpler data retrievable for Aug 11. Estimate of ~1 reflects the Aug 8–10 trend of ~2/day discounted by the chilling effect of the dual tanker strike on Aug 10 night. Shadow fleet and IRGC-corridor dark transits remain possible but unquantifiable.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. No laden LNG transits since *Al Areesh* (QatarEnergy) Jul 29. LNG recovery expected to lag crude significantly even if corridor activates.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + 4 vessels ~257,000 MT DAP stranded near strait. UN humanitarian corridor unactivated pending US-Iran political agreement. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+
+---
+
 ## 2026-08-10
 
 | Metric | Value |
