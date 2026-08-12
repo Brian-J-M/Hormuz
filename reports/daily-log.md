@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-12
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (~1 Aug 11; attacks on Aug 10 night sustain risk-off; AIS-visible crude 0 Mon Aug 10 but dark transits likely ≥1) |
+| 7-day average | 1.1 vessels/day (based on 7 days Aug 6–12: Aug 6–7 ~0 each; Aug 8–10 ~2 each; Aug 11 ~1; Aug 12 ~1; sum=8, 8/7≈1.1) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (Iran-Oman corridor deal still unsigned; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~2 vessels (inbound bulk carrier activity consistent with recent Aug 8–11 pattern; UNCTAD/WTO early recovery signals for inbound ag flows, still below 2025 average)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from US News/Kpler (Aug 11), TT News satellite data (Aug 10), search-aggregated reporting, and prior Aug 11 log entry. All vessel counts approximate.
+- **Day 166 of effective closure** (Feb 28 to Aug 12); traffic ~94–97% below pre-crisis baseline of ~138 vessels/day.
+- **Traffic fell to 6 total on Monday Aug 10 (Kpler)**: 4 entered (including 2 empty oil product tankers), 2 exited (1 LPG tanker + 1 residual fuels). No AIS-visible crude outbound on Aug 10. 10-day average: ~11 vessels total.
+- **Iran attacked 2 tankers Monday night Aug 10, killing 1 crew member**: Primary chilling factor for Day 165–166 transit confidence. This follows the ADNOC tanker strike Aug 8–9 — three tanker attacks in ~48 hours, the most intense cluster since the July 7 second-escalation cycle.
+- **Crude estimate basis**: Aug 8–11 period saw at least 4 outbound supertankers carrying ~8 million barrels cross the strait (TT News/satellite data, reappeared Aug 8+), averaging ~1/day. Aug 12 estimate of ~1 reflects continuation of this pace with continued attack-risk suppression. 12 ship-to-ship cargo transfers observed along a 62-mile Oman/UAE coast stretch on Aug 10 (satellite imagery) — strong indicator of dark-AIS crude activity; true throughput likely exceeds AIS-visible counts.
+- **Jask–Al Suwaikh/Khasab corridor expanding**: Vessel count on this alternative route grew from 3 operators in February to 8 operators current week — moving inversely with Hormuz traffic as shippers seek alternatives.
+- **MoU 60-day negotiation window expires ~Aug 16 (~4 days away)**: Dominant near-term binary trigger. Failure risks a third escalation cycle; extension or breakthrough deal could yield significant transit recovery.
+- **US sanctions relief expires ~Aug 21 (~9 days away)**: Non-renewal collapses deal viability before stranded-vessel backlog clears. Shipowners and war-risk insurers deferring large transit commitments pending this date.
+- **Iran-Oman corridor deal still unsigned**: Iranian FM Araghchi confirmed Aug 9 the deal is "very close"; geometry (corridor coordinates) agreed but political activation pending US concessions. Iran demands US lift naval blockade, withdraw forces, end war permanently. IRGC stance separately ambiguous on whether any Oman deal translates into actual IRGC clearance.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, lost propulsion) — status still unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. UN humanitarian corridor unactivated pending US-Iran political agreement. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [US News/Kpler Aug 11 — Traffic falls to six vessels](https://www.usnews.com/news/world/articles/2026-08-11/gulf-shipping-traffic-via-strait-of-hormuz-falls-to-six-vessels) · [TT News — Oil cargo switching outside Hormuz indicates dark transits](https://www.ttnews.com/articles/oil-cargo-switching-hormuz) · [NPR Aug 8 — Tanker sailors still face danger](https://www.npr.org/2026/08/08/nx-s1-5923592/tanker-sailors-still-face-danger-in-the-strait-of-hormuz) · [Foreign Policy Journal Aug 3 — Crossings rise 8% WoW, dark AIS elevated](https://www.foreignpolicyjournal.com/2026/08/03/strait-of-hormuz-crossings-rise-8-week-on-week-but-dark-ais-activity-remains-elevated/) · [UN News Aug 2026 — Disruption hits energy, fertilizer, industrial trade](https://news.un.org/en/story/2026/08/1168074) · [Lloyd's List Intelligence Aug 5 brief](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-5-august-2026)
+
+---
+
 ## 2026-08-11
 
 | Metric | Value |
