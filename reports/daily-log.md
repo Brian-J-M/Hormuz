@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-13
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (~1 Aug 12; Islamabad MoU voided by both sides; traffic near 3-month low) |
+| 7-day average | 1.1 vessels/day (based on 7 days Aug 6–12: Aug 6–7 ~0 each; Aug 8–10 ~2 each; Aug 11 ~1; Aug 12 ~1; sum=8, 8/7≈1.1) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (Islamabad MoU voided; Iran-Oman corridor deal suspended; stranded urea/DAP backlog unchanged ~16+4 vessels near strait)
+- Agricultural (inbound): ~2 vessels (inbound bulk carrier activity consistent with recent pattern; UNCTAD early recovery signals still below 2025 average)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from CNBC Aug 12, CNN Aug 13 live updates, search-aggregated reporting, and prior Aug 12 log entry. All vessel counts approximate.
+- **Day 167 of effective closure** (Feb 28 to Aug 13); traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **Islamabad MoU voided by both sides**: Iran's Deputy FM stated Tehran has "no commitments" under the MoU; Trump called it "a test they failed." The original 60-day window (signed Jun 17) was set to expire ~Aug 16 but has been effectively abandoned before the deadline — removes the Aug 16 binary catalyst from near-term outlook. Iran's Deputy FM Gharibabadi had cited US reinstatement of maritime blockade, revocation of Iranian oil-sale authorization, and nullification of other US MoU obligations as the trigger for termination.
+- **Traffic near 3-month low**: 5-day average ~13 total vessels as of Tuesday Aug 12 (CNBC), nearly the lowest since May 12. Weekly totals: 78 transits Aug 3–9 vs 95 prior week, reflecting sustained decline correlated with Aug 8–10 tanker attack cluster.
+- **Oil spill spreading — environmental crisis**: *Minoan Pioneer* (bulk carrier, attacked Aug 3 in Omani waters by Iran) oil slick has now reached Oman's Ras Madrakah coastline (southeast Oman) and Iran's Qeshm and Shidvar islands; threatens protected hawksbill and green turtle nesting sites. Iran deploying cleanup teams; Oman's Environment Authority issuing warnings. Spill drifted across the strait over approximately 10 days before reaching Iranian shores.
+- **Crude estimate basis**: No direct AIS or Kpler data retrievable for Aug 13. Estimate of ~1 reflects Aug 11–12 pattern of ~1/day; MoU void is a significant negative signal but no new tanker attacks reported for Aug 13 specifically. Shadow-fleet and dark-AIS transits remain unquantifiable; true throughput likely higher than AIS-visible count.
+- **Iran's Persian Gulf Strait Authority (PGSA)**: Established May 2026; claims all vessel passage requires an Iranian permit. Unrecognized by US and most commercial operators but functionally enforced via IRGC interdictions.
+- **US sanctions relief (~Aug 21)**: Moot given MoU collapse; non-renewal confirmed. Next diplomatic framework undefined — no active negotiation track reported as of Aug 13.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. MoU void eliminates the humanitarian-corridor activation pathway previously linked to deal progress. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **Oman strategic ambiguity**: Oman has not aligned with Iran's PGSA position; managing oil spill emergency at Ras Madrakah while maintaining strategic ambiguity on the broader conflict.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [CNBC Aug 12 — Hormuz ship traffic near three-month low](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html) · [CNN Aug 13 live updates — Traffic low as world burns through oil stockpiles](https://www.cnn.com/2026/08/13/world/live-news/iran-war-trump) · [Muser Press Aug 13 — Oil spill off Oman reaches coastline](https://www.muser.press/2026/08/13/oil-spill-off-oman-reaches-coastline/) · [FMT Aug 13 — Oil spill from tanker damaged by explosions reaches Oman coast](https://www.freemalaysiatoday.com/category/world/2026/08/13/oil-spill-from-tanker-damaged-by-explosions-reaches-oman-coast) · [IndexBox — Iran responds to oil spill near Qeshm](https://www.indexbox.io/blog/iran-responds-to-oil-spill-near-qeshm-island-amid-tanker-attacks/) · [CFR — Strait of Hormuz faces tough recovery as Iran deal unravels](https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling/)
+
+---
+
 ## 2026-08-12
 
 | Metric | Value |
