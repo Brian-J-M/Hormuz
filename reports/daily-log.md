@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (~1 Aug 13; MoU void removes near-term recovery catalyst; no new tanker attacks reported) |
+| 7-day average | 1.3 vessels/day (based on 7 days Aug 7–13: Aug 7 ~0; Aug 8–10 ~2 each; Aug 11–13 ~1 each; sum=9, 9/7≈1.3) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (Islamabad MoU voided; no active humanitarian corridor framework; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~2 vessels (inbound bulk carrier activity consistent with recent Aug 11–13 pattern; below 2025 average per UNCTAD)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from CNN Aug 13 live updates, CNBC Aug 12, CFR Aug analysis, and prior Aug 13 log entry. All vessel counts approximate.
+- **Day 168 of effective closure** (Feb 28 to Aug 14); traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **MoU void — no active negotiation track**: Iran's Deputy FM Gharibabadi confirmed Tehran has "no commitments" under the Islamabad MoU; Trump called it "a test they failed." The 60-day window (signed Jun 17) was set to expire Aug 16 but was effectively abandoned before its deadline. No replacement diplomatic framework announced as of Aug 14. US sanctions relief (originally due Aug 21) is now moot given the MoU collapse.
+- **Crude estimate basis**: No direct AIS or Kpler data retrievable for Aug 14. Estimate of ~1 reflects the Aug 11–13 trend of ~1/day; MoU void is a significant negative signal but no new tanker attacks specifically reported for Aug 14. Shadow-fleet and dark-AIS transits remain unquantifiable; true throughput likely higher than AIS-visible count.
+- **Oil spill ongoing — environmental crisis**: *Minoan Pioneer* (bulk carrier, attacked Aug 3 in Omani waters by Iran) oil slick has spread to Oman's Ras Madrakah coastline and Iran's Qeshm and Shidvar islands. Iran deploying cleanup teams; protected turtle nesting sites remain at risk.
+- **Traffic context**: 5-day average ~13 total vessels/day as of Aug 12 (CNBC), near 3-month low. Weekly totals: 78 transits Aug 3–9 vs 95 prior week, reflecting sustained decline correlated with Aug 8–10 tanker attack cluster. 12 ship-to-ship cargo transfers observed outside Hormuz on Aug 10 (satellite imagery) indicate dark-AIS crude activity not captured in official counts.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. MoU void eliminates the humanitarian-corridor activation pathway previously linked to deal progress. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **Iran's Persian Gulf Strait Authority (PGSA)**: Established May 2026; claims all vessel passage requires an Iranian permit. Unrecognized by US and most commercial operators but functionally enforced via IRGC interdictions.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [CNN Aug 13 live updates — Traffic low as world burns through oil stockpiles](https://www.cnn.com/2026/08/13/world/live-news/iran-war-trump) · [CNBC Aug 12 — Hormuz ship traffic near three-month low](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html) · [CFR — Strait of Hormuz faces tough recovery as Iran deal unravels](https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling/) · [UN News Aug 2026 — Disruption hits energy, fertilizer, industrial trade](https://news.un.org/en/story/2026/08/1168074)
+
+---
+
 ## 2026-08-13
 
 | Metric | Value |
