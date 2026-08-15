@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-15
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (~1 Aug 14; MoU formally expires tomorrow Aug 16 but already voided; dual ADNOC attack Aug 13 sustains risk-off) |
+| 7-day average | 1.4 vessels/day (based on 7 days Aug 8–14: Aug 8–10 ~2 each; Aug 11–14 ~1 each; sum=10, 10/7≈1.4) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (no active humanitarian corridor framework; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~2 vessels (inbound bulk carrier activity consistent with recent Aug 11–14 pattern; below 2025 average per UNCTAD)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from search-aggregated reporting (Windward AI, Gulf News, Seatrade Maritime, Al Jazeera Aug 14, ANews, ARN News, prior Aug 14 log entry). All vessel counts approximate.
+- **Day 169 of effective closure** (Feb 28 to Aug 15); traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **MoU formally expires tomorrow (Aug 16)** — already voided by both sides: Iran's Deputy FM Gharibabadi confirmed "no commitments" under the MoU on Aug 13; Trump called it "a test they failed." The 60-day window (signed Jun 17) expires Aug 16 but was effectively abandoned before its deadline. No replacement diplomatic framework announced.
+- **Two ADNOC vessel attacks Aug 13 (new escalation)**: Iran attacked two ADNOC-affiliated vessels by UAV during outbound transits of the Strait of Hormuz on August 13 evening (UKMTO timed both at 15:52 UTC). Vessels identified as the Singapore-flagged product tanker *Navig8 Messi* and one other. Both sustained minor damage and continued sailing under own power; all crew safe. UAE condemned the attacks as "piracy" and a threat to global energy security. ADNOC confirmed 15 of its vessels have now been struck since the conflict began. This is the Aug 13 attack not captured in the Aug 14 log entry.
+- **Aug 14 transit data (retroactive)**: Search-aggregated data indicate 13 total vessels transited on August 14 (4 inbound, 9 outbound), up from 3 total the previous day (August 13). Crude subset estimated at ~1 (consistent with Aug 14 log). The uptick from 3 to 13 may reflect a rebound from the Aug 13 attack suppression, though shadow fleet and dark-AIS activity remain unquantifiable.
+- **Crude estimate basis for Aug 15**: No direct AIS or Kpler data retrievable. Estimate of ~1 extrapolated from Aug 11–14 trend (~1/day). MoU deadline (Aug 16) is a nominal milestone but no new positive catalyst — both sides have publicly exited the MoU. Two ADNOC attacks on Aug 13 add to the risk-off backdrop; no specific Aug 15 attacks reported as of logging time.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. MoU void eliminates the humanitarian-corridor activation pathway previously linked to deal progress. UNCTAD: ~1/3 of global fertilizer trade stalled.
+- **Iran's Persian Gulf Strait Authority (PGSA)**: Established May 2026; claims all vessel passage requires an Iranian permit. Unrecognized by US and most commercial operators but functionally enforced via IRGC interdictions.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: [Gulf News Aug 14 — Two ADNOC vessels attacked in Strait of Hormuz; no injuries](https://gulfnews.com/uae/two-adnoc-vessels-attacked-in-strait-of-hormuz-no-injuries-1.500640338) · [Al Jazeera Aug 14 — UAE accuses Iran of attacks on two ADNOC vessels](https://www.aljazeera.com/news/2026/8/14/uae-accuses-iran-of-attacks-on-two-adnoc-vessels-in-strait-of-hormuz) · [Seatrade Maritime — UAE condemns attack on two ADNOC tankers in Hormuz](https://www.seatrade-maritime.com/tankers/uae-condemns-attack-on-two-adnoc-tankers-in-hormuz) · [ANews Aug 14 — UAE says Iran attacked two ADNOC vessels](https://www.anews.com.tr/world/2026/08/14/uae-says-iran-attacked-two-adnoc-vessels-in-hormuz-strait) · [CNBC Aug 12 — Hormuz ship traffic near three-month low](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html) · [CFR — Strait of Hormuz faces tough recovery as Iran deal unravels](https://www.cfr.org/articles/strait-of-hormuz-traffic-faced-a-long-road-to-recovery-now-the-iran-deal-is-unraveling/)
+
+---
+
 ## 2026-08-14
 
 | Metric | Value |
