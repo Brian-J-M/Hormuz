@@ -4,6 +4,33 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-17
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (~1 Aug 16; post-MoU expiry adds no positive catalyst; ADNOC attack cluster Aug 13–15 sustains risk-off) |
+| 7-day average | 1.1 vessels/day (based on 7 days Aug 10–16: Aug 10 ~2; Aug 11–16 ~1 each; sum=8, 8/7≈1.1) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (MoU expired Aug 16; no active humanitarian corridor; activation pathway eliminated; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~2 vessels (inbound bulk carrier activity consistent with Aug 11–16 pattern; below 2025 average per UNCTAD)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; no live source data retrievable (all major news domains also blocked). All vessel counts derived from prior Aug 16 log entry and established Aug 10–16 trend. All figures approximate.
+- **Day 171 of effective closure** (Feb 28 to Aug 17); traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **Post-MoU-expiry environment**: The Islamabad MoU (signed Jun 17) formally expired Aug 16 with no replacement diplomatic framework in place. Both sides confirmed "no commitments" before the deadline. No active negotiation track as of Aug 17. US sanctions relief (originally Aug 21) is moot given MoU collapse. Risk of a third escalation cycle elevated.
+- **ADNOC attack cluster (Aug 13–15) — sustained risk-off**: Three ADNOC/commercial vessel strikes in ~48 hours (Aug 13: *Navig8 Messi* + *Tarif* UAV strikes; Aug 14: unknown projectile hits bulk carrier near Kumzar; Aug 15: further ADNOC tanker targeted). Most intense cluster since the Jul 7 second-escalation cycle. No specific Aug 17 attack reported at time of logging, but sustained attack intensity since Aug 13 suppresses transit confidence.
+- **Crude estimate basis for Aug 17**: Extrapolated from Aug 11–16 trend (~1/day AIS-visible). MoU formal expiry (Aug 16) introduces additional downside risk but no new positive catalyst. Shadow fleet, IRGC-escorted, and US-facilitated dark-transiting vessels unquantifiable; true throughput likely exceeds AIS-visible count.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. MoU expiry eliminates the humanitarian-corridor activation pathway. UNCTAD: ~1/3 of global fertilizer trade stalled; urea exports down ~83% from pre-crisis baseline.
+- **Iran's Persian Gulf Strait Authority (PGSA)**: Established May 2026; claims all vessel passage requires Iranian permit. Unrecognized by US and most commercial operators but functionally enforced via IRGC interdictions.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and US-facilitated dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Sources**: Prior log entry (Aug 16) · [The National Aug 15 — ADNOC vessel targeted while transiting Hormuz](https://www.thenationalnews.com/news/mena/2026/08/15/live-iran-war-us-strait-of-hormuz-adnoc/) · [UANI Aug 14 — Iran Shipping Update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-august-14-2026) · [CNBC Aug 12 — Hormuz ship traffic near three-month low](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html) · [UN News Aug 2026 — Disruption hits energy, fertilizer, industrial trade](https://news.un.org/en/story/2026/08/1168074)
+
+---
+
 ## 2026-08-16
 
 | Metric | Value |
