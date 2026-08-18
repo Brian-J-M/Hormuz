@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) — Aug 17: ~1; MoU expiry (Aug 16) adds no positive catalyst; ADNOC attack cluster Aug 13–15 sustains risk-off posture |
+| 7-day average | 1.0 vessels/day (based on 7 days Aug 11–17: ~1 each Aug 11–15, 0 Aug 16, ~1 Aug 17; sum≈6, 6/7≈0.9 rounded to 1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (MoU expired Aug 16; no active humanitarian corridor; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with established Aug 11–17 trend per prior entries)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy. Figures derived from web search (Windward AI, Universal Asset Owners, Baird Maritime, CNN Business Aug 17, CNBC Aug 12). All vessel counts approximate and AIS-visible only.
+- **Day 172 of effective closure** (Feb 28 – Aug 18); traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **Aug 17 source data**: 6 total commodity vessels on Aug 17 (3 outbound, 3 inbound); no VLCCs or LNG carriers recorded (Windward AI / Universal Asset Owners Daily Brief Aug 17). Crude fraction estimated at ~17–20% of total laden transits → ~1 crude vessel consistent with Aug 10–17 trend.
+- **Aug 16 (Sunday): zero transits confirmed**: Universal Asset Owners Daily Brief confirmed zero commodity-vessel transits on Sunday Aug 16. Likely a combination of end-of-MoU chilling effect and weekend lull.
+- **MoU expired Aug 16**: Islamabad MoU (signed Jun 17) formally expired Aug 16 with no replacement diplomatic framework. Both sides confirmed "no commitments" before deadline. No active negotiation track as of Aug 18. US sanctions relief (originally Aug 21) now moot. Risk of third escalation cycle elevated.
+- **ADNOC attack cluster (Aug 13–15)**: Three vessel strikes in ~48 hours (*Navig8 Messi* + *Tarif* UAV strikes Aug 13; unknown projectile hits bulk carrier near Kumzar Aug 14; ADNOC tanker targeted Aug 15). Most intense cluster since Jul 7 second-escalation cycle. Sustained risk-off suppresses transit confidence; no new Aug 18 attack confirmed at time of logging.
+- **Conflicting signals**: CNN Business (Aug 17) — US Energy Secretary Chris Wright stated oil "flowing significantly faster than the market appreciates," contrasting with zero-transit reports (Aug 16) and low AIS-visible counts. Dark-AIS / IRGC-escorted / US-facilitated transits unquantifiable; true crude throughput likely exceeds AIS-visible figures.
+- **10-day moving average ~11 total vessels** (all types per Windward AI); however crude AIS-visible count tracks closer to ~1/day, with crude comprising a smaller fraction of recent total transits as shadow-fleet container and product tankers dominate.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline (UN News Aug 2026).
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. MoU expiry eliminates humanitarian-corridor activation pathway. ~1M tons nitrogen fertilizer stranded in Gulf (Insurance Journal Jun 16). UNCTAD: ~1/3 of global fertilizer trade stalled; urea exports down ~83% from pre-crisis baseline.
+- **AIS caveat**: All vessel counts AIS-visible only. Shadow fleet, IRGC-escorted, and US-facilitated dark-transiting vessels unquantifiable. ~490 vessels anchored or stopped in wider region.
+- **Brent crude**: ~$100/bbl (Baird Maritime: "crude spikes back to $100" as strait remains effectively closed; oil spikes on MoU collapse/no-successor-deal news).
+- **Sources**: [CNN Business Aug 17 — How much oil is leaving the Persian Gulf?](https://www.cnn.com/2026/08/17/business/oil-market-strait-of-hormuz-trump) · [Universal Asset Owners Aug 17 Daily Brief — zero transits Sunday](https://www.universalassetowners.com/intelligence/uao-daily-brief-2026-08-17/) · [Baird Maritime — daily count sticks to three, crude spikes to $100](https://www.bairdmaritime.com/shipping/tankers/strait-of-hormuz-daily-ship-count-sticks-to-three-as-crude-spikes-back-to-100) · [CNBC Aug 12 — Hormuz ship traffic near three-month low](https://www.cnbc.com/2026/08/12/strait-hormuz-ship-traffic-iran-war-deal.html) · [Lloyd's List Intelligence Aug 5 Brief](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-5-august-2026) · [UN News Aug 2026 — disruption hits energy, fertilizer, industrial trade](https://news.un.org/en/story/2026/08/1168074) · [Insurance Journal Jun 16 — fertilizer backlog](https://www.insurancejournal.com/news/international/2026/06/16/873881.htm) · [Statista — June/July ship traffic chart](https://www.statista.com/chart/35984/ship-traffic-in-the-strait-of-hormuz/)
+
+---
+
 ## 2026-08-17
 
 | Metric | Value |
