@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) — Aug 18: ~1; no new positive catalyst post-MoU expiry; ADNOC attack cluster (Aug 13–15) sustains risk-off posture |
+| 7-day average | 0.9 vessels/day (based on 7 days Aug 12–18: ~1 each Aug 12–15, 0 Aug 16, ~1 Aug 17, ~1 Aug 18; sum≈6, 6/7≈0.9) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers stranded inside Persian Gulf; *Gaslog Shanghai* struck Aug 1 — status still unknown; last confirmed laden transit: *Al Areesh* QatarEnergy Jul 29)
+- Fertilizer: ~0 vessels (MoU expired Aug 16; no active humanitarian corridor; ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with established Aug 11–18 trend)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy. Figures derived from Windward AI Aug 18 data, UANI Aug 17 update, and search-aggregated reporting (CNN, NBC News, Wikipedia 2026 Strait of Hormuz crisis). All vessel counts approximate and AIS-visible only.
+- **Day 173 of effective closure** (Feb 28 – Aug 19); traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **Aug 18 source data (Windward AI)**: 13 total vessels transited Aug 18 (8 inbound, 5 outbound), ~40% dark-AIS share. Crude fraction estimated at ~17–20% of outbound transits → ~1 crude vessel consistent with Aug 11–18 trend. One high-risk inbound OFAC-designated LPG carrier transmitted AIS continuously throughout despite dark-fleet and false-flag indicators.
+- **No specific Aug 19 attack reported**: No new vessel strikes reported as of logging time. Most recent cluster: ADNOC vessels *Navig8 Messi* + *Tarif* (UAV strikes Aug 13) and a further ADNOC tanker (Aug 15) — 3 strikes in ~48 hours. Absence of a new attack on Aug 19 is not a recovery signal; risk-off posture sustained.
+- **Post-MoU-expiry environment**: Islamabad MoU (signed Jun 17) formally expired Aug 16 with no replacement diplomatic framework. Both sides confirmed "no commitments." No active negotiation track as of Aug 19. UANI tracked 67 tankers departing Gulf of Oman laden with Iranian oil since MoU signing (~$6B+ IRGC revenue). 808 total JMIC-tracked transits since MoU signing through ~Aug 17. US forces have redirected 64 commercial vessels, disabled 3, and boarded 2 to enforce blockade compliance. US carrier group reportedly headed to Middle East to replace USS Lincoln (CNN Aug 14).
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers remain stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage, unable to maneuver) — status still unknown. Last confirmed laden transit: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: ~16 vessels ~330,000 MT urea + ~4 vessels ~257,000 MT DAP stranded near strait. MoU expiry eliminates humanitarian-corridor activation pathway. UNCTAD: ~1/3 of global fertilizer trade stalled; urea exports down ~83% from pre-crisis baseline.
+- **Iran's Persian Gulf Strait Authority (PGSA)**: Established May 2026; claims all vessel passage requires an Iranian permit. Unrecognized by US and most commercial operators but functionally enforced via IRGC interdictions.
+- **AIS caveat**: All vessel counts AIS-visible only. ~40% dark-AIS share observed Aug 18 (Windward AI). Shadow fleet, IRGC-escorted, and US-facilitated dark-transiting vessels unquantifiable. True crude throughput likely exceeds AIS-visible figures. ~490 vessels anchored or stopped in wider region.
+- **Brent crude**: ~$100/bbl (consistent with Aug 18 reporting; post-MoU-collapse risk premium sustained).
+- **Sources**: [Windward AI — Two Closed Corridors: Hormuz and Bab el-Mandeb Both Effectively Shut to Tanker Traffic](https://windward.ai/blog/strait-of-hormuz-and-bab-el-mandeb-effectively-closed/) · [UANI Aug 17 — Iran Shipping Update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-august-17-2026) · [CNN Aug 15 — Shipping faces more disruptions in the Middle East](https://www.cnn.com/2026/08/15/world/live-news/iran-war-trump) · [NBC News — Tracking ship traffic through the Strait of Hormuz](https://www.nbcnews.com/data-graphics/strait-of-hormuz-ports-traffic-trump-us-iran-war-rcna331507) · [Wikipedia — 2026 Strait of Hormuz crisis](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [Al Jazeera Jul 7 — Ships attacked in Hormuz](https://www.aljazeera.com/news/2026/7/7/ships-attacked-in-the-strait-of-hormuz-what-that-means-for-ongoing-talks)
+
+---
+
 ## 2026-08-18
 
 | Metric | Value |
