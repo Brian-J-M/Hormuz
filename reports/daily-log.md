@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-20
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | +1 (+100%) vs Aug 19's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Aug 13–19: ~1 each Aug 13–15, 0 Aug 16, ~1 Aug 17, ~1 Aug 18, ~2 Aug 19; sum≈7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers remain stranded inside Persian Gulf; last confirmed laden outbound transit: *Al Areesh* QatarEnergy, Jul 29; *Gaslog Shanghai* struck Aug 1 and still immobilized)
+- Fertilizer: 0 vessels (Islamabad MoU expired Aug 16; humanitarian corridor suspended; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 11–19 trend; no new disruptions detected)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy. Figures derived from UANI Aug 19 update, Axios/NYT Aug 19 (US stealth oil operation), Kpler Aug 19 analysis ("60 days of broken MoU"), and search-aggregated reporting. All vessel counts approximate and AIS-visible only unless noted.
+- **Day 174 of effective closure** (Feb 28 – Aug 20); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **Aug 19 source data (UANI)**: 13 AIS-identified vessels (6 inbound, 9 outbound) + 2 unidentified tankers detected by imagery only, neither transmitting AIS = ~15 total. Crude fraction estimated at ~17–20% of outbound transits → 9 outbound × ~20% ≈ ~2 crude vessels. Significant share of traffic operating dark (AIS-off).
+- **Major development: US stealth operation moving oil through Hormuz** (Axios/NYT Aug 19): US officials confirm a covert program in which 15–20 tankers per night transit the southern channel dark (AIS-off), moving approximately 10 million barrels per day — roughly half the pre-war baseline volume. This is NOT reflected in AIS-visible counts above. The operation is described as classified; vessel identities and flag states undisclosed. This is the most significant crude throughput signal since the MoU expired.
+- **Islamabad MoU formally expired Aug 16 with no replacement**: Both parties confirmed "no commitments." No active diplomatic negotiation track as of Aug 20. UANI tracked 67 tankers departing Gulf of Oman laden with Iranian oil since MoU signing (~$6B+ IRGC revenue during the MoU period). 808 total JMIC-tracked transits since MoU signing through ~Aug 17.
+- **Kpler (Aug 19) — "60 days of broken MoU"**: Market has restructured around long-haul rerouting (Cape of Good Hope); destination-region crude inventories rebuilt ex-Gulf; financial market risk premium has normalized despite continued closure. Kpler estimates Hormuz now running at ~40% of 2025 crude flows *when dark/facilitated transits are included*; AIS-visible alone is ~5–10%.
+- **ADNOC attack cluster (Aug 13–15)**: *Navig8 Messi* + *Tarif* (UAV strikes Aug 13), plus a third ADNOC-linked tanker (Aug 15) — 3 vessel strikes in ~48 hours — sustains elevated risk-off posture for commercial operators. No new reported strikes Aug 19–20 as of logging time; absence of attack is not a recovery signal.
+- **LNG**: 0 AIS-visible outbound laden transit. ~14 laden LNG carriers stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage) status still unknown. QatarEnergy force majeure still in effect. LNG exports down ~95% from pre-crisis baseline. JKM spot LNG prices remain highly elevated.
+- **Fertilizer/food**: MoU expiry eliminates the humanitarian corridor that had permitted a small volume of fertilizer transits. UNCTAD estimates ~1/3 of global fertilizer trade stalled. Urea exports down ~83% from pre-crisis baseline. ~490 vessels anchored or stopped in wider region (unchanged).
+- **Iran's PGSA (Persian Gulf Strait Authority)**: Continues to require Iranian permits for all commercial vessel passage. Unrecognized by US/EU but functionally enforced via IRGC interdictions. US forces have redirected 64 commercial vessels, disabled 3, and boarded 2 to enforce alternate compliance.
+- **AIS caveat**: All vessel counts AIS-visible only. ~40% dark-AIS share observed (Windward AI). US-facilitated, shadow-fleet, and IRGC-escorted dark transits unquantifiable via AIS. True crude throughput (incl. US stealth operation at ~10M bbl/day) substantially exceeds AIS-visible figures and represents a significant divergence from this log's visible-only counts. Brent crude: ~$100/bbl.
+- **Sources**: [UANI Aug 19 Iran Shipping Update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-august-19-2026) · [Axios Aug 19 — US stealth oil operation](https://www.axios.com/2026/08/19/hormuz-iran-oil-gulf-trump) · [HotAir/NYT Aug 19 — US Navy getting oil through Hormuz](https://hotair.com/john-s-2/2026/08/19/ny-times-us-navy-is-getting-oil-through-the-strait-of-hormuz-n3818166) · [Kpler Aug 19 — 60 days of broken MoU](https://www.kpler.com/blog/60-days-of-a-broken-us-iran-mou-the-market-stopped-waiting-for-hormuz) · [US News/Reuters Aug 18 — Hormuz traffic slows](https://www.usnews.com/news/world/articles/2026-08-18/hormuz-traffic-slows-as-uncertainty-over-waterway-persists) · [Lloyd's List Intelligence Aug 5 brief](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-5-august-2026) · [UN News Aug 2026 — disruption hits energy/fertilizer](https://news.un.org/en/story/2026/08/1168074)
+
+---
+
 ## 2026-08-19
 
 | Metric | Value |
