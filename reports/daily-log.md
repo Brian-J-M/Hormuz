@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-22
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Aug 21's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.1 vessels/day (based on 7 days Aug 15–21: ~1 each Aug 15–19, ~2 Aug 20, ~1 Aug 21; sum=8, 8/7≈1.1) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers remain stranded inside Persian Gulf; last confirmed laden outbound transit: *Al Areesh* QatarEnergy Jul 29; *Gaslog Shanghai* struck Aug 1 status unknown)
+- Fertilizer: 0 vessels (humanitarian corridor eliminated since MoU expiry Aug 16; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 11–21 trend; no new disruptions detected on inbound agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy. Figures derived from straits.live Day 176 indicator (1% of pre-war traffic Aug 22; 4% 7-day average), Windward AI Aug 19–20 MIOC data, Lloyd's List Aug 19 brief, and search-aggregated reporting. All vessel counts approximate and AIS-visible only.
+- **Day 176 of effective closure** (Feb 28 – Aug 22); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day. Straits.live reports 1% of pre-war traffic on Aug 22; 7-day moving average at 4% of pre-war baseline.
+- **Amara seizure — Day 6 (ongoing)**: Liberia-flagged chemical/oil products tanker *Amara* (seized Aug 17 near Qeshm Island for non-compliance with PGSA authorization/fee requirements) confirmed still stationary at Qeshm Island as of Aug 21 (latest satellite pass). Sixth day of seizure as of Aug 22 — Iran's first confirmed seizure since June 22.
+- **Minoan Dignity fatal attack — sustained chilling effect**: Chief engineer killed in engine-room strike (Aug 17–18) as vessel transited outbound southern corridor. Same commercial management as *Minoan Pioneer* (struck Aug 4). Attack directly preceded by call at Bandar Imam Khomeini — pattern indicating deliberate targeting of non-compliant operators.
+- **No new attacks confirmed on Aug 22**: No vessel strikes or seizures reported specifically for Aug 22 as of logging time. Risk-off posture sustained; absence of attack is not a recovery signal.
+- **JMIC facilitated transit count**: ~1,010 US-facilitated transits recorded since MoU signing (Aug 21 figure). These dark/facilitated transits are NOT reflected in AIS-visible counts above; true crude throughput significantly exceeds AIS-visible figures.
+- **Windward AI (Aug 19–20)**: Tier 1 main channel empty for second consecutive day (Aug 18–19); Tier 2 Gulf of Oman screening area holding at 8 vessels. AIS identity mismatch at 32% of tracked fleet — emerging systematic pattern by sanctioned/high-risk actors rather than one-off anomaly.
+- **Lloyd's List (Aug 19 brief — latest available)**: 73 transits Aug 10–16 (vs 91 prior week); 22 vessels entering Gulf, 21 departing Aug 10–16. Non-Iranian traffic persists via small core group of operators; conflicting Washington/Tehran statements make near-term diplomatic breakthrough "increasingly unlikely."
+- **LNG**: 0 AIS-visible outbound laden transit. ~14 laden LNG carriers stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage) status unknown. QatarEnergy force majeure still in effect. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: MoU expiry eliminated humanitarian corridor. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait. UNCTAD: ~1/3 of global fertilizer trade stalled; urea exports down ~83% from pre-crisis baseline. Brent crude: ~$100/bbl.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share observed (Windward AI Aug 19–20). US-facilitated, shadow-fleet, and IRGC-escorted dark transits unquantifiable via AIS. True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: [straits.live Day 176 — Strait of Hormuz Closed](https://straits.live/) · [Windward AI — A Fatal Hormuz Strike and Iran's First Seizure Since June](https://windward.ai/blog/a-fatal-hormuz-strike-and-irans-first-seizure-since-june/) · [Hellenic Shipping News — Fatal Strike and First Seizure Since June](https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/) · [CNBC Aug 18 — Ship attack in Hormuz kills crew member](https://www.cnbc.com/2026/08/18/iran-war-strait-hormuz-ship-traffic-oil.html) · [Lloyd's List Intelligence Aug 19 Brief](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-19-august-2026) · [Maritime Executive — Chief Engineer Killed exiting Hormuz](https://maritime-executive.com/article/chief-engineer-killed-as-bulker-is-attacked-exiting-strait-of-hormuz) · [IranWire — IRGC Seizes Oil Tanker Amara Near Qeshm Island](https://iranwire.com/en/news/156503-irgc-seizes-oil-tanker-amara-near-qeshm-island/)
+
+---
+
 ## 2026-08-21
 
 | Metric | Value |
