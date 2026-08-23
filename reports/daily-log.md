@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-23
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Aug 22's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.1 vessels/day (based on 7 entries Aug 16–22: ~1 Aug 16, ~1 Aug 17, ~1 Aug 18, ~1 Aug 19, ~2 Aug 20, ~1 Aug 21, ~1 Aug 22; sum=8, 8/7≈1.1) |
+
+Secondary:
+- LNG: 0 laden outbound (no LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers stranded inside Persian Gulf; last reported: 21 LNG carriers total in Gulf per Kpler)
+- Fertilizer: 0 vessels (Islamabad MoU expired Aug 16; humanitarian corridor eliminated; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 11–22 trend; no new disruption detected)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy. Figures derived from Kpler Aug 21 data (7 commodity ships Aug 21, including 2 Suezmax crude tankers outbound; no VLCCs or LNG), Windward AI Hormuz daily intelligence (Aug 22–23: possible 0 AIS-visible crude in 24-hr window), Lloyd's List Aug 19 brief (most recent available), and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **Day 177 of effective closure** (Feb 28 – Aug 23); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day. Windward Daily intelligence indicates Tier 1 main channel may be empty for Aug 22–23; 7-day average ~4% of pre-war baseline per straits.live.
+- **Aug 21 Kpler data (closest confirmed)**: 7 total commodity ships (4 entering, 3 exiting); 2 Suezmax crude tankers outbound (bound for Vietnam and India); no VLCCs, no LNG. AIS-visible only — dark transits excluded. Aug 22 TankerMap showing 0 tanker transits on latest complete UTC day; Aug 23 data not yet confirmed.
+- **Amara seizure — Day 7 (ongoing)**: Liberia-flagged chemical/oil products tanker *Amara* (seized Aug 17 near Qeshm Island for non-compliance with PGSA authorization/fee requirements) remains stationary in Iranian waters. Iran's first confirmed seizure since June 22.
+- **Minoan Dignity fatal attack (Aug 17–18) — sustained chilling effect**: Chief engineer killed in engine-room strike while vessel transited outbound southern corridor. Attack coincides precisely with MoU expiry (Aug 16). Post-MoU enforcement posture: Iran has shifted from toll-based control to active interdiction for non-compliant operators. No new attack confirmed on Aug 23 as of logging time; absence of attack is not a recovery signal.
+- **US stealth oil operation (classified, Axios/NYT Aug 19)**: ~10–15 tankers per night transit the southern channel dark (AIS-off), moving an estimated ~10 million barrels/day — roughly half of pre-war baseline volume. These are NOT reflected in AIS-visible counts above. Kpler estimates Hormuz running at ~40% of 2025 crude flows when dark/facilitated transits are included; AIS-visible alone ~5–10%.
+- **JMIC facilitated transit count**: ~1,010+ US-facilitated transits recorded since MoU signing (Aug 22 figure). Dark/US-facilitated true throughput substantially exceeds AIS-visible counts.
+- **Diplomatic outlook**: No active US-Iran negotiation track as of Aug 22. Conflicting statements from Washington and Tehran; no credible near-term de-escalation pathway per Lloyd's List Aug 19 brief. Ceasefire expired Aug 16 with "no commitments." US-Iran diplomacy "effectively collapsed" (Reuters).
+- **LNG**: 0 AIS-visible outbound laden transit. ~14 laden LNG carriers stranded inside Persian Gulf. *Gaslog Shanghai* (struck Aug 1, engine-room damage) — status unknown. Last confirmed laden outbound: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline. JKM spot LNG prices elevated.
+- **Fertilizer/food**: MoU expiry eliminated humanitarian corridor. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait. UNCTAD: ~1/3 of global fertilizer trade stalled; urea exports down ~83% from pre-crisis baseline. Brent crude: ~$100/bbl.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32–40% dark-AIS share observed (Windward AI). True crude throughput (including US stealth operation and IRGC-escorted shadow-fleet transits) substantially exceeds AIS-visible figures.
+- **Sources**: [GlobalSecurity/RFE/RL Aug 21 — Just 7 Commodity Ships Transit Hormuz](https://www.globalsecurity.org/wmd/library/news/iran/2026/08/iran-260821-rferl05.htm) · [Windward AI — A Fatal Hormuz Strike and Iran's First Seizure Since June](https://windward.ai/blog/a-fatal-hormuz-strike-and-irans-first-seizure-since-june/) · [Lloyd's List Intelligence Aug 19 Brief](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-19-august-2026) · [Kpler — No LNG tankers cross Strait of Hormuz since July 11](https://www.kpler.com/blog/no-lng-tankers-cross-strait-of-hormuz-since-july-11-amid-escalating-us-iran-conflict) · [US News/Reuters Aug 20 — Hormuz crossings in single digits](https://www.usnews.com/news/world/articles/2026-08-20/hormuz-ship-crossings-hover-in-single-digits-data-shows) · [Hellenic Shipping News — Fatal Strike and First Seizure Since June](https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/) · [straits.live — Day 177 Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-08-22
 
 | Metric | Value |
