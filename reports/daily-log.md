@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-24
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Aug 23's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.1 vessels/day (based on 7 days Aug 17–23: ~1 Aug 17, ~1 Aug 18, ~1 Aug 19, ~2 Aug 20, ~1 Aug 21, ~1 Aug 22, ~1 Aug 23; sum=8, 8/7≈1.1) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers remain stranded inside Persian Gulf; last confirmed laden outbound transit: *Al Areesh* QatarEnergy Jul 29 — now 26 days without a confirmed laden LNG transit)
+- Fertilizer: 0 vessels (Islamabad MoU expired Aug 16; humanitarian corridor eliminated; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 11–23 trend; no new disruptions detected on inbound agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy. Figures derived from MarineTraffic Aug 23–24 data (6 vessels in 24hr window including 3 tankers and 2 cargo ships entering Gulf of Oman), CNBC Aug 21 (US military aided 660M bbl since May; ~1,300+ facilitated transits), CNN Aug 23 (Treasury Sec. Bessent announces "economic D-Day" Iran sanctions), and prior log entries. All AIS-visible vessel counts approximate.
+- **Day 178 of effective closure** (Feb 28 – Aug 24); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day. Crude estimate of ~1 reflects continued near-zero AIS-visible traffic, consistent with Aug 17–23 pattern of ~1 crude/day.
+- **MarineTraffic Aug 23–24 window**: At least 6 vessels transited including 3 tankers (entering Gulf of Oman) and 2 cargo ships. Crude tanker breakdown within this 24hr figure unconfirmed; ~1 outbound crude estimate derived from pattern consistency with prior days.
+- **Amara seizure — Day 8 (ongoing)**: *Amara* (Liberia-flagged chemical/oil products tanker, seized Aug 17 near Qeshm Island for non-compliance with PGSA authorization/fee requirements) remains stationary in Iranian waters. Iran's first confirmed seizure since June 22.
+- **"Economic D-Day" sanctions signal (Aug 23)**: US Treasury Secretary Bessent warned of sweeping new Iran sanctions — described as "economic D-Day" — expected imminently. If implemented, could further suppress dark/shadow-fleet transits and deter Chinese and Indian buyers from Hormuz-origin crude, driving AIS-visible counts lower even as total throughput (via US stealth operation) continues.
+- **No new attacks confirmed Aug 23–24**: No vessel strikes or seizures reported specifically for Aug 23–24 as of logging time. Absence of attack is not a recovery signal; Iran's post-MoU enforcement posture remains active interdiction for non-compliant operators.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day; NYT/Axios Aug 19). US military has aided passage of 660M bbl since May per CENTCOM (CNBC Aug 21) — ~1,300+ facilitated commercial transits total. These are NOT reflected in AIS-visible counts above.
+- **LNG**: 0 AIS-visible outbound laden transit. ~14 laden LNG carriers stranded inside Persian Gulf. Last confirmed laden outbound: *Al Areesh* (QatarEnergy) Jul 29. *Gaslog Shanghai* (struck Aug 1) status unknown. LNG exports down ~95% from pre-crisis baseline. JKM spot prices remain elevated.
+- **Fertilizer/food**: MoU expiry (Aug 16) eliminated humanitarian corridor. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait. Urea exports down ~83% from pre-crisis baseline. Brent crude: ~$100/bbl.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share observed (Windward AI). True crude throughput (including US stealth operation and US-facilitated transits) substantially exceeds AIS-visible figures; Kpler estimates Hormuz running at ~40% of 2025 crude flows when dark transits included.
+- **Sources**: [CNN Aug 23 — Bessent 'economic D-Day' Iran sanctions](https://www.cnn.com/2026/08/23/world/live-news/iran-war-trump) · [CNBC Aug 21 — US military aided 660M bbl through Hormuz](https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html) · [Windward AI — Fatal Strike and Iran's First Seizure Since June](https://windward.ai/blog/a-fatal-hormuz-strike-and-irans-first-seizure-since-june/) · [Hellenic Shipping News — Fatal Strike and First Seizure Since June](https://www.hellenicshippingnews.com/a-fatal-strike-and-the-first-seizure-since-june-as-irans-transit-rules-take-effect/) · [straits.live — Day 178 Strait of Hormuz](https://straits.live/)
+
+---
+
 ## 2026-08-23
 
 | Metric | Value |
