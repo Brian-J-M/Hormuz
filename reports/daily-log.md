@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-28
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Aug 27's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Aug 22–28: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (~14 laden LNG carriers remain stranded inside Persian Gulf; last confirmed laden outbound: *Al Areesh* QatarEnergy Jul 29 — now 30 days without a confirmed laden outbound LNG transit)
+- Fertilizer: 0 vessels (humanitarian corridor eliminated since MoU expiry Aug 16; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 11–27 trend; no new disruptions detected on inbound agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; figures derived from search-aggregated reporting, CNBC Aug 27, Al Jazeera Aug 27, Windward AI intelligence, Euronews Aug 27, and prior log entries. All vessel counts AIS-visible only and approximate.
+- **Day 182 of effective closure** (Feb 28 – Aug 28); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **Crude estimate basis**: ~1 AIS-visible crude vessel estimated, consistent with Aug 22–27 pattern (~1/day). Aug 25–26 window data showed 8 total vessels (5 outbound, 3 inbound) over 24 hours, with outbound cargo value driven entirely by oil-products tonnage — no crude, LNG, or LPG moved outbound in that window per Windward reporting. Aug 28 AIS-visible crude count not confirmed; ~1 estimate extrapolated from recent pattern. All figures approximate.
+- **Qatar PM in Tehran (Aug 27) — most significant diplomatic signal since MoU expiry**: Qatar's PM and FM Sheikh Mohammed bin Abdulrahman Al Thani met Iran's FM Abbas Araghchi and President Pezeshkian in Tehran on Aug 27, discussing a proposed phased framework for a temporary shipping corridor through the Strait of Hormuz plus a joint mine-clearing project. This follows Oman FM's Aug 25–26 visit to Tehran with a similar framework. Multiple mediators now actively engaged; no formal agreement announced as of Aug 28. US says it is "not talking to Iran" despite intensifying diplomacy.
+- **Oman-Iran corridor framework (ongoing)**: Iran and Oman have discussed a "phased framework" for a joint temporary navigation corridor and a joint mine-clearing project. Technical talks continue; Oman FM "hopeful" the two sides will soon formalize the arrangement. No implementation date set.
+- **No new attacks or seizures confirmed on Aug 28**: No vessel strikes or seizures specifically reported for Aug 28 as of logging time. The Aug 27 tanker attack (UKMTO confirmed, fire extinguished, all crew safe) continues to weigh on operator risk appetite. Absence of attack today is not a recovery signal; Iran's post-MoU enforcement posture remains active.
+- **Aug 27 tanker attack (carry-over)**: UKMTO confirmed a tanker struck by an unidentified projectile on Aug 27, off the Omani coast, in the context of Iran's warning over US "Economic D-Day" sanctions (Bessent, Aug 26). Fire extinguished; crew safe; investigation ongoing.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). CENTCOM has facilitated ~1,300+ transits / 660M bbl since May. NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. ~14 laden LNG carriers stranded inside Persian Gulf. Last confirmed laden outbound: *Al Areesh* (QatarEnergy) Jul 29. LNG exports down ~95% from pre-crisis baseline.
+- **Fertilizer/food**: MoU expiry (Aug 16) eliminated humanitarian corridor. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait. Brent crude: ~$100/bbl.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share observed (Windward AI). True crude throughput (including US stealth operation and IRGC-escorted shadow-fleet transits) substantially exceeds AIS-visible figures; Kpler estimates Hormuz running at ~40% of 2025 crude flows when dark transits included.
+- **Sources**: [CNBC Aug 27 — Qatari PM heads to Iran to de-escalate tensions](https://www.cnbc.com/2026/08/27/us-iran-war-trump-hormuz-attack-mine-.) · [Euronews Aug 27 — Qatar PM meets Iran's Araghchi in Tehran](https://www.euronews.com/2026/08/27/qatar-pm-meets-irans-araghchi-in-tehran-as-doha-pushes-de-escalation-and-reopening-hormuz) · [Al Jazeera Aug 27 — Iran, Qatar hold Hormuz talks amid int'l hopes](https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume) · [CNN Aug 27 — US says not talking to Iran as Strait of Hormuz diplomacy intensifies](https://www.cnn.com/2026/08/27/world/live-news/iran-war-trump) · [Al Jazeera Aug 27 — How a 95% drop in Hormuz traffic changed global shipping](https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping) · [straits.live — Day 182 Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-08-27
 
 | Metric | Value |
