@@ -4,6 +4,37 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-29
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | +1 (+100%) vs Aug 28's ~1 crude (AIS-visible); upward trend signal from USNI/Lloyd's List weekly data; all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Aug 22–28: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 31 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf; Iran-Oman corridor, if implemented, may unlock LNG flows)
+- Fertilizer: 0 vessels (humanitarian corridor not yet restored despite Iran-Oman corridor agreement; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 11–28 trend; no new disruptions detected on inbound agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org and globaltradedata.wto.org both blocked by network egress proxy; figures derived from USNI News Aug 28, Lloyd's List Intelligence Aug 28, straits.live Day 183, Al Jazeera Aug 26 (Iran-Oman corridor agreement), and prior log entries. All vessel counts AIS-visible only and approximate.
+- **Day 183 of effective closure** (Feb 28 – Aug 29); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day; modest recovery signal evident from weekly transit data.
+- **Iran-Oman temporary shipping corridor agreement (Aug 26 — most significant structural development since crisis began)**: Iran's Deputy FM Kazem Gharibabadi confirmed Iran and Oman have agreed on a temporary maritime route (30–60 day framework). Traffic entering from Gulf of Oman will pass through Iranian waters; outbound traffic through Oman or Iranian waters. Technical talks to follow for permanent arrangement. Iran still conditions full reopening on US lifting naval blockade and sanctions. Not yet formally implemented as of Aug 29 logging time; most concrete diplomatic outcome since Islamabad MoU expired Aug 16.
+- **30%+ uptick in tanker transits — largest weekly increase since effective closure (USNI/Lloyd's List, Aug 28)**: 114 total transits Aug 17–24 (avg ~14.25/day all vessel types) vs 73 Aug 10–16. At least 42 westbound transits Aug 17–24 vs 29 the prior week. Crude tankers from ADNOC, Saudi Arabia, Kuwait, and Sinokor specifically identified as resuming runs. This is the largest single-week transit increase observed since Feb 28.
+- **9 total transits on Aug 27 (straits.live)**: 5 inbound, 4 outbound; within the 7–10/day band running since Aug 20. Sharp recovery from <3/day lows seen in early August.
+- **Crude estimate basis**: ~2 crude vessels estimated for Aug 29, revised upward from Aug 22–28 average of ~1/day, reflecting the USNI-reported week-on-week 30%+ uptick and resumption of ADNOC/Saudi/Kuwait state crude carrier runs. Prior log (Aug 22–28) all estimated ~1/day; Aug 29 upward revision is directional, not confirmed by single-day AIS data. All figures approximate and AIS-visible only.
+- **Brent crude: ~$88/bbl** (down from ~$100/bbl cited in Aug 26–28 log entries; market pricing in corridor/reopening probability following Iran-Oman deal announcement — ~$12/bbl decline in two days).
+- **Multiple-mediator framework now active**: Qatar PM Tehran visit (Aug 27), Oman FM Tehran visit (Aug 25–26), France engaged — most intensive diplomatic activity since Islamabad MoU period. No US-Iran direct talks; US continues to say "not talking to Iran."
+- **Amara seizure — Day 12 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). CENTCOM facilitated count 1,300+ since May. NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound confirmed. Day 31 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29). ~14 laden LNG carriers stranded inside Persian Gulf. Iran-Oman corridor, if implemented, may unlock LNG — no confirmation yet.
+- **Fertilizer/food**: MoU expiry (Aug 16) eliminated humanitarian corridor; not yet restored under Iran-Oman talks. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures; Kpler estimates ~40% of 2025 crude flows including dark transits.
+- **Sources**: [USNI News Aug 28 — Strait of Hormuz Tanker Transits Up But Still Below Pre-War Levels](https://news.usni.org/2026/08/28/strait-of-hormuz-tanker-transits-up-but-still-below-pre-war-levels) · [Al Jazeera Aug 26 — Iran, Oman agree on new temporary route in Hormuz](https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route) · [Al Jazeera Aug 26 — Iran, Oman agree on temporary Hormuz route: What we know](https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know) · [The Hill Aug 26 — Iran, Oman planning temporary corridor through Strait of Hormuz](https://thehill.com/policy/international/6051291-iran-oman-strait-of-hormuz-plan/) · [Al Jazeera Aug 27 — Iran, Qatar hold Hormuz talks](https://www.aljazeera.com/news/2026/8/27/iran-qatar-hold-hormuz-talks-amid-intl-hopes-dialogue-with-us-will-resume) · [straits.live — Day 183 Strait of Hormuz](https://straits.live/)
+
+---
+
 ## 2026-08-28
 
 | Metric | Value |
