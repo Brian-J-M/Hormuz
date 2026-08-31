@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-08-31
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Aug 30's ~2 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.3 vessels/day (based on 7 days Aug 24–30: ~1 Aug 24, ~1 Aug 25, ~1 Aug 26, ~1 Aug 27, ~1 Aug 28, ~2 Aug 29, ~2 Aug 30; sum=9, 9/7≈1.3) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 33 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf; Iran-Oman corridor not yet formally implemented)
+- Fertilizer: 0 vessels (humanitarian corridor not yet restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 24–30 trend; no new disruptions detected on inbound agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); all figures extrapolated from Aug 30 log entry and the trajectory established over Aug 17–30. All vessel counts AIS-visible only and approximate.
+- **Day 185 of effective closure** (Feb 28 – Aug 31); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day; upward trend signal (30%+ weekly uptick per USNI Aug 28) stabilizing at ~2/day plateau established Aug 29–30.
+- **Iran-Oman temporary shipping corridor — implementation still pending**: Corridor agreement confirmed by Iran Deputy FM Gharibabadi on Aug 26; technical talks ongoing through Aug 30. No formal operationalization or vessel movements via this route confirmed as of Aug 31 logging. Most significant structural diplomatic development since crisis began; could unlock LNG and fertilizer flows if implemented.
+- **Crude estimate basis**: ~2 crude vessels estimated for Aug 31, flat vs Aug 29–30 (~2 each day). Consistent with the USNI-reported 30%+ weekly uptick (114 total transits Aug 17–24) and ADNOC/Saudi/Kuwait state crude carrier resumption signal. No single-day AIS confirmation available; estimate reflects plateau at elevated level relative to Aug 17–28 baseline of ~1/day. All figures approximate and AIS-visible only.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). CENTCOM-facilitated count 1,300+ since May. NOT reflected in AIS-visible counts above.
+- **Brent crude: ~$88/bbl**: Sustained at Aug 29–30 level; market pricing in Iran-Oman corridor/reopening probability (~$12/bbl decline from ~$100/bbl level seen through Aug 28).
+- **Multiple-mediator diplomatic framework active**: Qatar PM and FM visited Tehran Aug 27; Oman FM visited Aug 25–26; France engaged. No US-Iran direct talks. Iran continues to condition full reopening on US lifting naval blockade and sanctions.
+- **Amara seizure — Day 15 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **LNG**: 0 laden outbound confirmed. Day 33 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29). ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored under Iran-Oman talks as of Aug 30. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: Extrapolated from Aug 30 log; [USNI News Aug 28 — Strait of Hormuz Tanker Transits Up But Still Below Pre-War Levels](https://news.usni.org/2026/08/28/strait-of-hormuz-tanker-transits-up-but-still-below-pre-war-levels) · [Al Jazeera Aug 26 — Iran, Oman agree on new temporary route in Hormuz](https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route) · [straits.live — Strait of Hormuz](https://straits.live/)
+
+---
+
 ## 2026-08-30
 
 | Metric | Value |
