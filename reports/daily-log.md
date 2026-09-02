@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-02
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~2 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 1's ~2 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.6 vessels/day (based on 7 days Aug 26–Sep 1: ~1 Aug 26, ~1 Aug 27, ~1 Aug 28, ~2 Aug 29, ~2 Aug 30, ~2 Aug 31, ~2 Sep 1; sum=11, 11/7≈1.6) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 35 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf; Iran-Oman corridor implementation still pending)
+- Fertilizer: 0 vessels (humanitarian corridor not yet restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1–2 vessels (estimated; consistent with Aug 26–Sep 1 trend; no new disruptions detected on inbound agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); all figures extrapolated from Sep 1 log entry and the trajectory established over Aug 17–Sep 1. All vessel counts AIS-visible only and approximate.
+- **Day 187 of effective closure** (Feb 28 – Sep 2); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day; plateau at ~2/day established Aug 29–Sep 1 continues.
+- **Iran-Oman temporary shipping corridor — implementation still pending**: Corridor agreement confirmed by Iran Deputy FM Gharibabadi Aug 26; technical talks ongoing through Sep 1. No formal operationalization or vessel movements via this route confirmed as of Sep 2 logging. Remains the most significant structural diplomatic development since the crisis began; could unlock LNG and fertilizer flows if operationalized.
+- **Crude estimate basis**: ~2 crude vessels estimated for Sep 2, flat vs Sep 1 (~2). Consistent with the plateau at elevated level relative to Aug 17–28 baseline of ~1/day. The 7-day average has risen to ~1.6/day (from ~1.4/day the prior week), reflecting the Aug 29+ upward step. No single-day AIS confirmation available; estimate reflects continuation of the established plateau. All figures approximate and AIS-visible only.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). CENTCOM-facilitated count 1,300+ since May. NOT reflected in AIS-visible counts above.
+- **Brent crude: ~$88/bbl** (sustained from Aug 29–Sep 1 level; market continuing to price in Iran-Oman corridor/reopening probability — ~$12/bbl decline from ~$100/bbl level seen through Aug 28).
+- **Multiple-mediator diplomatic framework active**: Qatar PM and FM visited Tehran Aug 27; Oman FM visited Aug 25–26; France engaged. No US-Iran direct talks confirmed. Iran continues to condition full reopening on US lifting naval blockade and sanctions.
+- **Amara seizure — Day 17 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **LNG**: 0 laden outbound confirmed. Day 35 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29). ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored under Iran-Oman talks as of Sep 1. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: Extrapolated from Sep 1 log; [USNI News Aug 28 — Strait of Hormuz Tanker Transits Up But Still Below Pre-War Levels](https://news.usni.org/2026/08/28/strait-of-hormuz-tanker-transits-up-but-still-below-pre-war-levels) · [Al Jazeera Aug 26 — Iran, Oman agree on new temporary route in Hormuz](https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route) · [straits.live — Strait of Hormuz](https://straits.live/)
+
+---
+
 ## 2026-09-01
 
 | Metric | Value |
