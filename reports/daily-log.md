@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-03
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | -1 (-50%) vs Sep 2's ~2 crude (AIS-visible); escalation-driven drop; all figures approximate |
+| 7-day average | 1.7 vessels/day (based on 7 days Aug 27–Sep 2: ~1 Aug 27, ~1 Aug 28, ~2 Aug 29, ~2 Aug 30, ~2 Aug 31, ~2 Sep 1, ~2 Sep 2; sum=12, 12/7≈1.7) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 36 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf; Iran-Oman corridor operationalization now set back by Sep 2 escalation)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1 vessel (estimated; escalation likely suppressing inbound movement; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (Axios, CNBC, ground.news Sep 2–3 2026 reporting) and prior log trajectory. All vessel counts AIS-visible only and approximate.
+- **Day 188 of effective closure** (Feb 28 – Sep 3); AIS-visible commercial traffic ~90–95% below pre-crisis baseline of ~138 vessels/day.
+- **MAJOR ESCALATION — US "tanker-for-tanker" strikes (Sep 2)**: US military struck two Iranian government tankers in engine rooms via drone-launched missiles under Trump's new "tanker-for-tanker" policy. Simultaneously, ~100 IRGC targets struck including air defense sites, radar systems, mine-laying capabilities, anti-ship cruise missile launchers, and attack drone launchers (CENTCOM). Policy reportedly triggered by Iran striking two Saudi crude tankers on Sep 1–2.
+- **Iran retaliates (Sep 2–3)**: IRGC launched ~25 ballistic missiles and drones at US bases in Bahrain, Kuwait, Erbil, and other Gulf allies (Jordan, UAE per Iranian state media). Most intercepted; US officials report Iranian response failed to cause significant damage.
+- **8 total transits Sep 3 (5 dark/AIS-off, 3 AIS-visible)**: All vessel types; crude component estimated at ~1 AIS-visible from 3 observable vessels. Total transit count broadly consistent with Sep 2 (no single-day collapse), though escalation chilling effect expected to build over Sep 3–5.
+- **Iran-Oman corridor**: Agreement from Aug 26 now overshadowed by Sep 2 escalation. IRGC maritime assets targeted in US strikes could affect corridor implementation mechanics. No formal operationalization confirmed; timeline now uncertain.
+- **Brent crude: ~$95/bbl** (up ~$7/bbl from ~$88/bbl on Sep 2; spike reflecting tanker-for-tanker escalation and expanded conflict scope beyond strait interdiction; market pricing in direct US-Iran exchange risk).
+- **LNG**: 0 laden outbound. Day 36 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29). ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **Amara seizure — Day 18 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). NOT reflected in AIS-visible counts above.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: [Axios Sep 2 — U.S. strikes Iran tankers under new "tanker for tanker" policy](https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil) · [CNBC Sep 2 — Brent oil above $95 as Iran retaliates with strikes on U.S. Gulf allies](https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html) · [ground.news — U.S. strikes Iran tankers under new "tanker for tanker" policy](https://ground.news/article/us-military-attacked-two-iranian-government-tankers-on-tuesday-axios-reports) · [The War Zone — Iranian Oil Tankers In The Cross Hairs Of New U.S. Campaign](https://www.twz.com/news-features/iranian-oil-tankers-in-the-cross-hairs-of-new-u-s-campaign) · [straits.live — Day 188 Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-09-02
 
 | Metric | Value |
