@@ -4,6 +4,37 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-05
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 4's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.7 vessels/day (based on 7 days Aug 29–Sep 4: ~2 Aug 29, ~2 Aug 30, ~2 Aug 31, ~2 Sep 1, ~2 Sep 2, ~1 Sep 3, ~1 Sep 4; sum=12, 12/7≈1.7) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 38 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf; Iran-Oman corridor operationalization still unknown post Sep 2 escalation)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1 vessel (estimated; chilling effect from Sep 2 US strikes persists; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (GlobalSecurity.org Day 189 OPREP, Windward AI, iransitrep.com, straits.live Day 188/190) and prior log trajectory. All vessel counts AIS-visible only and approximate.
+- **Day 190 of effective closure** (Feb 28 – Sep 5); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~4–6 observed).
+- **Sep 5 transit estimate**: ~1 crude AIS-visible, consistent with Sep 3–4 plateau. No evidence of further single-day collapse or recovery. Chilling effect from Sep 2 US "tanker-for-tanker" strikes continues to suppress commercial operator confidence.
+- **VP Vance (new)**: Vice President Vance stated there will be "no talks with Tehran until it stops shooting at commercial shipping." Signals US political position has hardened post-Sep 2 tanker strikes, reducing near-term diplomatic off-ramp probability.
+- **Mitsui O.S.K. Lines (world's largest tanker operator — new)**: Stated Hormuz disruption will persist "longer than previously anticipated" with no normalization expected by year-end. First explicit year-end timeline statement from a major operator; reinforces market expectation of prolonged closure.
+- **Iran Sep 3 attacks confirmed**: Iran conducted missile and drone barrages on Kuwait and UAE on Sep 3 in retaliation for Sep 2 US strikes. Most intercepted; no major damage reported.
+- **Brent crude: ~$95/bbl** (eased from above $97 six-week high; market partially pricing in absence of further US escalation on Sep 3–5 while still elevated vs pre-Sep 2 ~$88/bbl).
+- **Iraq crude land-bridge**: Trucks shuttling crude from southern Iraq's refineries to Syrian port of Baniyas (active since April) as partial Hormuz bypass. Capacity limited; not offsetting Hormuz closure at scale but represents structural adaptation.
+- **Amara seizure — Day 20 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. Day 38 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29). ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: [GlobalSecurity.org — Iran War Day 189 OPREP (Sep 4)](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [iransitrep.com — Iran War Day 189 Live Update](https://www.iransitrep.com/) · [straits.live — Day 188 Strait of Hormuz Closed](https://straits.live/) · [Windward Daily Intelligence](https://insights.windward.ai/) · [TradingEconomics — Brent Rises as US-Iran War Intensifies](https://tradingeconomics.com/commodity/brent-crude-oil/news/530749)
+
+---
+
 ## 2026-09-04
 
 | Metric | Value |
