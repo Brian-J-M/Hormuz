@@ -4,6 +4,38 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 5's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.6 vessels/day (based on 7 days Aug 30–Sep 5: ~2 Aug 30, ~2 Aug 31, ~2 Sep 1, ~2 Sep 2, ~1 Sep 3, ~1 Sep 4, ~1 Sep 5; sum=11, 11/7≈1.6) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 39 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1 vessel (estimated; post-Sep 2 escalation chilling effect persists; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (Al Jazeera, Business Recorder, straits.live, Windward AI, UANI) and prior log trajectory. All vessel counts AIS-visible only and approximate.
+- **Day 191 of effective closure** (Feb 28 – Sep 6); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1–5 observed).
+- **Sep 6 transit estimate**: ~1 crude AIS-visible, consistent with Sep 3–5 plateau. No reporting of recovery or further collapse; post-Sep 2 "tanker-for-tanker" chilling effect persists. No new confirmed US strikes on Iranian tankers Sep 5–6.
+- **Two VLCCs struck east of Khasab (Aug 30–31) — ongoing hazard**: Vessels remain stationary in central strait; one trailing visible oil slick; Omani navy corvette reported inbound. Active navigation hazard for any vessels attempting the southern channel.
+- **VP Vance (hardened stance)**: Stated "no talks with Tehran until it stops shooting at commercial shipping." Reduces near-term diplomatic off-ramp probability.
+- **Mitsui O.S.K. Lines**: World's largest tanker operator stated disruption will persist "longer than previously anticipated" with no normalization expected by year-end.
+- **South Korea deployment**: Seoul announced P-8 Poseidon maritime patrol aircraft, EOD team, and logistics support ship to Hormuz region — most significant non-US allied military contribution to date.
+- **Gulf crude exports down ~47%**: ~17M bbl/day pre-war → ~9M bbl/day as of August 2026 (Al Jazeera/Kpler).
+- **Brent crude: ~$95/bbl** (sustained post-Sep 2 spike; no fresh escalation Sep 5–6 allowing minor easing from ~$97 six-week high).
+- **Amara seizure — Day 21 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day). NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. Day 39 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29). ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims) · [Al Jazeera Aug 27 — 95 percent drop in Hormuz traffic](https://www.aljazeera.com/news/2026/8/27/how-a-95-percent-drop-in-hormuz-traffic-changed-global-shipping) · [Business Recorder Sep 4 — Gulf shipping traffic via Hormuz stays below 10-day average](https://www.brecorder.com/news/40437913/gulf-shipping-traffic-via-hormuz-stays-below-10-day-average-data-shows) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed](https://straits.live/) · [UANI Sep 1 — Iran Shipping Update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-1-2026) · [Axios Sep 2 — US strikes Iran tankers under "tanker for tanker" policy](https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil)
+
+---
+
 ## 2026-09-05
 
 | Metric | Value |
