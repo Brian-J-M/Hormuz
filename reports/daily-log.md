@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 7's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.3 vessels/day (based on 7 days Sep 1–7: ~2 Sep 1, ~2 Sep 2, ~1 Sep 3, ~1 Sep 4, ~1 Sep 5, ~1 Sep 6, ~1 Sep 7; sum=9, 9/7≈1.3) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 41 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~1 vessel (estimated; post-Sep 2 chilling effect persists; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (CNN Sep 5, Al Jazeera Sep 6, USNI News, straits.live, Windward AI). All vessel counts AIS-visible only and approximate.
+- **Day 193 of effective closure** (Feb 28 – Sep 8); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1–5 observed).
+- **Sep 8 transit estimate**: ~1 crude AIS-visible, consistent with Sep 3–7 plateau. No confirmed new Iranian attacks or US strikes reported for Sep 7–8; sustained post-Sep 2 chilling effect.
+- **US Sep 5 strikes — most destructive to date (CNN)**: US military struck three Iranian government tankers: M/T Downy (off Kharg Island) and M/T Stark 1 (near Jask) "permanently disabled"; M/T Kylo "completely destroyed." This is the largest US strike on Iranian tankers under the "tanker-for-tanker" policy and escalates scope beyond the two-ship strikes of Sep 2–4.
+- **Al Jazeera Sep 6 "tanker war" framing**: Analysis article frames the conflict as a sustained "tanker war" with no off-ramp visible; US and Iran both escalating tit-for-tat attacks without diplomatic channel to halt them.
+- **12 total transits Sep 6** (7 inbound, 5 outbound) vs ~85/day normal — consistent with prior days' plateau, marginally above single-digit lows of early August.
+- **Amara seizure — Day 23 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. Day 41 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29); Kpler confirms no LNG crossings since approximately Jul 11 under its methodology (~14 laden LNG carriers stranded inside Persian Gulf).
+- **Fertilizer/food**: Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Brent crude: ~$95/bbl** (sustained post-Sep 2 level; no further escalation Sep 7–8 allowing marginal stability).
+- **Sources**: [CNN Sep 5 — US military strikes three Iranian tankers in retaliation for missile attacks](https://www.cnn.com/2026/09/05/middleeast/iran-us-tanker-kharg-intl) · [Al Jazeera Sep 6 — US, Iran engaged in tanker war: Where is the months-long conflict headed?](https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed) · [Kpler — No LNG tankers cross Strait of Hormuz since July 11](https://www.kpler.com/blog/no-lng-tankers-cross-strait-of-hormuz-since-july-11-amid-escalating-us-iran-conflict) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed Day 193](https://straits.live/)
+
+---
+
 ## 2026-09-07
 
 | Metric | Value |
