@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-11
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 10's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 4–10: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 44 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~0–1 vessel (estimated; post-Sep 9 chilling effect deepening; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (Al Jazeera, Foreign Policy, US News, RTE, TradingEconomics). All vessel counts AIS-visible only and approximate.
+- **Day 196 of effective closure** (Feb 28 – Sep 11); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1–5 observed; post-Sep 9 possible further collapse toward zero).
+- **Sep 11 transit estimate**: ~1 crude AIS-visible (approximate), consistent with Sep 4–10 plateau. However, post-Sep 9 environment is unprecedented — actual transit count may be at or near 0. Conservative ~1 estimate maintained pending confirmed data.
+- **Sep 8 — US strikes 5 IRGC-linked tankers** (Gulf of Oman and near Kharg Island), in response to renewed Iranian ballistic missile attacks on US Navy warships. *(Note: missed in the Sep 10 log entry.)*
+- **Sep 9 — Iran's largest-ever shipping attack**: Iran declares it attacked 10 vessels near the Strait of Hormuz (2 US ships + 8 oil vessels) and fired ballistic missiles at US forces at Al-Azraq base in Jordan. **Hercules Star** (Gibraltar-flagged oil products tanker, chartered by Peninsula): 1 seafarer killed, 1 missing, fire onboard. Described by analysts as the biggest declared wave of tit-for-tat shipping attacks since the war began (RTE, US News, Foreign Policy Sep 9).
+- **Brent crude breaks $100/bbl**: Brent briefly hit $100 on Sep 9 (first time since July); currently ~$108–109/bbl (up ~6.5% in 24 hours, ~+14% vs Sep 10's ~$95). WTI ~$103/bbl. Largest single-session oil price surge since the Feb 2026 outbreak of hostilities.
+- **Amara seizure — Day 26 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. Day 44 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29); ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); likely higher post-Sep 9. True crude throughput substantially exceeds AIS-visible figures.
+- **Sources**: [Al Jazeera Sep 9 — US strikes five Iranian tankers, Iran attacks 10 ships and Jordan base](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base) · [Foreign Policy Sep 9 — Iran Targets 10 Ships in Strait of Hormuz](https://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/) · [US News Sep 9 — Iran attacks US base in Jordan, ships near Hormuz](https://www.usnews.com/news/world/articles/2026-09-09/iran-attacks-us-base-in-jordan-ships-near-hormuz-after-tankers-sunk) · [RTE Sep 9 — Iran and US hit tankers in biggest attack on shipping of war](https://www.rte.ie/news/middle-east/2026/0909/1590828-middle-east-iran/) · [TradingEconomics — Brent Crude Tops $102](https://tradingeconomics.com/commodity/brent-crude-oil/news/533445) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed Day 196](https://straits.live/)
+
+---
+
 ## 2026-09-10
 
 | Metric | Value |
