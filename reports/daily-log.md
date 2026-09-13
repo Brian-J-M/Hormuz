@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-13
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 12's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 6–12: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 46 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~0–1 vessel (estimated; post-Sep 11 escalation chilling effect; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (GlobalSecurity, Windward AI, straits.live, hormuztracking.com, RFE/RL). All vessel counts AIS-visible only and approximate.
+- **Day 198 of effective closure** (Feb 28 – Sep 13); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed).
+- **Sep 13 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the Sep 6–12 plateau at ~1/day. Live AIS count (hormuztracking.com) shows 4 vessels in-zone; one crude tanker crossing per day is the prevailing estimate across this plateau.
+- **Sep 11 NEW — IRGC attacks Saildrone + 2 commercial vessels near Khasab**: IRGC stated it struck a Saildrone Explorer-type USV at the Strait entrance; UK Maritime Trade Operations (UKMTO) reported 4 projectiles striking 2 vessels 4 nautical miles west of Khasab, Oman, one afire (GlobalSecurity Iran War Day 196 report, Sep 11). This event was not fully captured in the Sep 12 log entry and represents a renewed direct attack on commercial shipping in the immediate approach to the Strait.
+- **Sep 9 data confirmation**: RFE/RL-sourced data showed 7 total vessel transits Sep 9 (4 exiting, 3 entering), down from 12 on Sep 8 and half the 10-day average of 14; Finland Prosperity (VLCC, ~2M bbl Iraqi crude) was the 1 confirmed crude carrier that day; no LNG tankers.
+- **Amara seizure — Day 28 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. Day 46 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29); ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer/food**: Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); likely elevated post-Sep 11 attacks. True crude throughput substantially exceeds AIS-visible figures.
+- **War-risk insurance**: Running at 40× normal (straits.live/TankerBrief aggregation); 6 P&I clubs have withdrawn cover.
+- **Brent crude**: ~$108–109/bbl (sustained near post-Sep 9 peak; no confirmed ceasefire talks; Sep 11 Khasab attack adds upside pressure).
+- **Sources**: [GlobalSecurity — Iran War Day 196 Update Sep 11](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [GlobalSecurity — Hormuz Shipping Traffic Falls to 7 Transits Sep 10](https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260910-rferl05.htm) · [hormuztracking.com — Live Strait of Hormuz Traffic: 4 Vessels](https://hormuztracking.com/) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed](https://straits.live/) · [Al Jazeera Sep 9 — US destroys five Iranian tankers, Iran retaliates](https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base)
+
+---
+
 ## 2026-09-12
 
 | Metric | Value |
