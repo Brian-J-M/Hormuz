@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 13's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 7–13: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 47 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~0–1 vessel (estimated; Sep 13 Hengam Island attack adds chilling effect; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (CNN, The Hill, Windward AI, straits.live, Emirates 24|7, UN News). All vessel counts AIS-visible only and approximate.
+- **Day 199 of effective closure** (Feb 28 – Sep 14); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed).
+- **Sep 14 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the Sep 7–13 plateau at ~1/day. No confirmed recovery; post-Sep 11 Khasab attack and Sep 13 Hengam attack continue to suppress commercial traffic.
+- **NEW — Sep 13: Iranian commercial vessel struck near Hengam Island**: An Iranian commercial container vessel was hit by an "unidentified projectile" near Hengam Island in the Strait of Hormuz, killing 1 crew member and wounding 4 others (CNN/The Hill Sep 13). Crude prices rose ~3% on the news.
+- **NEW — Sep 14 diplomatic signal: Tehran–Oman meeting on shipping**: Tehran set to meet regional leaders in Oman today to discuss managing shipping traffic through the Strait. First concrete diplomatic engagement in weeks; no outcome yet. Could be an early recovery signal if arrangements are announced.
+- **Iran-Oman August route agreement status**: August agreement on safe shipping coordinates has not yet resulted in meaningful recovery; shipping companies remain cautious due to insufficient insurance coverage and unresolved security guarantees.
+- **LNG**: 0 laden outbound. Day 47 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29); ~14 laden LNG carriers stranded inside Persian Gulf. LNG exports through Hormuz down ~95% (UN News Aug).
+- **Fertilizer**: 0 vessels. Fertilizer shipments near zero; Hormuz handled ~20% of global nitrogen fertilizer trade pre-crisis (UN News/Kpler).
+- **Amara seizure — Day 29 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **Brent crude**: ~$98–100/bbl (up ~3% on Sep 13 Hengam attack; near post-Sep 9 highs).
+- **Sources**: [CNN Sep 13 — Iran reports commercial vessel struck near Hormuz](https://www.cnn.com/2026/09/13/middleeast/iran-hormuz-qeshm-attack-intl) · [The Hill — Ship attacked while exiting Strait of Hormuz](https://thehill.com/policy/defense/6034669-strait-of-hormuz-ship-attacked-iran-conflict/) · [The Hill — Iranian cargo ship struck near Hormuz](https://thehill.com/policy/international/6086615-iranian-cargo-ship-struck-hormuz/) · [UN News — Hormuz disruption hits energy, fertilizer and industrial trade](https://news.un.org/en/story/2026/08/1168074) · [Emirates 24|7 — Commodity vessel transits stay in single digits](https://www.emirates247.com/news/strait-of-hormuz-commodity-vessel-transits-stay-in-single-digits/5113) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-09-13
 
 | Metric | Value |
