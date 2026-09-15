@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-15
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 14's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 8–14: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 48 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; ~14 laden LNG carriers remain stranded inside Persian Gulf)
+- Fertilizer: 0 vessels (humanitarian corridor not restored; ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait)
+- Agricultural (inbound): ~0–1 vessel (estimated; post-Sep 13 Hengam attack chilling effect persists; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures from web search aggregation (CNN, CNBC, Bloomberg, GlobalSecurity, straits.live, Windward AI). All vessel counts AIS-visible only and approximate.
+- **DAY 200 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 15); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed). A grim milestone.
+- **Sep 15 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the Sep 8–14 plateau at ~1/day. No confirmed new escalatory events on Sep 14–15 as of logging time; post-Sep 13 Hengam attack chilling effect continues.
+- **DIPLOMATIC SETBACK — Oman Hormuz talks postponed indefinitely (Sep 13)**: The regional meeting scheduled for Sep 14 in Salalah, Oman — involving Iran, Iraq, and Gulf states on establishing safe shipping routes through the Strait — was indefinitely postponed on Sep 13. Omani FM Badr Albusaidi stated "In the interests of consensus the regional meeting set for tomorrow in Salalah has been postponed." Saudi Arabia had submitted proposed amendments raising concerns draft language could establish a new legal status quo unacceptable to GCC states. Iran's FM said postponement was a joint decision by Tehran and Muscat. This reverses the potential recovery signal noted in the Sep 14 entry. (CNN Sep 13; Bloomberg Sep 13; GlobalSecurity Sep 11)
+- **UAE-Iran leadership contact (Sep 13)**: Bloomberg reported UAE and Iranian leaders met on Sep 13, described as part of "push to resolve Hormuz standoff," but no concrete arrangements emerged.
+- **Amara seizure — Day 30 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **LNG**: 0 laden outbound. Day 48 since last confirmed laden outbound (*Al Areesh*, QatarEnergy, Jul 29); ~14 laden LNG carriers stranded inside Persian Gulf.
+- **Fertilizer**: 0 vessels. Humanitarian corridor not restored. ~20 fertilizer vessels (~587,000 MT urea + DAP) stranded near strait.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI). True crude throughput substantially exceeds AIS-visible figures.
+- **War-risk insurance**: Running at 40× normal; 6 P&I clubs withdrawn cover; commercial transit effectively priced out for most operators.
+- **Brent crude**: ~$98–100/bbl (near post-Sep 13 Hengam attack highs; diplomatic postponement removes near-term recovery catalyst).
+- **Sources**: [CNN Sep 13 — Iran-Gulf Hormuz talks postponed](https://www.cnn.com/2026/09/13/politics/iran-gulf-countries-strait-of-hormuz) · [Bloomberg Sep 13 — Hormuz Meeting With Iran Delayed](https://www.bloomberg.com/news/articles/2026-09-13/hormuz-meeting-with-iran-and-gulf-nations-postponed-oman-says) · [Bloomberg Sep 13 — UAE, Iran Leaders Meet](https://www.bloomberg.com/news/articles/2026-09-13/uae-iran-leaders-meet-as-push-to-resolve-hormuz-standoff-grows) · [CNBC Sep 13 — Vessel struck in Strait of Hormuz](https://www.cnbc.com/2026/09/13/vessel-struck-strait-of-hormuz-ukmto.html) · [GlobalSecurity Sep 11 — Iran says Oman to host regional meeting Sep 14](https://www.globalsecurity.org/wmd/library/news/iran/2026/09/iran-260911-azertac01.htm) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-09-14
 
 | Metric | Value |
