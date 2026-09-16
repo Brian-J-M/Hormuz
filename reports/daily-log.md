@@ -4,6 +4,37 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-16
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 15's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 9–15: ~1 each day; TankerMap 7-day moving average independently at 0.6/day, indicating a declining trend) |
+
+Secondary:
+- LNG: 0 laden outbound confirmed (Day 49 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; unconfirmed Bloomberg report of *Al Maruna* outbound Sep 8 toward Pakistan — requires verification); 6 empty Qatari carriers repositioning near Gulf of Oman
+- Fertilizer: ~0 vessels (near zero per latest WTO/AXSMarine data; no confirmed transits despite corridor nominally existing; war-risk insurance still prohibitive)
+- Agricultural (inbound): ~0–1 vessel (estimated; double-chokepoint environment — Hormuz + Saudi East-West Pipeline — suppressing inbound demand signals)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from CNBC, Bloomberg, Safety4Sea, Rappler, NCRI, Yahoo Finance, UkrAgroConsult, Asharq Al-Awsat, and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **DAY 201 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 16); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed). TankerMap 7-day average down to 0.6/day (from 1.4 mid-August) indicating further softening.
+- **Sep 16 transit estimate**: ~1 crude AIS-visible (approximate), consistent with Sep 9–15 plateau at ~1/day but on a declining trend. Sep 13 Hengam attack chilling effect persists; postponed Oman talks remove near-term recovery catalyst. No confirmed transit data from live trackers (all proxy-blocked).
+- **CRITICAL — Saudi East-West Pipeline struck (Sep 11–12)**: Houthi drones and missiles struck the Saudi East-West Pipeline pumping station (~4–5 million barrels/day capacity; one of the world's largest oil bypass routes, running from Abqaiq to Yanbu on the Red Sea). Saudi Aramco declared a "precautionary shutdown." This eliminates the primary bypass route that had been absorbing overflow from the Hormuz closure — a structural double-lock on global oil supply. Follow-on Houthi attacks struck energy facilities at Khamis Mushait, Abha, Taif, and Jazan on Sep 12–13.
+- **CRITICAL — Houthis capture Perim Island / Bab el-Mandeb tightened**: Houthi forces completed seizure of Perim Island in the Bab el-Mandeb Strait (southern Red Sea), further tightening their grip on the world's second major Gulf oil bypass route. Both primary alternative routes to Hormuz (Saudi East-West Pipeline → Red Sea, and the Cape of Good Hope diversion through Bab el-Mandeb) are now materially degraded simultaneously.
+- **Sep 16 — Houthi/Mecca drone dispute**: Saudi Arabia claimed Houthi forces targeted Mecca with a drone; Iranian-backed Houthis denied the claim (CNBC Sep 16). If confirmed, striking Mecca would be an unprecedented religious and political escalation with major regional implications. No corroboration from third parties at time of logging.
+- **Oman Hormuz talks — Bahrain official withdrawal**: The Iran–Gulf states meeting scheduled for Salalah on Sep 14 was formally postponed after Bahrain officially withdrew, citing need for "consensus." NCRI characterizes this as evidence of Iran's diplomatic isolation on the Hormuz governance question. No new date set.
+- **LNG — unconfirmed partial recovery signal**: Bloomberg/Safety4Sea reported that the *Al Maruna* (Qatar LNG, loaded) successfully exited the strait on approximately Sep 8, sailing toward Pakistan's Port Qasim — described as a first since the late-July resumption collapse. If confirmed, this would revise the Day 49 count. Qatar appears to be testing cautious one-off transits; 6 empty carriers are repositioning near the Gulf of Oman in preparation for a possible export restart.
+- **Oil prices Sep 16**: Brent crude ~$108.88/bbl (+3% on the day); WTI ~$104.68/bbl; Murban regional marker spiked to ~$122/bbl. Prices up more than 20% month-to-date in September. Goldman Sachs warns Brent could exceed $120 in 2027 if Gulf output stays 4 mbpd below pre-war levels.
+- **Fertilizer**: Near zero per WTO–AXSMarine and UkrAgroConsult. Shipping companies cite insufficient war-risk insurance and route uncertainty. Some Transport Topics reporting suggests early-stage fertilizer flow recovery, but no confirmed AIS-visible numbers.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Amara seizure — Day 31 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-Sep 13 attacks. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [CNBC Sep 16 — Saudi says Houthis targeted Mecca](https://www.cnbc.com/2026/09/16/us-iran-war-trump-hormuz.html) · [CNBC Sep 15 — US oil tops $105, Saudi cancels crude cargoes](https://www.cnbc.com/2026/09/15/oil-extends-gains-following-houthi-strikes-on-saudi-arabia.html) · [CNBC Sep 13 — Oil prices rise after Saudi pipeline closure](https://www.cnbc.com/2026/09/13/oil-price-iran-war-strait-hormuz-saudi-pipeline.html) · [Rappler Sep 13 — Houthi attack Saudi Arabia updates](https://www.rappler.com/world/middle-east/houthi-attack-saudi-arabia-updates-september-13-2026/) · [Yahoo Finance — Oil surges past $108](https://finance.yahoo.com/energy/articles/oil-prices-surge-past-108-171815703.html) · [Bloomberg Sep 7 — Qatar LNG repositioning](https://www.bloomberg.com/news/articles/2026-09-07/qatar-is-bringing-empty-lng-ships-home-in-possible-export-pivot) · [Safety4Sea — Qatar LNG restart signal](https://safety4sea.com/qatar-signals-possible-lng-export-restart-after-hormuz-transit/) · [NCRI — Iran news brief Sep 16](https://www.ncr-iran.org/en/news/iran-news-in-brief-september-16-2026/) · [UkrAgroConsult — Fertilizer near zero](https://ukragroconsult.com/en/news/fertilizer-shipments-through-the-strait-of-hormuz-remain-near-zero/) · [Asharq Al-Awsat — Stranded fertilizer ships](https://english.aawsat.com/business/5286667-more-oil-and-gas-stranded-fertilizer-ships-reveal-another-side-hormuz-crisis) · [TankerMap — Hormuz analytics](https://tankermap.com/analytics/straits/hormuz) · [Windward Daily Intelligence](https://insights.windward.ai/) · [UANI Sep 4 update](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-4-2026)
+
+---
+
 ## 2026-09-15
 
 | Metric | Value |
