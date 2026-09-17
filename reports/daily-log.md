@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-17
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 16's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 10–16: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound confirmed (Day 50 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; Qatar has extended Force Majeure; Asia LNG Japan-Korea Marker November futures spiked to $6.5/MMBtu on Sep 17 — a 7-month high, driven by Saudi facility attack fallout and dual-chokepoint environment)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (estimated; post-Sep 13 Hengam and Sep 11 Khasab attack chilling effect persists)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from Windward AI, CNBC, Bloomberg, straits.live, OilPrice.com, Energy Aspects, GlobalSecurity, and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **DAY 202 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 17); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed).
+- **Sep 17 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the Sep 10–16 plateau at ~1/day. Sep 16 saw 12 total vessel transits (all types) — double the prior day's 6 — an uptick in total count, but 3 identified VLCCs were inbound and in ballast (no laden crude outbound confirmed). AIS-visible crude estimate unchanged at ~1.
+- **Sep 16 vessel breakdown (Windward)**: Satellite imagery identified 3 VLCCs (310m+) crossing dark and inbound, all in ballast (high waterline). Only 3 vessels broadcast full AIS: 1 Barbados-flagged bulk carrier, 1 Palau-flagged asphalt/bitumen carrier, 1 Palau-flagged LPG carrier. 2 additional vessels went dark mid-transit. The doubling of total transits (6→12) is a notable uptick but driven by non-crude categories; no laden crude outbound confirmed.
+- **LNG Sep 17 — 7-month price high**: Japan-Korea Marker November LNG futures spiked to $6.5/MMBtu on Sep 17 (EIA/BloombergNEF), described as the highest level in 7 months. Cited drivers: Saudi East-West Pipeline shutdown (struck Sep 11–12), Perim Island capture restricting Red Sea/Bab el-Mandeb alternative, and ongoing Hormuz closure — a simultaneous triple-chokepoint environment. Qatar extends Force Majeure; no laden LNG outbound transits confirmed since *Al Areesh* Jul 29 (Day 50).
+- **No diplomatic track active**: Trump told reporters no US–Iran talks currently underway. Iran Speaker Ghalibaf issued formal list of preconditions for reopening Hormuz: lifting oil sanctions + ending military threats. Oman talks remain postponed with no new date set (Bahrain officially withdrew Sep 14). Britannica/Crisis Group characterize this as "Day 172 with no active diplomatic track, no ceasefire, both sides publicly rejecting conditions needed to implement the Aug 12 Versailles MoU."
+- **Saudi East-West Pipeline**: Still shut (Aramco "precautionary shutdown" after Sep 11–12 Houthi strikes). Primary bypass route for Hormuz-blocked oil remains offline, removing ~4–5 mbpd capacity. Follow-on strikes (Khamis Mushait, Abha, Taif, Jazan Sep 12–13) unresolved.
+- **Mecca drone claim** (Sep 16): Saudi Arabia claimed Houthis targeted Mecca with a drone; Houthis denied. No third-party corroboration as of logging time. If confirmed, an unprecedented religious/political escalation.
+- **Amara seizure — Day 32 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Oil prices Sep 17**: Brent crude ~$108–110/bbl (near post-Sep 13 highs; Saudi pipeline still offline; Mecca claim adds uncertainty); LNG at 7-month price high; dual-chokepoint premium priced into all energy commodities.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-Sep 13 attacks. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [Windward Daily Intelligence](https://insights.windward.ai/) · [EIA — International LNG prices rise amid Strait of Hormuz closure](https://www.eia.gov/todayinenergy/detail.php?id=67604) · [OilPrice.com — Qatar Extends Force Majeure as Hormuz Crisis Still Blocks LNG Traffic](https://oilprice.com/Latest-Energy-News/World-News/Qatar-Extends-Force-Majeure-as-Hormuz-Crisis-Still-Blocks-LNG-Traffic.html) · [Energy Aspects — Qatar LNG: why Hormuz recovery will be slow and uneven](https://www.energyaspects.com/resources/insights/qatar-lng-hormuz-recovery-gradual) · [Britannica — 2026 Iran war](https://www.britannica.com/event/2026-iran-war) · [Crisis Group — Strait of Hormuz flashpoint](https://www.crisisgroup.org/trigger-list/iran-usisrael-trigger-list/flashpoints/strait-hormuz) · [straits.live — Strait of Hormuz Closed](https://straits.live/) · [GlobalSecurity — Iran War Day 196 Update](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm)
+
+---
+
 ## 2026-09-16
 
 | Metric | Value |
