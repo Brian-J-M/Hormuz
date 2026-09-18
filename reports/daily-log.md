@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-18
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 17's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 11–17: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 51 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; Qatar Force Majeure extended)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (estimated; *Trend* strike Sep 18 adds further chilling effect; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from Deccan Herald, Korea Times, BOE Report, CNBC, Windward AI, and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **DAY 203 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 18); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed).
+- **Sep 18 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the Sep 11–17 plateau at ~1/day. The IRGC strike on the *Trend* (see below) may represent today's single AIS-visible crude transit, now detained. No confirmed laden crude outbound beyond this.
+- **CRITICAL — IRGC strikes and detains Togo-flagged oil tanker *Trend***: Iran's Islamic Revolutionary Guard Corps (IRGC) announced it struck and detained the Togo-flagged oil tanker *Trend* in the Strait of Hormuz, with a fire reported on board. The UK Maritime Trade Operations (UKMTO) confirmed a separate "security incident in the Strait of Hormuz, 16 nautical miles (29.6 km) northeast of Khasab, Oman" — the same general corridor as the Sep 11 Khasab attacks and earlier incidents. Iran cited "illegal passage" (transiting without paying Iran's contested toll/route compliance). This is consistent with Iran's stated toll-enforcement policy and the seventh confirmed commercial vessel strike in September. Vessel fate and crew status remain unconfirmed at logging time.
+- **Saudi East-West Pipeline — potential Hormuz offset signal**: CNBC (Sep 17) reported Saudi Arabia is "reportedly offering more crude via Hormuz" to compensate for the continuing East-West Pipeline shutdown — a structural supply shift. If Saudi increases AIS-visible Hormuz crude transits, future days' counts could tick slightly above the ~1/day plateau. The *Trend* strike today adds counter-pressure to any such recovery.
+- **Mecca drone claim — partial update**: No third-party corroboration of the Sep 16 Houthi-Mecca drone claim as of Sep 18. A Saudi-Türkiye-Pakistan Mecca defence pact (announced Aug 2026) has been cited in Saudi diplomatic responses, elevating the political stakes if the claim is confirmed.
+- **Oil prices (Sep 17 close / Sep 18 reference)**: Brent crude ~$104.82/bbl; WTI ~$101.91/bbl. Down ~4% from the Sep 16 spike (~$108-110/bbl) on Saudi offering more Hormuz crude. The *Trend* strike introduces fresh upside risk. U.S. crude has gained >18% month-to-date in September.
+- **LNG — Day 51**: No confirmed laden outbound LNG transit since *Al Areesh* (QatarEnergy, Jul 29). Qatar Force Majeure extended. Asia LNG futures (Japan-Korea Marker) remain elevated at/near the 7-month high reached Sep 17.
+- **No diplomatic track active**: No Oman talks scheduled; Bahrain withdrew Sep 14; Trump confirmed no US-Iran dialogue; Iran's preconditions (sanction removal + end to military threats) remain unmet.
+- **Amara seizure — Day 33 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-Sep 13 attacks. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [Deccan Herald — Iran's IRGC says it struck Togo-flagged tanker in Strait of Hormuz](https://www.deccanherald.com/world/middle-east/irans-irgc-says-it-struck-togo-flagged-tanker-in-strait-of-hormuz-4150342) · [Korea Times — Iran says struck oil tanker in Strait of Hormuz](https://www.koreatimes.co.kr/world/20260918/iran-says-struck-oil-tanker-in-strait-of-hormuz) · [BOE Report — Iran's IRGC says it struck Togo-flagged tanker](https://boereport.com/2026/09/17/irans-irgc-says-it-struck-togo-flagged-tanker-in-strait-of-hormuz/) · [CNBC Sep 17 — Oil prices fall as Saudi Arabia offers more crude via Hormuz](https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html) · [Windward Daily Intelligence](https://insights.windward.ai/) · [straits.live — Strait of Hormuz Closed](https://straits.live/) · [TankerMap — Strait of Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz)
+
+---
+
 ## 2026-09-17
 
 | Metric | Value |
