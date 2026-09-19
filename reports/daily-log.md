@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-19
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 18's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 12–18: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 52 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; Qatar Force Majeure extended)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (estimated; post-*Trend* strike chilling effect; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from MarineInsight, CP24, Al Jazeera, CNBC, Windward AI, and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **DAY 204 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 19); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed).
+- **Sep 19 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the Sep 12–18 plateau at ~1/day. The Sep 18 *Trend* strike (see below) introduces additional chilling pressure on the already-depleted commercial transit pool.
+- **CRITICAL — *Trend* detention aftermath**: The Togo-flagged oil tanker *Trend* (struck and detained by IRGC on Sep 18 for alleged "illegal passage") had 23 crew evacuated by a Royal Navy of Oman vessel, which is now towing the vessel to port. Two crew members remain missing. Iran reiterated via state media that ships passing without a valid Persian Gulf Strait Authority (PGSA) permit face "destruction." This marks the eighth confirmed commercial vessel strike in September 2026 and underscores continued IRGC enforcement posture.
+- **Brent crude (Sep 18 close / Sep 19 reference)**: Brent eased to ~$102–103/bbl (slightly below the mid-week four-month high of ~$106–110/bbl); WTI ~$99–100/bbl. Modest pullback on unconfirmed reports of US–Gulf state diplomatic contacts, though no ceasefire track is active. *Trend* chilling effect may re-introduce upside risk.
+- **No diplomatic track active**: Trump acknowledged possible US re-escalation against Iran if conditions deteriorate; no Oman talks date set; Bahrain remains withdrawn (since Sep 14). No active US–Iran dialogue confirmed. US maintaining counter-blockade of Iranian ports.
+- **LNG — Day 52**: No confirmed laden outbound LNG transit since *Al Areesh* (QatarEnergy, Jul 29). Qatar Force Majeure extended. Asia LNG Japan-Korea Marker remained elevated near 7-month highs (~$6.5/MMBtu) reached Sep 17.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Amara seizure — Day 34 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); likely elevated post-*Trend* strike. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [MarineInsight — Iran struck and detained oil tanker in Strait of Hormuz](https://www.marineinsight.com/iran-says-it-struck-and-detained-an-oil-tanker-in-strait-of-hormuz-over-illegal-passage/) · [CP24 — Iran claims it struck oil tanker in the Strait of Hormuz](https://www.cp24.com/news/world/2026/09/18/iran-claims-it-struck-an-oil-tanker-in-the-strait-of-hormuz-and-other-mideast-developments/) · [The Hill — Iran says it struck oil tanker in Strait of Hormuz](https://thehill.com/policy/international/6097450-us-iran-conflict-straight-of-hormuz-tanker-hit/) · [Al Jazeera — US says it's clearing Hormuz traffic](https://www.aljazeera.com/news/2026/9/14/us-says-its-clearing-hormuz-traffic-why-are-oil-futures-beyond-100) · [CNBC Sep 9 — Brent oil tops $101](https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html) · [Windward Daily Intelligence](https://insights.windward.ai/) · [TankerMap — Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz) · [straits.live — Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-09-18
 
 | Metric | Value |
