@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-20
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 19's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 13–19: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 53 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; Qatar Force Majeure extended)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (estimated; post-*Trend* strike chilling effect persists; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from Windward AI, The Manila Times, convextrade.com, GlobalSecurity, and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **DAY 205 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 20); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed). Figures consistent with Sep 13–19 plateau at ~1/day.
+- **Sep 20 transit estimate**: ~1 crude AIS-visible (approximate), consistent with the sustained ~1/day plateau. No new IRGC vessel attack confirmed for Sep 20 as of available data; post-*Trend* strike chilling effect from Sep 18 continues to suppress commercial transit pool.
+- **DIPLOMATIC SIGNAL — Araghchi claims Iran-Oman Hormuz reopening agreement**: Iranian FM Araghchi, speaking in Beijing, stated that Iran has "agreed a plan with Oman to reopen the Strait of Hormuz." No Omani official has confirmed this claim as of logging time. If validated, this would be the first concrete bilateral reopening framework since the failed Versailles MoU. Treat as unverified recovery signal.
+- **POTENTIAL RECOVERY SIGNAL — Saudi East-West Pipeline**: Reports indicate Saudi Arabia is moving rapidly to restore throughput on its drone-damaged East-West Pipeline (struck Sep 11–12; ~4–5 mbpd capacity). If pipeline restoration accelerates, Hormuz crude transit pressure could ease further as Saudi can route oil via Red Sea without Hormuz. No confirmed restoration timeline available.
+- **Oil prices (Sep 19–20 reference)**: Brent ~$99.29/bbl on Sep 19 (up 1.18% from Sep 18's ~$103.21/bbl), suggesting a modest pullback from the mid-week highs (~$108–110/bbl). Sep 20 price not confirmed at logging time; anticipated to remain near $99–102/bbl.
+- **LNG — Day 53**: No confirmed laden outbound LNG transit since *Al Areesh* (QatarEnergy, Jul 29). Qatar Force Majeure extended. Asia LNG Japan-Korea Marker remains elevated near 7-month highs.
+- ***Trend* aftermath — Day 2**: Togo-flagged oil tanker *Trend* (struck Sep 18 by IRGC) towed to port by Royal Navy of Oman; 23 crew evacuated. Two crew members remain missing; search continuing. Vessel fate (constructive total loss vs. salvage) not yet determined.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Amara seizure — Day 35 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **No confirmed diplomatic track active for ceasefire**: Araghchi's Oman claim unverified; no Oman talks date set; Bahrain remains withdrawn (since Sep 14); no active US–Iran dialogue confirmed.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-*Trend* strike. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [The Manila Times — Iran 'strikes' oil tanker in Strait of Hormuz (Sep 20)](https://www.manilatimes.net/2026/09/20/world/americas-emea/iran-strikes-oil-tanker-in-strait-of-hormuz/2428708) · [convextrade.com — Brent Crude Oil Price Sep 19](https://convextrade.com/today/brent-crude-oil-price) · [GlobalSecurity — Iran War Day 203 Update Sep 18](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [Crisis Group — Hormuz 1 September 2026](https://www.crisisgroup.org/content/hormuz-1-september-2026-1) · [Windward Daily Intelligence](https://insights.windward.ai/) · [TankerMap — Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz)
+
+---
+
 ## 2026-09-19
 
 | Metric | Value |
