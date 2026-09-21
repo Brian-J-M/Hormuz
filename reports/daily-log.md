@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-21
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 20's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 14–20: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: 0 laden outbound (Day 54 without a confirmed laden outbound LNG transit since *Al Areesh* QatarEnergy Jul 29; Qatar Force Majeure extended)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (estimated; *Trend* chilling effect Day 3 persists; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from The National News (Sep 21), TASS, search-aggregated reporting, and prior-day context. All vessel counts AIS-visible only and approximate.
+- **DAY 206 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 21); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed). Figures consistent with the Sep 14–20 plateau at ~1/day.
+- **Sep 21 transit data — The National**: 14 total vessels transited the strait today (11 outbound, 3 inbound); 7 outbound via Iranian (IRGC toll) route. Traffic described as remaining "thin." This is consistent with the ~1 crude AIS-visible estimate when applying the ~8% crude fraction observed in recent weeks (14 × 8% ≈ 1 crude vessel).
+- **UNVERIFIED RECOVERY SIGNAL — Iran-Oman agreement confirmed by TASS**: TASS reported that Iranian FM Araghchi and Omani counterpart have agreed on a plan to establish a joint maritime corridor through the Strait. Araghchi has separately clarified this does not constitute a full "reopening" — Iran's stated condition for full reopening remains US compliance with the Islamabad MoU ceasefire commitments. No Omani official statement independently confirmed as of logging time. Treat as a potential partial-recovery signal, not a breakthrough.
+- ***Trend* aftermath — Day 3**: Royal Navy of Oman vessel continues towing *Trend*; two crew members still missing. Search ongoing.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Amara seizure — Day 36 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **LNG — Day 54**: No confirmed laden outbound LNG transit since *Al Areesh* (QatarEnergy, Jul 29). Qatar Force Majeure extended. Asia LNG Japan-Korea Marker elevated near 7-month highs.
+- **Fertilizer/food context**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near strait; humanitarian corridor not restored.
+- **Oil prices (Sep 21 reference)**: Brent expected near $99–102/bbl, consistent with post-Sep 19 pullback from mid-week highs (~$108–110/bbl). Iran-Oman signal may temper near-term upside risk.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-*Trend* strike. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [The National — Strait of Hormuz vessel traffic remains thin (Sep 21)](https://www.thenationalnews.com/business/energy/2026/09/21/strait-of-hormuz-vessel-traffic-remains-thin-amid-middle-east-tensions/) · [TASS — Iran, Oman agree on plan to reopen Strait of Hormuz](https://tass.com/world/2188349) · [Windward Daily Intelligence](https://insights.windward.ai/) · [TankerMap — Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz) · [Al Jazeera — Iran FM: Oman deal won't mean reopening](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims) · [straits.live — Strait of Hormuz Closed Day 206](https://straits.live/)
+
+---
+
 ## 2026-09-20
 
 | Metric | Value |
