@@ -4,6 +4,36 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-23
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 22's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 16–22: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: ~0 confirmed laden outbound (Day 56+ since *Al Areesh* QatarEnergy Jul 29; Bloomberg Sep 18 "at least two LNG transits this week" signal still pending independent verification for Sep 23)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (slight improvement signal in search data; all figures approximate)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); figures derived from Al Jazeera, CNBC, Fox News, CNN, The National, Windward AI, and search-aggregated reporting. All vessel counts AIS-visible only and approximate.
+- **DAY 208 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 23); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed). Consistent with Sep 16–22 plateau at ~1/day.
+- **Sep 23 transit estimate**: ~1 crude AIS-visible (approximate). 390 AIS-visible vessels holding position in Hormuz/Gulf watch box as of 02:49 UTC. No new IRGC vessel strike confirmed for Sep 23 as of available data.
+- **MAJOR DIPLOMATIC DEVELOPMENT — US–Iran UNGA mediated talks (Sep 23)**: Iranian President Pezeshkian made a major UNGA speech on Sep 23, and US envoy Steve Witkoff confirmed "lengthy" indirect mediated talks between the two delegations on the UN sidelines. Trump stated another meeting is "scheduled in the very near future." Iran's conditions: halt to US "acts of aggression," end to naval blockade and economic warfare, release of Iranian assets. Trump said (CNBC) a deal could come "after midterms." This is the highest-level direct diplomatic engagement since the failed June Islamabad MoU — a material escalation of the diplomatic track.
+- **Iran 7-day reopening offer (Sep 22) still on the table**: Iran's Sep 22 UNGA offer to reopen Hormuz within seven days remains formally active as of Sep 23. The mediated US–Iran talks today are the first substantive response. No breakthrough announced as of available data.
+- **Sep 22 tanker incidents (carry-over)**: Two tankers struck by projectiles (two seafarers injured; no party identified); an LPG tanker sustained hits from debris from unknown projectiles (UKMTO/gCaptain Sep 22). No new confirmed strikes on Sep 23.
+- **Oil prices (Sep 23 reference)**: Brent ~$99.01, down ~2.11% over 24 hours as of 02:55 UTC; diplomatic signalling at UNGA tempering upside. Down from recent highs of ~$108–110/bbl.
+- **LNG — Day 56**: Bloomberg Sep 18 partial-restart signal ("at least two LNG transits in the week of Sep 14–18") still awaiting independent confirmation for Sep 23. No confirmed laden outbound LNG transit. Qatar Force Majeure extended.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Amara seizure — Day 38 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains stationary in Iranian waters.
+- **Fertilizer/food context**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near strait; humanitarian corridor not restored.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-*Trend* strike. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: [Al Jazeera — US, Iran hold mediated UNGA talks on ending war](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz) · [CNBC — Iran floats conditions for Hormuz reopening as Trump says deal could come after midterms](https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html) · [CNN — UN live: Iran's Pezeshkian makes UNGA speech](https://www.cnn.com/2026/09/23/world/live-news/united-nations-general-assembly-iran-trump-ukraine) · [Fox News — Trump says Iran deal nearing after UN talks](https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-un-general-assembly-09-22-26) · [The National — Iran offers to reopen Hormuz 'within seven days'](https://www.thenationalnews.com/news/mena/2026/09/22/iranian-president-heads-to-new-york-for-diplomatic-push-at-un-general-assembly/) · [Windward Daily Intelligence](https://insights.windward.ai/) · [TankerMap — Hormuz Tanker Traffic](https://tankermap.com/analytics/straits/hormuz) · [straits.live — Strait of Hormuz Closed](https://straits.live/)
+
+---
+
 ## 2026-09-22
 
 | Metric | Value |
