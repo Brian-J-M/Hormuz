@@ -4,6 +4,35 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-25
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~1 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 24's ~1 crude (AIS-visible); all figures approximate |
+| 7-day average | 1.0 vessels/day (based on 7 days Sep 18–24: ~1 each day; sum=7, 7/7=1.0) |
+
+Secondary:
+- LNG: ~0 confirmed laden outbound (Day 58 since *Al Areesh* QatarEnergy Jul 29; Bloomberg Sep 18 partial-restart signal of "at least two LNG transits" in week of Sep 14–18 still unverified for Sep 25)
+- Fertilizer: ~0 vessels (no change; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0–1 vessel (estimated; all figures approximate)
+
+Notes:
+- **ALL DATA SOURCES INACCESSIBLE**: datalab.wto.org blocked by network egress proxy; figures are continuations of the sustained Sep 18–24 plateau (~1 AIS-visible crude/day). Treat all counts as approximate with high uncertainty.
+- **DAY 210 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 25); AIS-visible commercial traffic ~96% below pre-crisis baseline (~138/day vs ~1 observed). Plateau continuing.
+- **Sep 25 transit estimate**: ~1 crude AIS-visible (approximate). Derived by extending the established plateau; no new vessel-by-vessel AIS data available in this run.
+- **DIPLOMATIC CONTEXT — Day 4 of Iran's 7-day Hormuz reopening offer window**: Iran's Sep 22 UNGA offer (to reopen Hormuz within 7 days if US eases military pressure) is now on Day 4 of its stated window (window closes ~Sep 29). The Sep 23 mediated US–Iran talks (Witkoff–Pezeshkian at UNGA) were described as "lengthy" with Trump saying another meeting is "scheduled in the very near future." No confirmed breakthrough as of prior data. This is the most significant diplomatic track since the failed June Islamabad MoU.
+- **Oil prices (Sep 24 reference, most recent available)**: Brent ~$99/bbl range; diplomatic UNGA signals continuing to temper upside. Down from mid-September highs of ~$108–110/bbl.
+- **LNG — Day 58**: Bloomberg Sep 18 partial-restart signal ("at least two LNG transits in the week of Sep 14–18") still the most recent data point; unverified for Sep 25. No confirmed laden outbound LNG transit confirmed for Sep 25. Qatar Force Majeure status unchanged.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above.
+- **Amara seizure — Day 40 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) likely still stationary in Iranian waters; no update available.
+- **Sep 22 tanker incidents (carry-over)**: Two tankers struck by projectiles (two seafarers injured); LPG tanker hit by projectile debris (UKMTO/gCaptain Sep 22). No confirmed new strikes for Sep 25 in available data.
+- **Fertilizer/food context**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near strait; humanitarian corridor not restored.
+- **AIS caveat**: All vessel counts AIS-visible only. ~32% dark-AIS share (Windward AI); elevated post-*Trend* strike. True crude throughput substantially exceeds AIS-visible figures. Charter rates above $500,000/day for strait transits.
+- **Sources**: No new sources accessible this run. Prior entry sources: [Al Jazeera Sep 23 — US, Iran hold mediated UNGA talks](https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz) · [CNBC Sep 23 — Iran floats conditions for Hormuz reopening](https://www.cnbc.com/2026/09/23/us-iran-war-trump-hormuz.html) · [The National Sep 22 — Iran offers to reopen Hormuz 'within seven days'](https://www.thenationalnews.com/news/mena/2026/09/22/iranian-president-heads-to-new-york-for-diplomatic-push-at-un-general-assembly/)
+
+---
+
 ## 2026-09-24
 
 | Metric | Value |
