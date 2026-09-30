@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-09-30
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate) |
+| vs prior day | flat (0, 0%) vs Sep 29's ~6 crude (AIS-visible); all figures approximate |
+| 7-day average | ~1.7 vessels/day (based on 7 days Sep 23–29: ~1/day × 6 days + ~6 on Sep 29; sum=12, 12/7=1.7) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; Bloomberg Sep 18 partial-restart signal carry-forward on weekly-average basis; individual-day variance high; unverified for Sep 30)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; all alternative maritime intelligence sources (straits.live, gcaptain.com, windward.ai, tankermap.com) also blocked. All vessel counts approximate; carried forward from Sep 29 entry and underlying Kpler/Saudi ramp data.
+- **DAY 215 OF EFFECTIVE CLOSURE** (Feb 28 – Sep 30, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline.
+- **Iran's 7-day diplomatic window has now formally lapsed (Day 8)**: Iran's Sep 22 UNGA offer to reopen Hormuz within 7 days expired on Sep 28–29 without a confirmed US–Iran framework agreement. Trump's "meeting scheduled in the very near future" statement remains the last confirmed diplomatic signal. No public breakthrough announced. Key watch: any US–Iran joint statement or ceasefire framework would be the most material development since Feb 28.
+- **Saudi crude ramp — 3.6 mb/d in September**: Saudi exports via Hormuz at ~3.6 mb/d in September (up ~4× from August's ~900,000 b/d), implying ~1.8 Saudi VLCCs/day; total AIS-visible crude outflow from all producers (Saudi Arabia, UAE, Kuwait, Iraq) estimated at 5–8 tankers/day. Sep 30 estimate of ~6 crude derives from this baseline.
+- **Sep 27 Kpler/Lloyd's List spike context**: 24 vessels transited on Sep 27 (9 inbound, 15 outbound), with 14 running dark AIS and 5 large inbound tankers (up to 333m). This spike, corroborated by the Saudi volume ramp, suggests AIS-visible counts in the 5–8 crude/day range are more representative than the prior ~1/day plateau.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **LNG**: Bloomberg Sep 18 confirmed "at least two LNG transits" in the week of Sep 14–18 as producers push for flow resumption. No new confirmed LNG transit for Sep 30. Qatar Force Majeure status unchanged. JKM prices remain elevated.
+- **Fertilizer**: WTO tracker (Sep 11) and Fertilizer Daily confirm fertilizer shipments near zero. ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. War-risk insurance for bulk carriers prohibitively expensive. June MoU humanitarian corridor not operationally activated.
+- **Amara seizure — Day 44+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$99/bbl reference (Sep 25–29 range); down from mid-September ~$108–110/bbl peak as UNGA diplomatic signals tempered upside. Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
+- **Sources**: No new sources accessible this run. [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Fertilizer Daily Sep 11 — Fertilizer shipments near zero](https://www.fertilizerdaily.com/20260911-wto-hormuz-trade-tracker-fertilizer-shipments-near-zero-september-2026/) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
+
+---
+
 ## 2026-09-29
 
 | Metric | Value |
