@@ -5105,3 +5105,32 @@ Notes:
 - **Amara seizure — Day 49+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
 - **Brent crude**: ~$99/bbl reference (Sep 28–Oct 4 range); Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
 - **Sources**: No new sources accessible this run (all domains blocked by network egress proxy). Prior references: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Fertilizer Daily Sep 11 — Fertilizer shipments near zero](https://www.fertilizerdaily.com/20260911-wto-hormuz-trade-tracker-fertilizer-shipments-near-zero-september-2026/)
+
+---
+
+## 2026-10-06
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | +1 (+17%) vs Oct 5's ~6 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.1 vessels/day (based on 7 days Sep 29–Oct 5) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; second Qatari LNG carrier attacked in recent period; unverified for Oct 6)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; all alternative maritime intelligence sources also blocked. All vessel counts approximate, derived from search-aggregated reporting.
+- **DAY 221 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 6, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
+- **ESCALATION: UKMTO logged 5 incidents Oct 6, including 4 tanker attacks**: UK Maritime Trade Operations logged five separate incidents on October 6, including four tanker attacks — a sharp single-day escalation vs the recent baseline. UKMTO urged all vessels transiting the Strait to remain alert and report suspicious activity.
+- **Oct 3 confirmed 7 crude crossings (9.17M bbl)**: WTO/AXSMarine data confirmed 7 crude outbound crossings on October 3 (9.17M bbl), down from 13.15M bbl on October 2. Estimate of ~7 for Oct 6 anchored on Oct 3 confirmed figure.
+- **8 vessel strikes Sep 28–Oct 2**: Eight merchant vessels struck in the five days prior to October 3, including a Panama-flagged tanker struck October 2 (fire and blackout). Attack cadence continues into the first week of October.
+- **LNG — second Qatari carrier attack**: A second Qatari LNG carrier (GasLog-operated) was struck by a projectile off the coast of Oman within the past month, per UKMTO. No new confirmed LNG transit for Oct 6. Qatar Force Majeure status unchanged; JKM prices remain elevated.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government estimates). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **Diplomatic status — no change**: Iran's Sep 22 UNGA offer to reopen Hormuz within 7 days lapsed Sep 28–29 without a publicly confirmed US–Iran framework. No breakthrough announced.
+- **Amara seizure — Day 50+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$99–100/bbl; 4-tanker-attack day may apply further upward pressure.
+- **Sources**: [Ship & Bunker — New Tanker Attack UKMTO](https://shipandbunker.com/news/emea/780348-new-tanker-attack-reported-in-strait-of-hormuz-ukmto) · [gCaptain — Six vessels hit since Sunday](https://gcaptain.com/six-vessels-hit-in-strait-of-hormuz-since-sunday/) · [Armenpress — Second Qatari LNG tanker attacked](https://armenpress.am/en/article/1257082) · [UANI Iran Shipping Update Oct 5](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-october-5-2026)
