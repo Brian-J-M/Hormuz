@@ -5134,3 +5134,29 @@ Notes:
 - **Amara seizure — Day 50+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
 - **Brent crude**: ~$99–100/bbl; 4-tanker-attack day may apply further upward pressure.
 - **Sources**: [Ship & Bunker — New Tanker Attack UKMTO](https://shipandbunker.com/news/emea/780348-new-tanker-attack-reported-in-strait-of-hormuz-ukmto) · [gCaptain — Six vessels hit since Sunday](https://gcaptain.com/six-vessels-hit-in-strait-of-hormuz-since-sunday/) · [Armenpress — Second Qatari LNG tanker attacked](https://armenpress.am/en/article/1257082) · [UANI Iran Shipping Update Oct 5](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-october-5-2026)
+
+---
+
+## 2026-10-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | +1 (+17%) vs Oct 5's ~6 (Oct 6 not logged); all figures approximate |
+| 7-day average | ~6.3 vessels/day (based on 7 days Oct 1–7: ~6+~6+7+~6+~6+~6+~7) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; at least 3 LNG carriers transited outbound in week of Oct 1–5 per OilPrice.com; flows still down 75%+ vs pre-crisis)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; all vessel counts approximate, derived from web search aggregation.
+- **DAY 221 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 7, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
+- **Iran's Transit Rules now in effect**: Al Jazeera (Oct 5) reports Iran is reportedly charging a toll to allow oil traffic through Hormuz — first confirmed transit taxation mechanism since crisis began. Hellenic Shipping News confirms "A Fatal Strike and the First Seizure Since June as Iran's Transit Rules Take Effect," suggesting enforcement violence and a new seizure under the toll regime.
+- **WTO tracker data (Oct 3)**: Total crude fell from 13.15M to 9.17M bbl across 7 crossings — most recent hard WTO data point; consistent with the ~6–7/day crude plateau.
+- **Oct 4 transit data**: 13 total Hormuz transits (5 inbound, 8 outbound); 11 of 13 used the northern corridor per secondary search sources.
+- **Recovery signal**: Business Standard (Oct 5) — "West Asia crude exports exceed pre-war levels despite tanker attacks." Stealth/dark transits (US operation: ~10–15 tankers/night, AIS-off) significantly underrepresented in AIS-visible counts.
+- **LNG partial rebound**: At least 3 LNG carriers transited outbound in the week ending Oct 5; OilPrice.com confirms LNG flows still down >75% vs pre-crisis despite partial rebound.
+- **Amara seizure — Day 51+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Sources**: [Al Jazeera Oct 5 — Iran toll on Hormuz traffic](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz) · [OilPrice.com — Hormuz LNG Flows Still Down 75%](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-LNG-Flows-Still-Down-More-Than-75-Despite-Rebound.html) · [Business Standard Oct 5 — West Asia crude exports exceed pre-war levels](https://www.business-standard.com/amp/world-news/west-asia-crude-exports-exceed-pre-war-levels-despite-tanker-attacks-126100501375_1.html) · [Hellenic Shipping News — Fatal Strike, First Seizure under Iran Transit Rules](https://www.hellenicshippingnews.com/?p=1144803) · [Riviera — Dynacom Aframax among multiple vessels hit](https://rivieramm.com/news-content-hub/dynacom-aframax-tanker-hit-in-strait-of-hormuz-90183)
