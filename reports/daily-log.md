@@ -5188,3 +5188,35 @@ Notes:
 - **Amara seizure — Day 52 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
 - **Brent crude**: ~$125/bbl reference (Brent $125.44 noted by live tracker); elevated vs ~$99–100 prior-week reference — consistent with the attack escalation and two-month traffic low.
 - **Sources**: [Kpler/OilPrice.com — Hormuz Tanker Traffic Hits Two-Month Low](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Hits-Two-Month-Low-as-Attacks-Surge.html) · [TASS — Ship transit through Strait of Hormuz falls to two-month low](https://tass.com/world/2199195) · [Al Jazeera Oct 5 — Iran toll on Hormuz traffic](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz) · [Hellenic Shipping News — Fatal Strike, First Seizure under Iran Transit Rules](https://www.hellenicshippingnews.com/?p=1144803) · [straits.live — Strait of Hormuz Closed, Day 221](https://straits.live/) · [Windward AI — Oct 4: 13 transits](https://insights.windward.ai/)
+
+
+---
+
+## 2026-10-09
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 8's ~7 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.7 vessels/day (based on 7 days Oct 3–Oct 9) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; flows still >75% below pre-crisis; Qatar Force Majeure unchanged)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); all vessel counts approximate, derived from web search aggregation.
+- **DAY 224 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 9, 2026). AIS-visible commercial traffic ~87–93% below pre-crisis baseline (~84.8/day); one tracker shows 10.7-vessel/day 7-day AIS average (~13% of baseline).
+- **UKMTO: 9 attacks in first ~9 days of October**: Nine attacks logged in October already — roughly half the total for all of September — indicating an accelerating attack cadence in early October.
+- **Bloomberg (Oct 6): Oil shipments near prewar levels despite attack surge**: Iran ramped up tanker attacks even as oil and gas flows climbed close to prewar levels, driven by the US stealth oil operation (~20M bbl/day per CENTCOM). AIS-visible counts significantly underrepresent actual throughput.
+- **Al Jazeera (Oct 6): "Are increased exports sustainable?"**: As attack cadence accelerates, sustainability of dark/AIS-off transits under further escalation is increasingly questioned.
+- **Reuters: Traffic at two-month low**: AIS-visible vessel traffic fell to its lowest level in over two months as attacks surged in early October.
+- **Iran's conditions unchanged**: Iran's top negotiator reaffirmed the Strait of Hormuz will remain closed until the US accepts Iran's seven conditions; Ghalibaf confirmed same position.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~20M bbl/day per CENTCOM). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **Iran transit toll regime in effect**: Iran charging a toll for oil traffic through the strait (Al Jazeera Oct 5); first seizure under the toll regime already reported.
+- **Amara seizure — Day 53 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$125/bbl (elevated; consistent with attack escalation and two-month traffic low).
+- **Sources**: [Bloomberg Oct 6 — Iran Ramps Up Ship Attacks as Oil Flows Climb](https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb) · [Al Jazeera Oct 6 — Hormuz Ship Attacks Surge: Are Increased Exports Sustainable?](https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable) · [GlobalSecurity — Iran War Day 223 Update (Oct 8)](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [straits.live — Strait of Hormuz Status Oct 8](https://straits.live/briefs/2026-10-08) · [hormuztracking.com — Live Tracker](https://hormuztracking.com/)
+
+
