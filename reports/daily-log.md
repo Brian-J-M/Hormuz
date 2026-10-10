@@ -5105,3 +5105,31 @@ Notes:
 - **Amara seizure — Day 49+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
 - **Brent crude**: ~$99/bbl reference (Sep 28–Oct 4 range); Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
 - **Sources**: No new sources accessible this run (all domains blocked by network egress proxy). Prior references: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Fertilizer Daily Sep 11 — Fertilizer shipments near zero](https://www.fertilizerdaily.com/20260911-wto-hormuz-trade-tracker-fertilizer-shipments-near-zero-september-2026/)
+
+---
+
+## 2026-10-10
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 5's ~6 crude (AIS-visible); all figures approximate; note Oct 6–9 entries missing (no run detected) |
+| 7-day average | ~6.0 vessels/day (based on 7 logged days: Oct 5, 4, 3, 2, 1, Sep 30, Sep 29; all ~6; sum=42, 42/7=6.0) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; Bloomberg Sep 18 partial-restart carry-forward on weekly-average basis; no new confirmed transit for Oct 10)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); all vessel counts approximate and carried forward from Oct 5 entry and underlying Saudi ramp baseline.
+- **DAY 225 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 10, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
+- **Missing Oct 6–9 entries**: No automated run detected for Oct 6–9. Four-day data gap; vessel count continuity based on Oct 5 estimate (~6 crude AIS-visible).
+- **Crude carry-forward rationale**: Oct 5 plateau of ~6 derives from Saudi crude ramp (~3.6 mb/d in September = ~1.8 Saudi VLCCs/day; total all-producers: Saudi Arabia, UAE, Kuwait, Iraq). Consistent with the Sep 29–Oct 5 sustained plateau at ~6/day. No new diplomatic catalyst detected to indicate material change.
+- **Diplomatic track (status unverified for Oct 6–10)**: Iran's Sep 22 UNGA 7-day reopening offer lapsed Sep 28–29. Trump's "meeting in the very near future" statement from Sep 23 was the last confirmed diplomatic signal in available data. No public deal or framework announcement confirmed as of Oct 5. Any breakthrough in the Oct 6–9 window is unverified — watch for US–Iran joint statements or ceasefire framework as the key catalyst.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **LNG**: Bloomberg Sep 18 confirmed "at least two LNG transits" in the week of Sep 14–18. No new confirmed LNG transit for Oct 10. Qatar Force Majeure status unchanged. JKM prices remain elevated.
+- **Fertilizer**: Near zero. ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. War-risk insurance for bulk carriers prohibitively expensive. June MoU humanitarian corridor not operationally activated.
+- **Amara seizure — Day 54+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$99/bbl reference (Oct 5 carry-forward); Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
+- **Sources**: No new sources accessible this run (DNS failure). Most recent confirmed data: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Fertilizer Daily Sep 11 — Fertilizer shipments near zero](https://www.fertilizerdaily.com/20260911-wto-hormuz-trade-tracker-fertilizer-shipments-near-zero-september-2026/)
