@@ -5108,28 +5108,143 @@ Notes:
 
 ---
 
-## 2026-10-10
+## 2026-10-06
 
 | Metric | Value |
 |--------|-------|
-| Crude vessels today | ~6 (approximate) |
-| vs prior day | flat (0, 0%) vs Oct 5's ~6 crude (AIS-visible); all figures approximate; note Oct 6–9 entries missing (no run detected) |
-| 7-day average | ~6.0 vessels/day (based on 7 logged days: Oct 5, 4, 3, 2, 1, Sep 30, Sep 29; all ~6; sum=42, 42/7=6.0) |
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | +1 (+17%) vs Oct 5's ~6 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.1 vessels/day (based on 7 days Sep 29–Oct 5) |
 
 Secondary:
-- LNG: ~1 vessel (approximate; Bloomberg Sep 18 partial-restart carry-forward on weekly-average basis; no new confirmed transit for Oct 10)
+- LNG: ~1 vessel (approximate; second Qatari LNG carrier attacked in recent period; unverified for Oct 6)
 - Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
 - Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
 
 Notes:
-- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); all vessel counts approximate and carried forward from Oct 5 entry and underlying Saudi ramp baseline.
-- **DAY 225 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 10, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
-- **Missing Oct 6–9 entries**: No automated run detected for Oct 6–9. Four-day data gap; vessel count continuity based on Oct 5 estimate (~6 crude AIS-visible).
-- **Crude carry-forward rationale**: Oct 5 plateau of ~6 derives from Saudi crude ramp (~3.6 mb/d in September = ~1.8 Saudi VLCCs/day; total all-producers: Saudi Arabia, UAE, Kuwait, Iraq). Consistent with the Sep 29–Oct 5 sustained plateau at ~6/day. No new diplomatic catalyst detected to indicate material change.
-- **Diplomatic track (status unverified for Oct 6–10)**: Iran's Sep 22 UNGA 7-day reopening offer lapsed Sep 28–29. Trump's "meeting in the very near future" statement from Sep 23 was the last confirmed diplomatic signal in available data. No public deal or framework announcement confirmed as of Oct 5. Any breakthrough in the Oct 6–9 window is unverified — watch for US–Iran joint statements or ceasefire framework as the key catalyst.
-- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
-- **LNG**: Bloomberg Sep 18 confirmed "at least two LNG transits" in the week of Sep 14–18. No new confirmed LNG transit for Oct 10. Qatar Force Majeure status unchanged. JKM prices remain elevated.
-- **Fertilizer**: Near zero. ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. War-risk insurance for bulk carriers prohibitively expensive. June MoU humanitarian corridor not operationally activated.
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; all alternative maritime intelligence sources also blocked. All vessel counts approximate, derived from search-aggregated reporting.
+- **DAY 221 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 6, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
+- **ESCALATION: UKMTO logged 5 incidents Oct 6, including 4 tanker attacks**: UK Maritime Trade Operations logged five separate incidents on October 6, including four tanker attacks — a sharp single-day escalation vs the recent baseline. UKMTO urged all vessels transiting the Strait to remain alert and report suspicious activity.
+- **Oct 3 confirmed 7 crude crossings (9.17M bbl)**: WTO/AXSMarine data confirmed 7 crude outbound crossings on October 3 (9.17M bbl), down from 13.15M bbl on October 2. Estimate of ~7 for Oct 6 anchored on Oct 3 confirmed figure.
+- **8 vessel strikes Sep 28–Oct 2**: Eight merchant vessels struck in the five days prior to October 3, including a Panama-flagged tanker struck October 2 (fire and blackout). Attack cadence continues into the first week of October.
+- **LNG — second Qatari carrier attack**: A second Qatari LNG carrier (GasLog-operated) was struck by a projectile off the coast of Oman within the past month, per UKMTO. No new confirmed LNG transit for Oct 6. Qatar Force Majeure status unchanged; JKM prices remain elevated.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government estimates). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **Diplomatic status — no change**: Iran's Sep 22 UNGA offer to reopen Hormuz within 7 days lapsed Sep 28–29 without a publicly confirmed US–Iran framework. No breakthrough announced.
+- **Amara seizure — Day 50+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$99–100/bbl; 4-tanker-attack day may apply further upward pressure.
+- **Sources**: [Ship & Bunker — New Tanker Attack UKMTO](https://shipandbunker.com/news/emea/780348-new-tanker-attack-reported-in-strait-of-hormuz-ukmto) · [gCaptain — Six vessels hit since Sunday](https://gcaptain.com/six-vessels-hit-in-strait-of-hormuz-since-sunday/) · [Armenpress — Second Qatari LNG tanker attacked](https://armenpress.am/en/article/1257082) · [UANI Iran Shipping Update Oct 5](https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-october-5-2026)
+
+---
+
+## 2026-10-07
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | +1 (+17%) vs Oct 5's ~6 (Oct 6 not logged); all figures approximate |
+| 7-day average | ~6.3 vessels/day (based on 7 days Oct 1–7: ~6+~6+7+~6+~6+~6+~7) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; at least 3 LNG carriers transited outbound in week of Oct 1–5 per OilPrice.com; flows still down 75%+ vs pre-crisis)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; all vessel counts approximate, derived from web search aggregation.
+- **DAY 221 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 7, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
+- **Iran's Transit Rules now in effect**: Al Jazeera (Oct 5) reports Iran is reportedly charging a toll to allow oil traffic through Hormuz — first confirmed transit taxation mechanism since crisis began. Hellenic Shipping News confirms "A Fatal Strike and the First Seizure Since June as Iran's Transit Rules Take Effect," suggesting enforcement violence and a new seizure under the toll regime.
+- **WTO tracker data (Oct 3)**: Total crude fell from 13.15M to 9.17M bbl across 7 crossings — most recent hard WTO data point; consistent with the ~6–7/day crude plateau.
+- **Oct 4 transit data**: 13 total Hormuz transits (5 inbound, 8 outbound); 11 of 13 used the northern corridor per secondary search sources.
+- **Recovery signal**: Business Standard (Oct 5) — "West Asia crude exports exceed pre-war levels despite tanker attacks." Stealth/dark transits (US operation: ~10–15 tankers/night, AIS-off) significantly underrepresented in AIS-visible counts.
+- **LNG partial rebound**: At least 3 LNG carriers transited outbound in the week ending Oct 5; OilPrice.com confirms LNG flows still down >75% vs pre-crisis despite partial rebound.
+- **Amara seizure — Day 51+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Sources**: [Al Jazeera Oct 5 — Iran toll on Hormuz traffic](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz) · [OilPrice.com — Hormuz LNG Flows Still Down 75%](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-LNG-Flows-Still-Down-More-Than-75-Despite-Rebound.html) · [Business Standard Oct 5 — West Asia crude exports exceed pre-war levels](https://www.business-standard.com/amp/world-news/west-asia-crude-exports-exceed-pre-war-levels-despite-tanker-attacks-126100501375_1.html) · [Hellenic Shipping News — Fatal Strike, First Seizure under Iran Transit Rules](https://www.hellenicshippingnews.com/?p=1144803) · [Riviera — Dynacom Aframax among multiple vessels hit](https://rivieramm.com/news-content-hub/dynacom-aframax-tanker-hit-in-strait-of-hormuz-90183)
+
+---
+
+## 2026-10-08
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 7's ~7 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.4 vessels/day (based on 7 days Oct 2–Oct 8) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; at least 3 LNG carriers transited in week of Oct 1–5; flows still ~75%+ below pre-crisis)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy; all vessel counts approximate, derived from web search aggregation.
+- **DAY 222 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 8, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline (~85–138/day).
+- **Tanker traffic hits two-month low — new escalation signal**: Kpler reported only 7 total commercial vessels crossed on Oct 6 (Tuesday), the lowest since July 23, as attacks on tankers surged. This aligns with the 4-tanker-attack day logged Oct 6. Crude flow fell to ~10.1M bbl/day, down 27% from the prior week's wartime high (~13.8M bbl/day). Key question: whether attack-driven suppression depresses Oct 8 counts below the ~7/day plateau.
+- **Oct 3 WTO-confirmed anchor**: Most recent hard WTO/AXSMarine data point remains Oct 3 (7 crude outbound crossings, 9.17M bbl), down from Oct 2 (13.15M bbl). Oct 8 estimate of ~7 consistent with Oct 3 anchor and subsequent daily entries.
+- **Iran transit toll regime in effect**: Per Al Jazeera (Oct 5) and Hellenic Shipping News, Iran is now charging a toll for oil traffic through the strait; first seizure under the toll regime reported. Enforcement violence documented. This creates a new revenue-extraction mechanism that may actually sustain some AIS-visible crude flow while raising shipper costs.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government estimates). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **LNG**: At least 3 LNG carriers transited outbound in the week of Oct 1–5 (OilPrice.com); flows still down >75% vs pre-crisis. Qatar Force Majeure status unchanged. JKM prices remain elevated.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
+- **Amara seizure — Day 52 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$125/bbl reference (Brent $125.44 noted by live tracker); elevated vs ~$99–100 prior-week reference — consistent with the attack escalation and two-month traffic low.
+- **Sources**: [Kpler/OilPrice.com — Hormuz Tanker Traffic Hits Two-Month Low](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Hits-Two-Month-Low-as-Attacks-Surge.html) · [TASS — Ship transit through Strait of Hormuz falls to two-month low](https://tass.com/world/2199195) · [Al Jazeera Oct 5 — Iran toll on Hormuz traffic](https://www.aljazeera.com/news/2026/10/5/is-iran-charging-a-toll-to-allow-oil-traffic-through-hormuz) · [Hellenic Shipping News — Fatal Strike, First Seizure under Iran Transit Rules](https://www.hellenicshippingnews.com/?p=1144803) · [straits.live — Strait of Hormuz Closed, Day 221](https://straits.live/) · [Windward AI — Oct 4: 13 transits](https://insights.windward.ai/)
+
+
+---
+
+## 2026-10-09
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 8's ~7 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.7 vessels/day (based on 7 days Oct 3–Oct 9) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; flows still >75% below pre-crisis; Qatar Force Majeure unchanged)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org blocked by network egress proxy (403); all vessel counts approximate, derived from web search aggregation.
+- **DAY 224 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 9, 2026). AIS-visible commercial traffic ~87–93% below pre-crisis baseline (~84.8/day); one tracker shows 10.7-vessel/day 7-day AIS average (~13% of baseline).
+- **UKMTO: 9 attacks in first ~9 days of October**: Nine attacks logged in October already — roughly half the total for all of September — indicating an accelerating attack cadence in early October.
+- **Bloomberg (Oct 6): Oil shipments near prewar levels despite attack surge**: Iran ramped up tanker attacks even as oil and gas flows climbed close to prewar levels, driven by the US stealth oil operation (~20M bbl/day per CENTCOM). AIS-visible counts significantly underrepresent actual throughput.
+- **Al Jazeera (Oct 6): "Are increased exports sustainable?"**: As attack cadence accelerates, sustainability of dark/AIS-off transits under further escalation is increasingly questioned.
+- **Reuters: Traffic at two-month low**: AIS-visible vessel traffic fell to its lowest level in over two months as attacks surged in early October.
+- **Iran's conditions unchanged**: Iran's top negotiator reaffirmed the Strait of Hormuz will remain closed until the US accepts Iran's seven conditions; Ghalibaf confirmed same position.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~20M bbl/day per CENTCOM). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **Iran transit toll regime in effect**: Iran charging a toll for oil traffic through the strait (Al Jazeera Oct 5); first seizure under the toll regime already reported.
+- **Amara seizure — Day 53 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$125/bbl (elevated; consistent with attack escalation and two-month traffic low).
+- **Sources**: [Bloomberg Oct 6 — Iran Ramps Up Ship Attacks as Oil Flows Climb](https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb) · [Al Jazeera Oct 6 — Hormuz Ship Attacks Surge: Are Increased Exports Sustainable?](https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable) · [GlobalSecurity — Iran War Day 223 Update (Oct 8)](https://www.globalsecurity.org/military/ops/iran-war-oprep.htm) · [straits.live — Strait of Hormuz Status Oct 8](https://straits.live/briefs/2026-10-08) · [hormuztracking.com — Live Tracker](https://hormuztracking.com/)
+
+---
+
+## 2026-10-10
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 9's ~7 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.7 vessels/day (based on 7 logged days Oct 3–9: WTO-confirmed 7 on Oct 3, then ~6/~6/~7/~7/~7/~7; sum=47, 47/7=6.7) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; at least 3 LNG carriers transited outbound in week of Oct 1–5; flows still >75% below pre-crisis)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); all vessel counts approximate and carried forward from Oct 9 entry and latest intelligence.
+- **DAY 225 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 10, 2026). AIS-visible commercial traffic remains ~87–93% below pre-crisis baseline.
+- **Crude estimate ~7**: Carried forward from Oct 7–9 plateau at ~7/day. Oct 3 WTO-confirmed anchor: 7 crude outbound crossings (9.17M bbl); Oct 8 noted as two-month AIS-visible low (Kpler: 7 total commercial vessels Oct 6). Attack surge in first days of October may continue to suppress AIS-visible counts.
+- **ESCALATION: 9 tanker attacks in first 9 days of October (UKMTO)**: Attack cadence accelerating sharply vs September. Five UKMTO incidents on Oct 6 alone (4 tanker attacks). Dynacom Aframax and multiple other tankers struck. This pace is roughly half the total September attack count in just 9 days.
+- **Bloomberg (Oct 6): Oil shipments near prewar levels despite attack surge**: Iran ramped up tanker attacks even as oil and gas flows climbed close to prewar levels, primarily driven by US stealth oil operation. Dark/AIS-off transits (~10–15 tankers per night, ~20M bbl/day per CENTCOM) dominate actual throughput; AIS-visible counts significantly underrepresent reality.
+- **Iran transit toll regime in effect**: Iran now charging a toll for oil traffic through Hormuz (Al Jazeera Oct 5); first seizure under the toll regime already reported (Hellenic Shipping News). New enforcement-with-taxation mechanism may sustain some AIS-visible flow while raising costs and enforcement risks.
+- **Brent crude**: ~$125/bbl (elevated from ~$99–100 prior-week reference; rise consistent with attack escalation, two-month traffic low, and toll regime uncertainty).
+- **US stealth oil operation**: ~10–15 tankers per night transit the southern channel AIS-off (~20M bbl/day per CENTCOM). NOT reflected in AIS-visible counts above.
+- **Iran's conditions unchanged**: Iran's top negotiator confirmed the Strait of Hormuz will remain closed until the US accepts Iran's seven conditions; Ghalibaf confirmed same position. No public diplomatic breakthrough.
+- **LNG**: At least 3 LNG carriers transited outbound in the week of Oct 1–5 (OilPrice.com); flows still >75% below pre-crisis. Qatar Force Majeure status unchanged. JKM prices remain elevated.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
 - **Amara seizure — Day 54+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
-- **Brent crude**: ~$99/bbl reference (Oct 5 carry-forward); Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
-- **Sources**: No new sources accessible this run (DNS failure). Most recent confirmed data: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Fertilizer Daily Sep 11 — Fertilizer shipments near zero](https://www.fertilizerdaily.com/20260911-wto-hormuz-trade-tracker-fertilizer-shipments-near-zero-september-2026/)
+- **Sources**: No new sources accessible this run (DNS failure). Carry-forward from Oct 9 entry: [Bloomberg Oct 6 — Iran Ramps Up Ship Attacks as Oil Flows Climb](https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb) · [Al Jazeera Oct 6 — Hormuz Ship Attacks Surge](https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable) · [Kpler/OilPrice.com — Hormuz Tanker Traffic Hits Two-Month Low](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Hits-Two-Month-Low-as-Attacks-Surge.html)
