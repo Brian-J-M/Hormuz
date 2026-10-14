@@ -5337,3 +5337,34 @@ Notes:
 - **Amara seizure — Day 57 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
 - **Brent crude**: ~$125/bbl (elevated; consistent with sustained attack escalation and toll regime uncertainty).
 - **Sources**: No new sources accessible this run (WTO DNS failure + proxy 403). Carry-forward from Oct 12 entry: [Bloomberg Oct 6 — Iran Ramps Up Ship Attacks as Oil Flows Climb](https://www.bloomberg.com/news/articles/2026-10-06/iran-ramps-up-ship-attacks-in-hormuz-as-oil-and-gas-flows-climb) · [Al Jazeera Oct 6 — Hormuz Ship Attacks Surge](https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable) · [Kpler/OilPrice.com — Hormuz Tanker Traffic Hits Two-Month Low](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Hits-Two-Month-Low-as-Attacks-Surge.html)
+
+---
+
+## 2026-10-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~7 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 13's ~7 crude (AIS-visible); all figures approximate |
+| 7-day average | ~7.0 vessels/day (based on 7 days Oct 8–14: ~7×7; sum=49, 49/7=7.0) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; flows still >75% below pre-crisis; Qatar Force Majeure unchanged)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); all vessel counts approximate and carried forward from Oct 13 entry and latest intelligence.
+- **DAY 229 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 14, 2026). AIS-visible commercial traffic remains ~87–93% below pre-crisis baseline (~84.8/day).
+- **MAJOR ESCALATION (Oct 14)**: IRGC claims a container ship (carrying 2,500+ containers) struck a naval mine south of the strait, caught fire, and sank Wednesday morning. Unconfirmed by independent sources as of this entry. If confirmed, would be the first container ship sinking in the crisis and a significant escalation beyond tanker attacks.
+- **18 attacks since Oct 1**: UKMTO and IRGC reporting at least 18 attacks on ships in or around the strait since October 1 — up from 9 in the first 9 days (the count has doubled). Oct 13 alone: IRGC claimed a third ship struck in two days.
+- **Maersk suspends all Hormuz transits**: Maersk announced suspension of all future transits through the Strait of Hormuz until further notice — the first major container line to formally withdraw. Container shipping now effectively halted for mainstream carriers.
+- **Oct 11–12 weekend attacks**: Two more tankers attacked (one in the strait, one off Oman); one Suezmax carrying Iraqi crude struck, two sailors reported missing. IRGC targeted vessels transiting in dark mode along southern corridor near Oman.
+- **Iran transit toll regime in effect**: Iran continues charging a toll for oil traffic through Hormuz (Al Jazeera Oct 5); enforcement-with-taxation mechanism raises shipper costs and seizure risk.
+- **Iran's conditions unchanged**: No diplomatic breakthrough. Strait remains closed under Iran's stated seven-condition framework; Ghalibaf confirmed same position.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~20M bbl/day per CENTCOM). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **LNG**: Flows still >75% below pre-crisis. Qatar Force Majeure unchanged. JKM prices remain elevated.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
+- **Amara seizure — Day 58 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Brent crude**: ~$125/bbl (elevated); potential upward pressure if container ship sinking confirmed and attack pace sustains.
+- **Sources**: [Arab News — Tanker Attacked in Strait of Hormuz (UKMTO)](https://www.arabnews.com/middle-east/tanker-attacked-in-strait-of-hormuz-uk-maritime-agency-3004164) · [OilPrice.com — Two More Oil Tankers Attacked Near Strait of Hormuz](https://oilprice.com/Latest-Energy-News/World-News/Two-More-Oil-Tankers-Attacked-Near-Strait-of-Hormuz.html) · [Democracy Now — IRGC Claims Strike on Tanker Oct 13](https://www.democracynow.org/2026/10/13/headlines/irans_irgc_says_it_struck_another_tanker_in_strait_of_hormuz) · [ZeroHedge — Tankers on Fire in Strait of Hormuz Weekend](https://www.zerohedge.com/geopolitical/dramatic-videos-show-several-tankers-fire-strait-hormuz-weekend) · [Mehr News — Container Carrier Sinks Oct 14](https://en.mehrnews.com/news/248588/Container-carrier-sinks-in-Strait-of-Hormuz-after-explosion) · [straits.live — Strait of Hormuz Status](https://straits.live/)
