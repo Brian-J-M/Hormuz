@@ -4,6 +4,34 @@ Data sourced primarily from the [WTO Strait of Hormuz Trade Tracker](https://dat
 
 ---
 
+## 2026-10-22
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 16's ~6 crude (AIS-visible); **6-day data gap** (Oct 17–21 no runs detected); all figures approximate |
+| 7-day average | ~3.9 vessels/day (based on 7 logged days: Oct 16=6, Oct 3=6, Sep 30=6, Sep 29=6, Sep 28=1, Sep 27=1, Sep 26=1; sum=27, 27/7=3.9) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; Bloomberg Sep 18 partial-restart signal carry-forward; no new confirmed transit data available)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); all vessel counts approximate and carried forward from Oct 16 entry and underlying Kpler/Saudi ramp baseline data.
+- **DAY 237 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 22, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline.
+- **6-day data gap (Oct 17–21)**: No automated runs detected for Oct 17 through Oct 21. This entry resumes from Oct 16's ~6 crude baseline.
+- **Vessel count methodology**: Carrying forward the ~6 crude AIS-visible estimate established Sep 27–Oct 16 (Kpler spike + Saudi ramp at ~3.6 mb/d baseline). Without new AIS or Kpler data accessible, this is the best-available continuity estimate. Actual counts may have shifted.
+- **Diplomatic track**: As of Oct 16 the US–Iran diplomatic channel (Witkoff–Pezeshkian) remained alive post-UNGA, with no confirmed framework agreement. Iran's Sep 22 7-day reopening offer formally lapsed. Any new framework announcement remains the most material potential development.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **Amara seizure — Day 66+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody as of last confirmed report; no release reported.
+- **LNG**: Bloomberg Sep 18 confirmed partial restart ("at least two LNG transits" week of Sep 14–18). No new confirmed LNG transit data since. Qatar Force Majeure status assumed unchanged.
+- **Fertilizer**: Near zero. ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. War-risk insurance for bulk carriers prohibitively expensive.
+- **Brent crude**: ~$99/bbl reference carry-forward (Oct 16 estimate); Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
+- **Sources**: No new sources accessible this run. Prior entries: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
+
+---
+
 ## 2026-10-16
 
 | Metric | Value |
