@@ -5676,3 +5676,32 @@ Notes:
 - **Sources**: No new sources accessible this run (DNS failures across all external sources). Carry-forward from Oct 20 entry: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
 
 ---
+
+## 2026-10-26
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 21's ~6 crude (AIS-visible); Oct 22–25 entries missing from log — all figures approximate |
+| 7-day average | ~6.0 vessels/day (based on 7 days Oct 20–26: Oct 20–21 ~6/day × 2 + Oct 22–26 ~6/day × 5 carry-forward; sum=42, 42/7=6.0) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; Bloomberg Sep 18 partial-restart carry-forward; Qatar Force Majeure unchanged)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); proxy returns CONNECT 403. All alternative maritime intelligence sources (straits.live, Kpler, Lloyd's) also DNS-blocked. All vessel counts approximate and carried forward from Oct 21.
+- **Log gap Oct 22–25**: The last committed entry is Oct 21; scheduled routine appears not to have committed/pushed on Oct 22–25. Today's entry (Oct 26) resumes the log. No new intelligence is available for the gap period.
+- **DAY 241 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 26, 2026). AIS-visible commercial traffic remains ~87–93% below pre-crisis baseline (~84.8/day).
+- **Crude estimate ~6**: Carried forward from Oct 21 entry (~6), continuing the sustained plateau since Oct 16. 7-day average holds at ~6.0, fully at the lower plateau (all Oct 15 ~7 values have now rolled out of the window).
+- **Amara seizure — Day 71 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Diplomatic track**: Trump–Witkoff–Pezeshkian channel remains the primary diplomatic contact. Iran's Sep 22 7-day reopening offer window lapsed Sep 28–29 without a US–Iran framework agreement. No public breakthrough confirmed as of last accessible data (Oct 21). No new diplomatic signals accessible this run.
+- **Attack context**: ≥18 attacks logged since Oct 1 per UKMTO/IRGC as of Oct 21 reporting. Oct 14 container ship sinking by mine (unconfirmed independently) and Maersk transit suspension remain the most significant escalations from prior accessible reporting. No new confirmed escalation or de-escalation signals accessible this run.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10–20M bbl/day per CENTCOM/US government). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **LNG**: Bloomberg Sep 18 confirmed partial restart ("at least two LNG transits" week of Sep 14–18). No new confirmed LNG transit data accessible. Qatar Force Majeure status assumed unchanged. JKM prices remain elevated.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
+- **Brent crude**: ~$99–125/bbl range (prior entries; Goldman Sachs >$100 forecast holds if disruptions extend through Q4).
+- **Sources**: No new sources accessible this run (DNS failures across all external sources). Carry-forward from Oct 21 entry: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
+
+---
