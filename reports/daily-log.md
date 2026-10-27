@@ -5705,3 +5705,32 @@ Notes:
 - **Sources**: No new sources accessible this run (DNS failures across all external sources). Carry-forward from Oct 21 entry: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
 
 ---
+
+## 2026-10-27
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate, AIS-visible outbound) |
+| vs prior day | flat (0, 0%) vs Oct 26's ~6 crude (AIS-visible); all figures approximate |
+| 7-day average | ~6.0 vessels/day (based on 7 days Oct 21–27: all ~6/day; sum=42, 42/7=6.0) |
+
+Secondary:
+- LNG: ~5 outbound in October to date (tanker tracker via web search; partial restart confirmed Sep 18; ~0–1/day pace)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); proxy CONNECT 403. All alternative maritime intelligence sources also DNS-blocked. All AIS-visible vessel counts approximate and carried forward.
+- **DAY 242 OF EFFECTIVE CLOSURE** (Feb 28 – Oct 27, 2026). AIS-visible commercial traffic remains ~87–93% below pre-crisis baseline (~84.8/day).
+- **KEY RECOVERY SIGNAL — Kpler/Wikipedia (week ending Oct 18)**: Preliminary estimates put crude flows through Hormuz (including offshore transfers in Gulf of Oman) at approximately **14 million bbl/day, ~82% of pre-war levels** (vs. pre-war ~17M bbl/day through Hormuz alone). Middle Eastern oil exports overall exceeded pre-war levels at >24M bbl/day (vs. 23.3M bbl/day pre-war). This suggests actual crude throughput is substantially higher than AIS-visible counts (~6/day), consistent with the known US stealth tanker operation (~10–15 AIS-off tankers/night per CENTCOM).
+- **Windward (Oct 21)**: 14 total vessel crossings reported — 9 inbound, 5 outbound, including 2 dark (AIS-off) inbound. AIS-visible outbound crude subset estimated at ~3–5 vessels of the 5 outbound total.
+- **LNG (October to date)**: 5 outbound LNG carriers tracked per tanker monitoring (via web search). Represents a modest increase from August (2) and improvement vs. June (9) peak but still far below pre-crisis baseline. Qatar Force Majeure status assumed unchanged. JKM prices remain elevated.
+- **Amara seizure — Day 72 (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody; no release reported.
+- **Diplomatic track**: Trump–Witkoff–Pezeshkian channel remains active. Iran's Sep 22 7-day reopening offer window lapsed Sep 28–29 without a US–Iran framework agreement. No public breakthrough confirmed.
+- **Attack context**: Oct 12 crude oil tanker struck per UKMTO during outbound transit (per tanker tracker via web search). ≥18 attacks logged since Oct 1 as of Oct 21 reporting. Oct 14 container ship sinking by mine (unconfirmed) and Maersk transit suspension remain the most significant escalations. No new confirmed escalation or de-escalation signals accessible.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10–20M bbl/day per CENTCOM/US government). Consistent with Kpler's 14M bbl/day estimate for week ending Oct 18. NOT reflected in AIS-visible counts above.
+- **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
+- **Brent crude**: ~$99–125/bbl range (carry-forward; Goldman Sachs >$100 forecast holds). Kpler's 82% throughput recovery, if sustained, may ease upward price pressure in Q4.
+- **Sources**: [Windward — Oct 21 vessel crossing data](https://insights.windward.ai/) · [Wikipedia — 2026 Strait of Hormuz crisis (Kpler/Oct 18 data)](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [Tanker tracker — October LNG counts](https://tankermap.com/analytics/straits/hormuz) · [WTO Tracker insights June 2026](https://datalab.wto.org/sites/default/files/2026-06/Hormuz%20Tracker%20insights_15%20June%202026%20(1).pdf) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
+
+---
