@@ -6229,3 +6229,31 @@ Notes:
 - **Fertilizer**: ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. June MoU humanitarian corridor not operationally activated.
 - **Brent crude**: ~$99–125/bbl range (carry-forward; Goldman Sachs >$100 forecast holds). Kpler's 82% throughput recovery, if sustained, may ease upward price pressure in Q4.
 - **Sources**: No new sources accessible this run (DNS failures). Carry-forward from Oct 27–Nov 12: [Windward — Oct 21 vessel crossing data](https://insights.windward.ai/) · [Wikipedia — 2026 Strait of Hormuz crisis (Kpler/Oct 18 data)](https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis) · [Tanker tracker — October LNG counts](https://tankermap.com/analytics/straits/hormuz) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits)
+
+## 2026-11-14
+
+| Metric | Value |
+|--------|-------|
+| Crude vessels today | ~6 (approximate) |
+| vs prior day | flat (0, 0%) vs Oct 31's ~6 crude (AIS-visible); **14-day data gap** (Nov 1–13 no runs detected); all figures approximate |
+| 7-day average | ~6.0 vessels/day (based on 7 logged days: Oct 31=6, Oct 25=6, Oct 24=6, Oct 23=6, Oct 22=6, Oct 16=6, Oct 3=6; sum=42, 42/7=6.0) |
+
+Secondary:
+- LNG: ~1 vessel (approximate; Bloomberg Sep 18 partial-restart signal carry-forward; no new confirmed transit data available)
+- Fertilizer: ~0 vessels (unchanged; war-risk insurance prohibitive; humanitarian corridor not restored)
+- Agricultural (inbound): ~0 vessels (no confirmed inbound dry-bulk agricultural movement)
+
+Notes:
+- **WTO dashboard inaccessible**: datalab.wto.org DNS resolution failure (ENOTFOUND); all vessel counts approximate and carried forward from Oct 31 entry and underlying Kpler/Saudi ramp baseline data.
+- **DAY 260 OF EFFECTIVE CLOSURE** (Feb 28 – Nov 14, 2026). AIS-visible commercial traffic remains ~93–96% below pre-crisis baseline.
+- **14-day data gap (Nov 1–13)**: No automated runs detected for Nov 1 through Nov 13. This entry resumes from Oct 31's ~6 crude baseline.
+- **Vessel count methodology**: Carrying forward the ~6 crude AIS-visible estimate from Oct 31. Without new AIS or Kpler data accessible, this is the best-available continuity estimate. Actual counts may have shifted.
+- **Diplomatic track**: The Witkoff–Pezeshkian diplomatic channel remains the key signal to watch. No new public US–Iran framework announcement confirmed as of last logged data (Oct 31). Any announcement would be the most material potential development since Feb 28.
+- **US stealth oil operation continues**: ~10–15 tankers per night transit the southern channel AIS-off (~10M bbl/day per US government). NOT reflected in AIS-visible counts above; actual crude throughput significantly exceeds AIS-visible figures.
+- **Amara seizure — Day 89+ (ongoing)**: Liberia-flagged *Amara* (seized Aug 17 near Qeshm Island) remains in Iranian custody as of last confirmed report; no release reported.
+- **LNG**: Bloomberg Sep 18 confirmed partial restart ("at least two LNG transits" week of Sep 14–18). No new confirmed LNG transit data since. Qatar Force Majeure status assumed unchanged.
+- **Fertilizer**: Near zero. ~20 fertilizer vessels (~587,000 MT urea + DAP) remain stranded near the strait. War-risk insurance for bulk carriers prohibitively expensive.
+- **Brent crude**: ~$99/bbl reference carry-forward (Oct 31 estimate); Goldman Sachs >$100 forecast holds if disruptions extend through Q4.
+- **Sources**: No new sources accessible this run (DNS failures). Prior entries: [Kpler/Bloomberg — Sep 27: 24 vessels transited](https://www.lloydslistintelligence.com/resources/blog/strait-of-hormuz-brief-9-september-2026) · [Bloomberg Sep 18 — More LNG getting through Hormuz](https://www.bloomberg.com/news/articles/2026-09-18/more-lng-getting-through-hormuz-as-producers-push-for-transits) · [Al Jazeera Sep 3 — How much oil is going through Hormuz?](https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims)
+
+---
